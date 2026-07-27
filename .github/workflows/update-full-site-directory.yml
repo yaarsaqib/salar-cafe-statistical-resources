@@ -1,0 +1,41 @@
+name: Update full website directory
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update-full-site-directory.yml'
+      - 'scripts/build_full_site_index.py'
+  workflow_dispatch:
+  schedule:
+    - cron: '17 2 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  build-directory:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build complete site directory
+        run: python scripts/build_full_site_index.py
+
+      - name: Commit refreshed directory
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add FULL-WEBSITE-DIRECTORY.md data/all-public-urls.csv data/all-public-urls.json
+          if git diff --cached --quiet; then
+            echo 'No directory changes.'
+          else
+            git commit -m 'Refresh complete Salar Cafe website directory [skip ci]'
+            git push
+          fi
