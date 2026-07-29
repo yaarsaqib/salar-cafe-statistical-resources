@@ -32,6 +32,7 @@ The materials are suitable for students, instructors, analysts, researchers, and
 | Correlation heatmap | [Correlation-matrix visualization resource](resources/correlation-heatmap/) | [Correlation heatmap interpretation guide](https://onlineinternetcafe.com/correlation-heatmap/) |
 | Dice counter | [Probability and roll-frequency resource](resources/dice-counter/) | [Free online dice counter](https://onlineinternetcafe.com/dice-counter/) |
 | Kendall’s tau-b | [Tie-corrected ordinal-association resource](resources/kendalls-tau-b/) | [Kendall’s tau-b formula and interpretation](https://onlineinternetcafe.com/kendalls-tau-b/) |
+| Wald–Wolfowitz runs test | [Two-sample runs-test resource, code and data](resources/wald-wolfowitz-runs-test/) | [Wald Wolfowitz runs test formula and worked example](https://onlineinternetcafe.com/wald-wolfowitz-runs-test-7-essential-steps-formula-and-worked-example/) |
 
 ## How to use the materials
 
@@ -85,6 +86,10 @@ MANCOVA evaluates several related outcomes while adjusting for covariates. The i
 
 Kendall’s tau-b measures ordinal association and explicitly corrects for ties. A correlation heatmap is a visualization rather than a statistical test; its validity depends on the correlation method used to produce the matrix and on clear, non-misleading design choices.
 
+### Nonparametric distribution comparison
+
+The Wald–Wolfowitz resource distinguishes the two-sample equality-of-distributions test from a one-sample randomness test. It includes a tie-free exact distribution, a large-sample calculation, a reproducible Python implementation, and explicit guidance on cross-group ties.
+
 ### Probability learning
 
 The Dice Counter provides a direct way to record outcomes and compare observed relative frequencies with theoretical probabilities. It is useful for classroom experiments, simulations, and game-session tracking.
@@ -134,7 +139,8 @@ resources/
 ├── three-way-anova/
 ├── correlation-heatmap/
 ├── dice-counter/
-└── kendalls-tau-b/
+├── kendalls-tau-b/
+└── wald-wolfowitz-runs-test/
 ```
 
 ## About the practice data
