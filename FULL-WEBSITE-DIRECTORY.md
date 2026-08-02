@@ -1,7 +1,7 @@
 # Complete Salar Cafe Website Directory
 
-**Public URLs cataloged: 2,751**  
-**Generated automatically: 2026-08-01T05:37:24+00:00**
+**Public URLs cataloged: 2,584**  
+**Generated automatically: 2026-08-02T05:38:19+00:00**
 
 This directory is generated from the public XML sitemap families of [Salar Cafe](https://onlineinternetcafe.com/). It is designed to cover the complete indexable website rather than a small hand-selected group of pages. New public URLs are added automatically when the website sitemap is refreshed.
 
@@ -10,8 +10,6 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [https://onlineinternetcafe.com/calculator-sitemap.xml](https://onlineinternetcafe.com/calculator-sitemap.xml)
 - [https://onlineinternetcafe.com/category-sitemap.xml](https://onlineinternetcafe.com/category-sitemap.xml)
 - [https://onlineinternetcafe.com/page-sitemap1.xml](https://onlineinternetcafe.com/page-sitemap1.xml)
-- [https://onlineinternetcafe.com/page-sitemap10.xml](https://onlineinternetcafe.com/page-sitemap10.xml)
-- [https://onlineinternetcafe.com/page-sitemap11.xml](https://onlineinternetcafe.com/page-sitemap11.xml)
 - [https://onlineinternetcafe.com/page-sitemap2.xml](https://onlineinternetcafe.com/page-sitemap2.xml)
 - [https://onlineinternetcafe.com/page-sitemap3.xml](https://onlineinternetcafe.com/page-sitemap3.xml)
 - [https://onlineinternetcafe.com/page-sitemap4.xml](https://onlineinternetcafe.com/page-sitemap4.xml)
@@ -52,7 +50,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 | [AP Statistics learning resources](#ap-statistics-learning-resources) | 21 |
 | [Statistical calculators](#statistical-calculators) | 301 |
 | [AP score calculators](#ap-score-calculators) | 42 |
-| [General calculators and solvers](#general-calculators-and-solvers) | 1,761 |
+| [General calculators and solvers](#general-calculators-and-solvers) | 1,594 |
 | [Public archive pages](#public-archive-pages) | 19 |
 | [Other Salar Cafe resources](#other-salar-cafe-resources) | 275 |
 
@@ -135,7 +133,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [T Test For Difference Between Paired Means](https://onlineinternetcafe.com/t-test-for-difference-between-paired-means/) — last modified 2026-07-26T11:36:17+00:00
 - [T Test For Equal Variances](https://onlineinternetcafe.com/t-test-for-equal-variances/) — last modified 2026-06-24T14:34:26+00:00
 - [T Test For Unequal Variances](https://onlineinternetcafe.com/t-test-for-unequal-variances/) — last modified 2026-06-24T14:55:52+00:00
-- [T Test Help](https://onlineinternetcafe.com/t-test-help/) — last modified 2026-07-27T15:46:19+00:00
+- [T Test Help](https://onlineinternetcafe.com/t-test-help/) — last modified 2026-08-01T13:06:12+00:00
 - [T Test In Excel](https://onlineinternetcafe.com/t-test-in-excel/) — last modified 2026-07-26T10:34:39+00:00
 - [T Test In Python](https://onlineinternetcafe.com/t-test-in-python/) — last modified 2026-07-26T10:34:38+00:00
 - [T Test In R](https://onlineinternetcafe.com/t-test-in-r/) — last modified 2026-07-26T10:34:40+00:00
@@ -192,7 +190,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [ANOVA Assumptions](https://onlineinternetcafe.com/anova-assumptions/) — last modified 2026-07-27T17:00:42+00:00
 - [ANOVA Effect Size](https://onlineinternetcafe.com/anova-effect-size/) — last modified 2026-07-27T17:00:43+00:00
 - [ANOVA Family](https://onlineinternetcafe.com/category/anova-family/) — last modified 2026-07-27T17:00:58+00:00
-- [ANOVA Help](https://onlineinternetcafe.com/anova-help/) — last modified 2026-07-27T15:46:18+00:00
+- [ANOVA Help](https://onlineinternetcafe.com/anova-help/) — last modified 2026-08-01T13:04:23+00:00
 - [ANOVA In Python](https://onlineinternetcafe.com/anova-in-python/) — last modified 2026-07-27T17:00:44+00:00
 - [ANOVA In R](https://onlineinternetcafe.com/anova-in-r/) — last modified 2026-07-27T17:00:45+00:00
 - [ANOVA In SPSS](https://onlineinternetcafe.com/anova-in-spss/) — last modified 2026-07-27T17:00:46+00:00
@@ -293,7 +291,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Quasi Poisson Regression](https://onlineinternetcafe.com/quasi-poisson-regression/) — last modified 2026-07-26T11:16:06+00:00
 - [R Squared](https://onlineinternetcafe.com/r-squared/) — last modified 2026-07-26T11:16:06+00:00
 - [Random Effects Regression](https://onlineinternetcafe.com/random-effects-regression/) — last modified 2026-07-26T11:16:07+00:00
-- [Regression Analysis Help](https://onlineinternetcafe.com/regression-analysis-help/) — last modified 2026-07-27T15:46:18+00:00
+- [Regression Analysis Help](https://onlineinternetcafe.com/regression-analysis-help/) — last modified 2026-08-01T13:03:25+00:00
 - [Regression ANOVA Table](https://onlineinternetcafe.com/regression-anova-table/) — last modified 2026-07-17T06:25:37+00:00
 - [Regression Assumptions](https://onlineinternetcafe.com/regression-assumptions/) — last modified 2026-07-26T11:16:07+00:00
 - [Regression Tests And Models](https://onlineinternetcafe.com/category/regression-tests-and-models/) — last modified 2026-07-26T11:19:00+00:00
@@ -444,307 +442,307 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 
 ## Statistical calculators
 
-- [Adjusted R Squared Calculator Calculator](https://onlineinternetcafe.com/statistical-calculators/adjusted-r-squared-calculator-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Akaike Information Criterion Calculator](https://onlineinternetcafe.com/statistical-calculators/akaike-information-criterion-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [ANCOVA Calculator](https://onlineinternetcafe.com/statistical-calculators/ancova-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Anderson Darling Calculator](https://onlineinternetcafe.com/statistical-calculators/anderson-darling-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [ANOVA Calculator](https://onlineinternetcafe.com/statistical-calculators/anova-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Ansari Bradley Scale Test Calculator](https://onlineinternetcafe.com/statistical-calculators/ansari-bradley-scale-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Attack Rate Calculator](https://onlineinternetcafe.com/statistical-calculators/attack-rate-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Attributable Fraction Exposed Calculator](https://onlineinternetcafe.com/statistical-calculators/attributable-fraction-exposed-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Attributable Risk Calculator](https://onlineinternetcafe.com/statistical-calculators/attributable-risk-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Autocorrelation Calculator](https://onlineinternetcafe.com/statistical-calculators/autocorrelation-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Average Variance Extracted Calculator](https://onlineinternetcafe.com/statistical-calculators/average-variance-extracted-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Barnard Exact Test Calculator](https://onlineinternetcafe.com/statistical-calculators/barnard-exact-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Bartlett Test Calculator](https://onlineinternetcafe.com/statistical-calculators/bartlett-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Bartlett Test Of Sphericity Calculator](https://onlineinternetcafe.com/statistical-calculators/bartlett-test-of-sphericity-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Bayesian Information Criterion Calculator](https://onlineinternetcafe.com/statistical-calculators/bayesian-information-criterion-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Beta Binomial Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/beta-binomial-distribution-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Beta Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/beta-distribution-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Binary Brier Score Calculator](https://onlineinternetcafe.com/statistical-calculators/binary-brier-score-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Binary Concordance Index Calculator](https://onlineinternetcafe.com/statistical-calculators/binary-concordance-index-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Binomial Probability Calculator](https://onlineinternetcafe.com/statistical-calculators/binomial-probability-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Bland Altman Limits Calculator](https://onlineinternetcafe.com/statistical-calculators/bland-altman-limits-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Bonferroni Pairwise Calculator](https://onlineinternetcafe.com/statistical-calculators/bonferroni-pairwise-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Boschloo Exact Test Calculator](https://onlineinternetcafe.com/statistical-calculators/boschloo-exact-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Bowker Symmetry Calculator](https://onlineinternetcafe.com/statistical-calculators/bowker-symmetry-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Box M Test Calculator](https://onlineinternetcafe.com/statistical-calculators/box-m-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Box Pierce Calculator](https://onlineinternetcafe.com/statistical-calculators/box-pierce-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Brennan Prediger Agreement Calculator](https://onlineinternetcafe.com/statistical-calculators/brennan-prediger-agreement-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Breslow Day Homogeneity Test Calculator](https://onlineinternetcafe.com/statistical-calculators/breslow-day-homogeneity-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Brown Forsythe ANOVA Calculator](https://onlineinternetcafe.com/statistical-calculators/brown-forsythe-anova-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Brown Forsythe Test Calculator](https://onlineinternetcafe.com/statistical-calculators/brown-forsythe-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Brunner Munzel Calculator](https://onlineinternetcafe.com/statistical-calculators/brunner-munzel-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Canonical Correlation Calculator](https://onlineinternetcafe.com/statistical-calculators/canonical-correlation-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Case Fatality Rate Calculator](https://onlineinternetcafe.com/statistical-calculators/case-fatality-rate-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Chi Square Calculator](https://onlineinternetcafe.com/statistical-calculators/chi-square-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Chi Square Critical Value Calculator](https://onlineinternetcafe.com/statistical-calculators/chi-square-critical-value-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Chi Square Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/chi-square-distribution-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Chi Square Goodness Of Fit Calculator](https://onlineinternetcafe.com/statistical-calculators/chi-square-goodness-of-fit-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Chi Square Homogeneity Calculator](https://onlineinternetcafe.com/statistical-calculators/chi-square-homogeneity-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Ci Mean Known Sigma Calculator](https://onlineinternetcafe.com/statistical-calculators/ci-mean-known-sigma-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Ci Mean Unknown Sigma Calculator](https://onlineinternetcafe.com/statistical-calculators/ci-mean-unknown-sigma-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Ci Population Proportion Calculator](https://onlineinternetcafe.com/statistical-calculators/ci-population-proportion-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Clopper Pearson Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/clopper-pearson-interval-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Cochran Mantel Haenszel Test Calculator](https://onlineinternetcafe.com/statistical-calculators/cochran-mantel-haenszel-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Cochran Q Calculator](https://onlineinternetcafe.com/statistical-calculators/cochran-q-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Coefficient Of Variation Calculator](https://onlineinternetcafe.com/statistical-calculators/coefficient-of-variation-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Cohen D Independent Calculator](https://onlineinternetcafe.com/statistical-calculators/cohen-d-independent-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Cohen D One Sample Calculator](https://onlineinternetcafe.com/statistical-calculators/cohen-d-one-sample-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Cohen F Calculator](https://onlineinternetcafe.com/statistical-calculators/cohen-f-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Cohen H Calculator](https://onlineinternetcafe.com/statistical-calculators/cohen-h-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Cohen Kappa Calculator](https://onlineinternetcafe.com/statistical-calculators/cohen-kappa-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Comparison Coefficients Variation Calculator](https://onlineinternetcafe.com/statistical-calculators/comparison-coefficients-variation-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Comparison Correlations Calculator](https://onlineinternetcafe.com/statistical-calculators/comparison-correlations-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Comparison Two Rates Calculator](https://onlineinternetcafe.com/statistical-calculators/comparison-two-rates-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Composite Reliability Calculator](https://onlineinternetcafe.com/statistical-calculators/composite-reliability-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Confidence Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/confidence-interval-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Conover Post Hoc Test Calculator](https://onlineinternetcafe.com/statistical-calculators/conover-post-hoc-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Content Validity Index Calculator](https://onlineinternetcafe.com/statistical-calculators/content-validity-index-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Content Validity Ratio Calculator](https://onlineinternetcafe.com/statistical-calculators/content-validity-ratio-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Continuous Uniform Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/continuous-uniform-distribution-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Cook’s Distance Calculator](https://onlineinternetcafe.com/statistical-calculators/cooks-distance-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Corrected Aic Calculator](https://onlineinternetcafe.com/statistical-calculators/corrected-aic-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Corrected Item Total Correlation Calculator](https://onlineinternetcafe.com/statistical-calculators/corrected-item-total-correlation-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Correlation Confidence Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/correlation-confidence-interval-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Correlation Power Calculator](https://onlineinternetcafe.com/statistical-calculators/correlation-power-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Cox Proportional Hazards Calculator](https://onlineinternetcafe.com/statistical-calculators/cox-proportional-hazards-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Cramers V Calculator](https://onlineinternetcafe.com/statistical-calculators/cramers-v-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Cronbach Alpha Calculator](https://onlineinternetcafe.com/statistical-calculators/cronbach-alpha-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Cronbach Alpha Confidence Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/cronbach-alpha-confidence-interval-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Dagostino Pearson Calculator](https://onlineinternetcafe.com/statistical-calculators/dagostino-pearson-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Delong Paired Auc Comparison Calculator](https://onlineinternetcafe.com/statistical-calculators/delong-paired-auc-comparison-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Deming Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/deming-regression-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Dependability Index Calculator](https://onlineinternetcafe.com/statistical-calculators/dependability-index-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Diagnostic Likelihood Ratios Calculator](https://onlineinternetcafe.com/statistical-calculators/diagnostic-likelihood-ratios-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Diagnostic Odds Ratio Calculator](https://onlineinternetcafe.com/statistical-calculators/diagnostic-odds-ratio-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Discrete Uniform Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/discrete-uniform-distribution-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Dunn Test Calculator](https://onlineinternetcafe.com/statistical-calculators/dunn-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Dunnett Test Calculator](https://onlineinternetcafe.com/statistical-calculators/dunnett-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Durbin Watson Calculator](https://onlineinternetcafe.com/statistical-calculators/durbin-watson-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Egger Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/egger-regression-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Epsilon Squared Calculator](https://onlineinternetcafe.com/statistical-calculators/epsilon-squared-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Eta Squared Calculator](https://onlineinternetcafe.com/statistical-calculators/eta-squared-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Exact Binomial Test Calculator](https://onlineinternetcafe.com/statistical-calculators/exact-binomial-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Excel Statistical Calculator](https://onlineinternetcafe.com/statistical-calculators/excel-statistical-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Exploratory Factor Analysis Calculator](https://onlineinternetcafe.com/statistical-calculators/exploratory-factor-analysis-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Exponential Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/exponential-distribution-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [F Critical Value Calculator](https://onlineinternetcafe.com/statistical-calculators/f-critical-value-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [F Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/f-distribution-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [F Test Two Variances Calculator](https://onlineinternetcafe.com/statistical-calculators/f-test-two-variances-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Fisher Exact 2x2 Calculator](https://onlineinternetcafe.com/statistical-calculators/fisher-exact-2x2-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Fisher Freeman Halton 2 3 Test Calculator](https://onlineinternetcafe.com/statistical-calculators/fisher-freeman-halton-2-3-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Fisher Lsd Calculator](https://onlineinternetcafe.com/statistical-calculators/fisher-lsd-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Five Number Summary Calculator](https://onlineinternetcafe.com/statistical-calculators/five-number-summary-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Fixed Effect Meta Analysis Calculator](https://onlineinternetcafe.com/statistical-calculators/fixed-effect-meta-analysis-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Fleiss Kappa Calculator](https://onlineinternetcafe.com/statistical-calculators/fleiss-kappa-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Fligner Killeen Calculator](https://onlineinternetcafe.com/statistical-calculators/fligner-killeen-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Friedman Test Calculator](https://onlineinternetcafe.com/statistical-calculators/friedman-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [G Test Independence Calculator](https://onlineinternetcafe.com/statistical-calculators/g-test-independence-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Games Howell Calculator](https://onlineinternetcafe.com/statistical-calculators/games-howell-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Gamma Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/gamma-distribution-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Generalizability Coefficient Calculator](https://onlineinternetcafe.com/statistical-calculators/generalizability-coefficient-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Geometric Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/geometric-distribution-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Glass Delta Calculator](https://onlineinternetcafe.com/statistical-calculators/glass-delta-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Guttman Lambda6 Calculator](https://onlineinternetcafe.com/statistical-calculators/guttman-lambda6-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Gwet Ac1 Agreement Calculator](https://onlineinternetcafe.com/statistical-calculators/gwet-ac1-agreement-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Hat Leverage Calculator](https://onlineinternetcafe.com/statistical-calculators/hat-leverage-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Hazard Ratio Confidence Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/hazard-ratio-confidence-interval-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Hedges G Calculator](https://onlineinternetcafe.com/statistical-calculators/hedges-g-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Htmt Discriminant Validity Calculator](https://onlineinternetcafe.com/statistical-calculators/htmt-discriminant-validity-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Huber Robust Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/huber-robust-regression-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Hypergeometric Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/hypergeometric-distribution-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [ICC 1 1 Calculator](https://onlineinternetcafe.com/statistical-calculators/icc-1-1-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [ICC 1 K Average Measure Calculator](https://onlineinternetcafe.com/statistical-calculators/icc-1-k-average-measure-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [ICC 2 1 Calculator](https://onlineinternetcafe.com/statistical-calculators/icc-2-1-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [ICC 2 K Average Measure Calculator](https://onlineinternetcafe.com/statistical-calculators/icc-2-k-average-measure-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [ICC 3 1 Calculator](https://onlineinternetcafe.com/statistical-calculators/icc-3-1-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [ICC 3 K Average Measure Calculator](https://onlineinternetcafe.com/statistical-calculators/icc-3-k-average-measure-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Incidence Proportion Calculator](https://onlineinternetcafe.com/statistical-calculators/incidence-proportion-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Incidence Rate Calculator](https://onlineinternetcafe.com/statistical-calculators/incidence-rate-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Incidence Rate Ratio Calculator](https://onlineinternetcafe.com/statistical-calculators/incidence-rate-ratio-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Independent T Test Calculator](https://onlineinternetcafe.com/statistical-calculators/independent-t-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Interquartile Range Calculator](https://onlineinternetcafe.com/statistical-calculators/interquartile-range-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Item Total Correlation Calculator](https://onlineinternetcafe.com/statistical-calculators/item-total-correlation-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Jarque Bera Calculator](https://onlineinternetcafe.com/statistical-calculators/jarque-bera-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Jonckheere Terpstra Calculator](https://onlineinternetcafe.com/statistical-calculators/jonckheere-terpstra-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Kaplan Meier Calculator](https://onlineinternetcafe.com/statistical-calculators/kaplan-meier-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Kendall Tau Calculator](https://onlineinternetcafe.com/statistical-calculators/kendall-tau-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Kendall W Calculator](https://onlineinternetcafe.com/statistical-calculators/kendall-w-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Kmo Measure Calculator](https://onlineinternetcafe.com/statistical-calculators/kmo-measure-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Kolmogorov Smirnov Calculator](https://onlineinternetcafe.com/statistical-calculators/kolmogorov-smirnov-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Kr20 Calculator](https://onlineinternetcafe.com/statistical-calculators/kr20-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Kr21 Calculator](https://onlineinternetcafe.com/statistical-calculators/kr21-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Krippendorff Alpha Nominal Calculator](https://onlineinternetcafe.com/statistical-calculators/krippendorff-alpha-nominal-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Kruskal Wallis Calculator](https://onlineinternetcafe.com/statistical-calculators/kruskal-wallis-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Ks Normality Calculator](https://onlineinternetcafe.com/statistical-calculators/ks-normality-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Kurtosis Calculator](https://onlineinternetcafe.com/statistical-calculators/kurtosis-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Laplace Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/laplace-distribution-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Levene Test Calculator](https://onlineinternetcafe.com/statistical-calculators/levene-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Lin Concordance Calculator](https://onlineinternetcafe.com/statistical-calculators/lin-concordance-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Linear Discriminant Analysis Calculator](https://onlineinternetcafe.com/statistical-calculators/linear-discriminant-analysis-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Ljung Box Calculator](https://onlineinternetcafe.com/statistical-calculators/ljung-box-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Log Rank Sample Size Calculator](https://onlineinternetcafe.com/statistical-calculators/log-rank-sample-size-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Log Rank Test Calculator](https://onlineinternetcafe.com/statistical-calculators/log-rank-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Logistic Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/logistic-distribution-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Logistic Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/logistic-regression-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Lognormal Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/lognormal-distribution-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Mahalanobis Distance Calculator](https://onlineinternetcafe.com/statistical-calculators/mahalanobis-distance-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Mallows Cp Calculator](https://onlineinternetcafe.com/statistical-calculators/mallows-cp-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Mann Kendall Trend Calculator](https://onlineinternetcafe.com/statistical-calculators/mann-kendall-trend-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Mann Whitney U Calculator](https://onlineinternetcafe.com/statistical-calculators/mann-whitney-u-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [MANOVA Wilks Lambda Calculator](https://onlineinternetcafe.com/statistical-calculators/manova-wilks-lambda-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Mantel Haenszel Common Odds Ratio Calculator](https://onlineinternetcafe.com/statistical-calculators/mantel-haenszel-common-odds-ratio-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Margin Of Error Calculator](https://onlineinternetcafe.com/statistical-calculators/margin-of-error-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Mauchly Sphericity Calculator](https://onlineinternetcafe.com/statistical-calculators/mauchly-sphericity-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Mcdonald Omega Calculator](https://onlineinternetcafe.com/statistical-calculators/mcdonald-omega-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Mcnemar Test Calculator](https://onlineinternetcafe.com/statistical-calculators/mcnemar-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Mean Absolute Error Calculator](https://onlineinternetcafe.com/statistical-calculators/mean-absolute-error-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Mean Absolute Percentage Error Calculator](https://onlineinternetcafe.com/statistical-calculators/mean-absolute-percentage-error-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Mean Calculator](https://onlineinternetcafe.com/statistical-calculators/mean-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Mean Median Mode Calculator](https://onlineinternetcafe.com/statistical-calculators/mean-median-mode-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Median Calculator](https://onlineinternetcafe.com/statistical-calculators/median-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Median Quantile Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/median-quantile-regression-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Meta Analysis Heterogeneity Calculator](https://onlineinternetcafe.com/statistical-calculators/meta-analysis-heterogeneity-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Meta Analysis Prediction Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/meta-analysis-prediction-interval-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Meta Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/meta-regression-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Minimal Detectable Change Calculator](https://onlineinternetcafe.com/statistical-calculators/minimal-detectable-change-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Mode Calculator](https://onlineinternetcafe.com/statistical-calculators/mode-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Mood Median Calculator](https://onlineinternetcafe.com/statistical-calculators/mood-median-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Multinomial Probability Calculator](https://onlineinternetcafe.com/statistical-calculators/multinomial-probability-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Multiple Linear Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/multiple-linear-regression-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Negative Binomial Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/negative-binomial-distribution-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Negative Binomial Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/negative-binomial-regression-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Nelson Aalen Cumulative Hazard Calculator](https://onlineinternetcafe.com/statistical-calculators/nelson-aalen-cumulative-hazard-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Nemenyi Post Hoc Test Calculator](https://onlineinternetcafe.com/statistical-calculators/nemenyi-post-hoc-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Newcombe Difference Proportions Ci Calculator](https://onlineinternetcafe.com/statistical-calculators/newcombe-difference-proportions-ci-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Normal Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/normal-distribution-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Normal Quantile Calculator](https://onlineinternetcafe.com/statistical-calculators/normal-quantile-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Number Needed To Treat Calculator](https://onlineinternetcafe.com/statistical-calculators/number-needed-to-treat-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Odds Ratio 2x2 Calculator](https://onlineinternetcafe.com/statistical-calculators/odds-ratio-2x2-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Odds Ratio Confidence Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/odds-ratio-confidence-interval-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Omega Squared Calculator](https://onlineinternetcafe.com/statistical-calculators/omega-squared-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [One Proportion Z Test Calculator](https://onlineinternetcafe.com/statistical-calculators/one-proportion-z-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [One Sample Hotelling T Calculator](https://onlineinternetcafe.com/statistical-calculators/one-sample-hotelling-t-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [One Sample T Test Calculator](https://onlineinternetcafe.com/statistical-calculators/one-sample-t-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [One Sample Z Test Calculator](https://onlineinternetcafe.com/statistical-calculators/one-sample-z-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [P Value Calculator](https://onlineinternetcafe.com/statistical-calculators/p-value-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Page Trend Test Calculator](https://onlineinternetcafe.com/statistical-calculators/page-trend-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Paired Cohen Dz Calculator](https://onlineinternetcafe.com/statistical-calculators/paired-cohen-dz-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Paired T Test Calculator](https://onlineinternetcafe.com/statistical-calculators/paired-t-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Parallel Analysis Calculator](https://onlineinternetcafe.com/statistical-calculators/parallel-analysis-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Pareto Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/pareto-distribution-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Partial Correlation Calculator](https://onlineinternetcafe.com/statistical-calculators/partial-correlation-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Partial Eta Squared Calculator](https://onlineinternetcafe.com/statistical-calculators/partial-eta-squared-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Passing Bablok Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/passing-bablok-regression-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Pca Calculator](https://onlineinternetcafe.com/statistical-calculators/pca-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Pearson Correlation Calculator](https://onlineinternetcafe.com/statistical-calculators/pearson-correlation-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Percent Agreement Calculator](https://onlineinternetcafe.com/statistical-calculators/percent-agreement-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Percentile Rank Calculator](https://onlineinternetcafe.com/statistical-calculators/percentile-rank-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Permutation Paired Calculator](https://onlineinternetcafe.com/statistical-calculators/permutation-paired-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Permutation Two Sample Calculator](https://onlineinternetcafe.com/statistical-calculators/permutation-two-sample-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Phi Coefficient Calculator](https://onlineinternetcafe.com/statistical-calculators/phi-coefficient-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Point Biserial Calculator](https://onlineinternetcafe.com/statistical-calculators/point-biserial-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Poisson Probability Calculator](https://onlineinternetcafe.com/statistical-calculators/poisson-probability-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Poisson Rate Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/poisson-rate-interval-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Poisson Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/poisson-regression-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Polynomial Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/polynomial-regression-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Population Attributable Fraction Calculator](https://onlineinternetcafe.com/statistical-calculators/population-attributable-fraction-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Power ANOVA Calculator](https://onlineinternetcafe.com/statistical-calculators/power-anova-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Power Chi Square Calculator](https://onlineinternetcafe.com/statistical-calculators/power-chi-square-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Power T Test Calculator](https://onlineinternetcafe.com/statistical-calculators/power-t-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Predictive Values Calculator](https://onlineinternetcafe.com/statistical-calculators/predictive-values-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Press Statistic Calculator](https://onlineinternetcafe.com/statistical-calculators/press-statistic-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Prevalence Calculator](https://onlineinternetcafe.com/statistical-calculators/prevalence-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Probability Calculator](https://onlineinternetcafe.com/statistical-calculators/probability-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Probit Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/probit-regression-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Quade Test Calculator](https://onlineinternetcafe.com/statistical-calculators/quade-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Quartiles Calculator](https://onlineinternetcafe.com/statistical-calculators/quartiles-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [R Squared Calculator Calculator](https://onlineinternetcafe.com/statistical-calculators/r-squared-calculator-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Random Effects Meta Analysis Calculator](https://onlineinternetcafe.com/statistical-calculators/random-effects-meta-analysis-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Range Calculator](https://onlineinternetcafe.com/statistical-calculators/range-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Rate Confidence Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/rate-confidence-interval-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Rate Ratio Confidence Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/rate-ratio-confidence-interval-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Rayleigh Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/rayleigh-distribution-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Regression Coefficient Ci Calculator](https://onlineinternetcafe.com/statistical-calculators/regression-coefficient-ci-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Regression Tolerance Calculator](https://onlineinternetcafe.com/statistical-calculators/regression-tolerance-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Relative Risk 2x2 Calculator](https://onlineinternetcafe.com/statistical-calculators/relative-risk-2x2-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Repeated Measures ANOVA Calculator](https://onlineinternetcafe.com/statistical-calculators/repeated-measures-anova-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Residual Calculator Calculator](https://onlineinternetcafe.com/statistical-calculators/residual-calculator-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Restricted Mean Survival Time Calculator](https://onlineinternetcafe.com/statistical-calculators/restricted-mean-survival-time-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Ridge Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/ridge-regression-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Risk Difference 2x2 Calculator](https://onlineinternetcafe.com/statistical-calculators/risk-difference-2x2-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Roc Auc Calculator](https://onlineinternetcafe.com/statistical-calculators/roc-auc-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Roc Auc Confidence Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/roc-auc-confidence-interval-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Root Mean Squared Error Calculator](https://onlineinternetcafe.com/statistical-calculators/root-mean-squared-error-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Runs Test Calculator](https://onlineinternetcafe.com/statistical-calculators/runs-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Ryan Einot Gabriel Welsch Calculator](https://onlineinternetcafe.com/statistical-calculators/ryan-einot-gabriel-welsch-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Sample Size Correlation Calculator](https://onlineinternetcafe.com/statistical-calculators/sample-size-correlation-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Sample Size Mean Calculator](https://onlineinternetcafe.com/statistical-calculators/sample-size-mean-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Sample Size Proportion Calculator](https://onlineinternetcafe.com/statistical-calculators/sample-size-proportion-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Sample Size Two Means Calculator](https://onlineinternetcafe.com/statistical-calculators/sample-size-two-means-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Sample Size Two Proportions Calculator](https://onlineinternetcafe.com/statistical-calculators/sample-size-two-proportions-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Savage Scores Test Calculator](https://onlineinternetcafe.com/statistical-calculators/savage-scores-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Scheffe Test Calculator](https://onlineinternetcafe.com/statistical-calculators/scheffe-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Scott Pi Agreement Calculator](https://onlineinternetcafe.com/statistical-calculators/scott-pi-agreement-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Sen Slope Calculator](https://onlineinternetcafe.com/statistical-calculators/sen-slope-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Sensitivity Specificity Calculator](https://onlineinternetcafe.com/statistical-calculators/sensitivity-specificity-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Shapiro Wilk Calculator](https://onlineinternetcafe.com/statistical-calculators/shapiro-wilk-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Siegel Tukey Calculator](https://onlineinternetcafe.com/statistical-calculators/siegel-tukey-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Sign Test Calculator](https://onlineinternetcafe.com/statistical-calculators/sign-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Simple Linear Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/simple-linear-regression-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Skewness Calculator](https://onlineinternetcafe.com/statistical-calculators/skewness-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Spearman Brown Prophecy Calculator](https://onlineinternetcafe.com/statistical-calculators/spearman-brown-prophecy-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Spearman Correlation Calculator](https://onlineinternetcafe.com/statistical-calculators/spearman-correlation-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Split Half Reliability Calculator](https://onlineinternetcafe.com/statistical-calculators/split-half-reliability-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Standard Deviation Calculator](https://onlineinternetcafe.com/statistical-calculators/standard-deviation-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Standard Deviation Confidence Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/standard-deviation-confidence-interval-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Standard Error Calculator](https://onlineinternetcafe.com/statistical-calculators/standard-error-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Standard Error Measurement Calculator](https://onlineinternetcafe.com/statistical-calculators/standard-error-measurement-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Standard Normal Probability Calculator](https://onlineinternetcafe.com/statistical-calculators/standard-normal-probability-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Standardized Mortality Ratio Calculator](https://onlineinternetcafe.com/statistical-calculators/standardized-mortality-ratio-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Standardized Regression Beta Calculator](https://onlineinternetcafe.com/statistical-calculators/standardized-regression-beta-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Standardized Test Statistic Calculator](https://onlineinternetcafe.com/statistical-calculators/standardized-test-statistic-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Statistical Calculators Library](https://onlineinternetcafe.com/statistical-calculators/) — last modified 2026-07-31T20:50:57+00:00
-- [Statistical Power Calculator](https://onlineinternetcafe.com/statistical-calculators/statistical-power-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Statistical Sample Size Calculator](https://onlineinternetcafe.com/statistical-calculators/statistical-sample-size-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Statistical Significance Calculator](https://onlineinternetcafe.com/statistical-calculators/statistical-significance-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Statistics Summary Calculator](https://onlineinternetcafe.com/statistical-calculators/statistics-summary-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Steel Dwass Pairwise Test Calculator](https://onlineinternetcafe.com/statistical-calculators/steel-dwass-pairwise-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Student Newman Keuls Calculator](https://onlineinternetcafe.com/statistical-calculators/student-newman-keuls-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Symmetric Mape Calculator](https://onlineinternetcafe.com/statistical-calculators/symmetric-mape-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [T Critical Value Calculator](https://onlineinternetcafe.com/statistical-calculators/t-critical-value-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [T Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/t-distribution-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Tamhane T2 Calculator](https://onlineinternetcafe.com/statistical-calculators/tamhane-t2-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Test Retest Reliability Calculator](https://onlineinternetcafe.com/statistical-calculators/test-retest-reliability-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Test Statistic Calculator](https://onlineinternetcafe.com/statistical-calculators/test-statistic-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Theil Sen Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/theil-sen-regression-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Triangular Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/triangular-distribution-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Truncated Normal Probability Calculator](https://onlineinternetcafe.com/statistical-calculators/truncated-normal-probability-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Tukey Hsd Calculator](https://onlineinternetcafe.com/statistical-calculators/tukey-hsd-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Tukey Kramer Calculator](https://onlineinternetcafe.com/statistical-calculators/tukey-kramer-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Two Proportion Z Test Calculator](https://onlineinternetcafe.com/statistical-calculators/two-proportion-z-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Two Sample Hotelling T Calculator](https://onlineinternetcafe.com/statistical-calculators/two-sample-hotelling-t-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Two Sample Z Test Calculator](https://onlineinternetcafe.com/statistical-calculators/two-sample-z-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Two Way ANOVA With Replication Calculator](https://onlineinternetcafe.com/statistical-calculators/two-way-anova-with-replication-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Two Way ANOVA Without Replication Calculator](https://onlineinternetcafe.com/statistical-calculators/two-way-anova-without-replication-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Vaccine Effectiveness Calculator](https://onlineinternetcafe.com/statistical-calculators/vaccine-effectiveness-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Van Der Waerden Calculator](https://onlineinternetcafe.com/statistical-calculators/van-der-waerden-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Variance Calculator](https://onlineinternetcafe.com/statistical-calculators/variance-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Variance Inflation Factor Calculator](https://onlineinternetcafe.com/statistical-calculators/variance-inflation-factor-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Wald Wolfowitz Calculator](https://onlineinternetcafe.com/statistical-calculators/wald-wolfowitz-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Waller Duncan Calculator](https://onlineinternetcafe.com/statistical-calculators/waller-duncan-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Weibull Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/weibull-distribution-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Weighted Kappa Calculator](https://onlineinternetcafe.com/statistical-calculators/weighted-kappa-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Weighted Least Squares Calculator](https://onlineinternetcafe.com/statistical-calculators/weighted-least-squares-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Weighted Mean Calculator](https://onlineinternetcafe.com/statistical-calculators/weighted-mean-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Welch ANOVA Calculator](https://onlineinternetcafe.com/statistical-calculators/welch-anova-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Welch T Test Calculator](https://onlineinternetcafe.com/statistical-calculators/welch-t-test-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Wilcoxon Signed Rank Calculator](https://onlineinternetcafe.com/statistical-calculators/wilcoxon-signed-rank-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Wilson Binomial Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/wilson-binomial-interval-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Z Score Calculator](https://onlineinternetcafe.com/statistical-calculators/z-score-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Z Test Statistic Calculator](https://onlineinternetcafe.com/statistical-calculators/z-test-statistic-calculator/) — last modified 2026-07-31T20:50:57+00:00
-- [Zero Inflated Poisson Calculator](https://onlineinternetcafe.com/statistical-calculators/zero-inflated-poisson-calculator/) — last modified 2026-07-31T20:50:57+00:00
+- [Adjusted R Squared Calculator Calculator](https://onlineinternetcafe.com/statistical-calculators/adjusted-r-squared-calculator-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Akaike Information Criterion Calculator](https://onlineinternetcafe.com/statistical-calculators/akaike-information-criterion-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [ANCOVA Calculator](https://onlineinternetcafe.com/statistical-calculators/ancova-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Anderson Darling Calculator](https://onlineinternetcafe.com/statistical-calculators/anderson-darling-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [ANOVA Calculator](https://onlineinternetcafe.com/statistical-calculators/anova-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Ansari Bradley Scale Test Calculator](https://onlineinternetcafe.com/statistical-calculators/ansari-bradley-scale-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Attack Rate Calculator](https://onlineinternetcafe.com/statistical-calculators/attack-rate-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Attributable Fraction Exposed Calculator](https://onlineinternetcafe.com/statistical-calculators/attributable-fraction-exposed-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Attributable Risk Calculator](https://onlineinternetcafe.com/statistical-calculators/attributable-risk-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Autocorrelation Calculator](https://onlineinternetcafe.com/statistical-calculators/autocorrelation-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Average Variance Extracted Calculator](https://onlineinternetcafe.com/statistical-calculators/average-variance-extracted-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Barnard Exact Test Calculator](https://onlineinternetcafe.com/statistical-calculators/barnard-exact-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Bartlett Test Calculator](https://onlineinternetcafe.com/statistical-calculators/bartlett-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Bartlett Test Of Sphericity Calculator](https://onlineinternetcafe.com/statistical-calculators/bartlett-test-of-sphericity-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Bayesian Information Criterion Calculator](https://onlineinternetcafe.com/statistical-calculators/bayesian-information-criterion-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Beta Binomial Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/beta-binomial-distribution-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Beta Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/beta-distribution-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Binary Brier Score Calculator](https://onlineinternetcafe.com/statistical-calculators/binary-brier-score-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Binary Concordance Index Calculator](https://onlineinternetcafe.com/statistical-calculators/binary-concordance-index-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Binomial Probability Calculator](https://onlineinternetcafe.com/statistical-calculators/binomial-probability-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Bland Altman Limits Calculator](https://onlineinternetcafe.com/statistical-calculators/bland-altman-limits-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Bonferroni Pairwise Calculator](https://onlineinternetcafe.com/statistical-calculators/bonferroni-pairwise-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Boschloo Exact Test Calculator](https://onlineinternetcafe.com/statistical-calculators/boschloo-exact-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Bowker Symmetry Calculator](https://onlineinternetcafe.com/statistical-calculators/bowker-symmetry-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Box M Test Calculator](https://onlineinternetcafe.com/statistical-calculators/box-m-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Box Pierce Calculator](https://onlineinternetcafe.com/statistical-calculators/box-pierce-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Brennan Prediger Agreement Calculator](https://onlineinternetcafe.com/statistical-calculators/brennan-prediger-agreement-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Breslow Day Homogeneity Test Calculator](https://onlineinternetcafe.com/statistical-calculators/breslow-day-homogeneity-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Brown Forsythe ANOVA Calculator](https://onlineinternetcafe.com/statistical-calculators/brown-forsythe-anova-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Brown Forsythe Test Calculator](https://onlineinternetcafe.com/statistical-calculators/brown-forsythe-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Brunner Munzel Calculator](https://onlineinternetcafe.com/statistical-calculators/brunner-munzel-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Canonical Correlation Calculator](https://onlineinternetcafe.com/statistical-calculators/canonical-correlation-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Case Fatality Rate Calculator](https://onlineinternetcafe.com/statistical-calculators/case-fatality-rate-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Chi Square Calculator](https://onlineinternetcafe.com/statistical-calculators/chi-square-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Chi Square Critical Value Calculator](https://onlineinternetcafe.com/statistical-calculators/chi-square-critical-value-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Chi Square Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/chi-square-distribution-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Chi Square Goodness Of Fit Calculator](https://onlineinternetcafe.com/statistical-calculators/chi-square-goodness-of-fit-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Chi Square Homogeneity Calculator](https://onlineinternetcafe.com/statistical-calculators/chi-square-homogeneity-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Ci Mean Known Sigma Calculator](https://onlineinternetcafe.com/statistical-calculators/ci-mean-known-sigma-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Ci Mean Unknown Sigma Calculator](https://onlineinternetcafe.com/statistical-calculators/ci-mean-unknown-sigma-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Ci Population Proportion Calculator](https://onlineinternetcafe.com/statistical-calculators/ci-population-proportion-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Clopper Pearson Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/clopper-pearson-interval-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Cochran Mantel Haenszel Test Calculator](https://onlineinternetcafe.com/statistical-calculators/cochran-mantel-haenszel-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Cochran Q Calculator](https://onlineinternetcafe.com/statistical-calculators/cochran-q-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Coefficient Of Variation Calculator](https://onlineinternetcafe.com/statistical-calculators/coefficient-of-variation-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Cohen D Independent Calculator](https://onlineinternetcafe.com/statistical-calculators/cohen-d-independent-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Cohen D One Sample Calculator](https://onlineinternetcafe.com/statistical-calculators/cohen-d-one-sample-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Cohen F Calculator](https://onlineinternetcafe.com/statistical-calculators/cohen-f-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Cohen H Calculator](https://onlineinternetcafe.com/statistical-calculators/cohen-h-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Cohen Kappa Calculator](https://onlineinternetcafe.com/statistical-calculators/cohen-kappa-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Comparison Coefficients Variation Calculator](https://onlineinternetcafe.com/statistical-calculators/comparison-coefficients-variation-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Comparison Correlations Calculator](https://onlineinternetcafe.com/statistical-calculators/comparison-correlations-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Comparison Two Rates Calculator](https://onlineinternetcafe.com/statistical-calculators/comparison-two-rates-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Composite Reliability Calculator](https://onlineinternetcafe.com/statistical-calculators/composite-reliability-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Confidence Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/confidence-interval-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Conover Post Hoc Test Calculator](https://onlineinternetcafe.com/statistical-calculators/conover-post-hoc-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Content Validity Index Calculator](https://onlineinternetcafe.com/statistical-calculators/content-validity-index-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Content Validity Ratio Calculator](https://onlineinternetcafe.com/statistical-calculators/content-validity-ratio-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Continuous Uniform Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/continuous-uniform-distribution-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Cook’s Distance Calculator](https://onlineinternetcafe.com/statistical-calculators/cooks-distance-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Corrected Aic Calculator](https://onlineinternetcafe.com/statistical-calculators/corrected-aic-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Corrected Item Total Correlation Calculator](https://onlineinternetcafe.com/statistical-calculators/corrected-item-total-correlation-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Correlation Confidence Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/correlation-confidence-interval-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Correlation Power Calculator](https://onlineinternetcafe.com/statistical-calculators/correlation-power-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Cox Proportional Hazards Calculator](https://onlineinternetcafe.com/statistical-calculators/cox-proportional-hazards-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Cramers V Calculator](https://onlineinternetcafe.com/statistical-calculators/cramers-v-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Cronbach Alpha Calculator](https://onlineinternetcafe.com/statistical-calculators/cronbach-alpha-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Cronbach Alpha Confidence Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/cronbach-alpha-confidence-interval-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Dagostino Pearson Calculator](https://onlineinternetcafe.com/statistical-calculators/dagostino-pearson-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Delong Paired Auc Comparison Calculator](https://onlineinternetcafe.com/statistical-calculators/delong-paired-auc-comparison-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Deming Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/deming-regression-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Dependability Index Calculator](https://onlineinternetcafe.com/statistical-calculators/dependability-index-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Diagnostic Likelihood Ratios Calculator](https://onlineinternetcafe.com/statistical-calculators/diagnostic-likelihood-ratios-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Diagnostic Odds Ratio Calculator](https://onlineinternetcafe.com/statistical-calculators/diagnostic-odds-ratio-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Discrete Uniform Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/discrete-uniform-distribution-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Dunn Test Calculator](https://onlineinternetcafe.com/statistical-calculators/dunn-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Dunnett Test Calculator](https://onlineinternetcafe.com/statistical-calculators/dunnett-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Durbin Watson Calculator](https://onlineinternetcafe.com/statistical-calculators/durbin-watson-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Egger Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/egger-regression-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Epsilon Squared Calculator](https://onlineinternetcafe.com/statistical-calculators/epsilon-squared-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Eta Squared Calculator](https://onlineinternetcafe.com/statistical-calculators/eta-squared-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Exact Binomial Test Calculator](https://onlineinternetcafe.com/statistical-calculators/exact-binomial-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Excel Statistical Calculator](https://onlineinternetcafe.com/statistical-calculators/excel-statistical-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Exploratory Factor Analysis Calculator](https://onlineinternetcafe.com/statistical-calculators/exploratory-factor-analysis-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Exponential Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/exponential-distribution-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [F Critical Value Calculator](https://onlineinternetcafe.com/statistical-calculators/f-critical-value-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [F Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/f-distribution-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [F Test Two Variances Calculator](https://onlineinternetcafe.com/statistical-calculators/f-test-two-variances-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Fisher Exact 2x2 Calculator](https://onlineinternetcafe.com/statistical-calculators/fisher-exact-2x2-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Fisher Freeman Halton 2 3 Test Calculator](https://onlineinternetcafe.com/statistical-calculators/fisher-freeman-halton-2-3-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Fisher Lsd Calculator](https://onlineinternetcafe.com/statistical-calculators/fisher-lsd-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Five Number Summary Calculator](https://onlineinternetcafe.com/statistical-calculators/five-number-summary-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Fixed Effect Meta Analysis Calculator](https://onlineinternetcafe.com/statistical-calculators/fixed-effect-meta-analysis-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Fleiss Kappa Calculator](https://onlineinternetcafe.com/statistical-calculators/fleiss-kappa-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Fligner Killeen Calculator](https://onlineinternetcafe.com/statistical-calculators/fligner-killeen-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Friedman Test Calculator](https://onlineinternetcafe.com/statistical-calculators/friedman-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [G Test Independence Calculator](https://onlineinternetcafe.com/statistical-calculators/g-test-independence-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Games Howell Calculator](https://onlineinternetcafe.com/statistical-calculators/games-howell-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Gamma Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/gamma-distribution-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Generalizability Coefficient Calculator](https://onlineinternetcafe.com/statistical-calculators/generalizability-coefficient-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Geometric Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/geometric-distribution-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Glass Delta Calculator](https://onlineinternetcafe.com/statistical-calculators/glass-delta-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Guttman Lambda6 Calculator](https://onlineinternetcafe.com/statistical-calculators/guttman-lambda6-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Gwet Ac1 Agreement Calculator](https://onlineinternetcafe.com/statistical-calculators/gwet-ac1-agreement-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Hat Leverage Calculator](https://onlineinternetcafe.com/statistical-calculators/hat-leverage-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Hazard Ratio Confidence Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/hazard-ratio-confidence-interval-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Hedges G Calculator](https://onlineinternetcafe.com/statistical-calculators/hedges-g-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Htmt Discriminant Validity Calculator](https://onlineinternetcafe.com/statistical-calculators/htmt-discriminant-validity-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Huber Robust Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/huber-robust-regression-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Hypergeometric Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/hypergeometric-distribution-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [ICC 1 1 Calculator](https://onlineinternetcafe.com/statistical-calculators/icc-1-1-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [ICC 1 K Average Measure Calculator](https://onlineinternetcafe.com/statistical-calculators/icc-1-k-average-measure-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [ICC 2 1 Calculator](https://onlineinternetcafe.com/statistical-calculators/icc-2-1-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [ICC 2 K Average Measure Calculator](https://onlineinternetcafe.com/statistical-calculators/icc-2-k-average-measure-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [ICC 3 1 Calculator](https://onlineinternetcafe.com/statistical-calculators/icc-3-1-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [ICC 3 K Average Measure Calculator](https://onlineinternetcafe.com/statistical-calculators/icc-3-k-average-measure-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Incidence Proportion Calculator](https://onlineinternetcafe.com/statistical-calculators/incidence-proportion-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Incidence Rate Calculator](https://onlineinternetcafe.com/statistical-calculators/incidence-rate-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Incidence Rate Ratio Calculator](https://onlineinternetcafe.com/statistical-calculators/incidence-rate-ratio-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Independent T Test Calculator](https://onlineinternetcafe.com/statistical-calculators/independent-t-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Interquartile Range Calculator](https://onlineinternetcafe.com/statistical-calculators/interquartile-range-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Item Total Correlation Calculator](https://onlineinternetcafe.com/statistical-calculators/item-total-correlation-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Jarque Bera Calculator](https://onlineinternetcafe.com/statistical-calculators/jarque-bera-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Jonckheere Terpstra Calculator](https://onlineinternetcafe.com/statistical-calculators/jonckheere-terpstra-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Kaplan Meier Calculator](https://onlineinternetcafe.com/statistical-calculators/kaplan-meier-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Kendall Tau Calculator](https://onlineinternetcafe.com/statistical-calculators/kendall-tau-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Kendall W Calculator](https://onlineinternetcafe.com/statistical-calculators/kendall-w-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Kmo Measure Calculator](https://onlineinternetcafe.com/statistical-calculators/kmo-measure-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Kolmogorov Smirnov Calculator](https://onlineinternetcafe.com/statistical-calculators/kolmogorov-smirnov-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Kr20 Calculator](https://onlineinternetcafe.com/statistical-calculators/kr20-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Kr21 Calculator](https://onlineinternetcafe.com/statistical-calculators/kr21-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Krippendorff Alpha Nominal Calculator](https://onlineinternetcafe.com/statistical-calculators/krippendorff-alpha-nominal-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Kruskal Wallis Calculator](https://onlineinternetcafe.com/statistical-calculators/kruskal-wallis-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Ks Normality Calculator](https://onlineinternetcafe.com/statistical-calculators/ks-normality-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Kurtosis Calculator](https://onlineinternetcafe.com/statistical-calculators/kurtosis-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Laplace Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/laplace-distribution-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Levene Test Calculator](https://onlineinternetcafe.com/statistical-calculators/levene-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Lin Concordance Calculator](https://onlineinternetcafe.com/statistical-calculators/lin-concordance-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Linear Discriminant Analysis Calculator](https://onlineinternetcafe.com/statistical-calculators/linear-discriminant-analysis-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Ljung Box Calculator](https://onlineinternetcafe.com/statistical-calculators/ljung-box-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Log Rank Sample Size Calculator](https://onlineinternetcafe.com/statistical-calculators/log-rank-sample-size-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Log Rank Test Calculator](https://onlineinternetcafe.com/statistical-calculators/log-rank-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Logistic Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/logistic-distribution-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Logistic Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/logistic-regression-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Lognormal Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/lognormal-distribution-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Mahalanobis Distance Calculator](https://onlineinternetcafe.com/statistical-calculators/mahalanobis-distance-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Mallows Cp Calculator](https://onlineinternetcafe.com/statistical-calculators/mallows-cp-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Mann Kendall Trend Calculator](https://onlineinternetcafe.com/statistical-calculators/mann-kendall-trend-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Mann Whitney U Calculator](https://onlineinternetcafe.com/statistical-calculators/mann-whitney-u-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [MANOVA Wilks Lambda Calculator](https://onlineinternetcafe.com/statistical-calculators/manova-wilks-lambda-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Mantel Haenszel Common Odds Ratio Calculator](https://onlineinternetcafe.com/statistical-calculators/mantel-haenszel-common-odds-ratio-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Margin Of Error Calculator](https://onlineinternetcafe.com/statistical-calculators/margin-of-error-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Mauchly Sphericity Calculator](https://onlineinternetcafe.com/statistical-calculators/mauchly-sphericity-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Mcdonald Omega Calculator](https://onlineinternetcafe.com/statistical-calculators/mcdonald-omega-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Mcnemar Test Calculator](https://onlineinternetcafe.com/statistical-calculators/mcnemar-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Mean Absolute Error Calculator](https://onlineinternetcafe.com/statistical-calculators/mean-absolute-error-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Mean Absolute Percentage Error Calculator](https://onlineinternetcafe.com/statistical-calculators/mean-absolute-percentage-error-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Mean Calculator](https://onlineinternetcafe.com/statistical-calculators/mean-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Mean Median Mode Calculator](https://onlineinternetcafe.com/statistical-calculators/mean-median-mode-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Median Calculator](https://onlineinternetcafe.com/statistical-calculators/median-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Median Quantile Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/median-quantile-regression-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Meta Analysis Heterogeneity Calculator](https://onlineinternetcafe.com/statistical-calculators/meta-analysis-heterogeneity-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Meta Analysis Prediction Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/meta-analysis-prediction-interval-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Meta Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/meta-regression-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Minimal Detectable Change Calculator](https://onlineinternetcafe.com/statistical-calculators/minimal-detectable-change-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Mode Calculator](https://onlineinternetcafe.com/statistical-calculators/mode-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Mood Median Calculator](https://onlineinternetcafe.com/statistical-calculators/mood-median-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Multinomial Probability Calculator](https://onlineinternetcafe.com/statistical-calculators/multinomial-probability-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Multiple Linear Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/multiple-linear-regression-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Negative Binomial Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/negative-binomial-distribution-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Negative Binomial Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/negative-binomial-regression-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Nelson Aalen Cumulative Hazard Calculator](https://onlineinternetcafe.com/statistical-calculators/nelson-aalen-cumulative-hazard-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Nemenyi Post Hoc Test Calculator](https://onlineinternetcafe.com/statistical-calculators/nemenyi-post-hoc-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Newcombe Difference Proportions Ci Calculator](https://onlineinternetcafe.com/statistical-calculators/newcombe-difference-proportions-ci-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Normal Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/normal-distribution-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Normal Quantile Calculator](https://onlineinternetcafe.com/statistical-calculators/normal-quantile-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Number Needed To Treat Calculator](https://onlineinternetcafe.com/statistical-calculators/number-needed-to-treat-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Odds Ratio 2x2 Calculator](https://onlineinternetcafe.com/statistical-calculators/odds-ratio-2x2-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Odds Ratio Confidence Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/odds-ratio-confidence-interval-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Omega Squared Calculator](https://onlineinternetcafe.com/statistical-calculators/omega-squared-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [One Proportion Z Test Calculator](https://onlineinternetcafe.com/statistical-calculators/one-proportion-z-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [One Sample Hotelling T Calculator](https://onlineinternetcafe.com/statistical-calculators/one-sample-hotelling-t-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [One Sample T Test Calculator](https://onlineinternetcafe.com/statistical-calculators/one-sample-t-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [One Sample Z Test Calculator](https://onlineinternetcafe.com/statistical-calculators/one-sample-z-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [P Value Calculator](https://onlineinternetcafe.com/statistical-calculators/p-value-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Page Trend Test Calculator](https://onlineinternetcafe.com/statistical-calculators/page-trend-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Paired Cohen Dz Calculator](https://onlineinternetcafe.com/statistical-calculators/paired-cohen-dz-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Paired T Test Calculator](https://onlineinternetcafe.com/statistical-calculators/paired-t-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Parallel Analysis Calculator](https://onlineinternetcafe.com/statistical-calculators/parallel-analysis-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Pareto Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/pareto-distribution-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Partial Correlation Calculator](https://onlineinternetcafe.com/statistical-calculators/partial-correlation-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Partial Eta Squared Calculator](https://onlineinternetcafe.com/statistical-calculators/partial-eta-squared-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Passing Bablok Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/passing-bablok-regression-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Pca Calculator](https://onlineinternetcafe.com/statistical-calculators/pca-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Pearson Correlation Calculator](https://onlineinternetcafe.com/statistical-calculators/pearson-correlation-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Percent Agreement Calculator](https://onlineinternetcafe.com/statistical-calculators/percent-agreement-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Percentile Rank Calculator](https://onlineinternetcafe.com/statistical-calculators/percentile-rank-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Permutation Paired Calculator](https://onlineinternetcafe.com/statistical-calculators/permutation-paired-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Permutation Two Sample Calculator](https://onlineinternetcafe.com/statistical-calculators/permutation-two-sample-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Phi Coefficient Calculator](https://onlineinternetcafe.com/statistical-calculators/phi-coefficient-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Point Biserial Calculator](https://onlineinternetcafe.com/statistical-calculators/point-biserial-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Poisson Probability Calculator](https://onlineinternetcafe.com/statistical-calculators/poisson-probability-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Poisson Rate Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/poisson-rate-interval-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Poisson Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/poisson-regression-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Polynomial Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/polynomial-regression-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Population Attributable Fraction Calculator](https://onlineinternetcafe.com/statistical-calculators/population-attributable-fraction-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Power ANOVA Calculator](https://onlineinternetcafe.com/statistical-calculators/power-anova-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Power Chi Square Calculator](https://onlineinternetcafe.com/statistical-calculators/power-chi-square-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Power T Test Calculator](https://onlineinternetcafe.com/statistical-calculators/power-t-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Predictive Values Calculator](https://onlineinternetcafe.com/statistical-calculators/predictive-values-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Press Statistic Calculator](https://onlineinternetcafe.com/statistical-calculators/press-statistic-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Prevalence Calculator](https://onlineinternetcafe.com/statistical-calculators/prevalence-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Probability Calculator](https://onlineinternetcafe.com/statistical-calculators/probability-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Probit Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/probit-regression-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Quade Test Calculator](https://onlineinternetcafe.com/statistical-calculators/quade-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Quartiles Calculator](https://onlineinternetcafe.com/statistical-calculators/quartiles-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [R Squared Calculator Calculator](https://onlineinternetcafe.com/statistical-calculators/r-squared-calculator-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Random Effects Meta Analysis Calculator](https://onlineinternetcafe.com/statistical-calculators/random-effects-meta-analysis-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Range Calculator](https://onlineinternetcafe.com/statistical-calculators/range-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Rate Confidence Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/rate-confidence-interval-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Rate Ratio Confidence Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/rate-ratio-confidence-interval-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Rayleigh Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/rayleigh-distribution-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Regression Coefficient Ci Calculator](https://onlineinternetcafe.com/statistical-calculators/regression-coefficient-ci-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Regression Tolerance Calculator](https://onlineinternetcafe.com/statistical-calculators/regression-tolerance-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Relative Risk 2x2 Calculator](https://onlineinternetcafe.com/statistical-calculators/relative-risk-2x2-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Repeated Measures ANOVA Calculator](https://onlineinternetcafe.com/statistical-calculators/repeated-measures-anova-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Residual Calculator Calculator](https://onlineinternetcafe.com/statistical-calculators/residual-calculator-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Restricted Mean Survival Time Calculator](https://onlineinternetcafe.com/statistical-calculators/restricted-mean-survival-time-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Ridge Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/ridge-regression-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Risk Difference 2x2 Calculator](https://onlineinternetcafe.com/statistical-calculators/risk-difference-2x2-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Roc Auc Calculator](https://onlineinternetcafe.com/statistical-calculators/roc-auc-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Roc Auc Confidence Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/roc-auc-confidence-interval-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Root Mean Squared Error Calculator](https://onlineinternetcafe.com/statistical-calculators/root-mean-squared-error-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Runs Test Calculator](https://onlineinternetcafe.com/statistical-calculators/runs-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Ryan Einot Gabriel Welsch Calculator](https://onlineinternetcafe.com/statistical-calculators/ryan-einot-gabriel-welsch-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Sample Size Correlation Calculator](https://onlineinternetcafe.com/statistical-calculators/sample-size-correlation-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Sample Size Mean Calculator](https://onlineinternetcafe.com/statistical-calculators/sample-size-mean-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Sample Size Proportion Calculator](https://onlineinternetcafe.com/statistical-calculators/sample-size-proportion-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Sample Size Two Means Calculator](https://onlineinternetcafe.com/statistical-calculators/sample-size-two-means-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Sample Size Two Proportions Calculator](https://onlineinternetcafe.com/statistical-calculators/sample-size-two-proportions-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Savage Scores Test Calculator](https://onlineinternetcafe.com/statistical-calculators/savage-scores-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Scheffe Test Calculator](https://onlineinternetcafe.com/statistical-calculators/scheffe-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Scott Pi Agreement Calculator](https://onlineinternetcafe.com/statistical-calculators/scott-pi-agreement-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Sen Slope Calculator](https://onlineinternetcafe.com/statistical-calculators/sen-slope-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Sensitivity Specificity Calculator](https://onlineinternetcafe.com/statistical-calculators/sensitivity-specificity-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Shapiro Wilk Calculator](https://onlineinternetcafe.com/statistical-calculators/shapiro-wilk-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Siegel Tukey Calculator](https://onlineinternetcafe.com/statistical-calculators/siegel-tukey-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Sign Test Calculator](https://onlineinternetcafe.com/statistical-calculators/sign-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Simple Linear Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/simple-linear-regression-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Skewness Calculator](https://onlineinternetcafe.com/statistical-calculators/skewness-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Spearman Brown Prophecy Calculator](https://onlineinternetcafe.com/statistical-calculators/spearman-brown-prophecy-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Spearman Correlation Calculator](https://onlineinternetcafe.com/statistical-calculators/spearman-correlation-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Split Half Reliability Calculator](https://onlineinternetcafe.com/statistical-calculators/split-half-reliability-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Standard Deviation Calculator](https://onlineinternetcafe.com/statistical-calculators/standard-deviation-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Standard Deviation Confidence Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/standard-deviation-confidence-interval-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Standard Error Calculator](https://onlineinternetcafe.com/statistical-calculators/standard-error-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Standard Error Measurement Calculator](https://onlineinternetcafe.com/statistical-calculators/standard-error-measurement-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Standard Normal Probability Calculator](https://onlineinternetcafe.com/statistical-calculators/standard-normal-probability-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Standardized Mortality Ratio Calculator](https://onlineinternetcafe.com/statistical-calculators/standardized-mortality-ratio-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Standardized Regression Beta Calculator](https://onlineinternetcafe.com/statistical-calculators/standardized-regression-beta-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Standardized Test Statistic Calculator](https://onlineinternetcafe.com/statistical-calculators/standardized-test-statistic-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Statistical Calculators Library](https://onlineinternetcafe.com/statistical-calculators/) — last modified 2026-08-01T17:31:36+00:00
+- [Statistical Power Calculator](https://onlineinternetcafe.com/statistical-calculators/statistical-power-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Statistical Sample Size Calculator](https://onlineinternetcafe.com/statistical-calculators/statistical-sample-size-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Statistical Significance Calculator](https://onlineinternetcafe.com/statistical-calculators/statistical-significance-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Statistics Summary Calculator](https://onlineinternetcafe.com/statistical-calculators/statistics-summary-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Steel Dwass Pairwise Test Calculator](https://onlineinternetcafe.com/statistical-calculators/steel-dwass-pairwise-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Student Newman Keuls Calculator](https://onlineinternetcafe.com/statistical-calculators/student-newman-keuls-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Symmetric Mape Calculator](https://onlineinternetcafe.com/statistical-calculators/symmetric-mape-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [T Critical Value Calculator](https://onlineinternetcafe.com/statistical-calculators/t-critical-value-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [T Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/t-distribution-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Tamhane T2 Calculator](https://onlineinternetcafe.com/statistical-calculators/tamhane-t2-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Test Retest Reliability Calculator](https://onlineinternetcafe.com/statistical-calculators/test-retest-reliability-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Test Statistic Calculator](https://onlineinternetcafe.com/statistical-calculators/test-statistic-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Theil Sen Regression Calculator](https://onlineinternetcafe.com/statistical-calculators/theil-sen-regression-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Triangular Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/triangular-distribution-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Truncated Normal Probability Calculator](https://onlineinternetcafe.com/statistical-calculators/truncated-normal-probability-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Tukey Hsd Calculator](https://onlineinternetcafe.com/statistical-calculators/tukey-hsd-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Tukey Kramer Calculator](https://onlineinternetcafe.com/statistical-calculators/tukey-kramer-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Two Proportion Z Test Calculator](https://onlineinternetcafe.com/statistical-calculators/two-proportion-z-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Two Sample Hotelling T Calculator](https://onlineinternetcafe.com/statistical-calculators/two-sample-hotelling-t-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Two Sample Z Test Calculator](https://onlineinternetcafe.com/statistical-calculators/two-sample-z-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Two Way ANOVA With Replication Calculator](https://onlineinternetcafe.com/statistical-calculators/two-way-anova-with-replication-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Two Way ANOVA Without Replication Calculator](https://onlineinternetcafe.com/statistical-calculators/two-way-anova-without-replication-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Vaccine Effectiveness Calculator](https://onlineinternetcafe.com/statistical-calculators/vaccine-effectiveness-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Van Der Waerden Calculator](https://onlineinternetcafe.com/statistical-calculators/van-der-waerden-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Variance Calculator](https://onlineinternetcafe.com/statistical-calculators/variance-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Variance Inflation Factor Calculator](https://onlineinternetcafe.com/statistical-calculators/variance-inflation-factor-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Wald Wolfowitz Calculator](https://onlineinternetcafe.com/statistical-calculators/wald-wolfowitz-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Waller Duncan Calculator](https://onlineinternetcafe.com/statistical-calculators/waller-duncan-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Weibull Distribution Calculator](https://onlineinternetcafe.com/statistical-calculators/weibull-distribution-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Weighted Kappa Calculator](https://onlineinternetcafe.com/statistical-calculators/weighted-kappa-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Weighted Least Squares Calculator](https://onlineinternetcafe.com/statistical-calculators/weighted-least-squares-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Weighted Mean Calculator](https://onlineinternetcafe.com/statistical-calculators/weighted-mean-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Welch ANOVA Calculator](https://onlineinternetcafe.com/statistical-calculators/welch-anova-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Welch T Test Calculator](https://onlineinternetcafe.com/statistical-calculators/welch-t-test-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Wilcoxon Signed Rank Calculator](https://onlineinternetcafe.com/statistical-calculators/wilcoxon-signed-rank-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Wilson Binomial Interval Calculator](https://onlineinternetcafe.com/statistical-calculators/wilson-binomial-interval-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Z Score Calculator](https://onlineinternetcafe.com/statistical-calculators/z-score-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Z Test Statistic Calculator](https://onlineinternetcafe.com/statistical-calculators/z-test-statistic-calculator/) — last modified 2026-08-01T17:31:35+00:00
+- [Zero Inflated Poisson Calculator](https://onlineinternetcafe.com/statistical-calculators/zero-inflated-poisson-calculator/) — last modified 2026-08-01T17:31:35+00:00
 
 ## AP score calculators
 
@@ -797,6 +795,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [100m Wind Calculator](https://onlineinternetcafe.com/100m-wind-calculator/) — last modified 2026-08-01T04:26:16+00:00
 - [1031 Exchange Tax Calculator](https://onlineinternetcafe.com/1031-exchange-tax-calculator/) — last modified 2026-08-01T04:15:44+00:00
 - [12 Tone Matrix Calculator](https://onlineinternetcafe.com/12-tone-matrix-calculator/) — last modified 2026-08-01T04:11:50+00:00
+- [12 Tone Matrix Calculator 3](https://onlineinternetcafe.com/12-tone-matrix-calculator-3/) — last modified 2026-07-31T20:30:42+00:00
 - [2 Stroke Oil Mix Calculator](https://onlineinternetcafe.com/practical-calculators/2-stroke-oil-mix-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [3d Printing Cost Calculator](https://onlineinternetcafe.com/3d-printing-cost-calculator/) — last modified 2026-08-01T04:24:31+00:00
 - [401k Calculator](https://onlineinternetcafe.com/401k-calculator/) — last modified 2026-08-01T04:11:51+00:00
@@ -808,7 +807,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Acceleration Calculator](https://onlineinternetcafe.com/acceleration-calculator/) — last modified 2026-08-01T04:11:51+00:00
 - [Acceleration Calculator](https://onlineinternetcafe.com/specialized-calculators/acceleration-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Accent Wall Calculator](https://onlineinternetcafe.com/accent-wall-calculator/) — last modified 2026-08-01T04:11:51+00:00
-- [Acid Base Titration Calculator 2](https://onlineinternetcafe.com/acid-base-titration-calculator-2/) — last modified 2026-08-01T04:11:51+00:00
+- [Acid Base Titration Calculator](https://onlineinternetcafe.com/acid-base-titration-calculator/) — last modified 2026-07-31T20:30:41+00:00
 - [Acoustic Panel Calculator](https://onlineinternetcafe.com/acoustic-panel-calculator/) — last modified 2026-08-01T04:11:51+00:00
 - [Acres Per Hour Calculator](https://onlineinternetcafe.com/acres-per-hour-calculator/) — last modified 2026-08-01T04:11:52+00:00
 - [Acres Per Hour Calculator](https://onlineinternetcafe.com/practical-calculators/acres-per-hour-calculator/) — last modified 2026-07-22T15:29:07+00:00
@@ -817,18 +816,18 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Adfgvx Decipher Calculator](https://onlineinternetcafe.com/adfgvx-decipher-calculator/) — last modified 2026-07-28T07:03:38+00:00
 - [Adfgx Cipher Calculator](https://onlineinternetcafe.com/adfgx-cipher-calculator/) — last modified 2026-07-28T07:03:37+00:00
 - [Adfgx Decipher Calculator](https://onlineinternetcafe.com/adfgx-decipher-calculator/) — last modified 2026-07-28T07:03:37+00:00
-- [Adiabatic Gas Calculator 2](https://onlineinternetcafe.com/adiabatic-gas-calculator-2/) — last modified 2026-08-01T04:11:52+00:00
+- [Adiabatic Gas Calculator](https://onlineinternetcafe.com/adiabatic-gas-calculator/) — last modified 2026-07-31T20:33:59+00:00
 - [Adjustable Rate Mortgage Calculator](https://onlineinternetcafe.com/adjustable-rate-mortgage-calculator/) — last modified 2026-08-01T04:11:52+00:00
 - [Adjusted Body Weight Calculator](https://onlineinternetcafe.com/adjusted-body-weight-calculator/) — last modified 2026-08-01T04:11:52+00:00
 - [Affine Cipher Calculator](https://onlineinternetcafe.com/affine-cipher-calculator/) — last modified 2026-07-28T07:03:07+00:00
 - [Affine Decipher Calculator](https://onlineinternetcafe.com/affine-decipher-calculator/) — last modified 2026-07-28T07:03:07+00:00
 - [Age Difference Calculator](https://onlineinternetcafe.com/age-difference-calculator/) — last modified 2026-08-01T04:11:52+00:00
 - [Age Plus Years Of Service Calculator](https://onlineinternetcafe.com/age-plus-years-of-service-calculator/) — last modified 2026-08-01T04:11:53+00:00
-- [Air Changes Hour Calculator 2](https://onlineinternetcafe.com/air-changes-hour-calculator-2/) — last modified 2026-08-01T04:11:53+00:00
+- [Air Changes Hour Calculator](https://onlineinternetcafe.com/air-changes-hour-calculator/) — last modified 2026-07-31T20:34:00+00:00
 - [Air Changes Per Hour Calculator](https://onlineinternetcafe.com/practical-calculators/air-changes-per-hour-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Air Duct Cleaning Cost Calculator](https://onlineinternetcafe.com/air-duct-cleaning-cost-calculator/) — last modified 2026-08-01T04:15:38+00:00
 - [Air Force Btz Calculator](https://onlineinternetcafe.com/air-force-btz-calculator/) — last modified 2026-08-01T04:11:53+00:00
-- [Air Fuel Ratio Calculator 2](https://onlineinternetcafe.com/air-fuel-ratio-calculator-2/) — last modified 2026-08-01T04:11:53+00:00
+- [Air Fuel Ratio Calculator](https://onlineinternetcafe.com/air-fuel-ratio-calculator/) — last modified 2026-07-31T20:34:01+00:00
 - [Alcohol By Volume Calculator](https://onlineinternetcafe.com/specialized-calculators/alcohol-by-volume-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Alcohol Dilution Calculator](https://onlineinternetcafe.com/alcohol-dilution-calculator/) — last modified 2026-08-01T04:11:53+00:00
 - [Allele Frequency Calculator](https://onlineinternetcafe.com/specialized-calculators/allele-frequency-calculator/) — last modified 2026-07-22T15:27:32+00:00
@@ -837,25 +836,25 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Amp Fuse Size Calculator](https://onlineinternetcafe.com/amp-fuse-size-calculator/) — last modified 2026-08-01T04:16:52+00:00
 - [Amps To Kw Calculator](https://onlineinternetcafe.com/amps-to-kw-calculator/) — last modified 2026-08-01T04:11:54+00:00
 - [Angle Of Impact Calculator](https://onlineinternetcafe.com/practical-calculators/angle-of-impact-calculator/) — last modified 2026-07-22T15:29:07+00:00
-- [Angular Acceleration Calculator 2](https://onlineinternetcafe.com/angular-acceleration-calculator-2/) — last modified 2026-08-01T04:11:54+00:00
-- [Angular Momentum Calculator 2](https://onlineinternetcafe.com/angular-momentum-calculator-2/) — last modified 2026-08-01T04:11:54+00:00
-- [Angular Velocity Calculator 2](https://onlineinternetcafe.com/angular-velocity-calculator-2/) — last modified 2026-08-01T04:11:54+00:00
+- [Angular Acceleration Calculator](https://onlineinternetcafe.com/angular-acceleration-calculator/) — last modified 2026-07-31T20:34:03+00:00
+- [Angular Momentum Calculator](https://onlineinternetcafe.com/angular-momentum-calculator/) — last modified 2026-07-31T20:34:04+00:00
+- [Angular Velocity Calculator](https://onlineinternetcafe.com/angular-velocity-calculator/) — last modified 2026-07-31T20:30:24+00:00
 - [Anion Gap Calculator](https://onlineinternetcafe.com/web-calculators/anion-gap-calculator/) — last modified 2026-07-22T15:31:04+00:00
-- [Annuity Payout Calculator 2](https://onlineinternetcafe.com/annuity-payout-calculator-2/) — last modified 2026-08-01T04:11:54+00:00
-- [Antenna Wavelength Calculator 2](https://onlineinternetcafe.com/antenna-wavelength-calculator-2/) — last modified 2026-08-01T04:11:54+00:00
-- [Anti Roll Bar Rate Calculator 2](https://onlineinternetcafe.com/anti-roll-bar-rate-calculator-2/) — last modified 2026-08-01T04:11:54+00:00
+- [Annuity Payout Calculator](https://onlineinternetcafe.com/annuity-payout-calculator/) — last modified 2026-07-31T20:30:25+00:00
+- [Antenna Wavelength Calculator](https://onlineinternetcafe.com/antenna-wavelength-calculator/) — last modified 2026-07-31T20:30:26+00:00
+- [Anti Roll Bar Rate Calculator](https://onlineinternetcafe.com/anti-roll-bar-rate-calculator/) — last modified 2026-07-31T20:30:28+00:00
 - [Antiderivative Calculator](https://onlineinternetcafe.com/antiderivative-calculator/) — last modified 2026-08-01T04:11:55+00:00
 - [AP Statistics Exam Calculator](https://onlineinternetcafe.com/ap-statistics-exam-calculator/) — last modified 2026-07-18T12:15:14+00:00
-- [Appliance Energy Cost Calculator 2](https://onlineinternetcafe.com/appliance-energy-cost-calculator-2/) — last modified 2026-08-01T04:12:37+00:00
+- [Appliance Energy Cost Calculator](https://onlineinternetcafe.com/appliance-energy-cost-calculator/) — last modified 2026-07-31T20:30:29+00:00
 - [Apy Calculator](https://onlineinternetcafe.com/specialized-calculators/apy-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Aquarium Dose Calculator 2](https://onlineinternetcafe.com/aquarium-dose-calculator-2/) — last modified 2026-08-01T04:12:38+00:00
-- [Aquarium Salinity Calculator 2](https://onlineinternetcafe.com/aquarium-salinity-calculator-2/) — last modified 2026-08-01T04:12:38+00:00
+- [Aquarium Dose Calculator](https://onlineinternetcafe.com/aquarium-dose-calculator/) — last modified 2026-07-31T20:30:30+00:00
+- [Aquarium Salinity Calculator](https://onlineinternetcafe.com/aquarium-salinity-calculator/) — last modified 2026-07-31T20:30:31+00:00
 - [Aquarium Volume Calculator](https://onlineinternetcafe.com/aquarium-volume-calculator/) — last modified 2026-08-01T04:12:39+00:00
 - [Arc Length Calculator](https://onlineinternetcafe.com/specialized-calculators/arc-length-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Area Between Curves Calculator](https://onlineinternetcafe.com/area-between-curves-calculator/) — last modified 2026-08-01T04:12:40+00:00
 - [Area Calculator](https://onlineinternetcafe.com/area-calculator/) — last modified 2026-08-01T04:12:41+00:00
 - [Aristocrat Cipher Solver](https://onlineinternetcafe.com/aristocrat-cipher-solver/) — last modified 2026-07-28T07:03:15+00:00
-- [Arrhenius Rate Calculator 2](https://onlineinternetcafe.com/arrhenius-rate-calculator-2/) — last modified 2026-08-01T04:12:42+00:00
+- [Arrhenius Rate Calculator](https://onlineinternetcafe.com/arrhenius-rate-calculator/) — last modified 2026-07-31T20:30:32+00:00
 - [Arrow Foc Calculator](https://onlineinternetcafe.com/practical-calculators/arrow-foc-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Arrow Spine Calculator](https://onlineinternetcafe.com/arrow-spine-calculator/) — last modified 2026-08-01T04:12:43+00:00
 - [Artificial Turf Cost Calculator](https://onlineinternetcafe.com/practical-calculators/artificial-turf-cost-calculator/) — last modified 2026-07-22T15:29:07+00:00
@@ -867,7 +866,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Atbash Cipher Calculator](https://onlineinternetcafe.com/atbash-cipher-calculator/) — last modified 2026-07-28T07:03:06+00:00
 - [Atom Economy Calculator](https://onlineinternetcafe.com/atom-economy-calculator/) — last modified 2026-08-01T04:12:21+00:00
 - [Attic Ventilation Calculator](https://onlineinternetcafe.com/attic-ventilation-calculator/) — last modified 2026-08-01T04:12:22+00:00
-- [Audio File Size Calculator 2](https://onlineinternetcafe.com/audio-file-size-calculator-2/) — last modified 2026-08-01T04:12:23+00:00
+- [Audio File Size Calculator](https://onlineinternetcafe.com/audio-file-size-calculator/) — last modified 2026-07-31T20:30:34+00:00
 - [Audiobook Speed Calculator](https://onlineinternetcafe.com/practical-calculators/audiobook-speed-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Auto Glass Business Roi Calculator](https://onlineinternetcafe.com/auto-glass-business-roi-calculator/) — last modified 2026-08-01T04:12:27+00:00
 - [Auto Glass Lead Conversion Calculator](https://onlineinternetcafe.com/auto-glass-lead-conversion-calculator/) — last modified 2026-08-01T04:12:25+00:00
@@ -878,51 +877,53 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Average Atomic Mass Calculator](https://onlineinternetcafe.com/specialized-calculators/average-atomic-mass-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Average Inventory Calculator](https://onlineinternetcafe.com/practical-calculators/average-inventory-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Bac Calculator](https://onlineinternetcafe.com/bac-calculator/) — last modified 2026-08-01T04:12:29+00:00
-- [Backfill Volume Calculator 2](https://onlineinternetcafe.com/backfill-volume-calculator-2/) — last modified 2026-08-01T04:12:30+00:00
-- [Backsplash Tile Calculator 2](https://onlineinternetcafe.com/backsplash-tile-calculator-2/) — last modified 2026-08-01T04:12:31+00:00
+- [Backfill Volume Calculator](https://onlineinternetcafe.com/backfill-volume-calculator/) — last modified 2026-07-31T20:30:35+00:00
+- [Backsplash Tile Calculator](https://onlineinternetcafe.com/backsplash-tile-calculator/) — last modified 2026-07-31T20:30:36+00:00
 - [Baconian Cipher Calculator](https://onlineinternetcafe.com/baconian-cipher-calculator/) — last modified 2026-07-28T07:03:20+00:00
 - [Baconian Decipher Calculator](https://onlineinternetcafe.com/baconian-decipher-calculator/) — last modified 2026-07-28T07:03:20+00:00
-- [Bacterial Growth Calculator 2](https://onlineinternetcafe.com/bacterial-growth-calculator-2/) — last modified 2026-08-01T04:12:32+00:00
+- [Bacterial Growth Calculator](https://onlineinternetcafe.com/bacterial-growth-calculator/) — last modified 2026-07-31T20:30:37+00:00
+- [Bakers Percentage Calculator](https://onlineinternetcafe.com/bakers-percentage-calculator/) — last modified 2026-07-31T20:30:38+00:00
 - [Bakers Percentage Calculator](https://onlineinternetcafe.com/specialized-calculators/bakers-percentage-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Bakers Percentage Calculator 2](https://onlineinternetcafe.com/bakers-percentage-calculator-2/) — last modified 2026-08-01T04:12:33+00:00
-- [Baking Pan Volume Calculator 2](https://onlineinternetcafe.com/baking-pan-volume-calculator-2/) — last modified 2026-08-01T04:12:34+00:00
+- [Baking Pan Volume Calculator](https://onlineinternetcafe.com/baking-pan-volume-calculator/) — last modified 2026-07-31T20:30:40+00:00
 - [Baking Soda Pool Calculator](https://onlineinternetcafe.com/baking-soda-pool-calculator/) — last modified 2026-08-01T04:20:54+00:00
-- [Baluster Spacing Calculator 2](https://onlineinternetcafe.com/baluster-spacing-calculator-2/) — last modified 2026-08-01T04:12:35+00:00
+- [Baluster Spacing Calculator](https://onlineinternetcafe.com/baluster-spacing-calculator/) — last modified 2026-07-31T20:33:33+00:00
 - [Bark Mulch Calculator](https://onlineinternetcafe.com/bark-mulch-calculator/) — last modified 2026-08-01T04:12:36+00:00
 - [Barndominium Build Cost Calculator](https://onlineinternetcafe.com/barndominium-build-cost-calculator/) — last modified 2026-08-01T04:12:37+00:00
 - [Baseball Era Calculator](https://onlineinternetcafe.com/practical-calculators/baseball-era-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Baseball Ops Calculator](https://onlineinternetcafe.com/practical-calculators/baseball-ops-calculator/) — last modified 2026-07-22T15:29:07+00:00
-- [Baseboard Material Calculator 2](https://onlineinternetcafe.com/baseboard-material-calculator-2/) — last modified 2026-08-01T04:12:40+00:00
+- [Baseboard Material Calculator](https://onlineinternetcafe.com/baseboard-material-calculator/) — last modified 2026-07-31T20:33:35+00:00
 - [Basement Finish Excavation Cost Calculator](https://onlineinternetcafe.com/basement-finish-excavation-cost-calculator/) — last modified 2026-08-01T04:12:41+00:00
 - [Batch Calculator](https://onlineinternetcafe.com/practical-calculators/batch-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Bathroom Remodel Cost Calculator](https://onlineinternetcafe.com/bathroom-remodel-cost-calculator/) — last modified 2026-08-01T04:12:42+00:00
-- [Battery C Rate Calculator 2](https://onlineinternetcafe.com/battery-c-rate-calculator-2/) — last modified 2026-08-01T04:12:42+00:00
+- [Battery C Rate Calculator](https://onlineinternetcafe.com/battery-c-rate-calculator/) — last modified 2026-07-31T20:33:36+00:00
 - [Battery Capacity Runtime Calculator](https://onlineinternetcafe.com/battery-capacity-runtime-calculator/) — last modified 2026-08-01T04:12:43+00:00
-- [Battery Charge Time Calculator 2](https://onlineinternetcafe.com/battery-charge-time-calculator-2/) — last modified 2026-08-01T04:12:44+00:00
+- [Battery Charge Time Calculator](https://onlineinternetcafe.com/battery-charge-time-calculator/) — last modified 2026-07-31T20:33:37+00:00
 - [Batting Average Calculator](https://onlineinternetcafe.com/batting-average-calculator/) — last modified 2026-08-01T04:12:45+00:00
 - [Bbq Calculator](https://onlineinternetcafe.com/web-calculators/bbq-calculator/) — last modified 2026-07-22T15:31:04+00:00
-- [Beam Bending Stress Calculator 2](https://onlineinternetcafe.com/beam-bending-stress-calculator-2/) — last modified 2026-08-01T04:12:45+00:00
+- [Beam Bending Stress Calculator](https://onlineinternetcafe.com/beam-bending-stress-calculator/) — last modified 2026-07-31T20:33:38+00:00
 - [Beam Calculator](https://onlineinternetcafe.com/beam-calculator/) — last modified 2026-08-01T04:23:25+00:00
 - [Beaufort Cipher Calculator](https://onlineinternetcafe.com/beaufort-cipher-calculator/) — last modified 2026-07-28T07:03:09+00:00
 - [Beaufort Decipher Calculator](https://onlineinternetcafe.com/beaufort-decipher-calculator/) — last modified 2026-07-28T07:03:10+00:00
 - [Bed Height Calculator](https://onlineinternetcafe.com/bed-height-calculator/) — last modified 2026-08-01T04:12:47+00:00
 - [Beef Hanging Weight Calculator](https://onlineinternetcafe.com/beef-hanging-weight-calculator/) — last modified 2026-08-01T04:12:47+00:00
-- [Beer Color Srm Calculator 2](https://onlineinternetcafe.com/beer-color-srm-calculator-2/) — last modified 2026-08-01T04:12:48+00:00
-- [Beer Ibu Calculator 2](https://onlineinternetcafe.com/beer-ibu-calculator-2/) — last modified 2026-08-01T04:12:49+00:00
+- [Beer Color Srm Calculator](https://onlineinternetcafe.com/beer-color-srm-calculator/) — last modified 2026-07-31T20:33:39+00:00
+- [Beer Ibu Calculator](https://onlineinternetcafe.com/beer-ibu-calculator/) — last modified 2026-07-31T20:33:40+00:00
 - [Beer Lambert Calculator](https://onlineinternetcafe.com/beer-lambert-calculator/) — last modified 2026-08-01T04:12:50+00:00
 - [Beer Lambert Calculator](https://onlineinternetcafe.com/specialized-calculators/beer-lambert-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Beneish M Score Calculator](https://onlineinternetcafe.com/beneish-m-score-calculator/) — last modified 2026-08-01T04:12:51+00:00
-- [Bernoulli Pressure Calculator 2](https://onlineinternetcafe.com/bernoulli-pressure-calculator-2/) — last modified 2026-08-01T04:12:51+00:00
+- [Bernoulli Pressure Calculator](https://onlineinternetcafe.com/bernoulli-pressure-calculator/) — last modified 2026-07-31T20:33:42+00:00
 - [Bicycle Gear Inches Calculator](https://onlineinternetcafe.com/bicycle-gear-inches-calculator/) — last modified 2026-08-01T04:12:53+00:00
 - [Bicycle Power Calculator](https://onlineinternetcafe.com/bicycle-power-calculator/) — last modified 2026-08-01T04:12:54+00:00
-- [Bicycle Speed Cadence Calculator 2](https://onlineinternetcafe.com/bicycle-speed-cadence-calculator-2/) — last modified 2026-08-01T04:12:54+00:00
+- [Bicycle Speed Cadence Calculator](https://onlineinternetcafe.com/bicycle-speed-cadence-calculator/) — last modified 2026-07-31T20:33:45+00:00
 - [Bifid Cipher Calculator](https://onlineinternetcafe.com/bifid-cipher-calculator/) — last modified 2026-07-28T07:03:22+00:00
 - [Bifid Decipher Calculator](https://onlineinternetcafe.com/bifid-decipher-calculator/) — last modified 2026-07-28T07:03:22+00:00
 - [Bike Seat Height Calculator](https://onlineinternetcafe.com/bike-seat-height-calculator/) — last modified 2026-08-01T04:12:55+00:00
 - [Binary Calculator](https://onlineinternetcafe.com/binary-calculator/) — last modified 2026-08-01T04:12:56+00:00
 - [Binomial Expansion Calculator](https://onlineinternetcafe.com/binomial-expansion-calculator/) — last modified 2026-08-01T04:12:57+00:00
-- [Bird Cage Size Calculator 2](https://onlineinternetcafe.com/bird-cage-size-calculator-2/) — last modified 2026-08-01T04:12:59+00:00
+- [Bird Cage Size Calculator](https://onlineinternetcafe.com/bird-cage-size-calculator/) — last modified 2026-07-31T20:33:46+00:00
 - [Bitrate Calculator](https://onlineinternetcafe.com/specialized-calculators/bitrate-calculator/) — last modified 2026-07-22T15:27:32+00:00
+- [Bitumen Calculator](https://onlineinternetcafe.com/bitumen-calculator/) — last modified 2026-07-31T20:31:05+00:00
+- [Bitumen Calculator Asphalt Quantity Road Bitumen Spray Rate And Roofing Calculator](https://onlineinternetcafe.com/bitumen-calculator-asphalt-quantity-road-bitumen-spray-rate-and-roofing-calculator/) — last modified 2026-07-31T20:31:06+00:00
 - [Black Scholes Calculator](https://onlineinternetcafe.com/black-scholes-calculator/) — last modified 2026-08-01T04:13:01+00:00
 - [Bmi Calculator](https://onlineinternetcafe.com/bmi-calculator/) — last modified 2026-08-01T04:13:03+00:00
 - [Bmr Calculator](https://onlineinternetcafe.com/bmr-calculator/) — last modified 2026-08-01T04:13:04+00:00
@@ -931,94 +932,94 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Board Foot Calculator](https://onlineinternetcafe.com/practical-calculators/board-foot-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Body Fat Calculator](https://onlineinternetcafe.com/body-fat-calculator/) — last modified 2026-08-01T04:13:07+00:00
 - [Body Surface Area Calculator](https://onlineinternetcafe.com/body-surface-area-calculator/) — last modified 2026-08-01T04:13:09+00:00
-- [Boil Off Rate Calculator 2](https://onlineinternetcafe.com/boil-off-rate-calculator-2/) — last modified 2026-08-01T04:13:09+00:00
+- [Boil Off Rate Calculator](https://onlineinternetcafe.com/boil-off-rate-calculator/) — last modified 2026-07-31T20:33:47+00:00
 - [Boiler Feed Pump Calculator](https://onlineinternetcafe.com/boiler-feed-pump-calculator/) — last modified 2026-08-01T04:13:11+00:00
-- [Boiler Size Calculator 2](https://onlineinternetcafe.com/boiler-size-calculator-2/) — last modified 2026-08-01T04:13:11+00:00
+- [Boiler Size Calculator](https://onlineinternetcafe.com/boiler-size-calculator/) — last modified 2026-07-31T20:33:48+00:00
+- [Boiling Point Elevation Calculator](https://onlineinternetcafe.com/boiling-point-elevation-calculator/) — last modified 2026-07-31T20:33:49+00:00
 - [Boiling Point Elevation Calculator](https://onlineinternetcafe.com/specialized-calculators/boiling-point-elevation-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Boiling Point Elevation Calculator 2](https://onlineinternetcafe.com/boiling-point-elevation-calculator-2/) — last modified 2026-08-01T04:13:12+00:00
-- [Bond Convexity Calculator 2](https://onlineinternetcafe.com/bond-convexity-calculator-2/) — last modified 2026-08-01T04:13:13+00:00
+- [Bond Convexity Calculator](https://onlineinternetcafe.com/bond-convexity-calculator/) — last modified 2026-07-31T20:33:50+00:00
 - [Bond Current Yield Calculator](https://onlineinternetcafe.com/bond-current-yield-calculator/) — last modified 2026-08-01T04:13:14+00:00
-- [Bond Duration Calculator 2](https://onlineinternetcafe.com/bond-duration-calculator-2/) — last modified 2026-08-01T04:13:15+00:00
+- [Bond Duration Calculator](https://onlineinternetcafe.com/bond-duration-calculator/) — last modified 2026-07-31T20:33:52+00:00
 - [Bond Order Calculator](https://onlineinternetcafe.com/bond-order-calculator/) — last modified 2026-08-01T04:13:16+00:00
-- [Bond Price Calculator 2](https://onlineinternetcafe.com/bond-price-calculator-2/) — last modified 2026-08-01T04:13:16+00:00
-- [Bonus Withholding Calculator 2](https://onlineinternetcafe.com/bonus-withholding-calculator-2/) — last modified 2026-08-01T04:13:17+00:00
+- [Bond Price Calculator](https://onlineinternetcafe.com/bond-price-calculator/) — last modified 2026-07-31T20:33:53+00:00
+- [Bonus Withholding Calculator](https://onlineinternetcafe.com/bonus-withholding-calculator/) — last modified 2026-07-31T20:33:54+00:00
 - [Book Cipher Calculator](https://onlineinternetcafe.com/book-cipher-calculator/) — last modified 2026-07-28T07:03:44+00:00
 - [Book Decipher Calculator](https://onlineinternetcafe.com/book-decipher-calculator/) — last modified 2026-07-28T07:03:45+00:00
 - [Bowling Score Calculator](https://onlineinternetcafe.com/bowling-score-calculator/) — last modified 2026-08-01T04:13:19+00:00
+- [Boyles Law Calculator](https://onlineinternetcafe.com/boyles-law-calculator/) — last modified 2026-07-31T20:33:55+00:00
 - [Boyles Law Calculator](https://onlineinternetcafe.com/specialized-calculators/boyles-law-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Boyles Law Calculator 2](https://onlineinternetcafe.com/boyles-law-calculator-2/) — last modified 2026-08-01T04:13:19+00:00
 - [Bra Size Calculator](https://onlineinternetcafe.com/bra-size-calculator/) — last modified 2026-08-01T04:13:21+00:00
 - [Break Even Point Calculator](https://onlineinternetcafe.com/web-calculators/break-even-point-calculator/) — last modified 2026-07-22T15:31:04+00:00
-- [Break Even Units Calculator 2](https://onlineinternetcafe.com/break-even-units-calculator-2/) — last modified 2026-08-01T04:13:21+00:00
+- [Break Even Units Calculator](https://onlineinternetcafe.com/break-even-units-calculator/) — last modified 2026-07-31T20:33:56+00:00
 - [Breast Implant Weight Calculator](https://onlineinternetcafe.com/breast-implant-weight-calculator/) — last modified 2026-08-01T04:13:23+00:00
 - [Brewing Strike Mash Water Calculator](https://onlineinternetcafe.com/brewing-strike-mash-water-calculator/) — last modified 2026-08-01T04:13:24+00:00
 - [Brick Calculator](https://onlineinternetcafe.com/brick-calculator/) — last modified 2026-08-01T04:13:00+00:00
 - [Brick Calculator](https://onlineinternetcafe.com/web-calculators/brick-calculator/) — last modified 2026-07-22T15:31:04+00:00
 - [Bridge Loan Calculator](https://onlineinternetcafe.com/bridge-loan-calculator/) — last modified 2026-08-01T04:13:02+00:00
-- [Brine Concentration Calculator 2](https://onlineinternetcafe.com/brine-concentration-calculator-2/) — last modified 2026-08-01T04:13:03+00:00
+- [Brine Concentration Calculator](https://onlineinternetcafe.com/brine-concentration-calculator/) — last modified 2026-07-31T20:33:57+00:00
 - [Brinell Hardness Calculator](https://onlineinternetcafe.com/practical-calculators/brinell-hardness-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Btd6 Paragon Degree Calculator](https://onlineinternetcafe.com/btd6-paragon-degree-calculator/) — last modified 2026-08-01T04:13:04+00:00
-- [Buffer Ph Calculator 2](https://onlineinternetcafe.com/buffer-ph-calculator-2/) — last modified 2026-08-01T04:13:05+00:00
-- [Buoyant Force Calculator 2](https://onlineinternetcafe.com/buoyant-force-calculator-2/) — last modified 2026-08-01T04:13:06+00:00
+- [Buffer Ph Calculator](https://onlineinternetcafe.com/buffer-ph-calculator/) — last modified 2026-07-31T20:33:58+00:00
+- [Buoyant Force Calculator](https://onlineinternetcafe.com/buoyant-force-calculator/) — last modified 2026-07-31T20:32:27+00:00
 - [Business Commercial Loan Calculator](https://onlineinternetcafe.com/business-commercial-loan-calculator/) — last modified 2026-08-01T04:13:07+00:00
 - [Business Line Of Credit Calculator](https://onlineinternetcafe.com/business-line-of-credit-calculator/) — last modified 2026-08-01T04:13:08+00:00
 - [Bust Waist Hip Calculator](https://onlineinternetcafe.com/bust-waist-hip-calculator/) — last modified 2026-08-01T04:13:08+00:00
-- [Cabinet Box Calculator 2](https://onlineinternetcafe.com/cabinet-box-calculator-2/) — last modified 2026-08-01T04:13:09+00:00
+- [Cabinet Box Calculator](https://onlineinternetcafe.com/cabinet-box-calculator/) — last modified 2026-07-31T20:32:28+00:00
 - [Cabinet Door Calculator](https://onlineinternetcafe.com/cabinet-door-calculator/) — last modified 2026-08-01T04:13:10+00:00
 - [Caesar Cipher Brute Force Solver](https://onlineinternetcafe.com/caesar-cipher-brute-force-solver/) — last modified 2026-07-28T07:03:56+00:00
 - [Caesar Cipher Calculator](https://onlineinternetcafe.com/caesar-cipher-calculator/) — last modified 2026-07-28T07:03:02+00:00
 - [Caesar Decipher Calculator](https://onlineinternetcafe.com/caesar-decipher-calculator/) — last modified 2026-07-28T07:03:03+00:00
 - [Cagr Annualized Return Calculator](https://onlineinternetcafe.com/cagr-annualized-return-calculator/) — last modified 2026-08-01T04:13:11+00:00
 - [Cagr Calculator](https://onlineinternetcafe.com/web-calculators/cagr-calculator/) — last modified 2026-07-22T15:31:04+00:00
-- [Cake Pan Conversion Calculator 2](https://onlineinternetcafe.com/cake-pan-conversion-calculator-2/) — last modified 2026-08-01T04:13:11+00:00
+- [Cake Pan Conversion Calculator](https://onlineinternetcafe.com/cake-pan-conversion-calculator/) — last modified 2026-07-31T20:33:09+00:00
 - [Cake Pricing Calculator](https://onlineinternetcafe.com/practical-calculators/cake-pricing-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Calculator Bacalaureat 2026](https://onlineinternetcafe.com/calculator-bacalaureat-2026/) — last modified 2026-06-21T19:32:10+00:00
 - [Calories Burned Calculator](https://onlineinternetcafe.com/calories-burned-calculator/) — last modified 2026-08-01T04:13:13+00:00
 - [Camera Field Of View Calculator](https://onlineinternetcafe.com/practical-calculators/camera-field-of-view-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Candle Wax Calculator](https://onlineinternetcafe.com/candle-wax-calculator/) — last modified 2026-08-01T04:13:13+00:00
 - [Candle Wax Calculator](https://onlineinternetcafe.com/practical-calculators/candle-wax-calculator/) — last modified 2026-07-22T15:29:07+00:00
-- [Cantilever Deflection Calculator 2](https://onlineinternetcafe.com/cantilever-deflection-calculator-2/) — last modified 2026-08-01T04:13:14+00:00
+- [Cantilever Deflection Calculator](https://onlineinternetcafe.com/cantilever-deflection-calculator/) — last modified 2026-07-31T20:33:10+00:00
+- [Capacitive Reactance Calculator](https://onlineinternetcafe.com/capacitive-reactance-calculator/) — last modified 2026-07-31T20:33:11+00:00
 - [Capacitive Reactance Calculator](https://onlineinternetcafe.com/practical-calculators/capacitive-reactance-calculator/) — last modified 2026-07-22T15:29:07+00:00
-- [Capacitive Reactance Calculator 2](https://onlineinternetcafe.com/capacitive-reactance-calculator-2/) — last modified 2026-08-01T04:13:46+00:00
 - [Capacitor Discharge Calculator](https://onlineinternetcafe.com/practical-calculators/capacitor-discharge-calculator/) — last modified 2026-07-22T15:29:07+00:00
-- [Capacitor Energy Calculator 2](https://onlineinternetcafe.com/capacitor-energy-calculator-2/) — last modified 2026-08-01T04:13:47+00:00
+- [Capacitor Energy Calculator](https://onlineinternetcafe.com/capacitor-energy-calculator/) — last modified 2026-07-31T20:33:12+00:00
 - [Capital Gains Tax Calculator](https://onlineinternetcafe.com/capital-gains-tax-calculator/) — last modified 2026-08-01T04:13:47+00:00
-- [Capm Required Return Calculator 2](https://onlineinternetcafe.com/capm-required-return-calculator-2/) — last modified 2026-08-01T04:13:48+00:00
+- [Capm Required Return Calculator](https://onlineinternetcafe.com/capm-required-return-calculator/) — last modified 2026-07-31T20:33:13+00:00
 - [Carbohydrate Calculator](https://onlineinternetcafe.com/carbohydrate-calculator/) — last modified 2026-08-01T04:13:48+00:00
 - [Carbon Footprint Calculator](https://onlineinternetcafe.com/specialized-calculators/carbon-footprint-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Carburetor Cfm Calculator 2](https://onlineinternetcafe.com/carburetor-cfm-calculator-2/) — last modified 2026-08-01T04:13:48+00:00
+- [Carburetor Cfm Calculator](https://onlineinternetcafe.com/carburetor-cfm-calculator/) — last modified 2026-07-31T20:33:14+00:00
 - [Card Probability Calculator](https://onlineinternetcafe.com/card-probability-calculator/) — last modified 2026-08-01T04:13:49+00:00
 - [Cargo Insurance Cost Calculator](https://onlineinternetcafe.com/cargo-insurance-cost-calculator/) — last modified 2026-08-01T04:13:49+00:00
-- [Carnot Efficiency Calculator 2](https://onlineinternetcafe.com/carnot-efficiency-calculator-2/) — last modified 2026-08-01T04:13:50+00:00
+- [Carnot Efficiency Calculator](https://onlineinternetcafe.com/carnot-efficiency-calculator/) — last modified 2026-07-31T20:33:15+00:00
 - [Carpet Calculator](https://onlineinternetcafe.com/carpet-calculator/) — last modified 2026-08-01T04:13:50+00:00
 - [Carpet Calculator](https://onlineinternetcafe.com/specialized-calculators/carpet-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Cash Conversion Cycle Calculator 2](https://onlineinternetcafe.com/cash-conversion-cycle-calculator-2/) — last modified 2026-08-01T04:13:51+00:00
+- [Cash Conversion Cycle Calculator](https://onlineinternetcafe.com/cash-conversion-cycle-calculator/) — last modified 2026-07-31T20:33:17+00:00
 - [Cat Age Calculator](https://onlineinternetcafe.com/cat-age-calculator/) — last modified 2026-08-01T04:13:51+00:00
-- [Cat Calorie Calculator 2](https://onlineinternetcafe.com/cat-calorie-calculator-2/) — last modified 2026-08-01T04:13:52+00:00
+- [Cat Calorie Calculator](https://onlineinternetcafe.com/cat-calorie-calculator/) — last modified 2026-07-31T20:33:18+00:00
 - [Cat Genetics Calculator](https://onlineinternetcafe.com/cat-genetics-calculator/) — last modified 2026-08-01T04:13:52+00:00
-- [Caulk Coverage Calculator 2](https://onlineinternetcafe.com/caulk-coverage-calculator-2/) — last modified 2026-08-01T04:13:53+00:00
+- [Caulk Coverage Calculator](https://onlineinternetcafe.com/caulk-coverage-calculator/) — last modified 2026-07-31T20:33:18+00:00
 - [Cd Rate Calculator](https://onlineinternetcafe.com/cd-rate-calculator/) — last modified 2026-08-01T04:13:53+00:00
 - [Ceiling Fan Size Calculator](https://onlineinternetcafe.com/ceiling-fan-size-calculator/) — last modified 2026-08-01T04:13:54+00:00
-- [Ceiling Tile Calculator 2](https://onlineinternetcafe.com/ceiling-tile-calculator-2/) — last modified 2026-08-01T04:13:54+00:00
-- [Cell Doubling Time Calculator 2](https://onlineinternetcafe.com/cell-doubling-time-calculator-2/) — last modified 2026-08-01T04:13:55+00:00
+- [Ceiling Tile Calculator](https://onlineinternetcafe.com/ceiling-tile-calculator/) — last modified 2026-07-31T20:33:20+00:00
+- [Cell Doubling Time Calculator](https://onlineinternetcafe.com/cell-doubling-time-calculator/) — last modified 2026-07-31T20:33:21+00:00
 - [Cell Tower Lease Calculator](https://onlineinternetcafe.com/cell-tower-lease-calculator/) — last modified 2026-08-01T04:13:55+00:00
 - [Cement Mix Calculator](https://onlineinternetcafe.com/web-calculators/cement-mix-calculator/) — last modified 2026-07-22T15:31:04+00:00
-- [Centrifuge Rcf Calculator 2](https://onlineinternetcafe.com/centrifuge-rcf-calculator-2/) — last modified 2026-08-01T04:13:56+00:00
+- [Centrifuge Rcf Calculator](https://onlineinternetcafe.com/centrifuge-rcf-calculator/) — last modified 2026-07-31T20:33:22+00:00
+- [Centripetal Force Calculator](https://onlineinternetcafe.com/centripetal-force-calculator/) — last modified 2026-07-31T20:33:23+00:00
 - [Centripetal Force Calculator](https://onlineinternetcafe.com/practical-calculators/centripetal-force-calculator/) — last modified 2026-07-22T15:29:07+00:00
-- [Centripetal Force Calculator 2](https://onlineinternetcafe.com/centripetal-force-calculator-2/) — last modified 2026-08-01T04:13:56+00:00
-- [Cfu Plating Calculator 2](https://onlineinternetcafe.com/cfu-plating-calculator-2/) — last modified 2026-08-01T04:13:57+00:00
-- [Chain Link Fence Calculator 2](https://onlineinternetcafe.com/chain-link-fence-calculator-2/) — last modified 2026-08-01T04:13:57+00:00
-- [Chair Rail Calculator 2](https://onlineinternetcafe.com/chair-rail-calculator-2/) — last modified 2026-08-01T04:13:58+00:00
+- [Cfu Plating Calculator](https://onlineinternetcafe.com/cfu-plating-calculator/) — last modified 2026-07-31T20:33:25+00:00
+- [Chain Link Fence Calculator](https://onlineinternetcafe.com/chain-link-fence-calculator/) — last modified 2026-07-31T20:33:26+00:00
+- [Chair Rail Calculator](https://onlineinternetcafe.com/chair-rail-calculator/) — last modified 2026-07-31T20:33:27+00:00
 - [Charles Law Calculator](https://onlineinternetcafe.com/charles-law-calculator/) — last modified 2026-08-01T04:13:58+00:00
 - [Chattel Loan Calculator](https://onlineinternetcafe.com/chattel-loan-calculator/) — last modified 2026-08-01T04:13:59+00:00
 - [Chemical Reaction Calculator](https://onlineinternetcafe.com/chemical-reaction-calculator/)
 - [Chi Square Calculator Table Critical Values 2](https://onlineinternetcafe.com/chi-square-calculator-table-critical-values-2/) — last modified 2026-07-18T12:13:52+00:00
 - [Child Growth Percentile Calculator](https://onlineinternetcafe.com/child-growth-percentile-calculator/) — last modified 2026-08-01T04:14:00+00:00
-- [Chimney Cap Size Calculator 2](https://onlineinternetcafe.com/chimney-cap-size-calculator-2/) — last modified 2026-08-01T04:14:00+00:00
+- [Chimney Cap Size Calculator](https://onlineinternetcafe.com/chimney-cap-size-calculator/) — last modified 2026-07-31T20:33:29+00:00
 - [Chimney Repair Cost Calculator](https://onlineinternetcafe.com/chimney-repair-cost-calculator/) — last modified 2026-08-01T04:14:00+00:00
 - [Chip Seal Cost Calculator](https://onlineinternetcafe.com/chip-seal-cost-calculator/) — last modified 2026-08-01T04:14:01+00:00
 - [Chmod Calculator](https://onlineinternetcafe.com/specialized-calculators/chmod-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Chromatography Rf Calculator 2](https://onlineinternetcafe.com/chromatography-rf-calculator-2/) — last modified 2026-08-01T04:14:01+00:00
+- [Chromatography Rf Calculator](https://onlineinternetcafe.com/chromatography-rf-calculator/) — last modified 2026-07-31T20:33:30+00:00
 - [Cinder Block Calculator](https://onlineinternetcafe.com/cinder-block-calculator/) — last modified 2026-08-01T04:14:03+00:00
 - [Cinder Block Calculator](https://onlineinternetcafe.com/practical-calculators/cinder-block-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Cipher Calculators](https://onlineinternetcafe.com/cipher-calculators/) — last modified 2026-07-28T07:03:01+00:00
@@ -1029,61 +1030,61 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Ciphertext Entropy Calculator](https://onlineinternetcafe.com/ciphertext-entropy-calculator/) — last modified 2026-07-28T07:03:13+00:00
 - [Circle Calculator](https://onlineinternetcafe.com/circle-calculator/) — last modified 2026-08-01T04:14:04+00:00
 - [Circle Skirt Calculator](https://onlineinternetcafe.com/practical-calculators/circle-skirt-calculator/) — last modified 2026-07-22T15:29:07+00:00
-- [Circuit Breaker Size Calculator 2](https://onlineinternetcafe.com/circuit-breaker-size-calculator-2/) — last modified 2026-08-01T04:14:04+00:00
+- [Circuit Breaker Size Calculator](https://onlineinternetcafe.com/circuit-breaker-size-calculator/) — last modified 2026-07-31T20:33:31+00:00
 - [Circular Curve Length Calculator](https://onlineinternetcafe.com/circular-curve-length-calculator/) — last modified 2026-08-01T04:14:05+00:00
 - [Clay Shrinkage Calculator](https://onlineinternetcafe.com/practical-calculators/clay-shrinkage-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Clean Time Calculator](https://onlineinternetcafe.com/clean-time-calculator/) — last modified 2026-08-01T04:14:05+00:00
-- [Closet Shelf Calculator 2](https://onlineinternetcafe.com/closet-shelf-calculator-2/) — last modified 2026-08-01T04:14:06+00:00
+- [Closet Shelf Calculator](https://onlineinternetcafe.com/closet-shelf-calculator/) — last modified 2026-07-31T20:33:32+00:00
 - [Closing Cost Calculator](https://onlineinternetcafe.com/web-calculators/closing-cost-calculator/) — last modified 2026-07-22T15:31:04+00:00
 - [Coast Fire Calculator](https://onlineinternetcafe.com/coast-fire-calculator/) — last modified 2026-08-01T04:14:07+00:00
 - [Coast Fire Calculator](https://onlineinternetcafe.com/specialized-calculators/coast-fire-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Coax Cable Loss Calculator 2](https://onlineinternetcafe.com/coax-cable-loss-calculator-2/) — last modified 2026-08-01T04:14:07+00:00
-- [Cocktail Abv Calculator 2](https://onlineinternetcafe.com/cocktail-abv-calculator-2/) — last modified 2026-08-01T04:14:35+00:00
-- [Coffee Extraction Yield Calculator 2](https://onlineinternetcafe.com/coffee-extraction-yield-calculator-2/) — last modified 2026-08-01T04:14:35+00:00
+- [Coax Cable Loss Calculator](https://onlineinternetcafe.com/coax-cable-loss-calculator/) — last modified 2026-07-31T20:32:20+00:00
+- [Cocktail Abv Calculator](https://onlineinternetcafe.com/cocktail-abv-calculator/) — last modified 2026-07-31T20:32:21+00:00
+- [Coffee Extraction Yield Calculator](https://onlineinternetcafe.com/coffee-extraction-yield-calculator/) — last modified 2026-07-31T20:32:22+00:00
 - [Coffee Ratio Calculator](https://onlineinternetcafe.com/coffee-ratio-calculator/) — last modified 2026-08-01T04:14:36+00:00
 - [Coil Spring Rate Calculator](https://onlineinternetcafe.com/coil-spring-rate-calculator/) — last modified 2026-08-01T04:14:36+00:00
-- [Cold Brew Ratio Calculator 2](https://onlineinternetcafe.com/cold-brew-ratio-calculator-2/) — last modified 2026-08-01T04:14:37+00:00
+- [Cold Brew Ratio Calculator](https://onlineinternetcafe.com/cold-brew-ratio-calculator/) — last modified 2026-07-31T20:32:23+00:00
 - [College Cost Calculator](https://onlineinternetcafe.com/college-cost-calculator/) — last modified 2026-08-01T04:14:38+00:00
 - [Color Contrast Calculator](https://onlineinternetcafe.com/specialized-calculators/color-contrast-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Columnar Transposition Cipher Calculator](https://onlineinternetcafe.com/columnar-transposition-cipher-calculator/) — last modified 2026-07-28T07:03:31+00:00
 - [Columnar Transposition Decipher Calculator](https://onlineinternetcafe.com/columnar-transposition-decipher-calculator/) — last modified 2026-07-28T07:03:32+00:00
-- [Combined Gas Law Calculator 2](https://onlineinternetcafe.com/combined-gas-law-calculator-2/) — last modified 2026-08-01T04:14:38+00:00
+- [Combined Gas Law Calculator](https://onlineinternetcafe.com/combined-gas-law-calculator/) — last modified 2026-07-31T20:32:25+00:00
 - [Commercial Cleaning Calculator](https://onlineinternetcafe.com/commercial-cleaning-calculator/) — last modified 2026-08-01T04:14:38+00:00
 - [Commute Cost Return To Office Calculator](https://onlineinternetcafe.com/commute-cost-return-to-office-calculator/) — last modified 2026-08-01T04:14:39+00:00
 - [Complex Number Calculator](https://onlineinternetcafe.com/complex-number-calculator/) — last modified 2026-08-01T04:14:39+00:00
 - [Composite Centroid Calculator](https://onlineinternetcafe.com/composite-centroid-calculator/) — last modified 2026-08-01T04:14:40+00:00
 - [Compost Calculator](https://onlineinternetcafe.com/compost-calculator/) — last modified 2026-08-01T04:14:41+00:00
 - [Compost Cn Ratio Calculator](https://onlineinternetcafe.com/compost-cn-ratio-calculator/) — last modified 2026-08-01T04:14:40+00:00
-- [Compost Volume Calculator 2](https://onlineinternetcafe.com/compost-volume-calculator-2/) — last modified 2026-08-01T04:14:41+00:00
+- [Compost Volume Calculator](https://onlineinternetcafe.com/compost-volume-calculator/) — last modified 2026-07-31T20:31:59+00:00
 - [Compound Interest Calculator](https://onlineinternetcafe.com/compound-interest-calculator/) — last modified 2026-08-01T04:14:42+00:00
 - [Compression Ratio Calculator](https://onlineinternetcafe.com/compression-ratio-calculator/) — last modified 2026-08-01T04:14:42+00:00
 - [Compression Ratio Calculator](https://onlineinternetcafe.com/specialized-calculators/compression-ratio-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Concrete Column Material Calculator 2](https://onlineinternetcafe.com/concrete-column-material-calculator-2/) — last modified 2026-08-01T04:14:43+00:00
-- [Concrete Curing Water Calculator 2](https://onlineinternetcafe.com/concrete-curing-water-calculator-2/) — last modified 2026-08-01T04:14:43+00:00
-- [Concrete Driveway Cost Calculator 2](https://onlineinternetcafe.com/concrete-driveway-cost-calculator-2/) — last modified 2026-08-01T04:14:43+00:00
-- [Concrete Footing Material Calculator 2](https://onlineinternetcafe.com/concrete-footing-material-calculator-2/) — last modified 2026-08-01T04:14:44+00:00
-- [Concrete Slab Material Calculator 2](https://onlineinternetcafe.com/concrete-slab-material-calculator-2/) — last modified 2026-08-01T04:14:44+00:00
-- [Concrete Stair Material Calculator 2](https://onlineinternetcafe.com/concrete-stair-material-calculator-2/) — last modified 2026-08-01T04:14:44+00:00
+- [Concrete Column Material Calculator](https://onlineinternetcafe.com/concrete-column-material-calculator/) — last modified 2026-07-31T20:32:00+00:00
+- [Concrete Curing Water Calculator](https://onlineinternetcafe.com/concrete-curing-water-calculator/) — last modified 2026-07-31T20:32:01+00:00
+- [Concrete Driveway Cost Calculator](https://onlineinternetcafe.com/concrete-driveway-cost-calculator/) — last modified 2026-07-31T20:32:02+00:00
+- [Concrete Footing Material Calculator](https://onlineinternetcafe.com/concrete-footing-material-calculator/) — last modified 2026-07-31T20:32:03+00:00
+- [Concrete Slab Material Calculator](https://onlineinternetcafe.com/concrete-slab-material-calculator/) — last modified 2026-07-31T20:32:05+00:00
+- [Concrete Stair Material Calculator](https://onlineinternetcafe.com/concrete-stair-material-calculator/) — last modified 2026-07-31T20:32:06+00:00
 - [Concrete Yard Calculator](https://onlineinternetcafe.com/concrete-yard-calculator/) — last modified 2026-08-01T04:14:44+00:00
-- [Conduction Heat Transfer Calculator 2](https://onlineinternetcafe.com/conduction-heat-transfer-calculator-2/) — last modified 2026-08-01T04:14:44+00:00
+- [Conduction Heat Transfer Calculator](https://onlineinternetcafe.com/conduction-heat-transfer-calculator/) — last modified 2026-07-31T20:32:07+00:00
+- [Conduit Fill Calculator](https://onlineinternetcafe.com/conduit-fill-calculator/) — last modified 2026-07-31T20:32:08+00:00
 - [Conduit Fill Calculator](https://onlineinternetcafe.com/specialized-calculators/conduit-fill-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Conduit Fill Calculator 2](https://onlineinternetcafe.com/conduit-fill-calculator-2/) — last modified 2026-08-01T04:14:45+00:00
-- [Cone Volume Calculator 2](https://onlineinternetcafe.com/cone-volume-calculator-2/) — last modified 2026-08-01T04:14:45+00:00
+- [Cone Volume Calculator](https://onlineinternetcafe.com/cone-volume-calculator/) — last modified 2026-07-31T20:31:05+00:00
 - [Confidence Interval Calculator](https://onlineinternetcafe.com/confidence-interval-calculator/) — last modified 2026-08-01T04:14:45+00:00
 - [Confidence Interval Formula Calculator 2](https://onlineinternetcafe.com/confidence-interval-formula-calculator-2/) — last modified 2026-07-18T12:14:14+00:00
 - [Construction Loan Calculator](https://onlineinternetcafe.com/construction-loan-calculator/) — last modified 2026-08-01T04:14:45+00:00
-- [Container Load Calculator 2](https://onlineinternetcafe.com/container-load-calculator-2/) — last modified 2026-08-01T04:14:45+00:00
+- [Container Load Calculator](https://onlineinternetcafe.com/container-load-calculator/) — last modified 2026-07-31T20:32:09+00:00
 - [Contractor Pay Calculator](https://onlineinternetcafe.com/contractor-pay-calculator/) — last modified 2026-08-01T04:14:46+00:00
 - [Contribution Margin Calculator](https://onlineinternetcafe.com/contribution-margin-calculator/) — last modified 2026-08-01T04:14:46+00:00
-- [Convection Heat Transfer Calculator 2](https://onlineinternetcafe.com/convection-heat-transfer-calculator-2/) — last modified 2026-08-01T04:14:46+00:00
+- [Convection Heat Transfer Calculator](https://onlineinternetcafe.com/convection-heat-transfer-calculator/) — last modified 2026-07-31T20:32:10+00:00
 - [Conversion Calculator](https://onlineinternetcafe.com/conversion-calculator/) — last modified 2026-08-01T04:25:21+00:00
-- [Cooper Vo2max Calculator 2](https://onlineinternetcafe.com/cooper-vo2max-calculator-2/) — last modified 2026-08-01T04:14:47+00:00
+- [Cooper Vo2max Calculator](https://onlineinternetcafe.com/cooper-vo2max-calculator/) — last modified 2026-07-31T20:32:12+00:00
 - [Corrected Calcium Calculator](https://onlineinternetcafe.com/web-calculators/corrected-calcium-calculator/) — last modified 2026-07-22T15:31:04+00:00
-- [Corrugated Panel Calculator 2](https://onlineinternetcafe.com/corrugated-panel-calculator-2/) — last modified 2026-08-01T04:14:47+00:00
-- [Cost Equity Ddm Calculator 2](https://onlineinternetcafe.com/cost-equity-ddm-calculator-2/) — last modified 2026-08-01T04:14:47+00:00
+- [Corrugated Panel Calculator](https://onlineinternetcafe.com/corrugated-panel-calculator/) — last modified 2026-07-31T20:32:13+00:00
+- [Cost Equity Ddm Calculator](https://onlineinternetcafe.com/cost-equity-ddm-calculator/) — last modified 2026-07-31T20:32:14+00:00
 - [Cost Of Goods Sold Calculator](https://onlineinternetcafe.com/specialized-calculators/cost-of-goods-sold-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Coulomb Force Calculator 2](https://onlineinternetcafe.com/coulomb-force-calculator-2/) — last modified 2026-08-01T04:14:47+00:00
-- [Countertop Cost Calculator 2](https://onlineinternetcafe.com/countertop-cost-calculator-2/) — last modified 2026-08-01T04:14:48+00:00
+- [Coulomb Force Calculator](https://onlineinternetcafe.com/coulomb-force-calculator/) — last modified 2026-07-31T20:32:15+00:00
+- [Countertop Cost Calculator](https://onlineinternetcafe.com/countertop-cost-calculator/) — last modified 2026-07-31T20:32:17+00:00
 - [Countertop Square Footage Calculator](https://onlineinternetcafe.com/countertop-square-footage-calculator/) — last modified 2026-08-01T04:14:48+00:00
 - [Covered Call Calculator](https://onlineinternetcafe.com/practical-calculators/covered-call-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Covered Call Return Calculator](https://onlineinternetcafe.com/covered-call-return-calculator/) — last modified 2026-08-01T04:14:48+00:00
@@ -1091,53 +1092,53 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Cpk Calculator](https://onlineinternetcafe.com/cpk-calculator/) — last modified 2026-08-01T04:15:06+00:00
 - [Cpm Calculator](https://onlineinternetcafe.com/cpm-calculator/) — last modified 2026-08-01T04:15:07+00:00
 - [Cpm Calculator](https://onlineinternetcafe.com/specialized-calculators/cpm-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Crawl Ratio Calculator 2](https://onlineinternetcafe.com/crawl-ratio-calculator-2/) — last modified 2026-08-01T04:15:07+00:00
+- [Crawl Ratio Calculator](https://onlineinternetcafe.com/crawl-ratio-calculator/) — last modified 2026-07-31T20:32:18+00:00
 - [Creatinine Clearance Calculator](https://onlineinternetcafe.com/web-calculators/creatinine-clearance-calculator/) — last modified 2026-07-22T15:31:04+00:00
 - [Credit Card Payoff Calculator](https://onlineinternetcafe.com/credit-card-payoff-calculator/) — last modified 2026-08-01T04:15:07+00:00
+- [Credit Utilization Calculator](https://onlineinternetcafe.com/credit-utilization-calculator/) — last modified 2026-07-31T20:31:32+00:00
 - [Credit Utilization Calculator](https://onlineinternetcafe.com/specialized-calculators/credit-utilization-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Credit Utilization Calculator 2](https://onlineinternetcafe.com/credit-utilization-calculator-2/) — last modified 2026-08-01T04:15:07+00:00
 - [Cribbage Score Calculator](https://onlineinternetcafe.com/cribbage-score-calculator/) — last modified 2026-08-01T04:15:08+00:00
-- [Critical Angle Calculator 2](https://onlineinternetcafe.com/critical-angle-calculator-2/) — last modified 2026-08-01T04:15:08+00:00
+- [Critical Angle Calculator](https://onlineinternetcafe.com/critical-angle-calculator/) — last modified 2026-07-31T20:31:33+00:00
 - [Cross Stitch Fabric Calculator](https://onlineinternetcafe.com/cross-stitch-fabric-calculator/) — last modified 2026-08-01T04:15:08+00:00
 - [Cross Stitch Fabric Calculator](https://onlineinternetcafe.com/practical-calculators/cross-stitch-fabric-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Crosswind Calculator](https://onlineinternetcafe.com/specialized-calculators/crosswind-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Crosswind Component Calculator](https://onlineinternetcafe.com/crosswind-component-calculator/) — last modified 2026-08-01T04:15:08+00:00
-- [Crown Molding Calculator 2](https://onlineinternetcafe.com/crown-molding-calculator-2/) — last modified 2026-08-01T04:15:08+00:00
+- [Crown Molding Calculator](https://onlineinternetcafe.com/crown-molding-calculator/) — last modified 2026-07-31T20:31:34+00:00
 - [Crusher Run Calculator](https://onlineinternetcafe.com/crusher-run-calculator/) — last modified 2026-08-01T04:15:09+00:00
 - [Crypto Profit Calculator](https://onlineinternetcafe.com/web-calculators/crypto-profit-calculator/) — last modified 2026-07-22T15:31:04+00:00
 - [Cumulative Abnormal Return Calculator](https://onlineinternetcafe.com/specialized-calculators/cumulative-abnormal-return-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Cumulative Gpa Calculator](https://onlineinternetcafe.com/cumulative-gpa-calculator/) — last modified 2026-08-01T04:15:09+00:00
 - [Curb And Gutter Concrete Calculator](https://onlineinternetcafe.com/curb-and-gutter-concrete-calculator/) — last modified 2026-08-01T04:15:09+00:00
-- [Curing Salt Calculator 2](https://onlineinternetcafe.com/curing-salt-calculator-2/) — last modified 2026-08-01T04:15:09+00:00
-- [Current Ratio Calculator 2](https://onlineinternetcafe.com/current-ratio-calculator-2/) — last modified 2026-08-01T04:15:09+00:00
-- [Curtain Fabric Calculator 2](https://onlineinternetcafe.com/curtain-fabric-calculator-2/) — last modified 2026-08-01T04:15:09+00:00
-- [Cut Fill Balance Calculator 2](https://onlineinternetcafe.com/cut-fill-balance-calculator-2/) — last modified 2026-08-01T04:15:10+00:00
+- [Curing Salt Calculator](https://onlineinternetcafe.com/curing-salt-calculator/) — last modified 2026-07-31T20:31:36+00:00
+- [Current Ratio Calculator](https://onlineinternetcafe.com/current-ratio-calculator/) — last modified 2026-07-31T20:31:37+00:00
+- [Curtain Fabric Calculator](https://onlineinternetcafe.com/curtain-fabric-calculator/) — last modified 2026-07-31T20:31:38+00:00
+- [Cut Fill Balance Calculator](https://onlineinternetcafe.com/cut-fill-balance-calculator/) — last modified 2026-07-31T20:31:39+00:00
 - [Cycles Per Instruction Calculator](https://onlineinternetcafe.com/practical-calculators/cycles-per-instruction-calculator/) — last modified 2026-07-22T15:29:07+00:00
-- [Cycling Cadence Speed Calculator 2](https://onlineinternetcafe.com/cycling-cadence-speed-calculator-2/) — last modified 2026-08-01T04:15:10+00:00
+- [Cycling Cadence Speed Calculator](https://onlineinternetcafe.com/cycling-cadence-speed-calculator/) — last modified 2026-07-31T20:31:41+00:00
 - [Daily Calorie Calculator](https://onlineinternetcafe.com/daily-calorie-calculator/) — last modified 2026-08-01T04:15:10+00:00
-- [Darcy Weisbach Loss Calculator 2](https://onlineinternetcafe.com/darcy-weisbach-loss-calculator-2/) — last modified 2026-08-01T04:15:10+00:00
+- [Darcy Weisbach Loss Calculator](https://onlineinternetcafe.com/darcy-weisbach-loss-calculator/) — last modified 2026-07-31T20:31:42+00:00
 - [Data Transfer Calculator](https://onlineinternetcafe.com/data-transfer-calculator/) — last modified 2026-08-01T04:15:10+00:00
 - [Date Calculator](https://onlineinternetcafe.com/date-calculator/) — last modified 2026-08-01T04:15:11+00:00
 - [Day Of The Week Calculator](https://onlineinternetcafe.com/day-of-the-week-calculator/) — last modified 2026-08-01T04:15:11+00:00
-- [De Broglie Wavelength Calculator 2](https://onlineinternetcafe.com/de-broglie-wavelength-calculator-2/) — last modified 2026-08-01T04:15:11+00:00
+- [De Broglie Wavelength Calculator](https://onlineinternetcafe.com/de-broglie-wavelength-calculator/) — last modified 2026-07-31T20:31:43+00:00
 - [Debate Break Calculator](https://onlineinternetcafe.com/debate-break-calculator/) — last modified 2026-08-01T04:15:11+00:00
-- [Debt Avalanche Calculator 2](https://onlineinternetcafe.com/debt-avalanche-calculator-2/) — last modified 2026-08-01T04:15:12+00:00
-- [Debt Equity Ratio Calculator 2](https://onlineinternetcafe.com/debt-equity-ratio-calculator-2/) — last modified 2026-08-01T04:15:12+00:00
+- [Debt Avalanche Calculator](https://onlineinternetcafe.com/debt-avalanche-calculator/) — last modified 2026-07-31T20:31:44+00:00
+- [Debt Equity Ratio Calculator](https://onlineinternetcafe.com/debt-equity-ratio-calculator/) — last modified 2026-07-31T20:31:45+00:00
 - [Debt Snowball Calculator](https://onlineinternetcafe.com/debt-snowball-calculator/) — last modified 2026-08-01T04:15:12+00:00
 - [Debt To Income Calculator](https://onlineinternetcafe.com/debt-to-income-calculator/) — last modified 2026-08-01T04:15:12+00:00
 - [Decibel Calculator](https://onlineinternetcafe.com/specialized-calculators/decibel-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Decimal To Binary Calculator](https://onlineinternetcafe.com/decimal-to-binary-calculator/) — last modified 2026-08-01T04:15:12+00:00
 - [Decipher Calculators](https://onlineinternetcafe.com/decipher-calculators/) — last modified 2026-07-28T07:03:02+00:00
 - [Deck Board Calculator](https://onlineinternetcafe.com/specialized-calculators/deck-board-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Deck Board Layout Calculator 2](https://onlineinternetcafe.com/deck-board-layout-calculator-2/) — last modified 2026-08-01T04:15:12+00:00
+- [Deck Board Layout Calculator](https://onlineinternetcafe.com/deck-board-layout-calculator/) — last modified 2026-07-31T20:31:46+00:00
 - [Deck Calculator](https://onlineinternetcafe.com/deck-calculator/) — last modified 2026-08-01T04:15:13+00:00
-- [Deck Footing Count Calculator 2](https://onlineinternetcafe.com/deck-footing-count-calculator-2/) — last modified 2026-08-01T04:15:13+00:00
-- [Deck Joist Layout Calculator 2](https://onlineinternetcafe.com/deck-joist-layout-calculator-2/) — last modified 2026-08-01T04:15:13+00:00
-- [Deck Railing Calculator 2](https://onlineinternetcafe.com/deck-railing-calculator-2/) — last modified 2026-08-01T04:15:13+00:00
-- [Declining Balance Depreciation Calculator 2](https://onlineinternetcafe.com/declining-balance-depreciation-calculator-2/) — last modified 2026-08-01T04:15:13+00:00
+- [Deck Footing Count Calculator](https://onlineinternetcafe.com/deck-footing-count-calculator/) — last modified 2026-07-31T20:31:47+00:00
+- [Deck Joist Layout Calculator](https://onlineinternetcafe.com/deck-joist-layout-calculator/) — last modified 2026-07-31T20:31:48+00:00
+- [Deck Railing Calculator](https://onlineinternetcafe.com/deck-railing-calculator/) — last modified 2026-07-31T20:31:50+00:00
+- [Declining Balance Depreciation Calculator](https://onlineinternetcafe.com/declining-balance-depreciation-calculator/) — last modified 2026-07-31T20:31:51+00:00
 - [Decomposed Granite Calculator](https://onlineinternetcafe.com/decomposed-granite-calculator/) — last modified 2026-08-01T04:15:13+00:00
 - [Deer Antler Score Calculator](https://onlineinternetcafe.com/deer-antler-score-calculator/) — last modified 2026-08-01T04:15:14+00:00
-- [Dehumidifier Capacity Calculator 2](https://onlineinternetcafe.com/dehumidifier-capacity-calculator-2/) — last modified 2026-08-01T04:15:22+00:00
+- [Dehumidifier Capacity Calculator](https://onlineinternetcafe.com/dehumidifier-capacity-calculator/) — last modified 2026-07-31T20:31:52+00:00
 - [Delivery Cost Stop Calculator](https://onlineinternetcafe.com/delivery-cost-stop-calculator/) — last modified 2026-08-01T04:15:22+00:00
 - [Delivery Earnings Calculator](https://onlineinternetcafe.com/web-calculators/delivery-earnings-calculator/) — last modified 2026-07-22T15:31:04+00:00
 - [Demolition Cost Calculator](https://onlineinternetcafe.com/demolition-cost-calculator/) — last modified 2026-08-01T04:15:22+00:00
@@ -1148,79 +1149,72 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Diamond Birthday Calculator](https://onlineinternetcafe.com/diamond-birthday-calculator/) — last modified 2026-08-01T04:15:23+00:00
 - [Dice Counter](https://onlineinternetcafe.com/dice-counter/) — last modified 2026-08-01T04:15:23+00:00
 - [Differential Equation Solver](https://onlineinternetcafe.com/differential-equation-solver/) — last modified 2026-07-23T01:54:56+00:00
-- [Diffraction Grating Calculator 2](https://onlineinternetcafe.com/diffraction-grating-calculator-2/) — last modified 2026-08-01T04:15:24+00:00
+- [Diffraction Grating Calculator](https://onlineinternetcafe.com/diffraction-grating-calculator/) — last modified 2026-07-31T20:31:54+00:00
 - [Dilution Calculator](https://onlineinternetcafe.com/specialized-calculators/dilution-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Dilution Ratio Calculator](https://onlineinternetcafe.com/dilution-ratio-calculator/) — last modified 2026-08-01T04:15:24+00:00
 - [Dilution Ratio Calculator](https://onlineinternetcafe.com/practical-calculators/dilution-ratio-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Dimensional Weight Calculator](https://onlineinternetcafe.com/dimensional-weight-calculator/) — last modified 2026-08-01T04:15:24+00:00
 - [Direct Mail Roi Calculator](https://onlineinternetcafe.com/direct-mail-roi-calculator/) — last modified 2026-08-01T04:15:24+00:00
 - [Discount Calculator](https://onlineinternetcafe.com/discount-calculator/) — last modified 2026-08-01T04:15:24+00:00
-- [Discounted Cash Flow Calculator 2](https://onlineinternetcafe.com/discounted-cash-flow-calculator-2/) — last modified 2026-08-01T04:15:24+00:00
-- [Discounted Payback Calculator 2](https://onlineinternetcafe.com/discounted-payback-calculator-2/) — last modified 2026-08-01T04:15:24+00:00
+- [Discounted Cash Flow Calculator](https://onlineinternetcafe.com/discounted-cash-flow-calculator/) — last modified 2026-07-31T20:31:55+00:00
+- [Discounted Payback Calculator](https://onlineinternetcafe.com/discounted-payback-calculator/) — last modified 2026-07-31T20:31:56+00:00
 - [Dividend Calculator](https://onlineinternetcafe.com/web-calculators/dividend-calculator/) — last modified 2026-07-22T15:31:04+00:00
-- [Dividend Discount Calculator 2](https://onlineinternetcafe.com/dividend-discount-calculator-2/) — last modified 2026-08-01T04:15:25+00:00
+- [Dividend Discount Calculator](https://onlineinternetcafe.com/dividend-discount-calculator/) — last modified 2026-07-31T20:31:57+00:00
+- [Dividend Yield Calculator](https://onlineinternetcafe.com/dividend-yield-calculator/) — last modified 2026-07-31T20:29:34+00:00
 - [Dividend Yield Calculator](https://onlineinternetcafe.com/web-calculators/dividend-yield-calculator/) — last modified 2026-07-22T15:31:04+00:00
-- [Dividend Yield Calculator 2](https://onlineinternetcafe.com/dividend-yield-calculator-2/) — last modified 2026-08-01T04:15:25+00:00
-- [Dna Concentration Calculator 2](https://onlineinternetcafe.com/dna-concentration-calculator-2/) — last modified 2026-08-01T04:15:25+00:00
-- [Dna Melting Temperature Calculator 2](https://onlineinternetcafe.com/dna-melting-temperature-calculator-2/) — last modified 2026-08-01T04:15:25+00:00
+- [Dna Concentration Calculator](https://onlineinternetcafe.com/dna-concentration-calculator/) — last modified 2026-07-31T20:29:35+00:00
+- [Dna Melting Temperature Calculator](https://onlineinternetcafe.com/dna-melting-temperature-calculator/) — last modified 2026-07-31T20:29:36+00:00
 - [Dog Age Calculator](https://onlineinternetcafe.com/dog-age-calculator/) — last modified 2026-08-01T04:15:25+00:00
-- [Dog Crate Size Calculator 2](https://onlineinternetcafe.com/dog-crate-size-calculator-2/) — last modified 2026-08-01T04:15:25+00:00
-- [Dog Food Calculator 2](https://onlineinternetcafe.com/dog-food-calculator-2/) — last modified 2026-08-01T04:15:26+00:00
+- [Dog Crate Size Calculator](https://onlineinternetcafe.com/dog-crate-size-calculator/) — last modified 2026-07-31T20:29:37+00:00
+- [Dog Food Calculator](https://onlineinternetcafe.com/dog-food-calculator/) — last modified 2026-07-31T20:29:38+00:00
 - [Dollar Cost Averaging Calculator](https://onlineinternetcafe.com/dollar-cost-averaging-calculator/) — last modified 2026-08-01T04:15:26+00:00
 - [Domain Range Calculator](https://onlineinternetcafe.com/domain-range-calculator/) — last modified 2026-08-01T04:15:26+00:00
-- [Door Rough Opening Calculator 2](https://onlineinternetcafe.com/door-rough-opening-calculator-2/) — last modified 2026-08-01T04:15:26+00:00
+- [Door Rough Opening Calculator](https://onlineinternetcafe.com/door-rough-opening-calculator/) — last modified 2026-07-31T20:29:39+00:00
 - [Doordash Tip Calculator](https://onlineinternetcafe.com/doordash-tip-calculator/) — last modified 2026-08-01T04:15:26+00:00
 - [Doppler Effect Calculator](https://onlineinternetcafe.com/specialized-calculators/doppler-effect-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Doppler Frequency Calculator 2](https://onlineinternetcafe.com/doppler-frequency-calculator-2/) — last modified 2026-08-01T04:15:26+00:00
+- [Doppler Frequency Calculator](https://onlineinternetcafe.com/doppler-frequency-calculator/) — last modified 2026-07-31T20:29:40+00:00
 - [Dots Powerlifting Score Calculator](https://onlineinternetcafe.com/dots-powerlifting-score-calculator/) — last modified 2026-08-01T04:15:27+00:00
 - [Double Integral Calculator](https://onlineinternetcafe.com/double-integral-calculator/) — last modified 2026-08-01T04:15:27+00:00
-- [Double Slit Interference Calculator 2](https://onlineinternetcafe.com/double-slit-interference-calculator-2/) — last modified 2026-08-01T04:15:27+00:00
+- [Double Slit Interference Calculator](https://onlineinternetcafe.com/double-slit-interference-calculator/) — last modified 2026-07-31T20:29:41+00:00
 - [Double Transposition Cipher Calculator](https://onlineinternetcafe.com/double-transposition-cipher-calculator/) — last modified 2026-07-28T07:03:32+00:00
 - [Double Transposition Decipher Calculator](https://onlineinternetcafe.com/double-transposition-decipher-calculator/) — last modified 2026-07-28T07:03:33+00:00
-- [Dough Hydration Calculator 2](https://onlineinternetcafe.com/dough-hydration-calculator-2/) — last modified 2026-08-01T04:15:27+00:00
-- [Download Time Calculator 2](https://onlineinternetcafe.com/download-time-calculator-2/) — last modified 2026-08-01T04:15:27+00:00
-- [Downspout Capacity Calculator 2](https://onlineinternetcafe.com/downspout-capacity-calculator-2/) — last modified 2026-08-01T04:15:27+00:00
+- [Dough Hydration Calculator](https://onlineinternetcafe.com/dough-hydration-calculator/) — last modified 2026-07-31T20:29:43+00:00
+- [Download Time Calculator](https://onlineinternetcafe.com/download-time-calculator/) — last modified 2026-07-31T20:29:44+00:00
+- [Downspout Capacity Calculator](https://onlineinternetcafe.com/downspout-capacity-calculator/) — last modified 2026-07-31T20:29:45+00:00
 - [Draw Length Calculator](https://onlineinternetcafe.com/practical-calculators/draw-length-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Drive Belt Length Calculator](https://onlineinternetcafe.com/practical-calculators/drive-belt-length-calculator/) — last modified 2026-07-22T15:29:07+00:00
-- [Driveway Slope Calculator 2](https://onlineinternetcafe.com/driveway-slope-calculator-2/) — last modified 2026-08-01T04:15:27+00:00
-- [Drop Ceiling Grid Calculator 2](https://onlineinternetcafe.com/drop-ceiling-grid-calculator-2/) — last modified 2026-08-01T04:15:28+00:00
+- [Driveway Slope Calculator](https://onlineinternetcafe.com/driveway-slope-calculator/) — last modified 2026-07-31T20:29:46+00:00
+- [Drop Ceiling Grid Calculator](https://onlineinternetcafe.com/drop-ceiling-grid-calculator/) — last modified 2026-07-31T20:29:47+00:00
 - [Drywall Calculator](https://onlineinternetcafe.com/specialized-calculators/drywall-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Drywall Compound Calculator 2](https://onlineinternetcafe.com/drywall-compound-calculator-2/) — last modified 2026-08-01T04:15:28+00:00
+- [Drywall Compound Calculator](https://onlineinternetcafe.com/drywall-compound-calculator/) — last modified 2026-07-31T20:29:48+00:00
 - [Drywall Hang Finish Cost Calculator](https://onlineinternetcafe.com/drywall-hang-finish-cost-calculator/) — last modified 2026-08-01T04:15:28+00:00
-- [Drywall Screw Calculator 2](https://onlineinternetcafe.com/drywall-screw-calculator-2/) — last modified 2026-08-01T04:15:28+00:00
-- [Drywall Sheet Calculator 2](https://onlineinternetcafe.com/drywall-sheet-calculator-2/) — last modified 2026-08-01T04:15:28+00:00
-- [Duct Pressure Drop Calculator 2](https://onlineinternetcafe.com/duct-pressure-drop-calculator-2/) — last modified 2026-08-01T04:15:38+00:00
+- [Drywall Screw Calculator](https://onlineinternetcafe.com/drywall-screw-calculator/) — last modified 2026-07-31T20:29:48+00:00
+- [Drywall Sheet Calculator](https://onlineinternetcafe.com/drywall-sheet-calculator/) — last modified 2026-07-31T20:29:49+00:00
+- [Duct Pressure Drop Calculator](https://onlineinternetcafe.com/duct-pressure-drop-calculator/) — last modified 2026-07-31T20:29:50+00:00
 - [Duct Sizing Calculator](https://onlineinternetcafe.com/duct-sizing-calculator/) — last modified 2026-08-01T04:15:38+00:00
-- [Dupont Analysis Calculator 2](https://onlineinternetcafe.com/dupont-analysis-calculator-2/) — last modified 2026-08-01T04:15:39+00:00
+- [Dupont Analysis Calculator](https://onlineinternetcafe.com/dupont-analysis-calculator/) — last modified 2026-07-31T20:29:50+00:00
 - [Earnings Per Share Calculator](https://onlineinternetcafe.com/specialized-calculators/earnings-per-share-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Earth Curvature Calculator](https://onlineinternetcafe.com/earth-curvature-calculator/) — last modified 2026-08-01T04:15:39+00:00
 - [Ebitda Calculator](https://onlineinternetcafe.com/specialized-calculators/ebitda-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Ebitda Margin Calculator 2](https://onlineinternetcafe.com/ebitda-margin-calculator-2/) — last modified 2026-08-01T04:15:39+00:00
-- [Economic Value Added Calculator 2](https://onlineinternetcafe.com/economic-value-added-calculator-2/) — last modified 2026-08-01T04:15:39+00:00
+- [Ebitda Margin Calculator](https://onlineinternetcafe.com/ebitda-margin-calculator/) — last modified 2026-07-31T20:29:51+00:00
+- [Economic Value Added Calculator](https://onlineinternetcafe.com/economic-value-added-calculator/) — last modified 2026-07-31T20:31:30+00:00
 - [Egress Window Calculator](https://onlineinternetcafe.com/egress-window-calculator/) — last modified 2026-08-01T04:15:39+00:00
 - [Eigenvalue Eigenvector Calculator](https://onlineinternetcafe.com/eigenvalue-eigenvector-calculator/) — last modified 2026-08-01T04:15:39+00:00
 - [Electric Field Charge Calculator](https://onlineinternetcafe.com/electric-field-charge-calculator/) — last modified 2026-08-01T04:15:39+00:00
-- [Electric Field Charge Calculator 2](https://onlineinternetcafe.com/electric-field-charge-calculator-2/) — last modified 2026-07-31T20:29:10+00:00
 - [Electric Potential Charge Calculator](https://onlineinternetcafe.com/electric-potential-charge-calculator/) — last modified 2026-07-31T20:29:12+00:00
-- [Electric Potential Charge Calculator 2](https://onlineinternetcafe.com/electric-potential-charge-calculator-2/) — last modified 2026-08-01T04:15:40+00:00
 - [Electrical Box Fill Calculator](https://onlineinternetcafe.com/electrical-box-fill-calculator/) — last modified 2026-07-31T20:29:13+00:00
-- [Electrical Box Fill Calculator 2](https://onlineinternetcafe.com/electrical-box-fill-calculator-2/) — last modified 2026-08-01T04:15:40+00:00
 - [Electrical Wire Size Calculator](https://onlineinternetcafe.com/electrical-wire-size-calculator/) — last modified 2026-08-01T04:15:40+00:00
 - [Electrical Wiring Cost Calculator](https://onlineinternetcafe.com/electrical-wiring-cost-calculator/) — last modified 2026-08-01T04:15:40+00:00
 - [Electricity Bill Calculator](https://onlineinternetcafe.com/electricity-bill-calculator/) — last modified 2026-07-31T20:29:14+00:00
-- [Electricity Bill Calculator 2](https://onlineinternetcafe.com/electricity-bill-calculator-2/) — last modified 2026-08-01T04:15:40+00:00
 - [Emergency Fund Calculator](https://onlineinternetcafe.com/emergency-fund-calculator/) — last modified 2026-07-31T20:29:15+00:00
 - [Emergency Fund Calculator](https://onlineinternetcafe.com/web-calculators/emergency-fund-calculator/) — last modified 2026-07-22T15:31:04+00:00
-- [Emergency Fund Calculator 2](https://onlineinternetcafe.com/emergency-fund-calculator-2/) — last modified 2026-08-01T04:15:40+00:00
 - [Empirical Formula Calculator](https://onlineinternetcafe.com/specialized-calculators/empirical-formula-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Empirical Formula Ratio Calculator](https://onlineinternetcafe.com/empirical-formula-ratio-calculator/) — last modified 2026-07-31T20:29:16+00:00
-- [Empirical Formula Ratio Calculator 2](https://onlineinternetcafe.com/empirical-formula-ratio-calculator-2/) — last modified 2026-08-01T04:15:40+00:00
 - [Engine Displacement Calculator](https://onlineinternetcafe.com/engine-displacement-calculator/) — last modified 2026-07-31T20:29:17+00:00
 - [Engine Displacement Calculator](https://onlineinternetcafe.com/specialized-calculators/engine-displacement-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Enterprise Value Calculator](https://onlineinternetcafe.com/enterprise-value-calculator/) — last modified 2026-08-01T04:15:41+00:00
 - [Enterprise Value Calculator](https://onlineinternetcafe.com/specialized-calculators/enterprise-value-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Entropy Change Calculator](https://onlineinternetcafe.com/entropy-change-calculator/) — last modified 2026-07-31T20:29:18+00:00
-- [Entropy Change Calculator 2](https://onlineinternetcafe.com/entropy-change-calculator-2/) — last modified 2026-08-01T04:15:41+00:00
 - [Enzyme Activity Calculator](https://onlineinternetcafe.com/enzyme-activity-calculator/) — last modified 2026-08-01T04:15:41+00:00
 - [Epoxy Calculator](https://onlineinternetcafe.com/practical-calculators/epoxy-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Epoxy Floor Coating Calculator](https://onlineinternetcafe.com/epoxy-floor-coating-calculator/) — last modified 2026-08-01T04:15:41+00:00
@@ -1228,73 +1222,55 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Epoxy Resin Calculator](https://onlineinternetcafe.com/epoxy-resin-calculator/) — last modified 2026-08-01T04:15:41+00:00
 - [Equation Plotter Calculator](https://onlineinternetcafe.com/equation-plotter-calculator/) — last modified 2026-07-23T01:55:04+00:00
 - [Equilibrium Constant Calculator](https://onlineinternetcafe.com/equilibrium-constant-calculator/) — last modified 2026-07-31T20:29:20+00:00
-- [Equilibrium Constant Calculator 2](https://onlineinternetcafe.com/equilibrium-constant-calculator-2/) — last modified 2026-08-01T04:15:41+00:00
 - [Equipment Lease Buy Calculator](https://onlineinternetcafe.com/equipment-lease-buy-calculator/) — last modified 2026-07-31T20:29:21+00:00
-- [Equipment Lease Buy Calculator 2](https://onlineinternetcafe.com/equipment-lease-buy-calculator-2/) — last modified 2026-08-01T04:15:42+00:00
 - [Equipment Loan Calculator](https://onlineinternetcafe.com/equipment-loan-calculator/) — last modified 2026-07-31T20:29:22+00:00
-- [Equipment Loan Calculator 2](https://onlineinternetcafe.com/equipment-loan-calculator-2/) — last modified 2026-08-01T04:15:42+00:00
 - [Equivalence Point Calculator](https://onlineinternetcafe.com/practical-calculators/equivalence-point-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Equivalent Annual Annuity Calculator](https://onlineinternetcafe.com/equivalent-annual-annuity-calculator/) — last modified 2026-07-31T20:29:23+00:00
-- [Equivalent Annual Annuity Calculator 2](https://onlineinternetcafe.com/equivalent-annual-annuity-calculator-2/) — last modified 2026-08-01T04:15:42+00:00
 - [Equivalent Expressions Calculator](https://onlineinternetcafe.com/equivalent-expressions-calculator/) — last modified 2026-08-01T04:15:42+00:00
 - [Equivalent Nodal Load Calculator](https://onlineinternetcafe.com/equivalent-nodal-load-calculator/) — last modified 2026-08-01T04:15:42+00:00
 - [Era Calculator](https://onlineinternetcafe.com/era-calculator/) — last modified 2026-08-01T04:12:38+00:00
 - [Erg Pace Calculator](https://onlineinternetcafe.com/practical-calculators/erg-pace-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Escape Velocity Calculator](https://onlineinternetcafe.com/specialized-calculators/escape-velocity-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Espresso Ratio Calculator](https://onlineinternetcafe.com/espresso-ratio-calculator/) — last modified 2026-07-31T20:29:24+00:00
-- [Espresso Ratio Calculator 2](https://onlineinternetcafe.com/espresso-ratio-calculator-2/) — last modified 2026-08-01T04:15:42+00:00
 - [Ethanol Vs Gasoline Calculator](https://onlineinternetcafe.com/web-calculators/ethanol-vs-gasoline-calculator/) — last modified 2026-07-22T15:31:04+00:00
 - [Euler Buckling Calculator](https://onlineinternetcafe.com/euler-buckling-calculator/) — last modified 2026-07-31T20:29:25+00:00
-- [Euler Buckling Calculator 2](https://onlineinternetcafe.com/euler-buckling-calculator-2/) — last modified 2026-08-01T04:15:43+00:00
 - [Ev Charging Cost Calculator](https://onlineinternetcafe.com/ev-charging-cost-calculator/) — last modified 2026-08-01T04:15:43+00:00
 - [Ev Charging Time Calculator](https://onlineinternetcafe.com/ev-charging-time-calculator/) — last modified 2026-07-31T20:29:26+00:00
-- [Ev Charging Time Calculator 2](https://onlineinternetcafe.com/ev-charging-time-calculator-2/) — last modified 2026-08-01T04:15:43+00:00
 - [Ev Range Efficiency Calculator](https://onlineinternetcafe.com/ev-range-efficiency-calculator/) — last modified 2026-07-31T20:29:28+00:00
-- [Ev Range Efficiency Calculator 2](https://onlineinternetcafe.com/ev-range-efficiency-calculator-2/) — last modified 2026-08-01T04:15:43+00:00
 - [Evony Troop Healing Calculator](https://onlineinternetcafe.com/evony-troop-healing-calculator/) — last modified 2026-08-01T04:15:43+00:00
 - [Evony Troop Layering Calculator](https://onlineinternetcafe.com/evony-troop-layering-calculator/) — last modified 2026-08-01T04:15:44+00:00
 - [Evony Troop Training Cost Calculator](https://onlineinternetcafe.com/evony-troop-training-cost-calculator/) — last modified 2026-08-01T04:15:44+00:00
 - [Excavation Volume Calculator](https://onlineinternetcafe.com/excavation-volume-calculator/) — last modified 2026-07-31T20:29:28+00:00
-- [Excavation Volume Calculator 2](https://onlineinternetcafe.com/excavation-volume-calculator-2/) — last modified 2026-08-01T04:15:44+00:00
-- [Expansion Tank Size Calculator 2](https://onlineinternetcafe.com/expansion-tank-size-calculator-2/) — last modified 2026-08-01T04:15:44+00:00
+- [Expansion Tank Size Calculator](https://onlineinternetcafe.com/expansion-tank-size-calculator/) — last modified 2026-07-31T20:29:30+00:00
 - [Exponential Growth Calculator](https://onlineinternetcafe.com/exponential-growth-calculator/) — last modified 2026-08-01T04:16:41+00:00
 - [Exponential Growth Calculator](https://onlineinternetcafe.com/practical-calculators/exponential-growth-calculator/) — last modified 2026-07-22T15:29:07+00:00
-- [Exterior Paint Calculator 2](https://onlineinternetcafe.com/exterior-paint-calculator-2/) — last modified 2026-08-01T04:16:41+00:00
-- [Factoring Cost Calculator 2](https://onlineinternetcafe.com/factoring-cost-calculator-2/) — last modified 2026-08-01T04:16:42+00:00
+- [Exterior Paint Calculator](https://onlineinternetcafe.com/exterior-paint-calculator/) — last modified 2026-07-31T20:29:31+00:00
+- [Factoring Cost Calculator](https://onlineinternetcafe.com/factoring-cost-calculator/) — last modified 2026-07-31T20:29:32+00:00
 - [Fan Affinity Laws Calculator](https://onlineinternetcafe.com/fan-affinity-laws-calculator/) — last modified 2026-08-01T04:16:42+00:00
-- [Fan Affinity Laws Calculator 2](https://onlineinternetcafe.com/fan-affinity-laws-calculator-2/) — last modified 2026-07-31T20:29:15+00:00
 - [Fantasy Points Calculator](https://onlineinternetcafe.com/fantasy-points-calculator/) — last modified 2026-08-01T04:16:42+00:00
 - [Faraday Induction Calculator](https://onlineinternetcafe.com/faraday-induction-calculator/) — last modified 2026-08-01T04:16:42+00:00
 - [Farnsworth Timing Calculator](https://onlineinternetcafe.com/farnsworth-timing-calculator/) — last modified 2026-07-28T18:12:07+00:00
 - [Fat Free Mass Index Calculator](https://onlineinternetcafe.com/fat-free-mass-index-calculator/) — last modified 2026-07-31T20:29:17+00:00
-- [Fat Free Mass Index Calculator 2](https://onlineinternetcafe.com/fat-free-mass-index-calculator-2/) — last modified 2026-08-01T04:16:43+00:00
 - [Fdic Coverage Calculator](https://onlineinternetcafe.com/fdic-coverage-calculator/) — last modified 2026-08-01T04:16:43+00:00
 - [Federal Income Tax Calculator](https://onlineinternetcafe.com/federal-income-tax-calculator/) — last modified 2026-08-01T04:16:43+00:00
 - [Feistel Cipher Calculator](https://onlineinternetcafe.com/feistel-cipher-calculator/) — last modified 2026-07-28T07:03:52+00:00
 - [Feistel Decipher Calculator](https://onlineinternetcafe.com/feistel-decipher-calculator/) — last modified 2026-07-28T07:03:52+00:00
 - [Fence Gate Width Calculator](https://onlineinternetcafe.com/fence-gate-width-calculator/) — last modified 2026-07-31T20:29:18+00:00
-- [Fence Gate Width Calculator 2](https://onlineinternetcafe.com/fence-gate-width-calculator-2/) — last modified 2026-08-01T04:16:43+00:00
 - [Fence Post Depth Calculator](https://onlineinternetcafe.com/fence-post-depth-calculator/) — last modified 2026-08-01T04:16:43+00:00
 - [Fence Post Depth Calculator](https://onlineinternetcafe.com/practical-calculators/fence-post-depth-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Fence Post Spacing Calculator](https://onlineinternetcafe.com/fence-post-spacing-calculator/) — last modified 2026-07-31T20:29:19+00:00
-- [Fence Post Spacing Calculator 2](https://onlineinternetcafe.com/fence-post-spacing-calculator-2/) — last modified 2026-08-01T04:16:44+00:00
 - [Fence Removal Cost Calculator](https://onlineinternetcafe.com/fence-removal-cost-calculator/) — last modified 2026-08-01T04:16:44+00:00
 - [Fertilizer Coverage Calculator](https://onlineinternetcafe.com/fertilizer-coverage-calculator/) — last modified 2026-07-31T20:29:21+00:00
-- [Fertilizer Coverage Calculator 2](https://onlineinternetcafe.com/fertilizer-coverage-calculator-2/) — last modified 2026-08-01T04:16:44+00:00
 - [Ffmi Calculator](https://onlineinternetcafe.com/specialized-calculators/ffmi-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Fiber Cement Siding Calculator](https://onlineinternetcafe.com/fiber-cement-siding-calculator/) — last modified 2026-07-31T20:29:22+00:00
-- [Fiber Cement Siding Calculator 2](https://onlineinternetcafe.com/fiber-cement-siding-calculator-2/) — last modified 2026-08-01T04:16:44+00:00
 - [Fill Dirt Calculator](https://onlineinternetcafe.com/fill-dirt-calculator/) — last modified 2026-08-01T04:16:44+00:00
 - [Final Exam Grade Calculator](https://onlineinternetcafe.com/specialized-calculators/final-exam-grade-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Firewood Calculator](https://onlineinternetcafe.com/practical-calculators/firewood-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Firewood Cord Calculator](https://onlineinternetcafe.com/firewood-cord-calculator/) — last modified 2026-08-01T04:16:44+00:00
 - [First Order Kinetics Calculator](https://onlineinternetcafe.com/first-order-kinetics-calculator/) — last modified 2026-07-31T20:29:23+00:00
-- [First Order Kinetics Calculator 2](https://onlineinternetcafe.com/first-order-kinetics-calculator-2/) — last modified 2026-08-01T04:16:45+00:00
 - [Five Cut Method Calculator](https://onlineinternetcafe.com/five-cut-method-calculator/) — last modified 2026-08-01T04:16:45+00:00
 - [Fleet Total Cost Calculator](https://onlineinternetcafe.com/fleet-total-cost-calculator/) — last modified 2026-07-31T20:29:24+00:00
-- [Fleet Total Cost Calculator 2](https://onlineinternetcafe.com/fleet-total-cost-calculator-2/) — last modified 2026-08-01T04:16:45+00:00
 - [Floor Underlayment Calculator](https://onlineinternetcafe.com/floor-underlayment-calculator/) — last modified 2026-07-31T20:29:25+00:00
-- [Floor Underlayment Calculator 2](https://onlineinternetcafe.com/floor-underlayment-calculator-2/) — last modified 2026-08-01T04:16:45+00:00
 - [Flooring Calculator](https://onlineinternetcafe.com/flooring-calculator/) — last modified 2026-08-01T04:16:45+00:00
 - [Flooring Calculator](https://onlineinternetcafe.com/specialized-calculators/flooring-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Flow Rate Calculator](https://onlineinternetcafe.com/specialized-calculators/flow-rate-calculator/) — last modified 2026-07-22T15:27:32+00:00
@@ -1302,7 +1278,6 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Force Calculator](https://onlineinternetcafe.com/force-calculator/) — last modified 2026-08-01T04:16:46+00:00
 - [Force Calculator](https://onlineinternetcafe.com/specialized-calculators/force-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Forex Pip Value Calculator](https://onlineinternetcafe.com/forex-pip-value-calculator/) — last modified 2026-07-31T20:29:26+00:00
-- [Forex Pip Value Calculator 2](https://onlineinternetcafe.com/forex-pip-value-calculator-2/) — last modified 2026-08-01T04:16:46+00:00
 - [Formal Charge Calculator](https://onlineinternetcafe.com/formal-charge-calculator/) — last modified 2026-08-01T04:16:46+00:00
 - [Formal Charge Calculator](https://onlineinternetcafe.com/specialized-calculators/formal-charge-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Formula Rearrangement Calculator](https://onlineinternetcafe.com/formula-rearrangement-calculator/) — last modified 2026-08-01T04:16:46+00:00
@@ -1310,66 +1285,50 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Four Square Decipher Calculator](https://onlineinternetcafe.com/four-square-decipher-calculator/) — last modified 2026-07-28T07:03:27+00:00
 - [Fraction Calculator](https://onlineinternetcafe.com/fraction-calculator/) — last modified 2026-08-01T04:16:47+00:00
 - [Fraction Multiplication Calculator](https://onlineinternetcafe.com/fraction-multiplication-calculator/) — last modified 2026-08-01T04:16:47+00:00
+- [Fractionated Morse Cipher Calculator](https://onlineinternetcafe.com/fractionated-morse-cipher-calculator/) — last modified 2026-07-31T20:31:04+00:00
 - [Free Fall Time Calculator](https://onlineinternetcafe.com/free-fall-time-calculator/) — last modified 2026-07-31T20:28:58+00:00
-- [Free Fall Time Calculator 2](https://onlineinternetcafe.com/free-fall-time-calculator-2/) — last modified 2026-08-01T04:16:47+00:00
 - [Free Fall Velocity Calculator](https://onlineinternetcafe.com/free-fall-velocity-calculator/) — last modified 2026-07-31T20:28:59+00:00
-- [Free Fall Velocity Calculator 2](https://onlineinternetcafe.com/free-fall-velocity-calculator-2/) — last modified 2026-08-01T04:16:47+00:00
 - [Free Space Path Loss Calculator](https://onlineinternetcafe.com/free-space-path-loss-calculator/) — last modified 2026-08-01T04:16:47+00:00
 - [Freelance Rate Calculator](https://onlineinternetcafe.com/web-calculators/freelance-rate-calculator/) — last modified 2026-07-22T15:31:04+00:00
 - [Freezer Meal Portions Calculator](https://onlineinternetcafe.com/freezer-meal-portions-calculator/) — last modified 2026-07-31T20:29:01+00:00
-- [Freezer Meal Portions Calculator 2](https://onlineinternetcafe.com/freezer-meal-portions-calculator-2/) — last modified 2026-08-01T04:16:47+00:00
 - [Freezing Point Depression Calculator](https://onlineinternetcafe.com/freezing-point-depression-calculator/) — last modified 2026-07-31T20:29:02+00:00
 - [Freezing Point Depression Calculator](https://onlineinternetcafe.com/specialized-calculators/freezing-point-depression-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Freezing Point Depression Calculator 2](https://onlineinternetcafe.com/freezing-point-depression-calculator-2/) — last modified 2026-08-01T04:16:48+00:00
 - [Freight Class Calculator](https://onlineinternetcafe.com/freight-class-calculator/) — last modified 2026-08-01T04:16:48+00:00
 - [Freight Density Class Calculator](https://onlineinternetcafe.com/freight-density-class-calculator/) — last modified 2026-07-31T20:29:03+00:00
-- [Freight Density Class Calculator 2](https://onlineinternetcafe.com/freight-density-class-calculator-2/) — last modified 2026-08-01T04:16:48+00:00
 - [Frequency To Wavelength Calculator](https://onlineinternetcafe.com/practical-calculators/frequency-to-wavelength-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Frequency Wavelength Calculator](https://onlineinternetcafe.com/frequency-wavelength-calculator/) — last modified 2026-07-31T20:29:04+00:00
-- [Frequency Wavelength Calculator 2](https://onlineinternetcafe.com/frequency-wavelength-calculator-2/) — last modified 2026-08-01T04:16:48+00:00
 - [Friction Force Calculator](https://onlineinternetcafe.com/friction-force-calculator/) — last modified 2026-07-31T20:29:05+00:00
 - [Friction Force Calculator](https://onlineinternetcafe.com/specialized-calculators/friction-force-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Friction Force Calculator 2](https://onlineinternetcafe.com/friction-force-calculator-2/) — last modified 2026-08-01T04:16:48+00:00
 - [Fuel Cost Calculator](https://onlineinternetcafe.com/fuel-cost-calculator/) — last modified 2026-08-01T04:16:49+00:00
 - [Fuel Injector Calculator](https://onlineinternetcafe.com/specialized-calculators/fuel-injector-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Fuel Injector Size Calculator](https://onlineinternetcafe.com/fuel-injector-size-calculator/) — last modified 2026-07-31T20:29:06+00:00
-- [Fuel Injector Size Calculator 2](https://onlineinternetcafe.com/fuel-injector-size-calculator-2/) — last modified 2026-08-01T04:16:49+00:00
 - [Function Composition Calculator](https://onlineinternetcafe.com/function-composition-calculator/) — last modified 2026-08-01T04:16:50+00:00
 - [Function Rule Finder Calculator](https://onlineinternetcafe.com/function-rule-finder-calculator/) — last modified 2026-08-01T04:16:51+00:00
 - [Furnace Ac Replacement Cost Calculator](https://onlineinternetcafe.com/furnace-ac-replacement-cost-calculator/) — last modified 2026-08-01T04:17:35+00:00
 - [Furnace Size Calculator](https://onlineinternetcafe.com/furnace-size-calculator/) — last modified 2026-07-31T20:29:07+00:00
-- [Furnace Size Calculator 2](https://onlineinternetcafe.com/furnace-size-calculator-2/) — last modified 2026-08-01T04:16:51+00:00
 - [Furniture Delivery Tip Calculator](https://onlineinternetcafe.com/furniture-delivery-tip-calculator/) — last modified 2026-08-01T04:16:52+00:00
 - [Futures Margin Calculator](https://onlineinternetcafe.com/futures-margin-calculator/) — last modified 2026-07-31T20:29:08+00:00
-- [Futures Margin Calculator 2](https://onlineinternetcafe.com/futures-margin-calculator-2/) — last modified 2026-08-01T04:16:52+00:00
 - [Gann Square Of Nine Calculator](https://onlineinternetcafe.com/gann-square-of-nine-calculator/) — last modified 2026-08-01T04:16:53+00:00
 - [Garage Door Spring Reference Calculator](https://onlineinternetcafe.com/garage-door-spring-reference-calculator/) — last modified 2026-08-01T04:16:53+00:00
 - [Garage Size Calculator](https://onlineinternetcafe.com/garage-size-calculator/) — last modified 2026-07-31T20:29:10+00:00
-- [Garage Size Calculator 2](https://onlineinternetcafe.com/garage-size-calculator-2/) — last modified 2026-08-01T04:16:53+00:00
 - [Garden Calculator](https://onlineinternetcafe.com/web-calculators/garden-calculator/) — last modified 2026-07-22T15:31:04+00:00
 - [Garden Soil Blend Calculator](https://onlineinternetcafe.com/garden-soil-blend-calculator/) — last modified 2026-07-31T20:29:00+00:00
-- [Garden Soil Blend Calculator 2](https://onlineinternetcafe.com/garden-soil-blend-calculator-2/) — last modified 2026-08-01T04:16:54+00:00
 - [Gas Density Calculator](https://onlineinternetcafe.com/gas-density-calculator/) — last modified 2026-07-31T20:29:01+00:00
-- [Gas Density Calculator 2](https://onlineinternetcafe.com/gas-density-calculator-2/) — last modified 2026-08-01T04:16:55+00:00
 - [Gas Mileage Calculator](https://onlineinternetcafe.com/gas-mileage-calculator/) — last modified 2026-07-29T20:12:14+00:00
 - [Gas Spring Calculator](https://onlineinternetcafe.com/gas-spring-calculator/) — last modified 2026-08-01T04:16:55+00:00
 - [Gas Spring Calculator](https://onlineinternetcafe.com/practical-calculators/gas-spring-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Gauss Jordan Calculator](https://onlineinternetcafe.com/gauss-jordan-calculator/) — last modified 2026-08-01T04:16:56+00:00
 - [Gay Lussac Law Calculator](https://onlineinternetcafe.com/gay-lussac-law-calculator/) — last modified 2026-07-31T20:29:02+00:00
-- [Gay Lussac Law Calculator 2](https://onlineinternetcafe.com/gay-lussac-law-calculator-2/) — last modified 2026-08-01T04:16:56+00:00
 - [Gazebo Cost Calculator](https://onlineinternetcafe.com/gazebo-cost-calculator/) — last modified 2026-07-31T20:29:04+00:00
-- [Gazebo Cost Calculator 2](https://onlineinternetcafe.com/gazebo-cost-calculator-2/) — last modified 2026-08-01T04:16:56+00:00
 - [Gcf Calculator](https://onlineinternetcafe.com/gcf-calculator/) — last modified 2026-08-01T04:16:57+00:00
 - [Gear Ratio Speed Calculator](https://onlineinternetcafe.com/practical-calculators/gear-ratio-speed-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Generator Sizing Calculator](https://onlineinternetcafe.com/generator-sizing-calculator/) — last modified 2026-08-01T04:16:58+00:00
 - [Geometric Sequence Calculator](https://onlineinternetcafe.com/geometric-sequence-calculator/) — last modified 2026-08-01T04:16:58+00:00
 - [Gibbs Free Energy Calculator](https://onlineinternetcafe.com/gibbs-free-energy-calculator/) — last modified 2026-07-31T20:29:05+00:00
-- [Gibbs Free Energy Calculator 2](https://onlineinternetcafe.com/gibbs-free-energy-calculator-2/) — last modified 2026-08-01T04:16:58+00:00
 - [Glass Weight Calculator](https://onlineinternetcafe.com/practical-calculators/glass-weight-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Golden Birthday Calculator](https://onlineinternetcafe.com/golden-birthday-calculator/) — last modified 2026-08-01T04:16:59+00:00
 - [Golf Handicap Calculator](https://onlineinternetcafe.com/golf-handicap-calculator/) — last modified 2026-08-01T04:17:00+00:00
 - [Gordon Growth Calculator](https://onlineinternetcafe.com/gordon-growth-calculator/) — last modified 2026-07-31T20:29:06+00:00
-- [Gordon Growth Calculator 2](https://onlineinternetcafe.com/gordon-growth-calculator-2/) — last modified 2026-08-01T04:17:00+00:00
 - [Government Backed Mortgage Calculator](https://onlineinternetcafe.com/government-backed-mortgage-calculator/) — last modified 2026-08-01T04:17:02+00:00
 - [Grade Calculator](https://onlineinternetcafe.com/grade-calculator/) — last modified 2026-08-01T04:17:03+00:00
 - [Grade Curve Calculator](https://onlineinternetcafe.com/grade-curve-calculator/) — last modified 2026-07-18T11:19:25+00:00
@@ -1377,19 +1336,15 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Graph To Equation Calculator](https://onlineinternetcafe.com/graph-to-equation-calculator/) — last modified 2026-08-01T04:17:04+00:00
 - [Grass Seed Calculator](https://onlineinternetcafe.com/grass-seed-calculator/) — last modified 2026-08-01T04:17:05+00:00
 - [Gravel Driveway Calculator](https://onlineinternetcafe.com/gravel-driveway-calculator/) — last modified 2026-07-31T20:29:07+00:00
-- [Gravel Driveway Calculator 2](https://onlineinternetcafe.com/gravel-driveway-calculator-2/) — last modified 2026-08-01T04:17:05+00:00
 - [Gravitational Force Calculator](https://onlineinternetcafe.com/specialized-calculators/gravitational-force-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Gravitational Potential Energy Calculator](https://onlineinternetcafe.com/gravitational-potential-energy-calculator/) — last modified 2026-07-31T20:29:08+00:00
-- [Gravitational Potential Energy Calculator 2](https://onlineinternetcafe.com/gravitational-potential-energy-calculator-2/) — last modified 2026-08-01T04:17:06+00:00
 - [Gronsfeld Cipher Calculator](https://onlineinternetcafe.com/gronsfeld-cipher-calculator/) — last modified 2026-07-28T07:03:12+00:00
 - [Gronsfeld Decipher Calculator](https://onlineinternetcafe.com/gronsfeld-decipher-calculator/) — last modified 2026-07-28T07:03:13+00:00
 - [Gross Margin Calculator](https://onlineinternetcafe.com/gross-margin-calculator/) — last modified 2026-07-31T20:29:09+00:00
-- [Gross Margin Calculator 2](https://onlineinternetcafe.com/gross-margin-calculator-2/) — last modified 2026-08-01T04:17:06+00:00
 - [Grout Calculator](https://onlineinternetcafe.com/grout-calculator/) — last modified 2026-08-01T04:24:32+00:00
 - [Growing Annuity Calculator](https://onlineinternetcafe.com/growing-annuity-calculator/) — last modified 2026-08-01T04:17:08+00:00
 - [Growing Perpetuity Calculator](https://onlineinternetcafe.com/growing-perpetuity-calculator/) — last modified 2026-08-01T04:17:09+00:00
 - [Gutter Capacity Calculator](https://onlineinternetcafe.com/gutter-capacity-calculator/) — last modified 2026-07-31T20:29:12+00:00
-- [Gutter Capacity Calculator 2](https://onlineinternetcafe.com/gutter-capacity-calculator-2/) — last modified 2026-08-01T04:17:09+00:00
 - [Gutter Cleaning Cost Calculator](https://onlineinternetcafe.com/gutter-cleaning-cost-calculator/) — last modified 2026-08-01T04:17:10+00:00
 - [Gutter Slope Calculator](https://onlineinternetcafe.com/practical-calculators/gutter-slope-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Hail Damage Repair Cost Calculator](https://onlineinternetcafe.com/hail-damage-repair-cost-calculator/) — last modified 2026-08-01T04:17:11+00:00
@@ -1397,55 +1352,41 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Hair Transplant Graft Calculator](https://onlineinternetcafe.com/hair-transplant-graft-calculator/) — last modified 2026-08-01T04:17:13+00:00
 - [Half Birthday Calculator](https://onlineinternetcafe.com/practical-calculators/half-birthday-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Half Life Decay Calculator](https://onlineinternetcafe.com/half-life-decay-calculator/) — last modified 2026-07-31T20:29:13+00:00
-- [Half Life Decay Calculator 2](https://onlineinternetcafe.com/half-life-decay-calculator-2/) — last modified 2026-08-01T04:17:13+00:00
 - [Handrail Length Calculator](https://onlineinternetcafe.com/handrail-length-calculator/) — last modified 2026-07-31T20:29:14+00:00
-- [Handrail Length Calculator 2](https://onlineinternetcafe.com/handrail-length-calculator-2/) — last modified 2026-08-01T04:17:13+00:00
 - [Hardie Siding Cost Calculator](https://onlineinternetcafe.com/hardie-siding-cost-calculator/) — last modified 2026-08-01T04:17:31+00:00
 - [Hardwood Flooring Calculator](https://onlineinternetcafe.com/hardwood-flooring-calculator/) — last modified 2026-07-31T20:29:15+00:00
-- [Hardwood Flooring Calculator 2](https://onlineinternetcafe.com/hardwood-flooring-calculator-2/) — last modified 2026-08-01T04:17:31+00:00
 - [Hardy Weinberg Calculator](https://onlineinternetcafe.com/specialized-calculators/hardy-weinberg-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Hazen Williams Flow Calculator](https://onlineinternetcafe.com/hazen-williams-flow-calculator/) — last modified 2026-07-31T20:28:46+00:00
-- [Hazen Williams Flow Calculator 2](https://onlineinternetcafe.com/hazen-williams-flow-calculator-2/) — last modified 2026-08-01T04:17:31+00:00
 - [Hcg Doubling Time Calculator](https://onlineinternetcafe.com/web-calculators/hcg-doubling-time-calculator/) — last modified 2026-07-22T15:31:04+00:00
 - [Heart Rate Zone Calculator](https://onlineinternetcafe.com/heart-rate-zone-calculator/) — last modified 2026-08-01T04:17:31+00:00
 - [Heat Exchanger Sizing Calculator](https://onlineinternetcafe.com/heat-exchanger-sizing-calculator/) — last modified 2026-08-01T04:17:31+00:00
 - [Heat Index Calculator](https://onlineinternetcafe.com/heat-index-calculator/) — last modified 2026-08-01T04:17:31+00:00
 - [Heat Index Calculator](https://onlineinternetcafe.com/specialized-calculators/heat-index-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Heat Pump Cop Calculator](https://onlineinternetcafe.com/heat-pump-cop-calculator/) — last modified 2026-07-31T20:28:48+00:00
-- [Heat Pump Cop Calculator 2](https://onlineinternetcafe.com/heat-pump-cop-calculator-2/) — last modified 2026-08-01T04:17:32+00:00
 - [Heater Watts Calculator](https://onlineinternetcafe.com/heater-watts-calculator/) — last modified 2026-08-01T04:17:32+00:00
 - [Heloc Calculator](https://onlineinternetcafe.com/heloc-calculator/) — last modified 2026-08-01T04:17:32+00:00
 - [Hemocytometer Count Calculator](https://onlineinternetcafe.com/hemocytometer-count-calculator/) — last modified 2026-07-31T20:28:49+00:00
-- [Hemocytometer Count Calculator 2](https://onlineinternetcafe.com/hemocytometer-count-calculator-2/) — last modified 2026-08-01T04:17:32+00:00
 - [Henderson Hasselbalch Calculator](https://onlineinternetcafe.com/specialized-calculators/henderson-hasselbalch-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Hiking Calorie Calculator](https://onlineinternetcafe.com/hiking-calorie-calculator/) — last modified 2026-07-31T20:28:51+00:00
-- [Hiking Calorie Calculator 2](https://onlineinternetcafe.com/hiking-calorie-calculator-2/) — last modified 2026-08-01T04:17:32+00:00
 - [Hiking Time Calculator](https://onlineinternetcafe.com/hiking-time-calculator/) — last modified 2026-07-31T20:28:52+00:00
-- [Hiking Time Calculator 2](https://onlineinternetcafe.com/hiking-time-calculator-2/) — last modified 2026-08-01T04:17:32+00:00
 - [Hill Cipher 2x2 Calculator](https://onlineinternetcafe.com/hill-cipher-2x2-calculator/) — last modified 2026-07-28T07:03:27+00:00
 - [Hill Cipher 2x2 Decipher Calculator](https://onlineinternetcafe.com/hill-cipher-2x2-decipher-calculator/) — last modified 2026-07-28T07:03:28+00:00
 - [Hill Cipher 3x3 Calculator](https://onlineinternetcafe.com/hill-cipher-3x3-calculator/) — last modified 2026-07-28T07:03:29+00:00
 - [Hill Cipher 3x3 Decipher Calculator](https://onlineinternetcafe.com/hill-cipher-3x3-decipher-calculator/) — last modified 2026-07-28T07:03:29+00:00
 - [Hollow Cylinder Inertia Calculator](https://onlineinternetcafe.com/hollow-cylinder-inertia-calculator/) — last modified 2026-07-31T20:28:53+00:00
-- [Hollow Cylinder Inertia Calculator 2](https://onlineinternetcafe.com/hollow-cylinder-inertia-calculator-2/) — last modified 2026-08-01T04:17:32+00:00
 - [Hollow Cylinder Volume Calculator](https://onlineinternetcafe.com/hollow-cylinder-volume-calculator/) — last modified 2026-08-01T04:17:33+00:00
 - [Home Equity Loan Calculator](https://onlineinternetcafe.com/home-equity-loan-calculator/) — last modified 2026-08-01T04:17:33+00:00
 - [Homophonic Substitution Cipher Calculator](https://onlineinternetcafe.com/homophonic-substitution-cipher-calculator/) — last modified 2026-07-28T07:03:17+00:00
 - [Homophonic Substitution Decipher Calculator](https://onlineinternetcafe.com/homophonic-substitution-decipher-calculator/) — last modified 2026-07-28T07:03:18+00:00
 - [Hookes Law Force Calculator](https://onlineinternetcafe.com/hookes-law-force-calculator/) — last modified 2026-07-31T20:28:55+00:00
-- [Hookes Law Force Calculator 2](https://onlineinternetcafe.com/hookes-law-force-calculator-2/) — last modified 2026-08-01T04:17:33+00:00
 - [Hookes Law Force Calculator 3](https://onlineinternetcafe.com/hookes-law-force-calculator-3/) — last modified 2026-07-31T20:28:54+00:00
 - [Horse Feed Calculator](https://onlineinternetcafe.com/horse-feed-calculator/) — last modified 2026-07-31T20:28:56+00:00
-- [Horse Feed Calculator 2](https://onlineinternetcafe.com/horse-feed-calculator-2/) — last modified 2026-08-01T04:17:33+00:00
 - [Horse Weight Calculator](https://onlineinternetcafe.com/horse-weight-calculator/) — last modified 2026-07-31T20:28:58+00:00
-- [Horse Weight Calculator 2](https://onlineinternetcafe.com/horse-weight-calculator-2/) — last modified 2026-08-01T04:17:33+00:00
 - [Horse Weight Calculator 3](https://onlineinternetcafe.com/horse-weight-calculator-3/) — last modified 2026-07-31T20:28:57+00:00
 - [Horsepower To Mph Calculator](https://onlineinternetcafe.com/horsepower-to-mph-calculator/) — last modified 2026-08-01T04:17:33+00:00
 - [Horsepower Torque Calculator](https://onlineinternetcafe.com/horsepower-torque-calculator/) — last modified 2026-07-31T20:28:59+00:00
-- [Horsepower Torque Calculator 2](https://onlineinternetcafe.com/horsepower-torque-calculator-2/) — last modified 2026-07-31T20:28:43+00:00
 - [Horsepower Torque Calculator 3](https://onlineinternetcafe.com/horsepower-torque-calculator-3/) — last modified 2026-08-01T04:17:34+00:00
 - [Hotel Cost Calculator](https://onlineinternetcafe.com/hotel-cost-calculator/) — last modified 2026-07-31T20:28:45+00:00
-- [Hotel Cost Calculator 2](https://onlineinternetcafe.com/hotel-cost-calculator-2/) — last modified 2026-07-31T20:27:36+00:00
 - [Hotel Cost Calculator 3](https://onlineinternetcafe.com/hotel-cost-calculator-3/) — last modified 2026-08-01T04:17:34+00:00
 - [Hotel Cost Calculator 4](https://onlineinternetcafe.com/hotel-cost-calculator-4/) — last modified 2026-07-31T20:28:44+00:00
 - [Hours Calculator](https://onlineinternetcafe.com/hours-calculator/) — last modified 2026-08-01T04:17:34+00:00
@@ -1453,99 +1394,79 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [House Flip Calculator](https://onlineinternetcafe.com/house-flip-calculator/) — last modified 2026-08-01T04:17:34+00:00
 - [House Repiping Cost Calculator](https://onlineinternetcafe.com/house-repiping-cost-calculator/) — last modified 2026-08-01T04:17:34+00:00
 - [House Wrap Calculator](https://onlineinternetcafe.com/house-wrap-calculator/) — last modified 2026-07-31T20:27:38+00:00
-- [House Wrap Calculator 2](https://onlineinternetcafe.com/house-wrap-calculator-2/) — last modified 2026-08-01T04:17:35+00:00
 - [House Wrap Calculator 3](https://onlineinternetcafe.com/house-wrap-calculator-3/) — last modified 2026-07-31T20:27:37+00:00
 - [Household Carbon Calculator](https://onlineinternetcafe.com/household-carbon-calculator/) — last modified 2026-07-31T20:27:40+00:00
-- [Household Carbon Calculator 2](https://onlineinternetcafe.com/household-carbon-calculator-2/) — last modified 2026-08-01T04:17:35+00:00
 - [Household Carbon Calculator 3](https://onlineinternetcafe.com/household-carbon-calculator-3/) — last modified 2026-07-31T20:27:39+00:00
 - [Humidifier Size Calculator](https://onlineinternetcafe.com/humidifier-size-calculator/) — last modified 2026-07-31T20:27:41+00:00
-- [Humidifier Size Calculator 2](https://onlineinternetcafe.com/humidifier-size-calculator-2/) — last modified 2026-08-01T04:17:35+00:00
 - [Hurricane Impact Windows Cost Calculator](https://onlineinternetcafe.com/hurricane-impact-windows-cost-calculator/) — last modified 2026-08-01T04:17:35+00:00
 - [Hvac Airflow Cfm Calculator](https://onlineinternetcafe.com/hvac-airflow-cfm-calculator/) — last modified 2026-08-01T04:17:35+00:00
 - [Hydraulic Cylinder Force Calculator](https://onlineinternetcafe.com/practical-calculators/hydraulic-cylinder-force-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Hydraulic Force Calculator](https://onlineinternetcafe.com/hydraulic-force-calculator/) — last modified 2026-07-31T20:27:44+00:00
-- [Hydraulic Force Calculator 2](https://onlineinternetcafe.com/hydraulic-force-calculator-2/) — last modified 2026-08-01T04:17:35+00:00
 - [Hydraulic Force Calculator 3](https://onlineinternetcafe.com/hydraulic-force-calculator-3/) — last modified 2026-07-31T20:27:42+00:00
 - [Hydraulic Force Calculator 4](https://onlineinternetcafe.com/hydraulic-force-calculator-4/) — last modified 2026-07-31T20:27:43+00:00
 - [Hydroseed Cost Calculator](https://onlineinternetcafe.com/hydroseed-cost-calculator/) — last modified 2026-07-31T20:27:46+00:00
-- [Hydroseed Cost Calculator 2](https://onlineinternetcafe.com/hydroseed-cost-calculator-2/) — last modified 2026-08-01T04:17:36+00:00
 - [Hydroseed Cost Calculator 3](https://onlineinternetcafe.com/hydroseed-cost-calculator-3/) — last modified 2026-07-31T20:27:44+00:00
 - [Hydroseed Cost Calculator 4](https://onlineinternetcafe.com/hydroseed-cost-calculator-4/) — last modified 2026-07-31T20:27:45+00:00
 - [Hydrostatic Pressure Calculator](https://onlineinternetcafe.com/hydrostatic-pressure-calculator/) — last modified 2026-07-31T20:27:48+00:00
-- [Hydrostatic Pressure Calculator 2](https://onlineinternetcafe.com/hydrostatic-pressure-calculator-2/) — last modified 2026-08-01T04:17:36+00:00
 - [Hydrostatic Pressure Calculator 3](https://onlineinternetcafe.com/hydrostatic-pressure-calculator-3/) — last modified 2026-07-31T20:27:46+00:00
 - [Hydrostatic Pressure Calculator 4](https://onlineinternetcafe.com/hydrostatic-pressure-calculator-4/) — last modified 2026-07-31T20:27:47+00:00
 - [I Beam Weight Calculator](https://onlineinternetcafe.com/practical-calculators/i-beam-weight-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Ice Water Shield Calculator](https://onlineinternetcafe.com/ice-water-shield-calculator/) — last modified 2026-07-31T20:27:50+00:00
-- [Ice Water Shield Calculator 2](https://onlineinternetcafe.com/ice-water-shield-calculator-2/) — last modified 2026-08-01T04:17:36+00:00
 - [Ice Water Shield Calculator 3](https://onlineinternetcafe.com/ice-water-shield-calculator-3/) — last modified 2026-07-31T20:27:49+00:00
 - [Ice Water Shield Calculator 4](https://onlineinternetcafe.com/ice-water-shield-calculator-4/) — last modified 2026-07-31T20:27:49+00:00
 - [Ideal Gas Law Calculator](https://onlineinternetcafe.com/practical-calculators/ideal-gas-law-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Ideal Gas Pressure Calculator](https://onlineinternetcafe.com/ideal-gas-pressure-calculator/) — last modified 2026-07-31T20:27:51+00:00
-- [Ideal Gas Pressure Calculator 2](https://onlineinternetcafe.com/ideal-gas-pressure-calculator-2/) — last modified 2026-08-01T04:17:36+00:00
 - [Ideal Gas Pressure Calculator 3](https://onlineinternetcafe.com/ideal-gas-pressure-calculator-3/) — last modified 2026-07-31T20:27:50+00:00
 - [Ideal Gas Pressure Calculator 4](https://onlineinternetcafe.com/ideal-gas-pressure-calculator-4/) — last modified 2026-07-31T20:27:50+00:00
 - [Ideal Weight Calculator](https://onlineinternetcafe.com/ideal-weight-calculator/) — last modified 2026-08-01T04:17:36+00:00
 - [Image Megapixel Calculator](https://onlineinternetcafe.com/specialized-calculators/image-megapixel-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Image Print Size Calculator](https://onlineinternetcafe.com/image-print-size-calculator/) — last modified 2026-07-31T20:27:52+00:00
-- [Image Print Size Calculator 2](https://onlineinternetcafe.com/image-print-size-calculator-2/) — last modified 2026-08-01T04:17:36+00:00
 - [Image Print Size Calculator 3](https://onlineinternetcafe.com/image-print-size-calculator-3/) — last modified 2026-07-31T20:27:51+00:00
 - [Impact Force Calculator](https://onlineinternetcafe.com/impact-force-calculator/) — last modified 2026-08-01T04:17:37+00:00
 - [Impact Force Calculator](https://onlineinternetcafe.com/practical-calculators/impact-force-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Impulse Momentum Calculator](https://onlineinternetcafe.com/impulse-momentum-calculator/) — last modified 2026-07-31T20:27:53+00:00
-- [Impulse Momentum Calculator 2](https://onlineinternetcafe.com/impulse-momentum-calculator-2/) — last modified 2026-08-01T04:17:37+00:00
 - [Incline Force Calculator](https://onlineinternetcafe.com/incline-force-calculator/) — last modified 2026-07-31T20:27:54+00:00
-- [Incline Force Calculator 2](https://onlineinternetcafe.com/incline-force-calculator-2/) — last modified 2026-08-01T04:17:59+00:00
 - [Incline Force Calculator 3](https://onlineinternetcafe.com/incline-force-calculator-3/) — last modified 2026-07-31T20:27:53+00:00
 - [Incline Force Calculator 4](https://onlineinternetcafe.com/incline-force-calculator-4/) — last modified 2026-07-31T20:27:53+00:00
 - [Increasing Contribution Calculator](https://onlineinternetcafe.com/increasing-contribution-calculator/) — last modified 2026-08-01T04:18:00+00:00
 - [Index Of Coincidence Calculator](https://onlineinternetcafe.com/index-of-coincidence-calculator/) — last modified 2026-07-28T07:03:59+00:00
 - [Inductive Reactance Calculator](https://onlineinternetcafe.com/inductive-reactance-calculator/) — last modified 2026-07-31T20:28:30+00:00
 - [Inductive Reactance Calculator](https://onlineinternetcafe.com/practical-calculators/inductive-reactance-calculator/) — last modified 2026-07-22T15:29:07+00:00
-- [Inductive Reactance Calculator 2](https://onlineinternetcafe.com/inductive-reactance-calculator-2/) — last modified 2026-08-01T04:18:00+00:00
 - [Inductive Reactance Calculator 3](https://onlineinternetcafe.com/inductive-reactance-calculator-3/) — last modified 2026-07-31T20:27:54+00:00
 - [Inductive Reactance Calculator 4](https://onlineinternetcafe.com/inductive-reactance-calculator-4/) — last modified 2026-07-31T20:28:29+00:00
 - [Inductor Energy Calculator](https://onlineinternetcafe.com/inductor-energy-calculator/) — last modified 2026-07-31T20:28:32+00:00
-- [Inductor Energy Calculator 2](https://onlineinternetcafe.com/inductor-energy-calculator-2/) — last modified 2026-08-01T04:18:00+00:00
 - [Inductor Energy Calculator 3](https://onlineinternetcafe.com/inductor-energy-calculator-3/) — last modified 2026-07-31T20:28:30+00:00
 - [Inductor Energy Calculator 4](https://onlineinternetcafe.com/inductor-energy-calculator-4/) — last modified 2026-07-31T20:28:31+00:00
 - [Inequality Calculator](https://onlineinternetcafe.com/inequality-calculator/) — last modified 2026-08-01T04:18:01+00:00
 - [Inheritance Tax Calculator](https://onlineinternetcafe.com/inheritance-tax-calculator/) — last modified 2026-08-01T04:18:01+00:00
 - [Injector Duty Cycle Calculator](https://onlineinternetcafe.com/injector-duty-cycle-calculator/) — last modified 2026-07-31T20:28:34+00:00
-- [Injector Duty Cycle Calculator 2](https://onlineinternetcafe.com/injector-duty-cycle-calculator-2/) — last modified 2026-08-01T04:18:02+00:00
 - [Injector Duty Cycle Calculator 3](https://onlineinternetcafe.com/injector-duty-cycle-calculator-3/) — last modified 2026-07-31T20:28:33+00:00
 - [Injector Duty Cycle Calculator 4](https://onlineinternetcafe.com/injector-duty-cycle-calculator-4/) — last modified 2026-07-31T20:28:33+00:00
 - [Insulation Calculator](https://onlineinternetcafe.com/insulation-calculator/) — last modified 2026-08-01T04:18:03+00:00
 - [Insulation Calculator](https://onlineinternetcafe.com/specialized-calculators/insulation-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Insulation R Value Calculator](https://onlineinternetcafe.com/insulation-r-value-calculator/) — last modified 2026-07-31T20:28:37+00:00
-- [Insulation R Value Calculator 2](https://onlineinternetcafe.com/insulation-r-value-calculator-2/) — last modified 2026-08-01T04:18:02+00:00
 - [Insulation R Value Calculator 3](https://onlineinternetcafe.com/insulation-r-value-calculator-3/) — last modified 2026-07-31T20:28:35+00:00
 - [Insulation R Value Calculator 4](https://onlineinternetcafe.com/insulation-r-value-calculator-4/) — last modified 2026-07-31T20:28:36+00:00
 - [Insurance Proration Short Rate Calculator](https://onlineinternetcafe.com/insurance-proration-short-rate-calculator/) — last modified 2026-08-01T04:18:04+00:00
 - [Interactive Cryptogram Solver](https://onlineinternetcafe.com/interactive-cryptogram-solver/) — last modified 2026-07-28T07:03:15+00:00
 - [Interest Coverage Calculator](https://onlineinternetcafe.com/interest-coverage-calculator/) — last modified 2026-07-31T20:28:39+00:00
-- [Interest Coverage Calculator 2](https://onlineinternetcafe.com/interest-coverage-calculator-2/) — last modified 2026-08-01T04:18:04+00:00
 - [Interest Coverage Calculator 3](https://onlineinternetcafe.com/interest-coverage-calculator-3/) — last modified 2026-07-31T20:28:38+00:00
 - [Interest Coverage Calculator 4](https://onlineinternetcafe.com/interest-coverage-calculator-4/) — last modified 2026-07-31T20:28:38+00:00
 - [Interest Only Loan Calculator](https://onlineinternetcafe.com/specialized-calculators/interest-only-loan-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Interior Paint Calculator](https://onlineinternetcafe.com/interior-paint-calculator/) — last modified 2026-07-31T20:28:40+00:00
-- [Interior Paint Calculator 2](https://onlineinternetcafe.com/interior-paint-calculator-2/) — last modified 2026-08-01T04:18:05+00:00
 - [Interpolation Calculator](https://onlineinternetcafe.com/interpolation-calculator/) — last modified 2026-08-01T04:17:59+00:00
 - [Interval Notation Calculator](https://onlineinternetcafe.com/interval-notation-calculator/) — last modified 2026-08-01T04:18:00+00:00
 - [Inventory Turnover Calculator](https://onlineinternetcafe.com/inventory-turnover-calculator/) — last modified 2026-07-31T20:28:43+00:00
 - [Inventory Turnover Calculator](https://onlineinternetcafe.com/specialized-calculators/inventory-turnover-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Inventory Turnover Calculator 2](https://onlineinternetcafe.com/inventory-turnover-calculator-2/) — last modified 2026-08-01T04:18:00+00:00
 - [Inventory Turnover Calculator 3](https://onlineinternetcafe.com/inventory-turnover-calculator-3/) — last modified 2026-07-31T20:28:41+00:00
 - [Inventory Turnover Calculator 4](https://onlineinternetcafe.com/inventory-turnover-calculator-4/) — last modified 2026-07-31T20:28:41+00:00
 - [Inverse Function Calculator](https://onlineinternetcafe.com/inverse-function-calculator/) — last modified 2026-08-01T04:18:02+00:00
 - [Inverse Matrix Calculator](https://onlineinternetcafe.com/inverse-matrix-calculator/) — last modified 2026-08-01T04:18:03+00:00
 - [Inverse Square Light Calculator](https://onlineinternetcafe.com/inverse-square-light-calculator/) — last modified 2026-07-31T20:27:29+00:00
-- [Inverse Square Light Calculator 2](https://onlineinternetcafe.com/inverse-square-light-calculator-2/) — last modified 2026-08-01T04:18:03+00:00
 - [Inverse Square Light Calculator 3](https://onlineinternetcafe.com/inverse-square-light-calculator-3/) — last modified 2026-07-31T20:27:27+00:00
 - [Inverse Square Light Calculator 4](https://onlineinternetcafe.com/inverse-square-light-calculator-4/) — last modified 2026-07-31T20:27:28+00:00
 - [Inverse Trigonometric Calculator](https://onlineinternetcafe.com/inverse-trigonometric-calculator/) — last modified 2026-08-01T04:18:05+00:00
 - [Inverter Size Calculator](https://onlineinternetcafe.com/inverter-size-calculator/) — last modified 2026-07-31T20:27:31+00:00
-- [Inverter Size Calculator 2](https://onlineinternetcafe.com/inverter-size-calculator-2/) — last modified 2026-08-01T04:18:06+00:00
 - [Inverter Size Calculator 3](https://onlineinternetcafe.com/inverter-size-calculator-3/) — last modified 2026-07-31T20:27:30+00:00
 - [Inverter Size Calculator 4](https://onlineinternetcafe.com/inverter-size-calculator-4/) — last modified 2026-07-31T20:27:30+00:00
 - [Investment Calculator](https://onlineinternetcafe.com/investment-calculator/) — last modified 2026-08-01T04:18:07+00:00
@@ -1553,13 +1474,11 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Investment Withdrawal Calculator](https://onlineinternetcafe.com/investment-withdrawal-calculator/) — last modified 2026-08-01T04:18:09+00:00
 - [Invisalign Cost Calculator](https://onlineinternetcafe.com/invisalign-cost-calculator/) — last modified 2026-08-01T04:18:10+00:00
 - [Invoice Discount Calculator](https://onlineinternetcafe.com/invoice-discount-calculator/) — last modified 2026-07-31T20:27:34+00:00
-- [Invoice Discount Calculator 2](https://onlineinternetcafe.com/invoice-discount-calculator-2/) — last modified 2026-08-01T04:18:10+00:00
 - [Invoice Discount Calculator 3](https://onlineinternetcafe.com/invoice-discount-calculator-3/) — last modified 2026-07-31T20:27:32+00:00
 - [Invoice Discount Calculator 4](https://onlineinternetcafe.com/invoice-discount-calculator-4/) — last modified 2026-07-31T20:27:33+00:00
 - [Ip Subnet Calculator](https://onlineinternetcafe.com/ip-subnet-calculator/) — last modified 2026-08-01T04:18:12+00:00
 - [Irr Calculator](https://onlineinternetcafe.com/irr-calculator/) — last modified 2026-08-01T04:18:13+00:00
 - [Irrigation Water Calculator](https://onlineinternetcafe.com/irrigation-water-calculator/) — last modified 2026-07-31T20:27:35+00:00
-- [Irrigation Water Calculator 2](https://onlineinternetcafe.com/irrigation-water-calculator-2/) — last modified 2026-08-01T04:18:13+00:00
 - [Irrigation Water Calculator 3](https://onlineinternetcafe.com/irrigation-water-calculator-3/) — last modified 2026-07-31T20:27:34+00:00
 - [Irrigation Water Calculator 4](https://onlineinternetcafe.com/irrigation-water-calculator-4/) — last modified 2026-07-31T20:27:35+00:00
 - [Islamic Mortgage Calculator](https://onlineinternetcafe.com/islamic-mortgage-calculator/) — last modified 2026-08-01T04:18:14+00:00
@@ -1569,7 +1488,6 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Karvonen Heart Rate Calculator](https://onlineinternetcafe.com/karvonen-heart-rate-calculator/) — last modified 2026-08-01T04:18:18+00:00
 - [Kasiski Examination Calculator](https://onlineinternetcafe.com/kasiski-examination-calculator/) — last modified 2026-07-28T07:04:00+00:00
 - [Keyword Cipher Calculator](https://onlineinternetcafe.com/keyword-cipher-calculator/) — last modified 2026-07-28T07:03:15+00:00
-- [Keyword Cipher Calculator 2](https://onlineinternetcafe.com/keyword-cipher-calculator-2/) — last modified 2026-07-27T13:48:05+00:00
 - [Keyword Decipher Calculator](https://onlineinternetcafe.com/keyword-decipher-calculator/) — last modified 2026-07-28T07:03:16+00:00
 - [Kinematic Displacement Calculator](https://onlineinternetcafe.com/kinematic-displacement-calculator/) — last modified 2026-08-01T04:18:18+00:00
 - [Kinematics Calculator](https://onlineinternetcafe.com/specialized-calculators/kinematics-calculator/) — last modified 2026-07-22T15:27:32+00:00
@@ -1649,7 +1567,6 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Masonic Decipher Calculator](https://onlineinternetcafe.com/masonic-decipher-calculator/) — last modified 2026-07-28T07:03:44+00:00
 - [Masonry Sand Calculator](https://onlineinternetcafe.com/masonry-sand-calculator/) — last modified 2026-08-01T04:19:17+00:00
 - [Mass Energy Equivalence Calculator](https://onlineinternetcafe.com/mass-energy-equivalence-calculator/) — last modified 2026-08-01T04:19:17+00:00
-- [Mass Energy Equivalence Calculator 2](https://onlineinternetcafe.com/mass-energy-equivalence-calculator-2/) — last modified 2026-07-31T20:25:56+00:00
 - [Mass To Moles Calculator](https://onlineinternetcafe.com/mass-to-moles-calculator/) — last modified 2026-08-01T04:19:18+00:00
 - [Matrix Operations Calculator](https://onlineinternetcafe.com/matrix-operations-calculator/) — last modified 2026-08-01T04:19:18+00:00
 - [Mean Absolute Deviation Calculator](https://onlineinternetcafe.com/mean-absolute-deviation-calculator/) — last modified 2026-08-01T04:19:19+00:00
@@ -1657,22 +1574,15 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Mean Arterial Pressure Calculator](https://onlineinternetcafe.com/web-calculators/mean-arterial-pressure-calculator/) — last modified 2026-07-22T15:31:04+00:00
 - [Mean Calculator](https://onlineinternetcafe.com/mean-calculator/) — last modified 2026-08-01T04:19:19+00:00
 - [Mean Piston Speed Calculator](https://onlineinternetcafe.com/mean-piston-speed-calculator/) — last modified 2026-07-31T20:25:58+00:00
-- [Mean Piston Speed Calculator 2](https://onlineinternetcafe.com/mean-piston-speed-calculator-2/) — last modified 2026-08-01T04:19:20+00:00
 - [Measurement Uncertainty Calculator](https://onlineinternetcafe.com/specialized-calculators/measurement-uncertainty-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Meat Roasting Time Calculator](https://onlineinternetcafe.com/meat-roasting-time-calculator/) — last modified 2026-07-31T20:25:58+00:00
-- [Meat Roasting Time Calculator 2](https://onlineinternetcafe.com/meat-roasting-time-calculator-2/) — last modified 2026-08-01T04:19:20+00:00
 - [Mechanical Power Calculator](https://onlineinternetcafe.com/mechanical-power-calculator/) — last modified 2026-07-31T20:25:59+00:00
-- [Mechanical Power Calculator 2](https://onlineinternetcafe.com/mechanical-power-calculator-2/) — last modified 2026-08-01T04:19:20+00:00
 - [Mechanical Work Calculator](https://onlineinternetcafe.com/mechanical-work-calculator/) — last modified 2026-07-31T20:25:59+00:00
-- [Mechanical Work Calculator 2](https://onlineinternetcafe.com/mechanical-work-calculator-2/) — last modified 2026-08-01T04:19:21+00:00
 - [Merchant Fee Calculator](https://onlineinternetcafe.com/merchant-fee-calculator/) — last modified 2026-08-01T04:19:21+00:00
 - [Met Calorie Calculator](https://onlineinternetcafe.com/met-calorie-calculator/) — last modified 2026-07-31T20:26:01+00:00
-- [Met Calorie Calculator 2](https://onlineinternetcafe.com/met-calorie-calculator-2/) — last modified 2026-08-01T04:19:22+00:00
 - [Metal Roof Panel Calculator](https://onlineinternetcafe.com/metal-roof-panel-calculator/) — last modified 2026-07-31T20:26:03+00:00
-- [Metal Roof Panel Calculator 2](https://onlineinternetcafe.com/metal-roof-panel-calculator-2/) — last modified 2026-08-01T04:19:22+00:00
 - [Metal Roof Screw Calculator](https://onlineinternetcafe.com/metal-roof-screw-calculator/) — last modified 2026-08-01T04:19:22+00:00
 - [Michaelis Menten Calculator](https://onlineinternetcafe.com/michaelis-menten-calculator/) — last modified 2026-07-31T20:27:02+00:00
-- [Michaelis Menten Calculator 2](https://onlineinternetcafe.com/michaelis-menten-calculator-2/) — last modified 2026-08-01T04:19:23+00:00
 - [Middle School Gpa Calculator](https://onlineinternetcafe.com/middle-school-gpa-calculator/) — last modified 2026-08-01T04:19:23+00:00
 - [Midpoint Calculator](https://onlineinternetcafe.com/web-calculators/midpoint-calculator/) — last modified 2026-07-22T15:31:04+00:00
 - [Miles Per Gallon Calculator](https://onlineinternetcafe.com/miles-per-gallon-calculator/) — last modified 2026-08-01T04:19:56+00:00
@@ -1680,19 +1590,15 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Mini Split Sizing Calculator](https://onlineinternetcafe.com/mini-split-sizing-calculator/) — last modified 2026-08-01T04:19:24+00:00
 - [Minimum Payment Calculator](https://onlineinternetcafe.com/minimum-payment-calculator/) — last modified 2026-08-01T04:15:07+00:00
 - [Mirr Calculator](https://onlineinternetcafe.com/mirr-calculator/) — last modified 2026-07-31T20:27:03+00:00
-- [Mirr Calculator 2](https://onlineinternetcafe.com/mirr-calculator-2/) — last modified 2026-08-01T04:19:25+00:00
 - [Mirror Equation Calculator](https://onlineinternetcafe.com/mirror-equation-calculator/) — last modified 2026-07-31T20:27:04+00:00
-- [Mirror Equation Calculator 2](https://onlineinternetcafe.com/mirror-equation-calculator-2/) — last modified 2026-08-01T04:19:25+00:00
 - [Mixed Air Calculator](https://onlineinternetcafe.com/mixed-air-calculator/) — last modified 2026-08-01T04:19:26+00:00
 - [Mixed Fraction Calculator](https://onlineinternetcafe.com/mixed-fraction-calculator/) — last modified 2026-08-01T04:19:27+00:00
 - [Mixed Number Calculator](https://onlineinternetcafe.com/specialized-calculators/mixed-number-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Molarity Calculator](https://onlineinternetcafe.com/molarity-calculator/) — last modified 2026-08-01T04:19:28+00:00
 - [Mole Mass Calculator](https://onlineinternetcafe.com/specialized-calculators/mole-mass-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Molecular Formula Multiplier Calculator](https://onlineinternetcafe.com/molecular-formula-multiplier-calculator/) — last modified 2026-07-31T20:27:05+00:00
-- [Molecular Formula Multiplier Calculator 2](https://onlineinternetcafe.com/molecular-formula-multiplier-calculator-2/) — last modified 2026-08-01T04:19:28+00:00
 - [Molecular Weight Calculator](https://onlineinternetcafe.com/molecular-weight-calculator/) — last modified 2026-08-01T04:19:30+00:00
 - [Moles To Mass Calculator](https://onlineinternetcafe.com/moles-to-mass-calculator/) — last modified 2026-07-31T20:27:06+00:00
-- [Moles To Mass Calculator 2](https://onlineinternetcafe.com/moles-to-mass-calculator-2/) — last modified 2026-08-01T04:19:30+00:00
 - [Moment Of Inertia Calculator](https://onlineinternetcafe.com/specialized-calculators/moment-of-inertia-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Momentum Calculator](https://onlineinternetcafe.com/specialized-calculators/momentum-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Money Market Calculator](https://onlineinternetcafe.com/money-market-calculator/) — last modified 2026-08-01T04:19:31+00:00
@@ -1706,25 +1612,19 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Morse Code Duration Calculator](https://onlineinternetcafe.com/morse-code-duration-calculator/) — last modified 2026-07-28T18:12:06+00:00
 - [Morse Code Wpm Calculator](https://onlineinternetcafe.com/morse-code-wpm-calculator/) — last modified 2026-07-28T18:12:06+00:00
 - [Mortar Quantity Calculator](https://onlineinternetcafe.com/mortar-quantity-calculator/) — last modified 2026-07-31T20:27:08+00:00
-- [Mortar Quantity Calculator 2](https://onlineinternetcafe.com/mortar-quantity-calculator-2/) — last modified 2026-08-01T04:19:32+00:00
 - [Mortgage Amortization Calculator](https://onlineinternetcafe.com/mortgage-amortization-calculator/) — last modified 2026-08-01T04:19:33+00:00
 - [Mortgage Buydown Calculator](https://onlineinternetcafe.com/mortgage-buydown-calculator/) — last modified 2026-08-01T04:19:34+00:00
 - [Mortgage Recast Calculator](https://onlineinternetcafe.com/mortgage-recast-calculator/) — last modified 2026-08-01T04:19:34+00:00
 - [Mortgage Refinance Calculator](https://onlineinternetcafe.com/mortgage-refinance-calculator/) — last modified 2026-08-01T04:19:35+00:00
 - [Mosaic Tile Calculator](https://onlineinternetcafe.com/mosaic-tile-calculator/) — last modified 2026-07-31T20:27:09+00:00
-- [Mosaic Tile Calculator 2](https://onlineinternetcafe.com/mosaic-tile-calculator-2/) — last modified 2026-08-01T04:19:55+00:00
 - [Motor Capacitor Calculator](https://onlineinternetcafe.com/motor-capacitor-calculator/) — last modified 2026-08-01T04:19:55+00:00
 - [Motor Full Load Amps Calculator](https://onlineinternetcafe.com/motor-full-load-amps-calculator/) — last modified 2026-07-31T20:27:10+00:00
-- [Motor Full Load Amps Calculator 2](https://onlineinternetcafe.com/motor-full-load-amps-calculator-2/) — last modified 2026-08-01T04:19:55+00:00
 - [Motor Starting Current Calculator](https://onlineinternetcafe.com/motor-starting-current-calculator/) — last modified 2026-07-31T20:27:12+00:00
-- [Motor Starting Current Calculator 2](https://onlineinternetcafe.com/motor-starting-current-calculator-2/) — last modified 2026-08-01T04:19:55+00:00
 - [Moving Box Count Calculator](https://onlineinternetcafe.com/moving-box-count-calculator/) — last modified 2026-07-31T20:27:13+00:00
-- [Moving Box Count Calculator 2](https://onlineinternetcafe.com/moving-box-count-calculator-2/) — last modified 2026-08-01T04:19:56+00:00
 - [Multi Step Equation Solver](https://onlineinternetcafe.com/multi-step-equation-solver/) — last modified 2026-08-01T04:19:56+00:00
 - [Myszkowski Transposition Cipher Calculator](https://onlineinternetcafe.com/myszkowski-transposition-cipher-calculator/) — last modified 2026-07-28T07:03:33+00:00
 - [Myszkowski Transposition Decipher Calculator](https://onlineinternetcafe.com/myszkowski-transposition-decipher-calculator/) — last modified 2026-07-28T07:03:34+00:00
 - [Nernst Equation Calculator](https://onlineinternetcafe.com/nernst-equation-calculator/) — last modified 2026-08-01T04:19:56+00:00
-- [Nernst Equation Calculator 2](https://onlineinternetcafe.com/nernst-equation-calculator-2/) — last modified 2026-07-31T20:25:54+00:00
 - [Net Worth Calculator](https://onlineinternetcafe.com/net-worth-calculator/) — last modified 2026-08-01T04:19:56+00:00
 - [Net Worth Calculator](https://onlineinternetcafe.com/web-calculators/net-worth-calculator/) — last modified 2026-07-22T15:31:04+00:00
 - [Ngram Cipher Analysis Calculator](https://onlineinternetcafe.com/ngram-cipher-analysis-calculator/) — last modified 2026-07-28T07:04:00+00:00
@@ -1738,7 +1638,6 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Npsh Margin Calculator](https://onlineinternetcafe.com/npsh-margin-calculator/) — last modified 2026-08-01T04:19:57+00:00
 - [Npv Calculator](https://onlineinternetcafe.com/web-calculators/npv-calculator/) — last modified 2026-07-22T15:31:04+00:00
 - [Nuclear Decay Activity Calculator](https://onlineinternetcafe.com/nuclear-decay-activity-calculator/) — last modified 2026-07-31T20:25:55+00:00
-- [Nuclear Decay Activity Calculator 2](https://onlineinternetcafe.com/nuclear-decay-activity-calculator-2/) — last modified 2026-08-01T04:19:57+00:00
 - [Null Cipher Calculator](https://onlineinternetcafe.com/null-cipher-calculator/) — last modified 2026-07-28T07:03:46+00:00
 - [Null Decipher Calculator](https://onlineinternetcafe.com/null-decipher-calculator/) — last modified 2026-07-28T07:03:47+00:00
 - [Null Space Calculator](https://onlineinternetcafe.com/null-space-calculator/) — last modified 2026-08-01T04:19:57+00:00
@@ -1746,32 +1645,24 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Oee Calculator](https://onlineinternetcafe.com/practical-calculators/oee-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Ohms Law Calculator](https://onlineinternetcafe.com/ohms-law-calculator/) — last modified 2026-08-01T04:19:58+00:00
 - [One Dimensional Collision Calculator](https://onlineinternetcafe.com/one-dimensional-collision-calculator/) — last modified 2026-07-31T20:25:56+00:00
-- [One Dimensional Collision Calculator 2](https://onlineinternetcafe.com/one-dimensional-collision-calculator-2/) — last modified 2026-08-01T04:19:59+00:00
 - [One Rep Max Calculator](https://onlineinternetcafe.com/one-rep-max-calculator/) — last modified 2026-08-01T04:20:00+00:00
 - [One Time Pad Cipher Calculator](https://onlineinternetcafe.com/one-time-pad-cipher-calculator/) — last modified 2026-07-28T07:03:50+00:00
 - [One Time Pad Decipher Calculator](https://onlineinternetcafe.com/one-time-pad-decipher-calculator/) — last modified 2026-07-28T07:03:50+00:00
 - [Operating Leverage Calculator](https://onlineinternetcafe.com/operating-leverage-calculator/) — last modified 2026-07-31T20:25:56+00:00
-- [Operating Leverage Calculator 2](https://onlineinternetcafe.com/operating-leverage-calculator-2/) — last modified 2026-08-01T04:20:00+00:00
 - [Operating Margin Calculator](https://onlineinternetcafe.com/operating-margin-calculator/) — last modified 2026-07-31T20:25:49+00:00
-- [Operating Margin Calculator 2](https://onlineinternetcafe.com/operating-margin-calculator-2/) — last modified 2026-08-01T04:20:01+00:00
 - [Opportunity Cost Calculator](https://onlineinternetcafe.com/specialized-calculators/opportunity-cost-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Optical Magnification Calculator](https://onlineinternetcafe.com/optical-magnification-calculator/) — last modified 2026-07-31T20:25:50+00:00
-- [Optical Magnification Calculator 2](https://onlineinternetcafe.com/optical-magnification-calculator-2/) — last modified 2026-08-01T04:20:02+00:00
 - [Optical Power Calculator](https://onlineinternetcafe.com/optical-power-calculator/) — last modified 2026-07-31T20:25:50+00:00
-- [Optical Power Calculator 2](https://onlineinternetcafe.com/optical-power-calculator-2/) — last modified 2026-08-01T04:20:02+00:00
 - [Option Payoff Calculator](https://onlineinternetcafe.com/option-payoff-calculator/) — last modified 2026-07-31T20:25:51+00:00
-- [Option Payoff Calculator 2](https://onlineinternetcafe.com/option-payoff-calculator-2/) — last modified 2026-08-01T04:20:03+00:00
 - [Options Profit Calculator](https://onlineinternetcafe.com/specialized-calculators/options-profit-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Organic Reaction Yield Calculator](https://onlineinternetcafe.com/organic-reaction-yield-calculator/) — last modified 2026-08-01T04:20:04+00:00
 - [Orifice Flow Calculator](https://onlineinternetcafe.com/orifice-flow-calculator/) — last modified 2026-08-01T04:20:05+00:00
 - [Osb Sheet Calculator](https://onlineinternetcafe.com/osb-sheet-calculator/) — last modified 2026-07-31T20:25:52+00:00
-- [Osb Sheet Calculator 2](https://onlineinternetcafe.com/osb-sheet-calculator-2/) — last modified 2026-08-01T04:20:05+00:00
 - [Osmotic Pressure Calculator](https://onlineinternetcafe.com/osmotic-pressure-calculator/) — last modified 2026-08-01T04:20:07+00:00
 - [Osmotic Pressure Calculator](https://onlineinternetcafe.com/specialized-calculators/osmotic-pressure-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Ottendorf Cipher Calculator](https://onlineinternetcafe.com/ottendorf-cipher-calculator/) — last modified 2026-07-28T07:03:45+00:00
 - [Ottendorf Decipher Calculator](https://onlineinternetcafe.com/ottendorf-decipher-calculator/) — last modified 2026-07-28T07:03:45+00:00
 - [Outlet Load Calculator](https://onlineinternetcafe.com/outlet-load-calculator/) — last modified 2026-07-31T20:25:53+00:00
-- [Outlet Load Calculator 2](https://onlineinternetcafe.com/outlet-load-calculator-2/) — last modified 2026-08-01T04:20:07+00:00
 - [Overhead Rate Calculator](https://onlineinternetcafe.com/overhead-rate-calculator/) — last modified 2026-08-01T04:20:08+00:00
 - [Overtime Pay Calculator](https://onlineinternetcafe.com/overtime-pay-calculator/) — last modified 2026-08-01T04:20:09+00:00
 - [Ovulation Calculator](https://onlineinternetcafe.com/ovulation-calculator/) — last modified 2026-08-01T04:20:10+00:00
@@ -1781,66 +1672,47 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Paint Calculator](https://onlineinternetcafe.com/web-calculators/paint-calculator/) — last modified 2026-07-22T15:31:04+00:00
 - [Paint Primer Calculator](https://onlineinternetcafe.com/paint-primer-calculator/) — last modified 2026-08-01T04:20:13+00:00
 - [Pallet Load Calculator](https://onlineinternetcafe.com/pallet-load-calculator/) — last modified 2026-08-01T04:20:13+00:00
-- [Pallet Load Calculator 2](https://onlineinternetcafe.com/pallet-load-calculator-2/) — last modified 2026-07-31T20:25:40+00:00
 - [Parabola Graph Calculator](https://onlineinternetcafe.com/parabola-graph-calculator/) — last modified 2026-08-01T04:20:14+00:00
 - [Parallel Capacitor Calculator](https://onlineinternetcafe.com/parallel-capacitor-calculator/) — last modified 2026-08-01T04:20:15+00:00
 - [Parallel Plate Capacitance Calculator](https://onlineinternetcafe.com/parallel-plate-capacitance-calculator/) — last modified 2026-07-31T20:25:41+00:00
-- [Parallel Plate Capacitance Calculator 2](https://onlineinternetcafe.com/parallel-plate-capacitance-calculator-2/) — last modified 2026-08-01T04:20:15+00:00
 - [Parallel Resistor Calculator](https://onlineinternetcafe.com/parallel-resistor-calculator/) — last modified 2026-07-31T20:25:41+00:00
-- [Parallel Resistor Calculator 2](https://onlineinternetcafe.com/parallel-resistor-calculator-2/) — last modified 2026-08-01T04:20:16+00:00
 - [Parking Lot Striping Calculator](https://onlineinternetcafe.com/parking-lot-striping-calculator/) — last modified 2026-07-31T20:25:42+00:00
-- [Parking Lot Striping Calculator 2](https://onlineinternetcafe.com/parking-lot-striping-calculator-2/) — last modified 2026-08-01T04:20:46+00:00
 - [Partial Fraction Decomposition Calculator](https://onlineinternetcafe.com/partial-fraction-decomposition-calculator/) — last modified 2026-08-01T04:20:46+00:00
 - [Partial Pressure Calculator](https://onlineinternetcafe.com/specialized-calculators/partial-pressure-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Party Calculator](https://onlineinternetcafe.com/web-calculators/party-calculator/) — last modified 2026-07-22T15:31:04+00:00
 - [Pasta Portion Calculator](https://onlineinternetcafe.com/pasta-portion-calculator/) — last modified 2026-07-31T20:25:43+00:00
-- [Pasta Portion Calculator 2](https://onlineinternetcafe.com/pasta-portion-calculator-2/) — last modified 2026-08-01T04:20:47+00:00
 - [Patio Paver Calculator](https://onlineinternetcafe.com/patio-paver-calculator/) — last modified 2026-07-31T20:25:44+00:00
-- [Patio Paver Calculator 2](https://onlineinternetcafe.com/patio-paver-calculator-2/) — last modified 2026-08-01T04:20:47+00:00
 - [Patristocrat Cipher Solver](https://onlineinternetcafe.com/patristocrat-cipher-solver/) — last modified 2026-07-28T07:03:16+00:00
 - [Paver Base Calculator](https://onlineinternetcafe.com/paver-base-calculator/) — last modified 2026-07-31T20:25:44+00:00
-- [Paver Base Calculator 2](https://onlineinternetcafe.com/paver-base-calculator-2/) — last modified 2026-08-01T04:20:47+00:00
 - [Paver Calculator](https://onlineinternetcafe.com/specialized-calculators/paver-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Pay Raise Calculator](https://onlineinternetcafe.com/specialized-calculators/pay-raise-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Payables Turnover Calculator](https://onlineinternetcafe.com/payables-turnover-calculator/) — last modified 2026-07-31T20:25:45+00:00
-- [Payables Turnover Calculator 2](https://onlineinternetcafe.com/payables-turnover-calculator-2/) — last modified 2026-08-01T04:20:47+00:00
 - [Payback Period Calculator](https://onlineinternetcafe.com/payback-period-calculator/) — last modified 2026-07-31T20:25:46+00:00
-- [Payback Period Calculator 2](https://onlineinternetcafe.com/payback-period-calculator-2/) — last modified 2026-08-01T04:20:47+00:00
 - [Paycheck Calculator](https://onlineinternetcafe.com/paycheck-calculator/) — last modified 2026-08-01T04:20:48+00:00
 - [Pc Power Supply Calculator](https://onlineinternetcafe.com/web-calculators/pc-power-supply-calculator/) — last modified 2026-07-22T15:31:04+00:00
 - [Pcr Master Mix Calculator](https://onlineinternetcafe.com/pcr-master-mix-calculator/) — last modified 2026-07-31T20:25:46+00:00
-- [Pcr Master Mix Calculator 2](https://onlineinternetcafe.com/pcr-master-mix-calculator-2/) — last modified 2026-08-01T04:20:48+00:00
 - [Pea Gravel Calculator](https://onlineinternetcafe.com/pea-gravel-calculator/) — last modified 2026-07-31T20:25:47+00:00
-- [Pea Gravel Calculator 2](https://onlineinternetcafe.com/pea-gravel-calculator-2/) — last modified 2026-08-01T04:20:48+00:00
 - [Percent Concentration Calculator](https://onlineinternetcafe.com/percent-concentration-calculator/) — last modified 2026-07-31T20:25:48+00:00
-- [Percent Concentration Calculator 2](https://onlineinternetcafe.com/percent-concentration-calculator-2/) — last modified 2026-08-01T04:20:48+00:00
 - [Percent Error Calculator](https://onlineinternetcafe.com/percent-error-calculator/) — last modified 2026-08-01T04:20:48+00:00
 - [Percent Yield Calculator](https://onlineinternetcafe.com/percent-yield-calculator/) — last modified 2026-07-31T20:25:48+00:00
 - [Percent Yield Calculator](https://onlineinternetcafe.com/specialized-calculators/percent-yield-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Percent Yield Calculator 2](https://onlineinternetcafe.com/percent-yield-calculator-2/) — last modified 2026-08-01T04:20:49+00:00
 - [Percentage Calculator](https://onlineinternetcafe.com/percentage-calculator/) — last modified 2026-08-01T04:20:49+00:00
 - [Percentage Change Calculator](https://onlineinternetcafe.com/specialized-calculators/percentage-change-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Percentage Difference Calculator](https://onlineinternetcafe.com/specialized-calculators/percentage-difference-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Perfect Square Calculator](https://onlineinternetcafe.com/perfect-square-calculator/) — last modified 2026-08-01T04:20:49+00:00
 - [Pergola Lumber Calculator](https://onlineinternetcafe.com/pergola-lumber-calculator/) — last modified 2026-07-31T20:25:28+00:00
-- [Pergola Lumber Calculator 2](https://onlineinternetcafe.com/pergola-lumber-calculator-2/) — last modified 2026-08-01T04:20:49+00:00
 - [Perimeter Calculator](https://onlineinternetcafe.com/web-calculators/perimeter-calculator/) — last modified 2026-07-22T15:31:04+00:00
 - [Permutation And Combination Calculator](https://onlineinternetcafe.com/permutation-and-combination-calculator/) — last modified 2026-08-01T04:20:49+00:00
 - [Perpetuity Value Calculator](https://onlineinternetcafe.com/perpetuity-value-calculator/) — last modified 2026-07-31T20:25:30+00:00
-- [Perpetuity Value Calculator 2](https://onlineinternetcafe.com/perpetuity-value-calculator-2/) — last modified 2026-08-01T04:20:50+00:00
 - [Persian Online Calculator](https://onlineinternetcafe.com/persian-online-calculator/) — last modified 2026-08-01T04:20:50+00:00
 - [Pet Litter Use Calculator](https://onlineinternetcafe.com/pet-litter-use-calculator/) — last modified 2026-07-31T20:25:31+00:00
-- [Pet Litter Use Calculator 2](https://onlineinternetcafe.com/pet-litter-use-calculator-2/) — last modified 2026-08-01T04:20:50+00:00
 - [Ph Calculator](https://onlineinternetcafe.com/practical-calculators/ph-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Photon Energy Calculator](https://onlineinternetcafe.com/photon-energy-calculator/) — last modified 2026-07-31T20:25:32+00:00
-- [Photon Energy Calculator 2](https://onlineinternetcafe.com/photon-energy-calculator-2/) — last modified 2026-08-01T04:20:50+00:00
 - [Physics Formula Solver](https://onlineinternetcafe.com/physics-formula-solver/) — last modified 2026-07-23T01:50:48+00:00
 - [Physics Work Calculator](https://onlineinternetcafe.com/specialized-calculators/physics-work-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Pi Approximation Calculator](https://onlineinternetcafe.com/pi-approximation-calculator/) — last modified 2026-08-01T04:20:50+00:00
 - [Picket Fence Calculator](https://onlineinternetcafe.com/picket-fence-calculator/) — last modified 2026-07-31T20:25:33+00:00
-- [Picket Fence Calculator 2](https://onlineinternetcafe.com/picket-fence-calculator-2/) — last modified 2026-08-01T04:20:51+00:00
 - [Pickling Brine Calculator](https://onlineinternetcafe.com/pickling-brine-calculator/) — last modified 2026-07-31T20:25:34+00:00
-- [Pickling Brine Calculator 2](https://onlineinternetcafe.com/pickling-brine-calculator-2/) — last modified 2026-08-01T04:20:51+00:00
 - [Pigpen Cipher Calculator](https://onlineinternetcafe.com/pigpen-cipher-calculator/) — last modified 2026-07-28T07:03:42+00:00
 - [Pigpen Decipher Calculator](https://onlineinternetcafe.com/pigpen-decipher-calculator/) — last modified 2026-07-28T07:03:43+00:00
 - [Pine Straw Calculator](https://onlineinternetcafe.com/pine-straw-calculator/) — last modified 2026-08-01T04:20:51+00:00
@@ -1854,25 +1726,19 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Pitch Speed Calculator](https://onlineinternetcafe.com/pitch-speed-calculator/) — last modified 2026-08-01T04:20:52+00:00
 - [Pitch Tempo Calculator](https://onlineinternetcafe.com/pitch-tempo-calculator/) — last modified 2026-08-01T04:20:53+00:00
 - [Pizza Dough Ball Calculator](https://onlineinternetcafe.com/pizza-dough-ball-calculator/) — last modified 2026-07-31T20:25:35+00:00
-- [Pizza Dough Ball Calculator 2](https://onlineinternetcafe.com/pizza-dough-ball-calculator-2/) — last modified 2026-08-01T04:20:53+00:00
 - [Pizza Dough Calculator](https://onlineinternetcafe.com/specialized-calculators/pizza-dough-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Planar Density Calculator](https://onlineinternetcafe.com/planar-density-calculator/) — last modified 2026-08-01T04:20:53+00:00
 - [Plant Spacing Calculator](https://onlineinternetcafe.com/plant-spacing-calculator/) — last modified 2026-07-31T20:25:35+00:00
-- [Plant Spacing Calculator 2](https://onlineinternetcafe.com/plant-spacing-calculator-2/) — last modified 2026-08-01T04:20:53+00:00
 - [Plaster Material Calculator](https://onlineinternetcafe.com/plaster-material-calculator/) — last modified 2026-07-31T20:25:36+00:00
-- [Plaster Material Calculator 2](https://onlineinternetcafe.com/plaster-material-calculator-2/) — last modified 2026-08-01T04:20:53+00:00
 - [Plate Loading Calculator](https://onlineinternetcafe.com/plate-loading-calculator/) — last modified 2026-07-31T20:25:37+00:00
-- [Plate Loading Calculator 2](https://onlineinternetcafe.com/plate-loading-calculator-2/) — last modified 2026-08-01T04:20:53+00:00
 - [Playfair Cipher Calculator](https://onlineinternetcafe.com/playfair-cipher-calculator/) — last modified 2026-07-28T07:03:24+00:00
 - [Playfair Decipher Calculator](https://onlineinternetcafe.com/playfair-decipher-calculator/) — last modified 2026-07-28T07:03:24+00:00
 - [Plywood Calculator](https://onlineinternetcafe.com/plywood-calculator/) — last modified 2026-08-01T04:20:54+00:00
 - [Plywood Calculator](https://onlineinternetcafe.com/specialized-calculators/plywood-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Pmi Calculator](https://onlineinternetcafe.com/pmi-calculator/) — last modified 2026-08-01T04:20:54+00:00
 - [Podcast Duration Calculator](https://onlineinternetcafe.com/podcast-duration-calculator/) — last modified 2026-07-31T20:25:37+00:00
-- [Podcast Duration Calculator 2](https://onlineinternetcafe.com/podcast-duration-calculator-2/) — last modified 2026-08-01T04:20:53+00:00
 - [Pokemon Shiny Probability Calculator](https://onlineinternetcafe.com/pokemon-shiny-probability-calculator/) — last modified 2026-08-01T04:20:53+00:00
 - [Pole Barn Cost Calculator](https://onlineinternetcafe.com/pole-barn-cost-calculator/) — last modified 2026-07-31T20:25:38+00:00
-- [Pole Barn Cost Calculator 2](https://onlineinternetcafe.com/pole-barn-cost-calculator-2/) — last modified 2026-08-01T04:20:53+00:00
 - [Polybius Square Cipher Calculator](https://onlineinternetcafe.com/polybius-square-cipher-calculator/) — last modified 2026-07-28T07:03:20+00:00
 - [Polybius Square Decipher Calculator](https://onlineinternetcafe.com/polybius-square-decipher-calculator/) — last modified 2026-07-28T07:03:21+00:00
 - [Polynomial Derivative Calculator](https://onlineinternetcafe.com/web-calculators/polynomial-derivative-calculator/) — last modified 2026-07-22T15:31:04+00:00
@@ -1882,7 +1748,6 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Pond Liner Calculator](https://onlineinternetcafe.com/pond-liner-calculator/) — last modified 2026-08-01T04:20:54+00:00
 - [Pond Liner Calculator](https://onlineinternetcafe.com/practical-calculators/pond-liner-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Pool Calcium Dose Calculator](https://onlineinternetcafe.com/pool-calcium-dose-calculator/) — last modified 2026-07-31T20:25:38+00:00
-- [Pool Calcium Dose Calculator 2](https://onlineinternetcafe.com/pool-calcium-dose-calculator-2/) — last modified 2026-08-01T04:20:54+00:00
 - [Pool Chemical Dose Calculator](https://onlineinternetcafe.com/pool-chemical-dose-calculator/) — last modified 2026-08-01T04:20:54+00:00
 - [Pool Enclosure Height Calculator](https://onlineinternetcafe.com/pool-enclosure-height-calculator/) — last modified 2026-08-01T04:20:54+00:00
 - [Pool Evaporation Calculator](https://onlineinternetcafe.com/pool-evaporation-calculator/) — last modified 2026-08-01T04:20:55+00:00
@@ -1896,19 +1761,13 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Porta Cipher Calculator](https://onlineinternetcafe.com/porta-cipher-calculator/) — last modified 2026-07-28T07:03:13+00:00
 - [Porta Decipher Calculator](https://onlineinternetcafe.com/porta-decipher-calculator/) — last modified 2026-07-28T07:03:14+00:00
 - [Position Size Calculator](https://onlineinternetcafe.com/position-size-calculator/) — last modified 2026-07-31T20:25:39+00:00
-- [Position Size Calculator 2](https://onlineinternetcafe.com/position-size-calculator-2/) — last modified 2026-08-01T04:20:56+00:00
 - [Post Hole Concrete Calculator](https://onlineinternetcafe.com/post-hole-concrete-calculator/) — last modified 2026-07-31T20:25:40+00:00
-- [Post Hole Concrete Calculator 2](https://onlineinternetcafe.com/post-hole-concrete-calculator-2/) — last modified 2026-08-01T04:20:56+00:00
 - [Potential Energy Calculator](https://onlineinternetcafe.com/specialized-calculators/potential-energy-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Power Factor Calculator](https://onlineinternetcafe.com/power-factor-calculator/) — last modified 2026-07-31T20:26:21+00:00
-- [Power Factor Calculator 2](https://onlineinternetcafe.com/power-factor-calculator-2/) — last modified 2026-08-01T04:20:56+00:00
 - [Power Factor Correction Calculator](https://onlineinternetcafe.com/power-factor-correction-calculator/) — last modified 2026-07-31T20:26:20+00:00
-- [Power Factor Correction Calculator 2](https://onlineinternetcafe.com/power-factor-correction-calculator-2/) — last modified 2026-08-01T04:20:56+00:00
 - [Power Weight Ratio Calculator](https://onlineinternetcafe.com/power-weight-ratio-calculator/) — last modified 2026-07-31T20:26:22+00:00
-- [Power Weight Ratio Calculator 2](https://onlineinternetcafe.com/power-weight-ratio-calculator-2/) — last modified 2026-08-01T04:20:56+00:00
 - [Ppm Solution Calculator](https://onlineinternetcafe.com/ppm-solution-calculator/) — last modified 2026-07-31T20:26:23+00:00
 - [Ppm Solution Calculator](https://onlineinternetcafe.com/practical-calculators/ppm-solution-calculator/) — last modified 2026-07-22T15:29:07+00:00
-- [Ppm Solution Calculator 2](https://onlineinternetcafe.com/ppm-solution-calculator-2/) — last modified 2026-08-01T04:20:57+00:00
 - [Practical Calculators](https://onlineinternetcafe.com/practical-calculators/) — last modified 2026-07-22T15:29:07+00:00
 - [Prayer Times Calculator](https://onlineinternetcafe.com/prayer-times-calculator/) — last modified 2026-08-01T04:20:57+00:00
 - [Precious Metal Value Calculator](https://onlineinternetcafe.com/specialized-calculators/precious-metal-value-calculator/) — last modified 2026-07-22T15:27:32+00:00
@@ -1925,23 +1784,18 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Price Per Square Foot Calculator](https://onlineinternetcafe.com/specialized-calculators/price-per-square-foot-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Prime Factorization Calculator](https://onlineinternetcafe.com/prime-factorization-calculator/) — last modified 2026-08-01T04:20:58+00:00
 - [Priming Sugar Calculator](https://onlineinternetcafe.com/priming-sugar-calculator/) — last modified 2026-07-31T20:26:25+00:00
-- [Priming Sugar Calculator 2](https://onlineinternetcafe.com/priming-sugar-calculator-2/) — last modified 2026-08-01T04:20:58+00:00
 - [Privacy Fence Cost Calculator](https://onlineinternetcafe.com/privacy-fence-cost-calculator/) — last modified 2026-07-31T20:26:26+00:00
-- [Privacy Fence Cost Calculator 2](https://onlineinternetcafe.com/privacy-fence-cost-calculator-2/) — last modified 2026-08-01T04:20:58+00:00
 - [Pro Rata Calculator](https://onlineinternetcafe.com/pro-rata-calculator/) — last modified 2026-08-01T04:20:59+00:00
 - [Probability Calculator](https://onlineinternetcafe.com/probability-calculator/) — last modified 2026-08-01T04:21:00+00:00
 - [Probability Distribution Standard Deviation Calculator](https://onlineinternetcafe.com/probability-distribution-standard-deviation-calculator/) — last modified 2026-08-01T04:20:59+00:00
 - [Product Sum Calculator](https://onlineinternetcafe.com/product-sum-calculator/) — last modified 2026-08-01T04:21:01+00:00
 - [Productivity Calculator](https://onlineinternetcafe.com/productivity-calculator/) — last modified 2026-08-01T04:21:02+00:00
 - [Profitability Index Calculator](https://onlineinternetcafe.com/profitability-index-calculator/) — last modified 2026-07-31T20:26:27+00:00
-- [Profitability Index Calculator 2](https://onlineinternetcafe.com/profitability-index-calculator-2/) — last modified 2026-08-01T04:21:02+00:00
 - [Project Epoch Talent Calculator](https://onlineinternetcafe.com/project-epoch-talent-calculator/) — last modified 2026-08-01T04:21:41+00:00
 - [Projectile Max Height Calculator](https://onlineinternetcafe.com/projectile-max-height-calculator/) — last modified 2026-07-31T20:26:28+00:00
-- [Projectile Max Height Calculator 2](https://onlineinternetcafe.com/projectile-max-height-calculator-2/) — last modified 2026-08-01T04:21:41+00:00
 - [Projectile Motion Calculator](https://onlineinternetcafe.com/practical-calculators/projectile-motion-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Projectile Motion Calculator](https://onlineinternetcafe.com/projectile-motion-calculator/) — last modified 2026-08-01T04:21:42+00:00
 - [Projectile Range Calculator](https://onlineinternetcafe.com/projectile-range-calculator/) — last modified 2026-07-31T20:26:29+00:00
-- [Projectile Range Calculator 2](https://onlineinternetcafe.com/projectile-range-calculator-2/) — last modified 2026-08-01T04:21:42+00:00
 - [Propane Orifice Size Calculator](https://onlineinternetcafe.com/propane-orifice-size-calculator/) — last modified 2026-08-01T04:21:43+00:00
 - [Propeller Slip Calculator](https://onlineinternetcafe.com/practical-calculators/propeller-slip-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Propeller Slip Calculator](https://onlineinternetcafe.com/propeller-slip-calculator/) — last modified 2026-08-01T04:21:43+00:00
@@ -1950,12 +1804,9 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Proportion Calculator](https://onlineinternetcafe.com/web-calculators/proportion-calculator/) — last modified 2026-07-22T15:31:04+00:00
 - [Prorated Rent Calculator](https://onlineinternetcafe.com/prorated-rent-calculator/) — last modified 2026-08-01T04:21:45+00:00
 - [Protective Put Calculator](https://onlineinternetcafe.com/protective-put-calculator/) — last modified 2026-07-31T20:26:30+00:00
-- [Protective Put Calculator 2](https://onlineinternetcafe.com/protective-put-calculator-2/) — last modified 2026-08-01T04:21:45+00:00
 - [Protein Calculator](https://onlineinternetcafe.com/protein-calculator/) — last modified 2026-08-01T04:21:45+00:00
 - [Pump Affinity Laws Calculator](https://onlineinternetcafe.com/pump-affinity-laws-calculator/) — last modified 2026-07-31T20:26:32+00:00
-- [Pump Affinity Laws Calculator 2](https://onlineinternetcafe.com/pump-affinity-laws-calculator-2/) — last modified 2026-08-01T04:21:46+00:00
 - [Pump Horsepower Calculator](https://onlineinternetcafe.com/pump-horsepower-calculator/) — last modified 2026-07-31T20:26:33+00:00
-- [Pump Horsepower Calculator 2](https://onlineinternetcafe.com/pump-horsepower-calculator-2/) — last modified 2026-08-01T04:21:46+00:00
 - [Pump Power Calculator](https://onlineinternetcafe.com/practical-calculators/pump-power-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Punnett Square Calculator](https://onlineinternetcafe.com/practical-calculators/punnett-square-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Px To Rem Calculator](https://onlineinternetcafe.com/specialized-calculators/px-to-rem-calculator/) — last modified 2026-07-22T15:27:32+00:00
@@ -1963,72 +1814,52 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Quadratic Factoring Calculator](https://onlineinternetcafe.com/specialized-calculators/quadratic-factoring-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Quadratic Formula Calculator](https://onlineinternetcafe.com/quadratic-formula-calculator/) — last modified 2026-08-01T04:21:47+00:00
 - [Quarter Mile Et Calculator](https://onlineinternetcafe.com/quarter-mile-et-calculator/) — last modified 2026-07-31T20:26:34+00:00
-- [Quarter Mile Et Calculator 2](https://onlineinternetcafe.com/quarter-mile-et-calculator-2/) — last modified 2026-08-01T04:21:47+00:00
 - [Quarter Mile Horsepower Calculator](https://onlineinternetcafe.com/quarter-mile-horsepower-calculator/) — last modified 2026-07-31T20:25:25+00:00
-- [Quarter Mile Horsepower Calculator 2](https://onlineinternetcafe.com/quarter-mile-horsepower-calculator-2/) — last modified 2026-08-01T04:21:47+00:00
 - [Quick Ratio Calculator](https://onlineinternetcafe.com/quick-ratio-calculator/) — last modified 2026-07-31T20:25:27+00:00
-- [Quick Ratio Calculator 2](https://onlineinternetcafe.com/quick-ratio-calculator-2/) — last modified 2026-08-01T04:21:47+00:00
 - [Quilt Backing Calculator](https://onlineinternetcafe.com/quilt-backing-calculator/) — last modified 2026-08-01T04:21:48+00:00
 - [Quilt Border Calculator](https://onlineinternetcafe.com/practical-calculators/quilt-border-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Race Time Predictor Calculator](https://onlineinternetcafe.com/race-time-predictor-calculator/) — last modified 2026-08-01T04:21:48+00:00
-- [Race Time Predictor Calculator 2](https://onlineinternetcafe.com/race-time-predictor-calculator-2/) — last modified 2026-07-31T20:26:01+00:00
 - [Radiant Floor Heat Calculator](https://onlineinternetcafe.com/radiant-floor-heat-calculator/) — last modified 2026-07-31T20:26:03+00:00
-- [Radiant Floor Heat Calculator 2](https://onlineinternetcafe.com/radiant-floor-heat-calculator-2/) — last modified 2026-08-01T04:21:48+00:00
 - [Radiation Heat Transfer Calculator](https://onlineinternetcafe.com/radiation-heat-transfer-calculator/) — last modified 2026-07-31T20:26:04+00:00
-- [Radiation Heat Transfer Calculator 2](https://onlineinternetcafe.com/radiation-heat-transfer-calculator-2/) — last modified 2026-08-01T04:21:48+00:00
 - [Radical Calculator](https://onlineinternetcafe.com/radical-calculator/) — last modified 2026-08-01T04:21:49+00:00
 - [Radioactive Decay Calculator](https://onlineinternetcafe.com/radioactive-decay-calculator/) — last modified 2026-07-31T20:26:06+00:00
-- [Radioactive Decay Calculator 2](https://onlineinternetcafe.com/radioactive-decay-calculator-2/) — last modified 2026-08-01T04:21:49+00:00
 - [Rafter Length Calculator](https://onlineinternetcafe.com/practical-calculators/rafter-length-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Raid Calculator](https://onlineinternetcafe.com/raid-calculator/) — last modified 2026-08-01T04:21:50+00:00
 - [Rail Fence Cipher Calculator](https://onlineinternetcafe.com/rail-fence-cipher-calculator/) — last modified 2026-07-28T07:03:30+00:00
 - [Rail Fence Decipher Calculator](https://onlineinternetcafe.com/rail-fence-decipher-calculator/) — last modified 2026-07-28T07:03:30+00:00
 - [Rain Garden Size Calculator](https://onlineinternetcafe.com/rain-garden-size-calculator/) — last modified 2026-07-31T20:26:07+00:00
-- [Rain Garden Size Calculator 2](https://onlineinternetcafe.com/rain-garden-size-calculator-2/) — last modified 2026-08-01T04:21:51+00:00
 - [Rainwater Harvesting Calculator](https://onlineinternetcafe.com/rainwater-harvesting-calculator/) — last modified 2026-08-01T04:21:51+00:00
 - [Raised Bed Soil Calculator](https://onlineinternetcafe.com/raised-bed-soil-calculator/) — last modified 2026-08-01T04:21:52+00:00
 - [Ram Latency Calculator](https://onlineinternetcafe.com/practical-calculators/ram-latency-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Ramp Calculator](https://onlineinternetcafe.com/web-calculators/ramp-calculator/) — last modified 2026-07-22T15:31:04+00:00
 - [Ramp Slope Calculator](https://onlineinternetcafe.com/ramp-slope-calculator/) — last modified 2026-07-31T20:26:08+00:00
-- [Ramp Slope Calculator 2](https://onlineinternetcafe.com/ramp-slope-calculator-2/) — last modified 2026-08-01T04:21:53+00:00
 - [Ratio Calculator](https://onlineinternetcafe.com/ratio-calculator/) — last modified 2026-08-01T04:21:55+00:00
 - [Rc Cutoff Frequency Calculator](https://onlineinternetcafe.com/rc-cutoff-frequency-calculator/) — last modified 2026-07-31T20:26:09+00:00
-- [Rc Cutoff Frequency Calculator 2](https://onlineinternetcafe.com/rc-cutoff-frequency-calculator-2/) — last modified 2026-08-01T04:21:40+00:00
 - [Rc Time Constant Calculator](https://onlineinternetcafe.com/rc-time-constant-calculator/) — last modified 2026-07-31T20:26:10+00:00
-- [Rc Time Constant Calculator 2](https://onlineinternetcafe.com/rc-time-constant-calculator-2/) — last modified 2026-08-01T04:21:40+00:00
 - [Rc4 Cipher Calculator](https://onlineinternetcafe.com/rc4-cipher-calculator/) — last modified 2026-07-28T07:03:51+00:00
 - [Rc4 Decipher Calculator](https://onlineinternetcafe.com/rc4-decipher-calculator/) — last modified 2026-07-28T07:03:51+00:00
 - [Reaction Quotient Calculator](https://onlineinternetcafe.com/reaction-quotient-calculator/) — last modified 2026-07-31T20:26:12+00:00
-- [Reaction Quotient Calculator 2](https://onlineinternetcafe.com/reaction-quotient-calculator-2/) — last modified 2026-08-01T04:21:41+00:00
 - [Reaction Rate Calculator](https://onlineinternetcafe.com/specialized-calculators/reaction-rate-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Reading Time Calculator](https://onlineinternetcafe.com/reading-time-calculator/) — last modified 2026-07-31T20:26:13+00:00
 - [Reading Time Calculator](https://onlineinternetcafe.com/specialized-calculators/reading-time-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Reading Time Calculator 2](https://onlineinternetcafe.com/reading-time-calculator-2/) — last modified 2026-08-01T04:21:41+00:00
 - [Realtor Commission Calculator](https://onlineinternetcafe.com/realtor-commission-calculator/) — last modified 2026-08-01T04:21:41+00:00
 - [Rebar Development Length Calculator](https://onlineinternetcafe.com/rebar-development-length-calculator/) — last modified 2026-08-01T04:21:42+00:00
 - [Rebar Grid Calculator](https://onlineinternetcafe.com/rebar-grid-calculator/) — last modified 2026-07-31T20:26:14+00:00
-- [Rebar Grid Calculator 2](https://onlineinternetcafe.com/rebar-grid-calculator-2/) — last modified 2026-08-01T04:21:42+00:00
 - [Rebar Weight Calculator](https://onlineinternetcafe.com/rebar-weight-calculator/) — last modified 2026-07-31T20:26:15+00:00
-- [Rebar Weight Calculator 2](https://onlineinternetcafe.com/rebar-weight-calculator-2/) — last modified 2026-08-01T04:21:43+00:00
 - [Receivables Turnover Calculator](https://onlineinternetcafe.com/receivables-turnover-calculator/) — last modified 2026-07-31T20:26:16+00:00
-- [Receivables Turnover Calculator 2](https://onlineinternetcafe.com/receivables-turnover-calculator-2/) — last modified 2026-08-01T04:21:43+00:00
 - [Recessed Lighting Calculator](https://onlineinternetcafe.com/practical-calculators/recessed-lighting-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Recessed Lighting Calculator](https://onlineinternetcafe.com/recessed-lighting-calculator/) — last modified 2026-08-01T04:22:10+00:00
 - [Recipe Scaling Calculator](https://onlineinternetcafe.com/recipe-scaling-calculator/) — last modified 2026-07-31T20:26:17+00:00
 - [Recipe Scaling Calculator](https://onlineinternetcafe.com/specialized-calculators/recipe-scaling-calculator/) — last modified 2026-07-22T15:27:32+00:00
-- [Recipe Scaling Calculator 2](https://onlineinternetcafe.com/recipe-scaling-calculator-2/) — last modified 2026-08-01T04:22:10+00:00
 - [Recreational Vehicle Loan Calculator](https://onlineinternetcafe.com/recreational-vehicle-loan-calculator/) — last modified 2026-08-01T04:22:12+00:00
 - [Rectangular Duct Size Calculator](https://onlineinternetcafe.com/rectangular-duct-size-calculator/) — last modified 2026-07-31T20:26:19+00:00
-- [Rectangular Duct Size Calculator 2](https://onlineinternetcafe.com/rectangular-duct-size-calculator-2/) — last modified 2026-08-01T04:22:12+00:00
 - [Reference Evapotranspiration Calculator](https://onlineinternetcafe.com/reference-evapotranspiration-calculator/) — last modified 2026-08-01T04:22:13+00:00
-- [Reference Evapotranspiration Calculator 2](https://onlineinternetcafe.com/reference-evapotranspiration-calculator-2/) — last modified 2026-07-31T20:25:51+00:00
 - [Relative Risk Calculator](https://onlineinternetcafe.com/specialized-calculators/relative-risk-calculator/) — last modified 2026-07-22T15:27:32+00:00
 - [Render Time Calculator](https://onlineinternetcafe.com/render-time-calculator/) — last modified 2026-08-01T04:22:14+00:00
 - [Rent Vs Buy Calculator](https://onlineinternetcafe.com/rent-vs-buy-calculator/) — last modified 2026-08-01T04:22:14+00:00
 - [Rent Vs Sell Calculator](https://onlineinternetcafe.com/rent-vs-sell-calculator/) — last modified 2026-08-01T04:22:15+00:00
 - [Rental Property Investment Calculator](https://onlineinternetcafe.com/rental-property-investment-calculator/) — last modified 2026-08-01T04:22:16+00:00
 - [Reptile Enclosure Calculator](https://onlineinternetcafe.com/reptile-enclosure-calculator/) — last modified 2026-07-31T20:25:52+00:00
-- [Reptile Enclosure Calculator 2](https://onlineinternetcafe.com/reptile-enclosure-calculator-2/) — last modified 2026-08-01T04:22:16+00:00
 - [Required Minimum Distribution Calculator](https://onlineinternetcafe.com/required-minimum-distribution-calculator/) — last modified 2026-08-01T04:22:18+00:00
 - [Required Rate Of Return Calculator](https://onlineinternetcafe.com/required-rate-of-return-calculator/) — last modified 2026-08-01T04:22:19+00:00
 - [Residence Time Calculator](https://onlineinternetcafe.com/residence-time-calculator/) — last modified 2026-08-01T04:22:19+00:00
@@ -2575,7 +2406,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Unit 1 Adjacency Research Design Enrichment](https://onlineinternetcafe.com/category/unit-1-adjacency-research-design-enrichment/) — last modified 2026-07-18T12:14:35+00:00
 - [Unit 1 Exploring One Variable Data And Collecting Data](https://onlineinternetcafe.com/category/unit-1-exploring-one-variable-data-and-collecting-data/) — last modified 2026-07-26T13:14:12+00:00
 - [Units 3 4 Statistical Inference](https://onlineinternetcafe.com/category/units-3-4-statistical-inference/) — last modified 2026-07-26T13:14:13+00:00
-- [Validity Factor Analysis And Scale Testing](https://onlineinternetcafe.com/category/validity-factor-analysis-and-scale-testing/) — last modified 2026-07-31T21:08:16+00:00
+- [Validity Factor Analysis And Scale Testing 2](https://onlineinternetcafe.com/category/validity-factor-analysis-and-scale-testing-2/) — last modified 2026-08-01T14:54:19+00:00
 
 ## Other Salar Cafe resources
 
@@ -2585,8 +2416,8 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Ableitungsrechner](https://onlineinternetcafe.com/rechner-de/ableitungsrechner/) — last modified 2026-07-22T15:25:44+00:00
 - [About](https://onlineinternetcafe.com/about/) — last modified 2026-07-27T15:46:23+00:00
 - [Abstandsrechner Zwei Punkte](https://onlineinternetcafe.com/rechner-de/abstandsrechner-zwei-punkte/) — last modified 2026-07-22T15:25:44+00:00
-- [Academic Integrity](https://onlineinternetcafe.com/academic-integrity/) — last modified 2026-07-28T09:57:54+00:00
-- [Adjusted Goodness Of Fit Index In R](https://onlineinternetcafe.com/adjusted-goodness-of-fit-index-in-r/) — last modified 2026-07-31T21:08:16+00:00
+- [Academic Integrity](https://onlineinternetcafe.com/academic-integrity/) — last modified 2026-08-01T13:31:45+00:00
+- [Adjusted Goodness Of Fit Index](https://onlineinternetcafe.com/adjusted-goodness-of-fit-index/) — last modified 2026-08-01T14:54:19+00:00
 - [Advertising Disclosure](https://onlineinternetcafe.com/advertising-disclosure/) — last modified 2026-07-26T12:53:02+00:00
 - [Age Counter](https://onlineinternetcafe.com/age-counter/) — last modified 2026-08-01T04:11:52+00:00
 - [Altersrechner](https://onlineinternetcafe.com/rechner-de/altersrechner/) — last modified 2026-07-22T15:25:44+00:00
@@ -2600,13 +2431,13 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Bh Groessen Rechner](https://onlineinternetcafe.com/rechner-de/bh-groessen-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Binary To Morse Code](https://onlineinternetcafe.com/binary-to-morse-code/) — last modified 2026-07-28T18:12:17+00:00
 - [Binomial Geometric Practice Problems 2](https://onlineinternetcafe.com/binomial-geometric-practice-problems-2/) — last modified 2026-07-18T12:14:27+00:00
-- [Blog](https://onlineinternetcafe.com/blog/) — last modified 2026-07-27T15:46:22+00:00
+- [Blog](https://onlineinternetcafe.com/blog/) — last modified 2026-08-01T13:10:27+00:00
 - [Bmi Rechner](https://onlineinternetcafe.com/rechner-de/bmi-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Book Store](https://onlineinternetcafe.com/book-store/) — last modified 2026-06-17T17:28:49+00:00
 - [Brown Forsythe Test](https://onlineinternetcafe.com/brown-forsythe-test/) — last modified 2026-06-20T14:43:46+00:00
 - [Bruchrechner](https://onlineinternetcafe.com/rechner-de/bruchrechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Brutto Netto Rechner Deutschland 2026](https://onlineinternetcafe.com/rechner-de/brutto-netto-rechner-deutschland-2026/) — last modified 2026-07-22T15:25:44+00:00
-- [Business Data Analysis Service](https://onlineinternetcafe.com/business-data-analysis-service/) — last modified 2026-07-27T15:46:20+00:00
+- [Business Data Analysis Service](https://onlineinternetcafe.com/business-data-analysis-service/) — last modified 2026-08-01T13:02:18+00:00
 - [Cagr Rechner](https://onlineinternetcafe.com/rechner-de/cagr-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Calculadora Cientifica](https://onlineinternetcafe.com/calculadoras-mx/calculadora-cientifica/) — last modified 2026-07-22T15:28:32+00:00
 - [Calculadora De Aceleracion](https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-aceleracion/) — last modified 2026-07-22T15:28:32+00:00
@@ -2692,7 +2523,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Data Analysis Services](https://onlineinternetcafe.com/data-analysis-services/) — last modified 2026-07-27T15:46:13+00:00
 - [Datumsdifferenz Rechner](https://onlineinternetcafe.com/rechner-de/datumsdifferenz-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Deutscher Notenrechner](https://onlineinternetcafe.com/rechner-de/deutscher-notenrechner/) — last modified 2026-07-22T15:25:44+00:00
-- [Disclaimer](https://onlineinternetcafe.com/disclaimer/) — last modified 2026-07-27T15:46:25+00:00
+- [Disclaimer](https://onlineinternetcafe.com/disclaimer/) — last modified 2026-08-01T13:23:38+00:00
 - [Downloadzeit Rechner](https://onlineinternetcafe.com/rechner-de/downloadzeit-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Drehmoment Umrechner](https://onlineinternetcafe.com/rechner-de/drehmoment-umrechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Dreiecksrechner](https://onlineinternetcafe.com/rechner-de/dreiecksrechner/) — last modified 2026-07-22T15:25:44+00:00
@@ -2705,8 +2536,8 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Endnoten Rechner](https://onlineinternetcafe.com/rechner-de/endnoten-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [English To Morse Code Translator](https://onlineinternetcafe.com/english-to-morse-code-translator/) — last modified 2026-07-28T18:11:57+00:00
 - [Enigma Machine Cipher Simulator](https://onlineinternetcafe.com/enigma-machine-cipher-simulator/) — last modified 2026-07-28T07:03:54+00:00
-- [Excel Dashboard Service](https://onlineinternetcafe.com/excel-dashboard-service/) — last modified 2026-07-27T15:46:16+00:00
-- [Excel Data Cleaning Service](https://onlineinternetcafe.com/excel-data-cleaning-service/) — last modified 2026-07-27T15:46:16+00:00
+- [Excel Dashboard Service](https://onlineinternetcafe.com/excel-dashboard-service/) — last modified 2026-08-01T12:53:43+00:00
+- [Excel Data Cleaning Service](https://onlineinternetcafe.com/excel-data-cleaning-service/) — last modified 2026-08-01T12:52:18+00:00
 - [Experimental Design 2](https://onlineinternetcafe.com/experimental-design-2/) — last modified 2026-07-18T12:14:39+00:00
 - [Experimental Vs Quasi Experimental Design 2](https://onlineinternetcafe.com/experimental-vs-quasi-experimental-design-2/) — last modified 2026-07-18T12:14:35+00:00
 - [F Distribution](https://onlineinternetcafe.com/f-distribution/) — last modified 2026-07-27T17:00:54+00:00
@@ -2799,21 +2630,21 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Password Generator](https://onlineinternetcafe.com/password-generator/) — last modified 2026-08-01T04:20:47+00:00
 - [Pc Netzteil Rechner](https://onlineinternetcafe.com/rechner-de/pc-netzteil-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Portfolio](https://onlineinternetcafe.com/portfolio/) — last modified 2026-07-27T15:46:22+00:00
-- [Power Bi Dashboard Service](https://onlineinternetcafe.com/power-bi-dashboard-service/) — last modified 2026-07-27T15:46:17+00:00
+- [Power Bi Dashboard Service](https://onlineinternetcafe.com/power-bi-dashboard-service/) — last modified 2026-08-01T12:54:28+00:00
 - [Pricing](https://onlineinternetcafe.com/pricing/) — last modified 2026-07-27T15:46:22+00:00
 - [Primfaktorzerlegung Rechner](https://onlineinternetcafe.com/rechner-de/primfaktorzerlegung-rechner/) — last modified 2026-07-22T15:25:44+00:00
-- [Privacy Policy](https://onlineinternetcafe.com/privacy-policy/) — last modified 2026-06-17T17:07:53+00:00
+- [Privacy Policy](https://onlineinternetcafe.com/privacy-policy/) — last modified 2026-08-01T13:19:22+00:00
 - [Promillerechner](https://onlineinternetcafe.com/rechner-de/promillerechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Proteinrechner](https://onlineinternetcafe.com/rechner-de/proteinrechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Prozentrechner](https://onlineinternetcafe.com/rechner-de/prozentrechner/) — last modified 2026-07-22T15:25:44+00:00
-- [Python Data Analysis Help](https://onlineinternetcafe.com/python-data-analysis-help/) — last modified 2026-07-27T15:46:15+00:00
-- [R Data Analysis Help](https://onlineinternetcafe.com/r-data-analysis-help/) — last modified 2026-07-27T15:46:15+00:00
+- [Python Data Analysis Help](https://onlineinternetcafe.com/python-data-analysis-help/) — last modified 2026-08-01T12:50:16+00:00
+- [R Data Analysis Help](https://onlineinternetcafe.com/r-data-analysis-help/) — last modified 2026-08-01T12:48:19+00:00
 - [Rabattrechner](https://onlineinternetcafe.com/rechner-de/rabattrechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Raid Speicherrechner](https://onlineinternetcafe.com/rechner-de/raid-speicherrechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Random Number Generator](https://onlineinternetcafe.com/random-number-generator/) — last modified 2026-08-01T04:21:54+00:00
 - [Randomized Experiments Blocking Blinding 2](https://onlineinternetcafe.com/randomized-experiments-blocking-blinding-2/) — last modified 2026-07-18T12:14:35+00:00
 - [Rechner De](https://onlineinternetcafe.com/rechner-de/) — last modified 2026-07-22T15:25:44+00:00
-- [Refund Policy](https://onlineinternetcafe.com/refund-policy/) — last modified 2026-07-27T15:46:26+00:00
+- [Refund Policy](https://onlineinternetcafe.com/refund-policy/) — last modified 2026-08-01T13:22:56+00:00
 - [Rentenrechner Deutschland](https://onlineinternetcafe.com/rechner-de/rentenrechner-deutschland/) — last modified 2026-07-22T15:25:44+00:00
 - [Repeated Sequence Cipher Analyzer](https://onlineinternetcafe.com/repeated-sequence-cipher-analyzer/) — last modified 2026-07-28T07:03:14+00:00
 - [Research Data Analysis Help](https://onlineinternetcafe.com/research-data-analysis-help/) — last modified 2026-07-27T15:46:21+00:00
@@ -2823,21 +2654,21 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Schlafrechner](https://onlineinternetcafe.com/rechner-de/schlafrechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Schwangerschaftsrechner](https://onlineinternetcafe.com/rechner-de/schwangerschaftsrechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Seitenverhaeltnis Rechner](https://onlineinternetcafe.com/rechner-de/seitenverhaeltnis-rechner/) — last modified 2026-07-22T15:25:44+00:00
-- [Services](https://onlineinternetcafe.com/services/) — last modified 2026-07-27T15:46:12+00:00
+- [Services](https://onlineinternetcafe.com/services/) — last modified 2026-08-01T12:41:55+00:00
 - [Sichtfeld Rechner](https://onlineinternetcafe.com/rechner-de/sichtfeld-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Sign Test](https://onlineinternetcafe.com/sign-test/) — last modified 2026-07-28T10:12:41+00:00
 - [Sos Morse Code](https://onlineinternetcafe.com/sos-morse-code/) — last modified 2026-07-28T18:12:03+00:00
 - [Spannungsteiler Rechner](https://onlineinternetcafe.com/rechner-de/spannungsteiler-rechner/) — last modified 2026-07-22T15:25:44+00:00
-- [SPSS Data Analysis Help](https://onlineinternetcafe.com/spss-data-analysis-help/) — last modified 2026-07-27T15:46:14+00:00
+- [SPSS Data Analysis Help](https://onlineinternetcafe.com/spss-data-analysis-help/) — last modified 2026-08-01T12:46:39+00:00
 - [Staff Statement Markaz 06](https://onlineinternetcafe.com/staff-statement-markaz-06/) — last modified 2026-06-26T22:02:00+00:00
 - [Staff Statement Markaz 06 Admin](https://onlineinternetcafe.com/staff-statement-markaz-06-admin/) — last modified 2026-06-26T22:02:00+00:00
 - [Standardabweichungsrechner](https://onlineinternetcafe.com/rechner-de/standardabweichungsrechner/) — last modified 2026-07-22T15:25:44+00:00
-- [Statistics Help For Students](https://onlineinternetcafe.com/statistics-help-for-students/) — last modified 2026-07-27T15:46:14+00:00
+- [Statistics Help For Students](https://onlineinternetcafe.com/statistics-help-for-students/) — last modified 2026-08-01T13:02:50+00:00
 - [Steigungsrechner](https://onlineinternetcafe.com/rechner-de/steigungsrechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Stichprobenumfang Rechner](https://onlineinternetcafe.com/rechner-de/stichprobenumfang-rechner/) — last modified 2026-07-22T15:25:44+00:00
-- [Survey Data Analysis Service](https://onlineinternetcafe.com/survey-data-analysis-service/) — last modified 2026-07-27T15:46:17+00:00
+- [Survey Data Analysis Service](https://onlineinternetcafe.com/survey-data-analysis-service/) — last modified 2026-08-01T12:55:13+00:00
 - [Tdee Rechner](https://onlineinternetcafe.com/rechner-de/tdee-rechner/) — last modified 2026-07-22T15:25:44+00:00
-- [Terms Of Service](https://onlineinternetcafe.com/terms-of-service/) — last modified 2026-07-27T15:46:24+00:00
+- [Terms Of Service](https://onlineinternetcafe.com/terms-of-service/) — last modified 2026-08-01T13:20:22+00:00
 - [Tolerance Statistic](https://onlineinternetcafe.com/tolerance-statistic/) — last modified 2026-07-26T11:36:11+00:00
 - [Trinkgeldrechner](https://onlineinternetcafe.com/rechner-de/trinkgeldrechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Type I Type Ii Errors Power 2](https://onlineinternetcafe.com/type-i-type-ii-errors-power-2/) — last modified 2026-07-18T12:14:06+00:00
