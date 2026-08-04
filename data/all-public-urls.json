@@ -1,7 +1,7 @@
 {
   "website": "https://onlineinternetcafe.com",
-  "generated_utc": "2026-08-03T05:54:05+00:00",
-  "url_count": 2649,
+  "generated_utc": "2026-08-04T05:26:44+00:00",
+  "url_count": 2712,
   "sitemaps_read": [
     "https://onlineinternetcafe.com/calculator-sitemap.xml",
     "https://onlineinternetcafe.com/category-sitemap.xml",
@@ -988,6 +988,12 @@
       "last_modified": "2026-08-02T10:01:05+00:00"
     },
     {
+      "title": "Chi Square For Survey Data",
+      "url": "https://onlineinternetcafe.com/chi-square-for-survey-data/",
+      "category": "Categorical, exact and agreement tests",
+      "last_modified": "2026-08-03T06:57:09+00:00"
+    },
+    {
       "title": "Chi Square Goft",
       "url": "https://onlineinternetcafe.com/chi-square-goft/",
       "category": "Categorical, exact and agreement tests",
@@ -1114,6 +1120,12 @@
       "last_modified": "2026-07-28T10:06:32+00:00"
     },
     {
+      "title": "Autocorrelation Function",
+      "url": "https://onlineinternetcafe.com/autocorrelation-function/",
+      "category": "Correlation and association",
+      "last_modified": "2026-08-03T16:25:42+00:00"
+    },
+    {
       "title": "Autocorrelation Test",
       "url": "https://onlineinternetcafe.com/autocorrelation-test/",
       "category": "Correlation and association",
@@ -1154,6 +1166,12 @@
       "url": "https://onlineinternetcafe.com/correlation-assumptions/",
       "category": "Correlation and association",
       "last_modified": "2026-07-27T17:01:27+00:00"
+    },
+    {
+      "title": "Correlation For Survey Data",
+      "url": "https://onlineinternetcafe.com/correlation-for-survey-data/",
+      "category": "Correlation and association",
+      "last_modified": "2026-08-03T06:57:16+00:00"
     },
     {
       "title": "Correlation Heatmap",
@@ -1256,6 +1274,12 @@
       "url": "https://onlineinternetcafe.com/kendalls-tau-c/",
       "category": "Correlation and association",
       "last_modified": "2026-07-26T11:41:19+00:00"
+    },
+    {
+      "title": "Partial Autocorrelation Function",
+      "url": "https://onlineinternetcafe.com/partial-autocorrelation-function/",
+      "category": "Correlation and association",
+      "last_modified": "2026-08-03T16:25:33+00:00"
     },
     {
       "title": "Partial Correlation",
@@ -10954,6 +10978,12 @@
       "last_modified": "2026-07-28T10:13:59+00:00"
     },
     {
+      "title": "Friedman Test For Likert Data",
+      "url": "https://onlineinternetcafe.com/friedman-test-for-likert-data/",
+      "category": "Nonparametric tests",
+      "last_modified": "2026-08-03T06:57:11+00:00"
+    },
+    {
       "title": "Jonckheere Terpstra Test",
       "url": "https://onlineinternetcafe.com/jonckheere-terpstra-test/",
       "category": "Nonparametric tests",
@@ -10966,10 +10996,22 @@
       "last_modified": "2026-07-25T06:37:22+00:00"
     },
     {
+      "title": "Kruskal Wallis Test For Likert Data",
+      "url": "https://onlineinternetcafe.com/kruskal-wallis-test-for-likert-data/",
+      "category": "Nonparametric tests",
+      "last_modified": "2026-08-03T06:57:12+00:00"
+    },
+    {
       "title": "Mann Whitney U Test",
       "url": "https://onlineinternetcafe.com/mann-whitney-u-test/",
       "category": "Nonparametric tests",
       "last_modified": "2026-07-28T10:14:05+00:00"
+    },
+    {
+      "title": "Mann Whitney U Test For Likert Data",
+      "url": "https://onlineinternetcafe.com/mann-whitney-u-test-for-likert-data/",
+      "category": "Nonparametric tests",
+      "last_modified": "2026-08-03T06:57:08+00:00"
     },
     {
       "title": "Median Test",
@@ -11170,6 +11212,18 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
+      "title": "Arch Test",
+      "url": "https://onlineinternetcafe.com/arch-test/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:44+00:00"
+    },
+    {
+      "title": "Augmented Dickey Fuller Test",
+      "url": "https://onlineinternetcafe.com/augmented-dickey-fuller-test/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:41+00:00"
+    },
+    {
       "title": "Baufinanzierungsrechner",
       "url": "https://onlineinternetcafe.com/rechner-de/baufinanzierungsrechner/",
       "category": "Other Salar Cafe resources",
@@ -11222,6 +11276,18 @@
       "url": "https://onlineinternetcafe.com/book-store/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-06-17T17:28:49+00:00"
+    },
+    {
+      "title": "Box Pierce Test",
+      "url": "https://onlineinternetcafe.com/box-pierce-test/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:43+00:00"
+    },
+    {
+      "title": "Breusch Godfrey Test",
+      "url": "https://onlineinternetcafe.com/breusch-godfrey-test/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:43+00:00"
     },
     {
       "title": "Brown Forsythe Test",
@@ -11632,6 +11698,12 @@
       "last_modified": "2026-07-22T17:04:53+00:00"
     },
     {
+      "title": "Chow Test",
+      "url": "https://onlineinternetcafe.com/chow-test/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:40+00:00"
+    },
+    {
       "title": "Client Credits",
       "url": "https://onlineinternetcafe.com/client-credits/",
       "category": "Other Salar Cafe resources",
@@ -11710,6 +11782,12 @@
       "last_modified": "2026-08-02T10:01:04+00:00"
     },
     {
+      "title": "Composite Score Creation",
+      "url": "https://onlineinternetcafe.com/composite-score-creation/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T06:57:15+00:00"
+    },
+    {
       "title": "Confirmatory Composite Analysis",
       "url": "https://onlineinternetcafe.com/confirmatory-composite-analysis/",
       "category": "Other Salar Cafe resources",
@@ -11774,6 +11852,18 @@
       "url": "https://onlineinternetcafe.com/cross-tabulation/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-28T09:59:17+00:00"
+    },
+    {
+      "title": "Cross Tabulation For Survey Data",
+      "url": "https://onlineinternetcafe.com/cross-tabulation-for-survey-data/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T06:57:13+00:00"
+    },
+    {
+      "title": "Cusum Test",
+      "url": "https://onlineinternetcafe.com/cusum-test/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:40+00:00"
     },
     {
       "title": "D Agostino Pearson Test",
@@ -11926,10 +12016,22 @@
       "last_modified": "2026-08-02T10:00:55+00:00"
     },
     {
+      "title": "Exponential Smoothing",
+      "url": "https://onlineinternetcafe.com/exponential-smoothing/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:37+00:00"
+    },
+    {
       "title": "F Distribution",
       "url": "https://onlineinternetcafe.com/f-distribution/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-02T11:04:54+00:00"
+    },
+    {
+      "title": "Factor Analysis For Questionnaire Data",
+      "url": "https://onlineinternetcafe.com/factor-analysis-for-questionnaire-data/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T06:57:13+00:00"
     },
     {
       "title": "Factor Analysis In R",
@@ -11986,6 +12088,12 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
+      "title": "Forecast Accuracy Metrics",
+      "url": "https://onlineinternetcafe.com/forecast-accuracy-metrics/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:38+00:00"
+    },
+    {
       "title": "Fornell Larcker Criterion",
       "url": "https://onlineinternetcafe.com/fornell-larcker-criterion/",
       "category": "Other Salar Cafe resources",
@@ -12032,6 +12140,18 @@
       "url": "https://onlineinternetcafe.com/hochbergs-gt2/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-26T11:37:24+00:00"
+    },
+    {
+      "title": "Holt Winters Method",
+      "url": "https://onlineinternetcafe.com/holt-winters-method/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:36+00:00"
+    },
+    {
+      "title": "Holts Linear Trend Method",
+      "url": "https://onlineinternetcafe.com/holts-linear-trend-method/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:37+00:00"
     },
     {
       "title": "Horns Parallel Analysis",
@@ -12106,6 +12226,12 @@
       "last_modified": "2026-07-18T12:15:08+00:00"
     },
     {
+      "title": "Johansen Cointegration Test",
+      "url": "https://onlineinternetcafe.com/johansen-cointegration-test/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:34+00:00"
+    },
+    {
       "title": "Kaiser Meyer Olkin Test",
       "url": "https://onlineinternetcafe.com/kaiser-meyer-olkin-test/",
       "category": "Other Salar Cafe resources",
@@ -12158,6 +12284,12 @@
       "url": "https://onlineinternetcafe.com/kolmogorov-smirnov-test/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-26T11:19:00+00:00"
+    },
+    {
+      "title": "Kpss Test",
+      "url": "https://onlineinternetcafe.com/kpss-test/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:35+00:00"
     },
     {
       "title": "Kraftstoffverbrauchs Rechner",
@@ -12232,10 +12364,40 @@
       "last_modified": "2026-07-28T18:12:11+00:00"
     },
     {
+      "title": "Likert Item Vs Likert Scale",
+      "url": "https://onlineinternetcafe.com/likert-item-vs-likert-scale/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T06:57:10+00:00"
+    },
+    {
+      "title": "Likert Scale Data Analysis",
+      "url": "https://onlineinternetcafe.com/likert-scale-data-analysis/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T06:57:10+00:00"
+    },
+    {
+      "title": "Ljung Box Test",
+      "url": "https://onlineinternetcafe.com/ljung-box-test/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:35+00:00"
+    },
+    {
+      "title": "Mae",
+      "url": "https://onlineinternetcafe.com/mae/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:31+00:00"
+    },
+    {
       "title": "Makronaehrstoff Rechner",
       "url": "https://onlineinternetcafe.com/rechner-de/makronaehrstoff-rechner/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
+    },
+    {
+      "title": "Mape",
+      "url": "https://onlineinternetcafe.com/mape/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:32+00:00"
     },
     {
       "title": "Margin Of Error",
@@ -12272,6 +12434,12 @@
       "url": "https://onlineinternetcafe.com/rechner-de/mieten-oder-kaufen-rechner/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
+    },
+    {
+      "title": "Missing Values In Survey Data",
+      "url": "https://onlineinternetcafe.com/missing-values-in-survey-data/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T06:57:08+00:00"
     },
     {
       "title": "Mittelwertrechner",
@@ -12484,6 +12652,12 @@
       "last_modified": "2026-07-28T10:15:04+00:00"
     },
     {
+      "title": "Moving Average",
+      "url": "https://onlineinternetcafe.com/moving-average/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:33+00:00"
+    },
+    {
       "title": "Nettovermoegens Rechner",
       "url": "https://onlineinternetcafe.com/rechner-de/nettovermoegens-rechner/",
       "category": "Other Salar Cafe resources",
@@ -12542,6 +12716,12 @@
       "url": "https://onlineinternetcafe.com/rechner-de/pc-netzteil-rechner/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
+    },
+    {
+      "title": "Phillips Perron Test",
+      "url": "https://onlineinternetcafe.com/phillips-perron-test/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:30+00:00"
     },
     {
       "title": "Portfolio",
@@ -12610,6 +12790,18 @@
       "last_modified": "2026-08-01T12:50:16+00:00"
     },
     {
+      "title": "Questionnaire Coding In Excel",
+      "url": "https://onlineinternetcafe.com/questionnaire-coding-in-excel/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T06:57:05+00:00"
+    },
+    {
+      "title": "Questionnaire Coding In SPSS",
+      "url": "https://onlineinternetcafe.com/questionnaire-coding-in-spss/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T06:57:06+00:00"
+    },
+    {
       "title": "R Data Analysis Help",
       "url": "https://onlineinternetcafe.com/r-data-analysis-help/",
       "category": "Other Salar Cafe resources",
@@ -12670,6 +12862,18 @@
       "last_modified": "2026-07-27T15:46:21+00:00"
     },
     {
+      "title": "Reverse Coding Likert Items",
+      "url": "https://onlineinternetcafe.com/reverse-coding-likert-items/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T06:57:04+00:00"
+    },
+    {
+      "title": "Rmse",
+      "url": "https://onlineinternetcafe.com/rmse/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:30+00:00"
+    },
+    {
       "title": "Rmsea",
       "url": "https://onlineinternetcafe.com/rmsea/",
       "category": "Other Salar Cafe resources",
@@ -12712,6 +12916,12 @@
       "last_modified": "2026-08-02T10:00:42+00:00"
     },
     {
+      "title": "Seasonal Decomposition",
+      "url": "https://onlineinternetcafe.com/seasonal-decomposition/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:28+00:00"
+    },
+    {
       "title": "Seitenverhaeltnis Rechner",
       "url": "https://onlineinternetcafe.com/rechner-de/seitenverhaeltnis-rechner/",
       "category": "Other Salar Cafe resources",
@@ -12752,6 +12962,12 @@
       "url": "https://onlineinternetcafe.com/sign-test/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-28T10:12:41+00:00"
+    },
+    {
+      "title": "Simple Exponential Smoothing",
+      "url": "https://onlineinternetcafe.com/simple-exponential-smoothing/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:28+00:00"
     },
     {
       "title": "Sos Morse Code",
@@ -12820,10 +13036,34 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
+      "title": "Survey Analysis In Python",
+      "url": "https://onlineinternetcafe.com/survey-analysis-in-python/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T06:57:02+00:00"
+    },
+    {
+      "title": "Survey Analysis In R",
+      "url": "https://onlineinternetcafe.com/survey-analysis-in-r/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T06:57:02+00:00"
+    },
+    {
+      "title": "Survey Analysis In SPSS",
+      "url": "https://onlineinternetcafe.com/survey-analysis-in-spss/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T06:57:00+00:00"
+    },
+    {
       "title": "Survey Data Analysis Service",
       "url": "https://onlineinternetcafe.com/survey-data-analysis-service/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-01T12:55:13+00:00"
+    },
+    {
+      "title": "Survey Data Cleaning",
+      "url": "https://onlineinternetcafe.com/survey-data-cleaning/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T06:57:01+00:00"
     },
     {
       "title": "Tdee Rechner",
@@ -12838,6 +13078,30 @@
       "last_modified": "2026-08-01T13:20:22+00:00"
     },
     {
+      "title": "Time Series Analysis",
+      "url": "https://onlineinternetcafe.com/time-series-analysis/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:29+00:00"
+    },
+    {
+      "title": "Time Series In Excel",
+      "url": "https://onlineinternetcafe.com/time-series-in-excel/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:24+00:00"
+    },
+    {
+      "title": "Time Series In Python",
+      "url": "https://onlineinternetcafe.com/time-series-in-python/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:25+00:00"
+    },
+    {
+      "title": "Time Series In R",
+      "url": "https://onlineinternetcafe.com/time-series-in-r/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:26+00:00"
+    },
+    {
       "title": "Tli",
       "url": "https://onlineinternetcafe.com/tli/",
       "category": "Other Salar Cafe resources",
@@ -12848,6 +13112,12 @@
       "url": "https://onlineinternetcafe.com/tolerance-statistic/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-26T11:36:11+00:00"
+    },
+    {
+      "title": "Trend Analysis",
+      "url": "https://onlineinternetcafe.com/trend-analysis/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:26+00:00"
     },
     {
       "title": "Trinkgeldrechner",
@@ -12902,6 +13172,12 @@
       "url": "https://onlineinternetcafe.com/rechner-de/volumenrechner/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
+    },
+    {
+      "title": "Weighted Moving Average",
+      "url": "https://onlineinternetcafe.com/weighted-moving-average/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-03T16:25:24+00:00"
     },
     {
       "title": "What Is The AP Statistics Exam",
@@ -13034,6 +13310,18 @@
       "url": "https://onlineinternetcafe.com/category/rstudio/",
       "category": "Public archive pages",
       "last_modified": "2026-06-17T17:37:22+00:00"
+    },
+    {
+      "title": "Survey And Likert Scale Analysis",
+      "url": "https://onlineinternetcafe.com/category/survey-and-likert-scale-analysis/",
+      "category": "Public archive pages",
+      "last_modified": "2026-08-03T06:57:16+00:00"
+    },
+    {
+      "title": "Time Series Tests And Forecasting",
+      "url": "https://onlineinternetcafe.com/category/time-series-tests-and-forecasting/",
+      "category": "Public archive pages",
+      "last_modified": "2026-08-03T16:25:45+00:00"
     },
     {
       "title": "Unit 1 Adjacency Research Design Enrichment",
@@ -13252,6 +13540,12 @@
       "last_modified": "2026-07-26T11:15:51+00:00"
     },
     {
+      "title": "Ordinal Logistic Regression For Likert Data",
+      "url": "https://onlineinternetcafe.com/ordinal-logistic-regression-for-likert-data/",
+      "category": "Regression and statistical models",
+      "last_modified": "2026-08-03T06:57:07+00:00"
+    },
+    {
       "title": "Ordinary Least Squares Regression",
       "url": "https://onlineinternetcafe.com/ordinary-least-squares-regression/",
       "category": "Regression and statistical models",
@@ -13352,6 +13646,12 @@
       "url": "https://onlineinternetcafe.com/regression-diagnostics/",
       "category": "Regression and statistical models",
       "last_modified": "2026-08-02T08:42:43+00:00"
+    },
+    {
+      "title": "Regression For Survey Data",
+      "url": "https://onlineinternetcafe.com/regression-for-survey-data/",
+      "category": "Regression and statistical models",
+      "last_modified": "2026-08-03T06:57:06+00:00"
     },
     {
       "title": "Regression In Excel",
@@ -13510,6 +13810,12 @@
       "last_modified": "2026-07-29T09:05:50+00:00"
     },
     {
+      "title": "Reliability Analysis For Likert Scales",
+      "url": "https://onlineinternetcafe.com/reliability-analysis-for-likert-scales/",
+      "category": "Reliability and agreement",
+      "last_modified": "2026-08-03T06:57:03+00:00"
+    },
+    {
       "title": "Reliability Analysis In Python",
       "url": "https://onlineinternetcafe.com/reliability-analysis-in-python/",
       "category": "Reliability and agreement",
@@ -13555,1807 +13861,1831 @@
       "title": "Adjusted R Squared Calculator Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/adjusted-r-squared-calculator-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Akaike Information Criterion Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/akaike-information-criterion-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "ANCOVA Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/ancova-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Anderson Darling Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/anderson-darling-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "ANOVA Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/anova-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Ansari Bradley Scale Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/ansari-bradley-scale-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Attack Rate Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/attack-rate-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Attributable Fraction Exposed Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/attributable-fraction-exposed-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Attributable Risk Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/attributable-risk-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Autocorrelation Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/autocorrelation-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Average Variance Extracted Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/average-variance-extracted-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Barnard Exact Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/barnard-exact-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Bartlett Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/bartlett-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Bartlett Test Of Sphericity Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/bartlett-test-of-sphericity-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Bayesian Information Criterion Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/bayesian-information-criterion-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Beta Binomial Distribution Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/beta-binomial-distribution-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Beta Distribution Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/beta-distribution-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Binary Brier Score Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/binary-brier-score-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Binary Concordance Index Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/binary-concordance-index-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Binomial Probability Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/binomial-probability-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Bland Altman Limits Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/bland-altman-limits-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Bonferroni Pairwise Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/bonferroni-pairwise-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Boschloo Exact Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/boschloo-exact-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Bowker Symmetry Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/bowker-symmetry-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Box M Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/box-m-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Box Pierce Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/box-pierce-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Brennan Prediger Agreement Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/brennan-prediger-agreement-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Breslow Day Homogeneity Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/breslow-day-homogeneity-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Brown Forsythe ANOVA Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/brown-forsythe-anova-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Brown Forsythe Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/brown-forsythe-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Brunner Munzel Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/brunner-munzel-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Canonical Correlation Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/canonical-correlation-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Case Fatality Rate Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/case-fatality-rate-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Chi Square Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/chi-square-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Chi Square Critical Value Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/chi-square-critical-value-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Chi Square Distribution Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/chi-square-distribution-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Chi Square Goodness Of Fit Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/chi-square-goodness-of-fit-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Chi Square Homogeneity Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/chi-square-homogeneity-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Ci Mean Known Sigma Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/ci-mean-known-sigma-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Ci Mean Unknown Sigma Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/ci-mean-unknown-sigma-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Ci Population Proportion Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/ci-population-proportion-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Clopper Pearson Interval Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/clopper-pearson-interval-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Cochran Mantel Haenszel Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/cochran-mantel-haenszel-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Cochran Q Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/cochran-q-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Coefficient Of Variation Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/coefficient-of-variation-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Cohen D Independent Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/cohen-d-independent-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Cohen D One Sample Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/cohen-d-one-sample-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Cohen F Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/cohen-f-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Cohen H Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/cohen-h-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Cohen Kappa Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/cohen-kappa-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Comparison Coefficients Variation Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/comparison-coefficients-variation-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Comparison Correlations Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/comparison-correlations-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Comparison Two Rates Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/comparison-two-rates-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Composite Reliability Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/composite-reliability-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Confidence Interval Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/confidence-interval-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Conover Post Hoc Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/conover-post-hoc-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Content Validity Index Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/content-validity-index-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Content Validity Ratio Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/content-validity-ratio-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Continuous Uniform Distribution Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/continuous-uniform-distribution-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Cook’s Distance Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/cooks-distance-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Corrected Aic Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/corrected-aic-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Corrected Item Total Correlation Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/corrected-item-total-correlation-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Correlation Confidence Interval Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/correlation-confidence-interval-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Correlation Power Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/correlation-power-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Cox Proportional Hazards Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/cox-proportional-hazards-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Cramers V Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/cramers-v-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Cronbach Alpha Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/cronbach-alpha-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Cronbach Alpha Confidence Interval Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/cronbach-alpha-confidence-interval-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Dagostino Pearson Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/dagostino-pearson-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Delong Paired Auc Comparison Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/delong-paired-auc-comparison-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Deming Regression Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/deming-regression-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Dependability Index Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/dependability-index-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Diagnostic Likelihood Ratios Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/diagnostic-likelihood-ratios-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Diagnostic Odds Ratio Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/diagnostic-odds-ratio-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Discrete Uniform Distribution Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/discrete-uniform-distribution-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Dunn Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/dunn-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Dunnett Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/dunnett-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Durbin Watson Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/durbin-watson-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Egger Regression Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/egger-regression-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Epsilon Squared Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/epsilon-squared-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Eta Squared Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/eta-squared-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Exact Binomial Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/exact-binomial-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Excel Statistical Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/excel-statistical-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Exploratory Factor Analysis Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/exploratory-factor-analysis-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Exponential Distribution Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/exponential-distribution-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "F Critical Value Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/f-critical-value-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "F Distribution Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/f-distribution-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "F Test Two Variances Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/f-test-two-variances-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Fisher Exact 2x2 Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/fisher-exact-2x2-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Fisher Freeman Halton 2 3 Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/fisher-freeman-halton-2-3-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Fisher Lsd Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/fisher-lsd-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Five Number Summary Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/five-number-summary-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Fixed Effect Meta Analysis Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/fixed-effect-meta-analysis-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Fleiss Kappa Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/fleiss-kappa-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Fligner Killeen Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/fligner-killeen-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Friedman Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/friedman-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "G Test Independence Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/g-test-independence-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Games Howell Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/games-howell-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Gamma Distribution Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/gamma-distribution-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Generalizability Coefficient Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/generalizability-coefficient-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Geometric Distribution Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/geometric-distribution-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Glass Delta Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/glass-delta-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Guttman Lambda6 Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/guttman-lambda6-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Gwet Ac1 Agreement Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/gwet-ac1-agreement-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Hat Leverage Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/hat-leverage-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Hazard Ratio Confidence Interval Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/hazard-ratio-confidence-interval-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Hedges G Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/hedges-g-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Htmt Discriminant Validity Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/htmt-discriminant-validity-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Huber Robust Regression Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/huber-robust-regression-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Hypergeometric Distribution Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/hypergeometric-distribution-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "ICC 1 1 Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/icc-1-1-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "ICC 1 K Average Measure Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/icc-1-k-average-measure-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "ICC 2 1 Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/icc-2-1-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "ICC 2 K Average Measure Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/icc-2-k-average-measure-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "ICC 3 1 Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/icc-3-1-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "ICC 3 K Average Measure Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/icc-3-k-average-measure-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Incidence Proportion Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/incidence-proportion-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Incidence Rate Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/incidence-rate-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Incidence Rate Ratio Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/incidence-rate-ratio-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Independent T Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/independent-t-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Interquartile Range Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/interquartile-range-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Item Total Correlation Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/item-total-correlation-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Jarque Bera Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/jarque-bera-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Jonckheere Terpstra Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/jonckheere-terpstra-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Kaplan Meier Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/kaplan-meier-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Kendall Tau Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/kendall-tau-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Kendall W Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/kendall-w-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Kmo Measure Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/kmo-measure-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Kolmogorov Smirnov Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/kolmogorov-smirnov-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Kr20 Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/kr20-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Kr21 Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/kr21-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Krippendorff Alpha Nominal Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/krippendorff-alpha-nominal-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Kruskal Wallis Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/kruskal-wallis-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Ks Normality Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/ks-normality-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Kurtosis Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/kurtosis-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Laplace Distribution Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/laplace-distribution-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Levene Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/levene-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Lin Concordance Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/lin-concordance-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Linear Discriminant Analysis Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/linear-discriminant-analysis-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Ljung Box Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/ljung-box-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Log Rank Sample Size Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/log-rank-sample-size-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Log Rank Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/log-rank-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Logistic Distribution Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/logistic-distribution-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Logistic Regression Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/logistic-regression-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Lognormal Distribution Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/lognormal-distribution-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Mahalanobis Distance Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/mahalanobis-distance-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Mallows Cp Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/mallows-cp-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Mann Kendall Trend Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/mann-kendall-trend-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Mann Whitney U Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/mann-whitney-u-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "MANOVA Wilks Lambda Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/manova-wilks-lambda-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Mantel Haenszel Common Odds Ratio Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/mantel-haenszel-common-odds-ratio-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Margin Of Error Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/margin-of-error-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Mauchly Sphericity Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/mauchly-sphericity-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Mcdonald Omega Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/mcdonald-omega-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Mcnemar Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/mcnemar-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Mean Absolute Error Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/mean-absolute-error-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Mean Absolute Percentage Error Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/mean-absolute-percentage-error-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Mean Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/mean-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Mean Median Mode Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/mean-median-mode-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Median Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/median-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Median Quantile Regression Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/median-quantile-regression-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Meta Analysis Heterogeneity Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/meta-analysis-heterogeneity-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Meta Analysis Prediction Interval Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/meta-analysis-prediction-interval-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Meta Regression Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/meta-regression-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Minimal Detectable Change Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/minimal-detectable-change-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Mode Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/mode-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Mood Median Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/mood-median-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Multinomial Probability Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/multinomial-probability-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Multiple Linear Regression Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/multiple-linear-regression-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
+    },
+    {
+      "title": "Multivariate General Linear Model Calculator",
+      "url": "https://onlineinternetcafe.com/statistical-calculators/multivariate-general-linear-model-calculator/",
+      "category": "Statistical calculators",
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Negative Binomial Distribution Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/negative-binomial-distribution-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Negative Binomial Regression Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/negative-binomial-regression-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Nelson Aalen Cumulative Hazard Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/nelson-aalen-cumulative-hazard-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Nemenyi Post Hoc Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/nemenyi-post-hoc-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Newcombe Difference Proportions Ci Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/newcombe-difference-proportions-ci-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Normal Distribution Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/normal-distribution-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Normal Quantile Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/normal-quantile-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Number Needed To Treat Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/number-needed-to-treat-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Odds Ratio 2x2 Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/odds-ratio-2x2-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Odds Ratio Confidence Interval Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/odds-ratio-confidence-interval-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Omega Squared Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/omega-squared-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "One Proportion Z Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/one-proportion-z-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "One Sample Hotelling T Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/one-sample-hotelling-t-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "One Sample T Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/one-sample-t-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "One Sample Z Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/one-sample-z-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "P Value Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/p-value-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Page Trend Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/page-trend-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Paired Cohen Dz Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/paired-cohen-dz-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Paired T Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/paired-t-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Parallel Analysis Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/parallel-analysis-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Pareto Distribution Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/pareto-distribution-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Partial Correlation Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/partial-correlation-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Partial Eta Squared Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/partial-eta-squared-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Passing Bablok Regression Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/passing-bablok-regression-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Pca Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/pca-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Pearson Correlation Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/pearson-correlation-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Percent Agreement Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/percent-agreement-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Percentile Rank Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/percentile-rank-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Permutation Paired Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/permutation-paired-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Permutation Two Sample Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/permutation-two-sample-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Phi Coefficient Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/phi-coefficient-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Point Biserial Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/point-biserial-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Poisson Probability Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/poisson-probability-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Poisson Rate Interval Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/poisson-rate-interval-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Poisson Regression Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/poisson-regression-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Polynomial Regression Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/polynomial-regression-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Population Attributable Fraction Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/population-attributable-fraction-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Power ANOVA Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/power-anova-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Power Chi Square Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/power-chi-square-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Power T Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/power-t-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Predictive Values Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/predictive-values-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Press Statistic Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/press-statistic-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Prevalence Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/prevalence-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Probability Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/probability-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Probit Regression Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/probit-regression-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Quade Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/quade-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Quartiles Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/quartiles-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "R Squared Calculator Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/r-squared-calculator-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Random Effects Meta Analysis Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/random-effects-meta-analysis-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Range Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/range-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Rate Confidence Interval Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/rate-confidence-interval-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Rate Ratio Confidence Interval Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/rate-ratio-confidence-interval-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Rayleigh Distribution Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/rayleigh-distribution-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Regression Coefficient Ci Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/regression-coefficient-ci-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Regression Tolerance Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/regression-tolerance-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Relative Risk 2x2 Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/relative-risk-2x2-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Repeated Measures ANOVA Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/repeated-measures-anova-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Residual Calculator Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/residual-calculator-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Restricted Mean Survival Time Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/restricted-mean-survival-time-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Ridge Regression Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/ridge-regression-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Risk Difference 2x2 Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/risk-difference-2x2-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Roc Auc Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/roc-auc-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Roc Auc Confidence Interval Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/roc-auc-confidence-interval-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Root Mean Squared Error Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/root-mean-squared-error-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Runs Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/runs-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Ryan Einot Gabriel Welsch Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/ryan-einot-gabriel-welsch-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Sample Size Correlation Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/sample-size-correlation-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Sample Size Mean Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/sample-size-mean-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Sample Size Proportion Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/sample-size-proportion-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Sample Size Two Means Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/sample-size-two-means-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Sample Size Two Proportions Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/sample-size-two-proportions-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Savage Scores Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/savage-scores-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Scheffe Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/scheffe-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Scott Pi Agreement Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/scott-pi-agreement-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Sen Slope Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/sen-slope-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Sensitivity Specificity Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/sensitivity-specificity-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Shapiro Wilk Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/shapiro-wilk-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Siegel Tukey Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/siegel-tukey-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Sign Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/sign-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Simple Linear Regression Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/simple-linear-regression-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Skewness Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/skewness-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Spearman Brown Prophecy Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/spearman-brown-prophecy-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Spearman Correlation Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/spearman-correlation-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Split Half Reliability Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/split-half-reliability-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Standard Deviation Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/standard-deviation-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Standard Deviation Confidence Interval Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/standard-deviation-confidence-interval-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Standard Error Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/standard-error-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Standard Error Measurement Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/standard-error-measurement-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Standard Normal Probability Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/standard-normal-probability-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Standardized Mortality Ratio Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/standardized-mortality-ratio-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Standardized Regression Beta Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/standardized-regression-beta-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Standardized Test Statistic Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/standardized-test-statistic-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Statistical Calculators Library",
       "url": "https://onlineinternetcafe.com/statistical-calculators/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:58+00:00"
+      "last_modified": "2026-08-03T08:01:40+00:00"
     },
     {
       "title": "Statistical Power Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/statistical-power-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Statistical Sample Size Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/statistical-sample-size-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Statistical Significance Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/statistical-significance-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Statistics Summary Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/statistics-summary-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Steel Dwass Pairwise Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/steel-dwass-pairwise-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Student Newman Keuls Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/student-newman-keuls-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Symmetric Mape Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/symmetric-mape-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "T Critical Value Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/t-critical-value-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "T Distribution Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/t-distribution-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Tamhane T2 Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/tamhane-t2-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Test Retest Reliability Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/test-retest-reliability-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Test Statistic Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/test-statistic-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Theil Sen Regression Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/theil-sen-regression-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Triangular Distribution Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/triangular-distribution-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Truncated Normal Probability Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/truncated-normal-probability-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Tukey Hsd Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/tukey-hsd-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Tukey Kramer Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/tukey-kramer-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Two Proportion Z Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/two-proportion-z-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Two Sample Hotelling T Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/two-sample-hotelling-t-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Two Sample Z Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/two-sample-z-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Two Way ANOVA With Replication Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/two-way-anova-with-replication-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Two Way ANOVA Without Replication Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/two-way-anova-without-replication-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Vaccine Effectiveness Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/vaccine-effectiveness-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Van Der Waerden Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/van-der-waerden-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Variance Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/variance-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Variance Inflation Factor Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/variance-inflation-factor-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Wald Wolfowitz Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/wald-wolfowitz-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Waller Duncan Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/waller-duncan-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Weibull Distribution Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/weibull-distribution-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Weighted Kappa Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/weighted-kappa-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Weighted Least Squares Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/weighted-least-squares-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Weighted Mean Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/weighted-mean-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Welch ANOVA Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/welch-anova-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Welch T Test Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/welch-t-test-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Wilcoxon Signed Rank Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/wilcoxon-signed-rank-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Wilson Binomial Interval Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/wilson-binomial-interval-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Z Score Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/z-score-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Z Test Statistic Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/z-test-statistic-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:36+00:00"
     },
     {
       "title": "Zero Inflated Poisson Calculator",
       "url": "https://onlineinternetcafe.com/statistical-calculators/zero-inflated-poisson-calculator/",
       "category": "Statistical calculators",
-      "last_modified": "2026-08-03T03:14:47+00:00"
+      "last_modified": "2026-08-03T08:01:40+00:00"
+    },
+    {
+      "title": "Ar Model",
+      "url": "https://onlineinternetcafe.com/ar-model/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-03T16:25:45+00:00"
+    },
+    {
+      "title": "Arima Model",
+      "url": "https://onlineinternetcafe.com/arima-model/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-03T16:25:44+00:00"
+    },
+    {
+      "title": "Arma Model",
+      "url": "https://onlineinternetcafe.com/arma-model/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-03T16:25:45+00:00"
     },
     {
       "title": "Average Variance Extracted",
@@ -15430,6 +15760,12 @@
       "last_modified": "2026-07-26T11:19:01+00:00"
     },
     {
+      "title": "Descriptive Statistics For Likert Data",
+      "url": "https://onlineinternetcafe.com/descriptive-statistics-for-likert-data/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-03T06:57:14+00:00"
+    },
+    {
       "title": "Duncans Multiple Range Test Formula Interpretation SPSS Python R And Excel Guide",
       "url": "https://onlineinternetcafe.com/duncans-multiple-range-test-formula-interpretation-spss-python-r-and-excel-guide/",
       "category": "Statistical foundations and probability",
@@ -15446,6 +15782,12 @@
       "url": "https://onlineinternetcafe.com/empirical-rule-normal-distribution/",
       "category": "Statistical foundations and probability",
       "last_modified": "2026-07-18T12:14:50+00:00"
+    },
+    {
+      "title": "Engle Granger Cointegration Test",
+      "url": "https://onlineinternetcafe.com/engle-granger-cointegration-test/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-03T16:25:41+00:00"
     },
     {
       "title": "Expected Value Random Variable 2",
@@ -15466,10 +15808,22 @@
       "last_modified": "2026-07-26T13:14:23+00:00"
     },
     {
+      "title": "Garch Model",
+      "url": "https://onlineinternetcafe.com/garch-model/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-03T16:25:39+00:00"
+    },
+    {
       "title": "Geometric Distribution",
       "url": "https://onlineinternetcafe.com/geometric-distribution/",
       "category": "Statistical foundations and probability",
       "last_modified": "2026-07-18T12:14:47+00:00"
+    },
+    {
+      "title": "Granger Causality Test",
+      "url": "https://onlineinternetcafe.com/granger-causality-test/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-03T16:25:39+00:00"
     },
     {
       "title": "Histogram Interpretation",
@@ -15488,6 +15842,12 @@
       "url": "https://onlineinternetcafe.com/kurtosis/",
       "category": "Statistical foundations and probability",
       "last_modified": "2026-07-26T13:14:26+00:00"
+    },
+    {
+      "title": "Ma Model",
+      "url": "https://onlineinternetcafe.com/ma-model/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-03T16:25:36+00:00"
     },
     {
       "title": "Mean Median And Mode",
@@ -15580,6 +15940,12 @@
       "last_modified": "2026-07-18T12:14:49+00:00"
     },
     {
+      "title": "Sarima Model",
+      "url": "https://onlineinternetcafe.com/sarima-model/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-03T16:25:27+00:00"
+    },
+    {
       "title": "Skewness",
       "url": "https://onlineinternetcafe.com/skewness/",
       "category": "Statistical foundations and probability",
@@ -15634,10 +16000,22 @@
       "last_modified": "2026-07-28T10:06:29+00:00"
     },
     {
+      "title": "Var Model",
+      "url": "https://onlineinternetcafe.com/var-model/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-03T16:25:23+00:00"
+    },
+    {
       "title": "Variance",
       "url": "https://onlineinternetcafe.com/variance/",
       "category": "Statistical foundations and probability",
       "last_modified": "2026-06-20T16:51:27+00:00"
+    },
+    {
+      "title": "Vecm Model",
+      "url": "https://onlineinternetcafe.com/vecm-model/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-03T16:25:22+00:00"
     },
     {
       "title": "What Does N Stand For In Statistics Meaning Formula Examples And Excel Guide",
