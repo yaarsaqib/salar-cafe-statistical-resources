@@ -1,7 +1,7 @@
 {
   "website": "https://onlineinternetcafe.com",
-  "generated_utc": "2026-08-13T04:22:25+00:00",
-  "url_count": 2758,
+  "generated_utc": "2026-08-14T04:19:19+00:00",
+  "url_count": 2778,
   "sitemaps_read": [
     "https://onlineinternetcafe.com/calculator-sitemap.xml",
     "https://onlineinternetcafe.com/category-sitemap.xml",
@@ -808,6 +808,12 @@
       "last_modified": "2026-06-17T17:05:50+00:00"
     },
     {
+      "title": "Hartley Oscillator Frequency Electronics Formula",
+      "url": "https://onlineinternetcafe.com/hartley-oscillator-frequency-electronics-formula/",
+      "category": "Assumptions, diagnostics and transformations",
+      "last_modified": "2026-08-14T03:56:31+00:00"
+    },
+    {
       "title": "Hartley S F Max Test",
       "url": "https://onlineinternetcafe.com/hartley-s-f-max-test/",
       "category": "Assumptions, diagnostics and transformations",
@@ -916,6 +922,12 @@
       "last_modified": "2026-07-26T11:36:09+00:00"
     },
     {
+      "title": "Source Transformation Electronics Formula",
+      "url": "https://onlineinternetcafe.com/source-transformation-electronics-formula/",
+      "category": "Assumptions, diagnostics and transformations",
+      "last_modified": "2026-08-14T03:53:30+00:00"
+    },
+    {
       "title": "Square Root Transformation",
       "url": "https://onlineinternetcafe.com/square-root-transformation/",
       "category": "Assumptions, diagnostics and transformations",
@@ -1018,12 +1030,6 @@
       "last_modified": "2026-07-28T10:07:04+00:00"
     },
     {
-      "title": "Chi Square Test Help",
-      "url": "https://onlineinternetcafe.com/chi-square-test-help/",
-      "category": "Categorical, exact and agreement tests",
-      "last_modified": "2026-07-27T15:46:19+00:00"
-    },
-    {
       "title": "Chi Square Test Homogeneity 2",
       "url": "https://onlineinternetcafe.com/chi-square-test-homogeneity-2/",
       "category": "Categorical, exact and agreement tests",
@@ -1090,12 +1096,6 @@
       "last_modified": "2026-07-28T10:10:12+00:00"
     },
     {
-      "title": "Morse Code Typing Test",
-      "url": "https://onlineinternetcafe.com/morse-code-typing-test/",
-      "category": "Categorical, exact and agreement tests",
-      "last_modified": "2026-07-28T18:12:13+00:00"
-    },
-    {
       "title": "Odds Ratio",
       "url": "https://onlineinternetcafe.com/odds-ratio/",
       "category": "Categorical, exact and agreement tests",
@@ -1160,12 +1160,6 @@
       "url": "https://onlineinternetcafe.com/corrected-item-total-correlation/",
       "category": "Correlation and association",
       "last_modified": "2026-07-28T10:20:03+00:00"
-    },
-    {
-      "title": "Correlation Analysis Help",
-      "url": "https://onlineinternetcafe.com/correlation-analysis-help/",
-      "category": "Correlation and association",
-      "last_modified": "2026-07-27T15:46:20+00:00"
     },
     {
       "title": "Correlation Assumptions",
@@ -1492,18 +1486,6 @@
       "last_modified": "2026-08-10T17:38:31+00:00"
     },
     {
-      "title": "A1z26 Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/a1z26-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:18+00:00"
-    },
-    {
-      "title": "A1z26 Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/a1z26-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:19+00:00"
-    },
-    {
       "title": "Absolute Value Calculator",
       "url": "https://onlineinternetcafe.com/absolute-value-calculator/",
       "category": "General calculators and solvers",
@@ -1564,30 +1546,6 @@
       "last_modified": "2026-08-01T04:11:52+00:00"
     },
     {
-      "title": "Adfgvx Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/adfgvx-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:38+00:00"
-    },
-    {
-      "title": "Adfgvx Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/adfgvx-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:38+00:00"
-    },
-    {
-      "title": "Adfgx Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/adfgx-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:37+00:00"
-    },
-    {
-      "title": "Adfgx Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/adfgx-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:37+00:00"
-    },
-    {
       "title": "Adiabatic Gas Calculator",
       "url": "https://onlineinternetcafe.com/adiabatic-gas-calculator/",
       "category": "General calculators and solvers",
@@ -1604,18 +1562,6 @@
       "url": "https://onlineinternetcafe.com/adjusted-body-weight-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-08-01T04:11:52+00:00"
-    },
-    {
-      "title": "Affine Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/affine-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:07+00:00"
-    },
-    {
-      "title": "Affine Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/affine-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:07+00:00"
     },
     {
       "title": "Age Difference Calculator",
@@ -1816,12 +1762,6 @@
       "last_modified": "2026-08-01T04:12:41+00:00"
     },
     {
-      "title": "Aristocrat Cipher Solver",
-      "url": "https://onlineinternetcafe.com/aristocrat-cipher-solver/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:15+00:00"
-    },
-    {
       "title": "Arrhenius Rate Calculator",
       "url": "https://onlineinternetcafe.com/arrhenius-rate-calculator/",
       "category": "General calculators and solvers",
@@ -1876,12 +1816,6 @@
       "last_modified": "2026-07-22T15:27:32+00:00"
     },
     {
-      "title": "Atbash Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/atbash-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:06+00:00"
-    },
-    {
       "title": "Atom Economy Calculator",
       "url": "https://onlineinternetcafe.com/atom-economy-calculator/",
       "category": "General calculators and solvers",
@@ -1924,18 +1858,6 @@
       "last_modified": "2026-08-01T04:12:26+00:00"
     },
     {
-      "title": "Autokey Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/autokey-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:11+00:00"
-    },
-    {
-      "title": "Autokey Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/autokey-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:12+00:00"
-    },
-    {
       "title": "Average Atomic Mass Calculator",
       "url": "https://onlineinternetcafe.com/average-atomic-mass-calculator/",
       "category": "General calculators and solvers",
@@ -1970,18 +1892,6 @@
       "url": "https://onlineinternetcafe.com/backsplash-tile-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-07-31T20:30:36+00:00"
-    },
-    {
-      "title": "Baconian Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/baconian-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:20+00:00"
-    },
-    {
-      "title": "Baconian Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/baconian-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:20+00:00"
     },
     {
       "title": "Bacterial Growth Calculator",
@@ -2110,18 +2020,6 @@
       "last_modified": "2026-08-01T04:23:25+00:00"
     },
     {
-      "title": "Beaufort Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/beaufort-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:09+00:00"
-    },
-    {
-      "title": "Beaufort Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/beaufort-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:10+00:00"
-    },
-    {
       "title": "Bed Height Calculator",
       "url": "https://onlineinternetcafe.com/bed-height-calculator/",
       "category": "General calculators and solvers",
@@ -2186,18 +2084,6 @@
       "url": "https://onlineinternetcafe.com/bicycle-speed-cadence-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-07-31T20:33:45+00:00"
-    },
-    {
-      "title": "Bifid Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/bifid-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:22+00:00"
-    },
-    {
-      "title": "Bifid Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/bifid-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:22+00:00"
     },
     {
       "title": "Bike Seat Height Calculator",
@@ -2356,18 +2242,6 @@
       "last_modified": "2026-07-31T20:33:54+00:00"
     },
     {
-      "title": "Book Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/book-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:44+00:00"
-    },
-    {
-      "title": "Book Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/book-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:45+00:00"
-    },
-    {
       "title": "Bowling Score Calculator",
       "url": "https://onlineinternetcafe.com/bowling-score-calculator/",
       "category": "General calculators and solvers",
@@ -2494,24 +2368,6 @@
       "last_modified": "2026-08-01T04:13:10+00:00"
     },
     {
-      "title": "Caesar Cipher Brute Force Solver",
-      "url": "https://onlineinternetcafe.com/caesar-cipher-brute-force-solver/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:56+00:00"
-    },
-    {
-      "title": "Caesar Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/caesar-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:02+00:00"
-    },
-    {
-      "title": "Caesar Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/caesar-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:03+00:00"
-    },
-    {
       "title": "Cagr Annualized Return Calculator",
       "url": "https://onlineinternetcafe.com/cagr-annualized-return-calculator/",
       "category": "General calculators and solvers",
@@ -2534,12 +2390,6 @@
       "url": "https://onlineinternetcafe.com/practical-calculators/cake-pricing-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-07-22T15:29:07+00:00"
-    },
-    {
-      "title": "Calculator Bacalaureat 2026",
-      "url": "https://onlineinternetcafe.com/calculator-bacalaureat-2026/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-06-21T19:32:10+00:00"
     },
     {
       "title": "Calories Burned Calculator",
@@ -2830,42 +2680,6 @@
       "last_modified": "2026-07-22T15:29:07+00:00"
     },
     {
-      "title": "Cipher Calculators",
-      "url": "https://onlineinternetcafe.com/cipher-calculators/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:01+00:00"
-    },
-    {
-      "title": "Cipher Decipher Calculators",
-      "url": "https://onlineinternetcafe.com/cipher-decipher-calculators/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:00+00:00"
-    },
-    {
-      "title": "Cipher Frequency Analysis Calculator",
-      "url": "https://onlineinternetcafe.com/cipher-frequency-analysis-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:59+00:00"
-    },
-    {
-      "title": "Cipher Identifier Calculator",
-      "url": "https://onlineinternetcafe.com/cipher-identifier-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:58+00:00"
-    },
-    {
-      "title": "Cipher Letter Pattern Calculator",
-      "url": "https://onlineinternetcafe.com/cipher-letter-pattern-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:14+00:00"
-    },
-    {
-      "title": "Ciphertext Entropy Calculator",
-      "url": "https://onlineinternetcafe.com/ciphertext-entropy-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:13+00:00"
-    },
-    {
       "title": "Circle Calculator",
       "url": "https://onlineinternetcafe.com/circle-calculator/",
       "category": "General calculators and solvers",
@@ -2972,18 +2786,6 @@
       "url": "https://onlineinternetcafe.com/specialized-calculators/color-contrast-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-07-22T15:27:32+00:00"
-    },
-    {
-      "title": "Columnar Transposition Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/columnar-transposition-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:31+00:00"
-    },
-    {
-      "title": "Columnar Transposition Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/columnar-transposition-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:32+00:00"
     },
     {
       "title": "Combined Gas Law Calculator",
@@ -3478,12 +3280,6 @@
       "last_modified": "2026-08-01T04:15:12+00:00"
     },
     {
-      "title": "Decipher Calculators",
-      "url": "https://onlineinternetcafe.com/decipher-calculators/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:02+00:00"
-    },
-    {
       "title": "Deck Board Calculator",
       "url": "https://onlineinternetcafe.com/specialized-calculators/deck-board-calculator/",
       "category": "General calculators and solvers",
@@ -3601,7 +3397,7 @@
       "title": "Differential Equation Solver",
       "url": "https://onlineinternetcafe.com/differential-equation-solver/",
       "category": "General calculators and solvers",
-      "last_modified": "2026-07-23T01:54:56+00:00"
+      "last_modified": ""
     },
     {
       "title": "Diffraction Grating Calculator",
@@ -3764,18 +3560,6 @@
       "url": "https://onlineinternetcafe.com/double-slit-interference-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-07-31T20:29:41+00:00"
-    },
-    {
-      "title": "Double Transposition Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/double-transposition-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:32+00:00"
-    },
-    {
-      "title": "Double Transposition Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/double-transposition-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:33+00:00"
     },
     {
       "title": "Dough Hydration Calculator",
@@ -4039,7 +3823,7 @@
       "title": "Equation Plotter Calculator",
       "url": "https://onlineinternetcafe.com/equation-plotter-calculator/",
       "category": "General calculators and solvers",
-      "last_modified": "2026-07-23T01:55:04+00:00"
+      "last_modified": ""
     },
     {
       "title": "Equilibrium Constant Calculator",
@@ -4210,12 +3994,6 @@
       "last_modified": "2026-08-01T04:16:42+00:00"
     },
     {
-      "title": "Farnsworth Timing Calculator",
-      "url": "https://onlineinternetcafe.com/farnsworth-timing-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T18:12:07+00:00"
-    },
-    {
       "title": "Fat Free Mass Index Calculator",
       "url": "https://onlineinternetcafe.com/fat-free-mass-index-calculator/",
       "category": "General calculators and solvers",
@@ -4232,18 +4010,6 @@
       "url": "https://onlineinternetcafe.com/federal-income-tax-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-08-01T04:16:43+00:00"
-    },
-    {
-      "title": "Feistel Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/feistel-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:52+00:00"
-    },
-    {
-      "title": "Feistel Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/feistel-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:52+00:00"
     },
     {
       "title": "Fence Gate Width Calculator",
@@ -4400,18 +4166,6 @@
       "url": "https://onlineinternetcafe.com/formula-rearrangement-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-08-01T04:16:46+00:00"
-    },
-    {
-      "title": "Four Square Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/four-square-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:26+00:00"
-    },
-    {
-      "title": "Four Square Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/four-square-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:27+00:00"
     },
     {
       "title": "Fraction Calculator",
@@ -4600,12 +4354,6 @@
       "last_modified": "2026-07-31T20:29:01+00:00"
     },
     {
-      "title": "Gas Mileage Calculator",
-      "url": "https://onlineinternetcafe.com/gas-mileage-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-29T20:12:14+00:00"
-    },
-    {
       "title": "Gas Spring Calculator",
       "url": "https://onlineinternetcafe.com/gas-spring-calculator/",
       "category": "General calculators and solvers",
@@ -4748,18 +4496,6 @@
       "url": "https://onlineinternetcafe.com/gravitational-potential-energy-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-07-31T20:29:08+00:00"
-    },
-    {
-      "title": "Gronsfeld Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/gronsfeld-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:12+00:00"
-    },
-    {
-      "title": "Gronsfeld Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/gronsfeld-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:13+00:00"
     },
     {
       "title": "Gross Margin Calculator",
@@ -4936,30 +4672,6 @@
       "last_modified": "2026-07-31T20:28:52+00:00"
     },
     {
-      "title": "Hill Cipher 2x2 Calculator",
-      "url": "https://onlineinternetcafe.com/hill-cipher-2x2-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:27+00:00"
-    },
-    {
-      "title": "Hill Cipher 2x2 Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/hill-cipher-2x2-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:28+00:00"
-    },
-    {
-      "title": "Hill Cipher 3x3 Calculator",
-      "url": "https://onlineinternetcafe.com/hill-cipher-3x3-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:29+00:00"
-    },
-    {
-      "title": "Hill Cipher 3x3 Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/hill-cipher-3x3-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:29+00:00"
-    },
-    {
       "title": "Hollow Cylinder Inertia Calculator",
       "url": "https://onlineinternetcafe.com/hollow-cylinder-inertia-calculator/",
       "category": "General calculators and solvers",
@@ -4976,18 +4688,6 @@
       "url": "https://onlineinternetcafe.com/home-equity-loan-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-08-01T04:17:33+00:00"
-    },
-    {
-      "title": "Homophonic Substitution Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/homophonic-substitution-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:17+00:00"
-    },
-    {
-      "title": "Homophonic Substitution Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/homophonic-substitution-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:18+00:00"
     },
     {
       "title": "Hookes Law Force Calculator",
@@ -5296,12 +4996,6 @@
       "last_modified": "2026-08-01T04:18:00+00:00"
     },
     {
-      "title": "Index Of Coincidence Calculator",
-      "url": "https://onlineinternetcafe.com/index-of-coincidence-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:59+00:00"
-    },
-    {
       "title": "Inductive Reactance Calculator",
       "url": "https://onlineinternetcafe.com/inductive-reactance-calculator/",
       "category": "General calculators and solvers",
@@ -5408,12 +5102,6 @@
       "url": "https://onlineinternetcafe.com/insurance-proration-short-rate-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-08-01T04:18:04+00:00"
-    },
-    {
-      "title": "Interactive Cryptogram Solver",
-      "url": "https://onlineinternetcafe.com/interactive-cryptogram-solver/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:15+00:00"
     },
     {
       "title": "Interest Coverage Calculator",
@@ -5638,24 +5326,6 @@
       "last_modified": "2026-08-01T04:18:18+00:00"
     },
     {
-      "title": "Kasiski Examination Calculator",
-      "url": "https://onlineinternetcafe.com/kasiski-examination-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:04:00+00:00"
-    },
-    {
-      "title": "Keyword Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/keyword-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:15+00:00"
-    },
-    {
-      "title": "Keyword Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/keyword-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:16+00:00"
-    },
-    {
       "title": "Kinematic Displacement Calculator",
       "url": "https://onlineinternetcafe.com/kinematic-displacement-calculator/",
       "category": "General calculators and solvers",
@@ -5768,36 +5438,6 @@
       "url": "https://onlineinternetcafe.com/landscape-rock-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-08-01T04:18:34+00:00"
-    },
-    {
-      "title": "Largest N Digit Prime Number Calculator",
-      "url": "https://onlineinternetcafe.com/largest-n-digit-prime-number-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T09:44:43+00:00"
-    },
-    {
-      "title": "Largest Prime Number Calculators",
-      "url": "https://onlineinternetcafe.com/largest-prime-number-calculators/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T09:44:42+00:00"
-    },
-    {
-      "title": "Largest Prime Number In Range Calculator",
-      "url": "https://onlineinternetcafe.com/largest-prime-number-in-range-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T09:44:45+00:00"
-    },
-    {
-      "title": "Largest Prime Number Less Than N Calculator",
-      "url": "https://onlineinternetcafe.com/largest-prime-number-less-than-n-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T09:44:44+00:00"
-    },
-    {
-      "title": "Largest Prime Number Size Calculator",
-      "url": "https://onlineinternetcafe.com/largest-prime-number-size-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T09:44:47+00:00"
     },
     {
       "title": "Lasik Cost Calculator",
@@ -6112,18 +5752,6 @@
       "last_modified": "2026-08-01T04:19:17+00:00"
     },
     {
-      "title": "Masonic Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/masonic-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:43+00:00"
-    },
-    {
-      "title": "Masonic Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/masonic-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:44+00:00"
-    },
-    {
       "title": "Masonry Sand Calculator",
       "url": "https://onlineinternetcafe.com/masonry-sand-calculator/",
       "category": "General calculators and solvers",
@@ -6346,18 +5974,6 @@
       "last_modified": "2026-08-01T04:19:31+00:00"
     },
     {
-      "title": "Monoalphabetic Substitution Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/monoalphabetic-substitution-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:16+00:00"
-    },
-    {
-      "title": "Monoalphabetic Substitution Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/monoalphabetic-substitution-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:17+00:00"
-    },
-    {
       "title": "Months From Date Calculator",
       "url": "https://onlineinternetcafe.com/months-from-date-calculator/",
       "category": "General calculators and solvers",
@@ -6374,30 +5990,6 @@
       "url": "https://onlineinternetcafe.com/moore-marsden-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-08-01T04:19:32+00:00"
-    },
-    {
-      "title": "Morse Code Calculators",
-      "url": "https://onlineinternetcafe.com/morse-code-calculators/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T18:11:56+00:00"
-    },
-    {
-      "title": "Morse Code Cipher Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/morse-code-cipher-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-27T13:48:16+00:00"
-    },
-    {
-      "title": "Morse Code Duration Calculator",
-      "url": "https://onlineinternetcafe.com/morse-code-duration-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T18:12:06+00:00"
-    },
-    {
-      "title": "Morse Code Wpm Calculator",
-      "url": "https://onlineinternetcafe.com/morse-code-wpm-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T18:12:06+00:00"
     },
     {
       "title": "Mortar Quantity Calculator",
@@ -6466,18 +6058,6 @@
       "last_modified": "2026-08-01T04:19:56+00:00"
     },
     {
-      "title": "Myszkowski Transposition Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/myszkowski-transposition-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:33+00:00"
-    },
-    {
-      "title": "Myszkowski Transposition Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/myszkowski-transposition-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:34+00:00"
-    },
-    {
       "title": "Nernst Equation Calculator",
       "url": "https://onlineinternetcafe.com/nernst-equation-calculator/",
       "category": "General calculators and solvers",
@@ -6496,24 +6076,6 @@
       "last_modified": "2026-07-22T15:31:04+00:00"
     },
     {
-      "title": "Ngram Cipher Analysis Calculator",
-      "url": "https://onlineinternetcafe.com/ngram-cipher-analysis-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:04:00+00:00"
-    },
-    {
-      "title": "Nihilist Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/nihilist-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:39+00:00"
-    },
-    {
-      "title": "Nihilist Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/nihilist-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:39+00:00"
-    },
-    {
       "title": "No Vig Fair Odds Calculator",
       "url": "https://onlineinternetcafe.com/no-vig-fair-odds-calculator/",
       "category": "General calculators and solvers",
@@ -6530,12 +6092,6 @@
       "url": "https://onlineinternetcafe.com/normal-cdf-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-08-01T04:19:56+00:00"
-    },
-    {
-      "title": "Normal Distribution Curve Calculator",
-      "url": "https://onlineinternetcafe.com/normal-distribution-curve-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-22T17:50:40+00:00"
     },
     {
       "title": "Nps Calculator",
@@ -6560,18 +6116,6 @@
       "url": "https://onlineinternetcafe.com/nuclear-decay-activity-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-07-31T20:25:55+00:00"
-    },
-    {
-      "title": "Null Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/null-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:46+00:00"
-    },
-    {
-      "title": "Null Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/null-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:47+00:00"
     },
     {
       "title": "Null Space Calculator",
@@ -6608,18 +6152,6 @@
       "url": "https://onlineinternetcafe.com/one-rep-max-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-08-01T04:20:00+00:00"
-    },
-    {
-      "title": "One Time Pad Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/one-time-pad-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:50+00:00"
-    },
-    {
-      "title": "One Time Pad Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/one-time-pad-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:50+00:00"
     },
     {
       "title": "Operating Leverage Calculator",
@@ -6692,18 +6224,6 @@
       "url": "https://onlineinternetcafe.com/specialized-calculators/osmotic-pressure-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-07-22T15:27:32+00:00"
-    },
-    {
-      "title": "Ottendorf Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/ottendorf-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:45+00:00"
-    },
-    {
-      "title": "Ottendorf Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/ottendorf-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:45+00:00"
     },
     {
       "title": "Outlet Load Calculator",
@@ -6824,12 +6344,6 @@
       "url": "https://onlineinternetcafe.com/patio-paver-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-07-31T20:25:44+00:00"
-    },
-    {
-      "title": "Patristocrat Cipher Solver",
-      "url": "https://onlineinternetcafe.com/patristocrat-cipher-solver/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:16+00:00"
     },
     {
       "title": "Paver Base Calculator",
@@ -6991,7 +6505,7 @@
       "title": "Physics Formula Solver",
       "url": "https://onlineinternetcafe.com/physics-formula-solver/",
       "category": "General calculators and solvers",
-      "last_modified": "2026-07-23T01:50:48+00:00"
+      "last_modified": ""
     },
     {
       "title": "Physics Work Calculator",
@@ -7016,18 +6530,6 @@
       "url": "https://onlineinternetcafe.com/pickling-brine-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-07-31T20:25:34+00:00"
-    },
-    {
-      "title": "Pigpen Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/pigpen-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:42+00:00"
-    },
-    {
-      "title": "Pigpen Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/pigpen-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:43+00:00"
     },
     {
       "title": "Pine Straw Calculator",
@@ -7126,18 +6628,6 @@
       "last_modified": "2026-07-31T20:25:37+00:00"
     },
     {
-      "title": "Playfair Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/playfair-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:24+00:00"
-    },
-    {
-      "title": "Playfair Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/playfair-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:24+00:00"
-    },
-    {
       "title": "Plywood Calculator",
       "url": "https://onlineinternetcafe.com/plywood-calculator/",
       "category": "General calculators and solvers",
@@ -7172,18 +6662,6 @@
       "url": "https://onlineinternetcafe.com/pole-barn-cost-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-07-31T20:25:38+00:00"
-    },
-    {
-      "title": "Polybius Square Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/polybius-square-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:20+00:00"
-    },
-    {
-      "title": "Polybius Square Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/polybius-square-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:21+00:00"
     },
     {
       "title": "Polymeric Sand Calculator",
@@ -7292,18 +6770,6 @@
       "url": "https://onlineinternetcafe.com/pool-water-loss-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-08-01T04:20:56+00:00"
-    },
-    {
-      "title": "Porta Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/porta-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:13+00:00"
-    },
-    {
-      "title": "Porta Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/porta-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:14+00:00"
     },
     {
       "title": "Position Size Calculator",
@@ -7696,18 +7162,6 @@
       "last_modified": "2026-08-01T04:21:50+00:00"
     },
     {
-      "title": "Rail Fence Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/rail-fence-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:30+00:00"
-    },
-    {
-      "title": "Rail Fence Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/rail-fence-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:30+00:00"
-    },
-    {
       "title": "Rain Garden Size Calculator",
       "url": "https://onlineinternetcafe.com/rain-garden-size-calculator/",
       "category": "General calculators and solvers",
@@ -7760,18 +7214,6 @@
       "url": "https://onlineinternetcafe.com/rc-time-constant-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-07-31T20:26:10+00:00"
-    },
-    {
-      "title": "Rc4 Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/rc4-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:51+00:00"
-    },
-    {
-      "title": "Rc4 Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/rc4-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:51+00:00"
     },
     {
       "title": "Reaction Quotient Calculator",
@@ -8050,12 +7492,6 @@
       "last_modified": "2026-07-22T15:27:32+00:00"
     },
     {
-      "title": "Reverse Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/reverse-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:47+00:00"
-    },
-    {
       "title": "Reverse Mortgage Estimate Calculator",
       "url": "https://onlineinternetcafe.com/reverse-mortgage-estimate-calculator/",
       "category": "General calculators and solvers",
@@ -8320,18 +7756,6 @@
       "last_modified": "2026-08-01T04:22:40+00:00"
     },
     {
-      "title": "Rot13 Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/rot13-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:03+00:00"
-    },
-    {
-      "title": "Rot47 Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/rot47-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:04+00:00"
-    },
-    {
       "title": "Rotational Kinetic Energy Calculator",
       "url": "https://onlineinternetcafe.com/rotational-kinetic-energy-calculator/",
       "category": "General calculators and solvers",
@@ -8368,18 +7792,6 @@
       "last_modified": "2026-08-01T04:22:42+00:00"
     },
     {
-      "title": "Route Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/route-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:34+00:00"
-    },
-    {
-      "title": "Route Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/route-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:35+00:00"
-    },
-    {
       "title": "Route Fuel Cost Calculator",
       "url": "https://onlineinternetcafe.com/route-fuel-cost-calculator/",
       "category": "General calculators and solvers",
@@ -8402,18 +7814,6 @@
       "url": "https://onlineinternetcafe.com/rpm-speed-calculator-2/",
       "category": "General calculators and solvers",
       "last_modified": "2026-08-01T04:22:43+00:00"
-    },
-    {
-      "title": "Rsa Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/rsa-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:53+00:00"
-    },
-    {
-      "title": "Rsa Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/rsa-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:54+00:00"
     },
     {
       "title": "Rsu Tax Calculator",
@@ -8444,18 +7844,6 @@
       "url": "https://onlineinternetcafe.com/specialized-calculators/rule-of-72-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-07-22T15:27:32+00:00"
-    },
-    {
-      "title": "Running Key Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/running-key-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:15+00:00"
-    },
-    {
-      "title": "Running Key Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/running-key-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:15+00:00"
     },
     {
       "title": "Running Pace Calculator",
@@ -8582,18 +7970,6 @@
       "url": "https://onlineinternetcafe.com/scuba-weight-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-08-01T04:22:51+00:00"
-    },
-    {
-      "title": "Scytale Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/scytale-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:36+00:00"
-    },
-    {
-      "title": "Scytale Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/scytale-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:36+00:00"
     },
     {
       "title": "Sealcoat Material Calculator",
@@ -8780,18 +8156,6 @@
       "url": "https://onlineinternetcafe.com/shelving-load-calculator-2/",
       "category": "General calculators and solvers",
       "last_modified": "2026-08-01T04:23:23+00:00"
-    },
-    {
-      "title": "Shift Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/shift-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:04+00:00"
-    },
-    {
-      "title": "Shift Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/shift-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:05+00:00"
     },
     {
       "title": "Shift Differential Calculator",
@@ -9100,18 +8464,6 @@
       "last_modified": "2026-08-01T04:23:53+00:00"
     },
     {
-      "title": "Solitaire Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/solitaire-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:55+00:00"
-    },
-    {
-      "title": "Solitaire Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/solitaire-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:55+00:00"
-    },
-    {
       "title": "Solubility Product Calculator",
       "url": "https://onlineinternetcafe.com/solubility-product-calculator/",
       "category": "General calculators and solvers",
@@ -9370,12 +8722,6 @@
       "last_modified": "2026-08-01T04:24:08+00:00"
     },
     {
-      "title": "Statistical Calculator Accuracy Benchmark",
-      "url": "https://onlineinternetcafe.com/statistical-calculator-accuracy-benchmark/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-27T14:05:32+00:00"
-    },
-    {
       "title": "Statistics Calculator",
       "url": "https://onlineinternetcafe.com/statistics-calculator/",
       "category": "General calculators and solvers",
@@ -9472,18 +8818,6 @@
       "last_modified": "2026-07-31T20:16:34+00:00"
     },
     {
-      "title": "Straddling Checkerboard Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/straddling-checkerboard-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:40+00:00"
-    },
-    {
-      "title": "Straddling Checkerboard Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/straddling-checkerboard-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:40+00:00"
-    },
-    {
       "title": "Straight Line Depreciation Calculator",
       "url": "https://onlineinternetcafe.com/straight-line-depreciation-calculator/",
       "category": "General calculators and solvers",
@@ -9566,12 +8900,6 @@
       "url": "https://onlineinternetcafe.com/specialized-calculators/subatomic-particles-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-07-22T15:27:32+00:00"
-    },
-    {
-      "title": "Substitution Cipher Solver",
-      "url": "https://onlineinternetcafe.com/substitution-cipher-solver/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:58+00:00"
     },
     {
       "title": "Sum Years Digits Depreciation Calculator",
@@ -9674,18 +9002,6 @@
       "url": "https://onlineinternetcafe.com/tankless-water-heater-installation-cost-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-08-01T04:24:24+00:00"
-    },
-    {
-      "title": "Tap Code Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/tap-code-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:41+00:00"
-    },
-    {
-      "title": "Tap Code Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/tap-code-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:42+00:00"
     },
     {
       "title": "Tapping Feed Rate Calculator",
@@ -10072,18 +9388,6 @@
       "last_modified": "2026-08-01T04:25:13+00:00"
     },
     {
-      "title": "Trifid Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/trifid-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:23+00:00"
-    },
-    {
-      "title": "Trifid Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/trifid-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:23+00:00"
-    },
-    {
       "title": "Trigonometric Functions Calculator",
       "url": "https://onlineinternetcafe.com/trigonometric-functions-calculator/",
       "category": "General calculators and solvers",
@@ -10196,18 +9500,6 @@
       "url": "https://onlineinternetcafe.com/twin-flame-birthday-numerology-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-08-01T04:25:18+00:00"
-    },
-    {
-      "title": "Two Square Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/two-square-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:25+00:00"
-    },
-    {
-      "title": "Two Square Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/two-square-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:26+00:00"
     },
     {
       "title": "Two Stroke Fuel Mix Calculator",
@@ -10324,18 +9616,6 @@
       "last_modified": "2026-08-01T04:25:28+00:00"
     },
     {
-      "title": "Variant Beaufort Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/variant-beaufort-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:10+00:00"
-    },
-    {
-      "title": "Variant Beaufort Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/variant-beaufort-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:11+00:00"
-    },
-    {
       "title": "Vdot Running Calculator",
       "url": "https://onlineinternetcafe.com/vdot-running-calculator/",
       "category": "General calculators and solvers",
@@ -10382,18 +9662,6 @@
       "url": "https://onlineinternetcafe.com/ventilation-cfm-calculator-2/",
       "category": "General calculators and solvers",
       "last_modified": "2026-08-01T04:25:32+00:00"
-    },
-    {
-      "title": "Vernam Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/vernam-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:49+00:00"
-    },
-    {
-      "title": "Vernam Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/vernam-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:49+00:00"
     },
     {
       "title": "Vertical Curve Calculator",
@@ -10454,30 +9722,6 @@
       "url": "https://onlineinternetcafe.com/vietnam-draft-lottery-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-08-01T04:25:58+00:00"
-    },
-    {
-      "title": "Vigenere Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/vigenere-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:08+00:00"
-    },
-    {
-      "title": "Vigenere Cipher Solver",
-      "url": "https://onlineinternetcafe.com/vigenere-cipher-solver/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:57+00:00"
-    },
-    {
-      "title": "Vigenere Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/vigenere-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:08+00:00"
-    },
-    {
-      "title": "Vigenere Key Length Calculator",
-      "url": "https://onlineinternetcafe.com/vigenere-key-length-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:57+00:00"
     },
     {
       "title": "Vinyl Plank Flooring Calculator",
@@ -11014,18 +10258,6 @@
       "last_modified": "2026-08-01T04:26:25+00:00"
     },
     {
-      "title": "Xor Cipher Calculator",
-      "url": "https://onlineinternetcafe.com/xor-cipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:48+00:00"
-    },
-    {
-      "title": "Xor Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/xor-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:48+00:00"
-    },
-    {
       "title": "Yeast Conversion Calculator",
       "url": "https://onlineinternetcafe.com/yeast-conversion-calculator/",
       "category": "General calculators and solvers",
@@ -11089,7 +10321,7 @@
       "title": "Salar Cafe home",
       "url": "https://onlineinternetcafe.com/",
       "category": "Main hubs and discovery",
-      "last_modified": "2026-07-27T15:46:12+00:00"
+      "last_modified": ""
     },
     {
       "title": "Sitemap Index.Xml",
@@ -11284,6 +10516,30 @@
       "last_modified": "2026-08-07T17:29:47+00:00"
     },
     {
+      "title": "555 Astable Duty Cycle Electronics Formula",
+      "url": "https://onlineinternetcafe.com/555-astable-duty-cycle-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:36+00:00"
+    },
+    {
+      "title": "555 Astable High Time Electronics Formula",
+      "url": "https://onlineinternetcafe.com/555-astable-high-time-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:35+00:00"
+    },
+    {
+      "title": "555 Astable Low Time Electronics Formula",
+      "url": "https://onlineinternetcafe.com/555-astable-low-time-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:35+00:00"
+    },
+    {
+      "title": "555 Monostable Pulse Width Electronics Formula",
+      "url": "https://onlineinternetcafe.com/555-monostable-pulse-width-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:37+00:00"
+    },
+    {
       "title": "Abfindungsrechner Deutschland",
       "url": "https://onlineinternetcafe.com/rechner-de/abfindungsrechner-deutschland/",
       "category": "Other Salar Cafe resources",
@@ -11294,12 +10550,6 @@
       "url": "https://onlineinternetcafe.com/rechner-de/ableitungsrechner/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
-    },
-    {
-      "title": "About",
-      "url": "https://onlineinternetcafe.com/about/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-27T15:46:23+00:00"
     },
     {
       "title": "Abstandsrechner Zwei Punkte",
@@ -11314,6 +10564,24 @@
       "last_modified": "2026-08-01T13:31:45+00:00"
     },
     {
+      "title": "Acceleration Factor Electronics Formula",
+      "url": "https://onlineinternetcafe.com/acceleration-factor-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T04:00:13+00:00"
+    },
+    {
+      "title": "Adc Lsb Size Electronics Formula",
+      "url": "https://onlineinternetcafe.com/adc-lsb-size-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:57:13+00:00"
+    },
+    {
+      "title": "Address Line Requirement Electronics Formula",
+      "url": "https://onlineinternetcafe.com/address-line-requirement-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:57:12+00:00"
+    },
+    {
       "title": "Adjusted Goodness Of Fit Index",
       "url": "https://onlineinternetcafe.com/adjusted-goodness-of-fit-index/",
       "category": "Other Salar Cafe resources",
@@ -11326,16 +10594,28 @@
       "last_modified": "2026-08-02T08:55:01+00:00"
     },
     {
-      "title": "Advertising Disclosure",
-      "url": "https://onlineinternetcafe.com/advertising-disclosure/",
+      "title": "Admittance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/admittance-electronics-formula/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-26T12:53:02+00:00"
+      "last_modified": "2026-08-14T03:53:40+00:00"
     },
     {
       "title": "Age Counter",
       "url": "https://onlineinternetcafe.com/age-counter/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-01T04:11:52+00:00"
+    },
+    {
+      "title": "Alpha Beta Relation Electronics Formula",
+      "url": "https://onlineinternetcafe.com/alpha-beta-relation-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:59+00:00"
+    },
+    {
+      "title": "Alpha Electronics Formula",
+      "url": "https://onlineinternetcafe.com/alpha-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:58+00:00"
     },
     {
       "title": "Altersrechner",
@@ -11350,10 +10630,52 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
+      "title": "Am Bandwidth Electronics Formula",
+      "url": "https://onlineinternetcafe.com/am-bandwidth-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:16+00:00"
+    },
+    {
+      "title": "Am Index From Envelope Electronics Formula",
+      "url": "https://onlineinternetcafe.com/am-index-from-envelope-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:15+00:00"
+    },
+    {
+      "title": "Am Modulation Index Electronics Formula",
+      "url": "https://onlineinternetcafe.com/am-modulation-index-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:15+00:00"
+    },
+    {
+      "title": "Am Sideband Power Electronics Formula",
+      "url": "https://onlineinternetcafe.com/am-sideband-power-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:18+00:00"
+    },
+    {
+      "title": "Am Total Power Electronics Formula",
+      "url": "https://onlineinternetcafe.com/am-total-power-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:17+00:00"
+    },
+    {
+      "title": "And Operation Electronics Formula",
+      "url": "https://onlineinternetcafe.com/and-operation-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:57+00:00"
+    },
+    {
       "title": "Anlagerechner",
       "url": "https://onlineinternetcafe.com/rechner-de/anlagerechner/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
+    },
+    {
+      "title": "Aperture Jitter Snr Electronics Formula",
+      "url": "https://onlineinternetcafe.com/aperture-jitter-snr-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:14+00:00"
     },
     {
       "title": "Arbeitslosengeld 1 Rechner Deutschland",
@@ -11380,16 +10702,34 @@
       "last_modified": "2026-08-04T07:06:17+00:00"
     },
     {
+      "title": "Average Current Electronics Formula",
+      "url": "https://onlineinternetcafe.com/average-current-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:28+00:00"
+    },
+    {
+      "title": "Bandwidth Rise Time Relation Electronics Formula",
+      "url": "https://onlineinternetcafe.com/bandwidth-rise-time-relation-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:56+00:00"
+    },
+    {
+      "title": "Barkhausen Magnitude Criterion Electronics Formula",
+      "url": "https://onlineinternetcafe.com/barkhausen-magnitude-criterion-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:28+00:00"
+    },
+    {
+      "title": "Barkhausen Phase Criterion Electronics Formula",
+      "url": "https://onlineinternetcafe.com/barkhausen-phase-criterion-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:29+00:00"
+    },
+    {
       "title": "Baufinanzierungsrechner",
       "url": "https://onlineinternetcafe.com/rechner-de/baufinanzierungsrechner/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
-    },
-    {
-      "title": "Beale Cipher Analysis Helper",
-      "url": "https://onlineinternetcafe.com/beale-cipher-analysis-helper/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T07:03:17+00:00"
     },
     {
       "title": "Best AP Statistics Review Books",
@@ -11404,16 +10744,22 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
-      "title": "Binary To Morse Code",
-      "url": "https://onlineinternetcafe.com/binary-to-morse-code/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:17+00:00"
-    },
-    {
       "title": "Binomial Geometric Practice Problems 2",
       "url": "https://onlineinternetcafe.com/binomial-geometric-practice-problems-2/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-07T17:48:11+00:00"
+    },
+    {
+      "title": "Bit Rate From Symbol Rate Electronics Formula",
+      "url": "https://onlineinternetcafe.com/bit-rate-from-symbol-rate-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:21+00:00"
+    },
+    {
+      "title": "Bjt Mirror Reference Current Electronics Formula",
+      "url": "https://onlineinternetcafe.com/bjt-mirror-reference-current-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:33+00:00"
     },
     {
       "title": "Blog",
@@ -11428,10 +10774,16 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
-      "title": "Book Store",
-      "url": "https://onlineinternetcafe.com/book-store/",
+      "title": "Boost Converter Output Electronics Formula",
+      "url": "https://onlineinternetcafe.com/boost-converter-output-electronics-formula/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-17T17:28:49+00:00"
+      "last_modified": "2026-08-14T03:56:43+00:00"
+    },
+    {
+      "title": "Boost Inductor Ripple Current Electronics Formula",
+      "url": "https://onlineinternetcafe.com/boost-inductor-ripple-current-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:44+00:00"
     },
     {
       "title": "Box Pierce Test",
@@ -11452,6 +10804,12 @@
       "last_modified": "2026-08-04T07:06:18+00:00"
     },
     {
+      "title": "Bridge Balance Condition Electronics Formula",
+      "url": "https://onlineinternetcafe.com/bridge-balance-condition-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:30+00:00"
+    },
+    {
       "title": "Brown Forsythe Test",
       "url": "https://onlineinternetcafe.com/brown-forsythe-test/",
       "category": "Other Salar Cafe resources",
@@ -11468,6 +10826,24 @@
       "url": "https://onlineinternetcafe.com/rechner-de/brutto-netto-rechner-deutschland-2026/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
+    },
+    {
+      "title": "Buck Capacitor Ripple Voltage Electronics Formula",
+      "url": "https://onlineinternetcafe.com/buck-capacitor-ripple-voltage-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:43+00:00"
+    },
+    {
+      "title": "Buck Converter Output Electronics Formula",
+      "url": "https://onlineinternetcafe.com/buck-converter-output-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:42+00:00"
+    },
+    {
+      "title": "Buck Inductor Ripple Current Electronics Formula",
+      "url": "https://onlineinternetcafe.com/buck-inductor-ripple-current-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:42+00:00"
     },
     {
       "title": "Business Data Analysis Service",
@@ -11824,6 +11200,24 @@
       "last_modified": "2026-07-22T15:28:32+00:00"
     },
     {
+      "title": "Capacitor Current Electronics Formula",
+      "url": "https://onlineinternetcafe.com/capacitor-current-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:32+00:00"
+    },
+    {
+      "title": "Capacitor Impedance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/capacitor-impedance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:39+00:00"
+    },
+    {
+      "title": "Capacitor Voltage Electronics Formula",
+      "url": "https://onlineinternetcafe.com/capacitor-voltage-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:33+00:00"
+    },
+    {
       "title": "Cdaipy",
       "url": "https://onlineinternetcafe.com/cdaipy/",
       "category": "Other Salar Cafe resources",
@@ -11842,6 +11236,24 @@
       "last_modified": "2026-07-19T05:29:55+00:00"
     },
     {
+      "title": "Ce Gain With Emitter Degeneration Electronics Formula",
+      "url": "https://onlineinternetcafe.com/ce-gain-with-emitter-degeneration-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:06+00:00"
+    },
+    {
+      "title": "Ce Input Resistance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/ce-input-resistance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:07+00:00"
+    },
+    {
+      "title": "Ce Voltage Gain Bypassed Emitter Electronics Formula",
+      "url": "https://onlineinternetcafe.com/ce-voltage-gain-bypassed-emitter-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:05+00:00"
+    },
+    {
       "title": "Celsius Fahrenheit Rechner",
       "url": "https://onlineinternetcafe.com/rechner-de/celsius-fahrenheit-rechner/",
       "category": "Other Salar Cafe resources",
@@ -11854,10 +11266,10 @@
       "last_modified": "2026-08-04T07:06:54+00:00"
     },
     {
-      "title": "Chemical Equation Balancer",
-      "url": "https://onlineinternetcafe.com/chemical-equation-balancer/",
+      "title": "Channel Length Modulation Resistance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/channel-length-modulation-resistance-electronics-formula/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-22T17:04:53+00:00"
+      "last_modified": "2026-08-14T03:54:21+00:00"
     },
     {
       "title": "Chow Test",
@@ -11866,64 +11278,64 @@
       "last_modified": "2026-08-04T07:06:21+00:00"
     },
     {
-      "title": "Client Credits",
-      "url": "https://onlineinternetcafe.com/client-credits/",
+      "title": "Clamper Shift Electronics Formula",
+      "url": "https://onlineinternetcafe.com/clamper-shift-electronics-formula/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-20T03:28:47+00:00"
+      "last_modified": "2026-08-14T03:53:57+00:00"
     },
     {
-      "title": "Client Dashboard",
-      "url": "https://onlineinternetcafe.com/client-dashboard/",
+      "title": "Class B Dc Input Power Electronics Formula",
+      "url": "https://onlineinternetcafe.com/class-b-dc-input-power-electronics-formula/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-20T03:28:46+00:00"
-    },
-    {
-      "title": "Client Login",
-      "url": "https://onlineinternetcafe.com/client-login/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-20T03:28:44+00:00"
-    },
-    {
-      "title": "Client Orders",
-      "url": "https://onlineinternetcafe.com/client-orders/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-20T03:28:48+00:00"
-    },
-    {
-      "title": "Client Packages",
-      "url": "https://onlineinternetcafe.com/client-packages/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-20T03:28:47+00:00"
-    },
-    {
-      "title": "Client Pending",
-      "url": "https://onlineinternetcafe.com/client-pending/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-20T03:28:45+00:00"
-    },
-    {
-      "title": "Client Profile",
-      "url": "https://onlineinternetcafe.com/client-profile/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-20T03:28:49+00:00"
-    },
-    {
-      "title": "Client Signup",
-      "url": "https://onlineinternetcafe.com/client-signup/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-20T03:28:45+00:00"
-    },
-    {
-      "title": "Client Support",
-      "url": "https://onlineinternetcafe.com/client-support/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-20T03:28:50+00:00"
+      "last_modified": "2026-08-14T03:56:38+00:00"
     },
     {
       "title": "Clinical Trial Data Analysis Using R",
       "url": "https://onlineinternetcafe.com/clinical-trial-data-analysis-using-r/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-06-17T17:37:22+00:00"
+    },
+    {
+      "title": "Clip Level Electronics Formula",
+      "url": "https://onlineinternetcafe.com/clip-level-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:56+00:00"
+    },
+    {
+      "title": "Closed Loop Bandwidth Electronics Formula",
+      "url": "https://onlineinternetcafe.com/closed-loop-bandwidth-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:19+00:00"
+    },
+    {
+      "title": "Closed Loop Gain Electronics Formula",
+      "url": "https://onlineinternetcafe.com/closed-loop-gain-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:25+00:00"
+    },
+    {
+      "title": "Cmos Delay Approximation Electronics Formula",
+      "url": "https://onlineinternetcafe.com/cmos-delay-approximation-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:57:05+00:00"
+    },
+    {
+      "title": "Cmos Dynamic Power Electronics Formula",
+      "url": "https://onlineinternetcafe.com/cmos-dynamic-power-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:57:03+00:00"
+    },
+    {
+      "title": "Cmos Switching Energy Electronics Formula",
+      "url": "https://onlineinternetcafe.com/cmos-switching-energy-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:57:04+00:00"
+    },
+    {
+      "title": "Cmrr In Db Electronics Formula",
+      "url": "https://onlineinternetcafe.com/cmrr-in-db-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:33+00:00"
     },
     {
       "title": "Cochran S C Test",
@@ -11938,10 +11350,34 @@
       "last_modified": "2026-07-26T11:19:01+00:00"
     },
     {
+      "title": "Collector Emitter Voltage Electronics Formula",
+      "url": "https://onlineinternetcafe.com/collector-emitter-voltage-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:00+00:00"
+    },
+    {
+      "title": "Common Gate Input Resistance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/common-gate-input-resistance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:26+00:00"
+    },
+    {
+      "title": "Common Source Dc Drain Voltage Electronics Formula",
+      "url": "https://onlineinternetcafe.com/common-source-dc-drain-voltage-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:24+00:00"
+    },
+    {
       "title": "Communalities",
       "url": "https://onlineinternetcafe.com/communalities/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-04T07:06:56+00:00"
+    },
+    {
+      "title": "Comparator Decision Rule Electronics Formula",
+      "url": "https://onlineinternetcafe.com/comparator-decision-rule-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:22+00:00"
     },
     {
       "title": "Competing Risks Analysis",
@@ -11974,16 +11410,16 @@
       "last_modified": "2026-08-04T07:06:59+00:00"
     },
     {
-      "title": "Contact",
-      "url": "https://onlineinternetcafe.com/contact/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-27T15:46:24+00:00"
-    },
-    {
       "title": "Content Validity",
       "url": "https://onlineinternetcafe.com/content-validity/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-04T07:07:01+00:00"
+    },
+    {
+      "title": "Controlled Half Wave Average Output Electronics Formula",
+      "url": "https://onlineinternetcafe.com/controlled-half-wave-average-output-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:40+00:00"
     },
     {
       "title": "Convergent Validity",
@@ -11998,10 +11434,16 @@
       "last_modified": "2026-07-26T11:36:06+00:00"
     },
     {
-      "title": "Cookie Policy",
-      "url": "https://onlineinternetcafe.com/cookie-policy/",
+      "title": "Counter Bit Requirement Electronics Formula",
+      "url": "https://onlineinternetcafe.com/counter-bit-requirement-electronics-formula/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-27T15:46:25+00:00"
+      "last_modified": "2026-08-14T03:57:08+00:00"
+    },
+    {
+      "title": "Counter Modulus Electronics Formula",
+      "url": "https://onlineinternetcafe.com/counter-modulus-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:57:08+00:00"
     },
     {
       "title": "Cramer Von Mises Test",
@@ -12016,6 +11458,12 @@
       "last_modified": "2026-08-04T07:07:04+00:00"
     },
     {
+      "title": "Critical Length Approximation Electronics Formula",
+      "url": "https://onlineinternetcafe.com/critical-length-approximation-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:57+00:00"
+    },
+    {
       "title": "Cross Tabulation",
       "url": "https://onlineinternetcafe.com/cross-tabulation/",
       "category": "Other Salar Cafe resources",
@@ -12026,6 +11474,12 @@
       "url": "https://onlineinternetcafe.com/cross-tabulation-for-survey-data/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-04T07:06:41+00:00"
+    },
+    {
+      "title": "Crystal Series Resonance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/crystal-series-resonance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:33+00:00"
     },
     {
       "title": "Cumulative Hazard Function",
@@ -12046,16 +11500,22 @@
       "last_modified": "2026-07-18T11:19:28+00:00"
     },
     {
+      "title": "D Flip Flop Next State Electronics Formula",
+      "url": "https://onlineinternetcafe.com/d-flip-flop-next-state-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:57:06+00:00"
+    },
+    {
       "title": "Dagostino Pearson Test",
       "url": "https://onlineinternetcafe.com/dagostino-pearson-test/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-06-17T17:05:45+00:00"
     },
     {
-      "title": "Data Analysis Services",
-      "url": "https://onlineinternetcafe.com/data-analysis-services/",
+      "title": "Damping Factor Electronics Formula",
+      "url": "https://onlineinternetcafe.com/damping-factor-electronics-formula/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-27T15:46:13+00:00"
+      "last_modified": "2026-08-14T03:53:42+00:00"
     },
     {
       "title": "Datumsdifferenz Rechner",
@@ -12064,10 +11524,52 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
+      "title": "Dc Load Line Current Intercept Electronics Formula",
+      "url": "https://onlineinternetcafe.com/dc-load-line-current-intercept-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:02+00:00"
+    },
+    {
+      "title": "De Morgans First Law Electronics Formula",
+      "url": "https://onlineinternetcafe.com/de-morgans-first-law-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:57:01+00:00"
+    },
+    {
+      "title": "De Morgans Second Law Electronics Formula",
+      "url": "https://onlineinternetcafe.com/de-morgans-second-law-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:57:02+00:00"
+    },
+    {
+      "title": "Delta To Wye Resistance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/delta-to-wye-resistance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:31+00:00"
+    },
+    {
       "title": "Deutscher Notenrechner",
       "url": "https://onlineinternetcafe.com/rechner-de/deutscher-notenrechner/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
+    },
+    {
+      "title": "Difference Amplifier Electronics Formula",
+      "url": "https://onlineinternetcafe.com/difference-amplifier-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:17+00:00"
+    },
+    {
+      "title": "Differential Input Voltage Electronics Formula",
+      "url": "https://onlineinternetcafe.com/differential-input-voltage-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:29+00:00"
+    },
+    {
+      "title": "Differential Pair Differential Gain Electronics Formula",
+      "url": "https://onlineinternetcafe.com/differential-pair-differential-gain-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:31+00:00"
     },
     {
       "title": "Disclaimer",
@@ -12080,6 +11582,18 @@
       "url": "https://onlineinternetcafe.com/discriminant-validity/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-04T07:07:03+00:00"
+    },
+    {
+      "title": "Distortion With Negative Feedback Electronics Formula",
+      "url": "https://onlineinternetcafe.com/distortion-with-negative-feedback-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:28+00:00"
+    },
+    {
+      "title": "Divider Bias Emitter Current Electronics Formula",
+      "url": "https://onlineinternetcafe.com/divider-bias-emitter-current-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:01+00:00"
     },
     {
       "title": "Downloadzeit Rechner",
@@ -12100,16 +11614,28 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
+      "title": "Drift Current Density Electronics Formula",
+      "url": "https://onlineinternetcafe.com/drift-current-density-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:48+00:00"
+    },
+    {
       "title": "Durbin Watson Test",
       "url": "https://onlineinternetcafe.com/durbin-watson-test/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-26T13:14:14+00:00"
     },
     {
-      "title": "Editorial Policy",
-      "url": "https://onlineinternetcafe.com/editorial-policy/",
+      "title": "Early Effect Output Resistance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/early-effect-output-resistance-electronics-formula/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-26T13:14:28+00:00"
+      "last_modified": "2026-08-14T03:54:05+00:00"
+    },
+    {
+      "title": "Eb N0 Electronics Formula",
+      "url": "https://onlineinternetcafe.com/eb-n0-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:22+00:00"
     },
     {
       "title": "Egfr Rechner",
@@ -12136,10 +11662,40 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
+      "title": "Electronics Formulas",
+      "url": "https://onlineinternetcafe.com/electronics-formulas/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:27+00:00"
+    },
+    {
       "title": "Elterngeldrechner Deutschland",
       "url": "https://onlineinternetcafe.com/rechner-de/elterngeldrechner-deutschland/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
+    },
+    {
+      "title": "Emitter Current Approximation Electronics Formula",
+      "url": "https://onlineinternetcafe.com/emitter-current-approximation-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:01+00:00"
+    },
+    {
+      "title": "Emitter Follower Base Input Electronics Formula",
+      "url": "https://onlineinternetcafe.com/emitter-follower-base-input-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:09+00:00"
+    },
+    {
+      "title": "Emitter Follower Gain Electronics Formula",
+      "url": "https://onlineinternetcafe.com/emitter-follower-gain-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:08+00:00"
+    },
+    {
+      "title": "Emitter Follower Output Resistance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/emitter-follower-output-resistance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:09+00:00"
     },
     {
       "title": "Endnoten Rechner",
@@ -12148,16 +11704,10 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
-      "title": "English To Morse Code Translator",
-      "url": "https://onlineinternetcafe.com/english-to-morse-code-translator/",
+      "title": "Equivalent Noise Temperature Electronics Formula",
+      "url": "https://onlineinternetcafe.com/equivalent-noise-temperature-electronics-formula/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:11:57+00:00"
-    },
-    {
-      "title": "Enigma Machine Cipher Simulator",
-      "url": "https://onlineinternetcafe.com/enigma-machine-cipher-simulator/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T07:03:54+00:00"
+      "last_modified": "2026-08-14T03:59:48+00:00"
     },
     {
       "title": "Excel Dashboard Service",
@@ -12226,22 +11776,22 @@
       "last_modified": "2026-08-02T10:00:54+00:00"
     },
     {
+      "title": "Far Field Approximation Distance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/far-field-approximation-distance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T04:00:06+00:00"
+    },
+    {
+      "title": "Feedback Bandwidth Electronics Formula",
+      "url": "https://onlineinternetcafe.com/feedback-bandwidth-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:27+00:00"
+    },
+    {
       "title": "Ffmi Rechner",
       "url": "https://onlineinternetcafe.com/rechner-de/ffmi-rechner/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
-    },
-    {
-      "title": "File Handling And Confidentiality Policy",
-      "url": "https://onlineinternetcafe.com/file-handling-and-confidentiality-policy/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-27T15:46:27+00:00"
-    },
-    {
-      "title": "File Handling Policy",
-      "url": "https://onlineinternetcafe.com/file-handling-policy/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-17T17:06:07+00:00"
     },
     {
       "title": "Fisher’s Lsd Test",
@@ -12256,6 +11806,12 @@
       "last_modified": "2026-07-26T13:14:23+00:00"
     },
     {
+      "title": "Fixed Bias Base Current Electronics Formula",
+      "url": "https://onlineinternetcafe.com/fixed-bias-base-current-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:59+00:00"
+    },
+    {
       "title": "Flaechenrechner",
       "url": "https://onlineinternetcafe.com/rechner-de/flaechenrechner/",
       "category": "Other Salar Cafe resources",
@@ -12266,6 +11822,24 @@
       "url": "https://onlineinternetcafe.com/fleming-harrington-test/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-04T07:06:10+00:00"
+    },
+    {
+      "title": "Flyback Conversion Ratio Electronics Formula",
+      "url": "https://onlineinternetcafe.com/flyback-conversion-ratio-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:45+00:00"
+    },
+    {
+      "title": "Fm Bandwidth Electronics Formula",
+      "url": "https://onlineinternetcafe.com/fm-bandwidth-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:19+00:00"
+    },
+    {
+      "title": "Fm Modulation Index Electronics Formula",
+      "url": "https://onlineinternetcafe.com/fm-modulation-index-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:18+00:00"
     },
     {
       "title": "Forecast Accuracy Metrics",
@@ -12280,10 +11854,70 @@
       "last_modified": "2026-08-04T07:07:07+00:00"
     },
     {
+      "title": "Friis Noise Formula Electronics Formula",
+      "url": "https://onlineinternetcafe.com/friis-noise-formula-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:47+00:00"
+    },
+    {
+      "title": "Full Converter Average Dc Output Electronics Formula",
+      "url": "https://onlineinternetcafe.com/full-converter-average-dc-output-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:41+00:00"
+    },
+    {
+      "title": "Full Power Bandwidth Electronics Formula",
+      "url": "https://onlineinternetcafe.com/full-power-bandwidth-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:19+00:00"
+    },
+    {
+      "title": "Full Wave Average Dc Output Electronics Formula",
+      "url": "https://onlineinternetcafe.com/full-wave-average-dc-output-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:52+00:00"
+    },
+    {
+      "title": "Full Wave Capacitor Ripple Electronics Formula",
+      "url": "https://onlineinternetcafe.com/full-wave-capacitor-ripple-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:53+00:00"
+    },
+    {
       "title": "Funktionsplotter",
       "url": "https://onlineinternetcafe.com/rechner-de/funktionsplotter/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
+    },
+    {
+      "title": "Gain Margin Electronics Formula",
+      "url": "https://onlineinternetcafe.com/gain-margin-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:30+00:00"
+    },
+    {
+      "title": "Gauge Factor Electronics Formula",
+      "url": "https://onlineinternetcafe.com/gauge-factor-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:50+00:00"
+    },
+    {
+      "title": "General Current Divider Electronics Formula",
+      "url": "https://onlineinternetcafe.com/general-current-divider-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:29+00:00"
+    },
+    {
+      "title": "General First Order Response Electronics Formula",
+      "url": "https://onlineinternetcafe.com/general-first-order-response-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:41+00:00"
+    },
+    {
+      "title": "General Propagation Constant Electronics Formula",
+      "url": "https://onlineinternetcafe.com/general-propagation-constant-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:24+00:00"
     },
     {
       "title": "Gfi",
@@ -12316,16 +11950,58 @@
       "last_modified": "2026-07-29T06:40:41+00:00"
     },
     {
+      "title": "Half Power Frequencies Electronics Formula",
+      "url": "https://onlineinternetcafe.com/half-power-frequencies-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:44+00:00"
+    },
+    {
+      "title": "Half Wave Average Dc Output Electronics Formula",
+      "url": "https://onlineinternetcafe.com/half-wave-average-dc-output-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:50+00:00"
+    },
+    {
+      "title": "Half Wave Capacitor Ripple Electronics Formula",
+      "url": "https://onlineinternetcafe.com/half-wave-capacitor-ripple-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:54+00:00"
+    },
+    {
+      "title": "Half Wave Rms Output Electronics Formula",
+      "url": "https://onlineinternetcafe.com/half-wave-rms-output-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:51+00:00"
+    },
+    {
       "title": "Hazard Ratio",
       "url": "https://onlineinternetcafe.com/hazard-ratio/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-04T07:06:10+00:00"
     },
     {
+      "title": "High Level Noise Margin Electronics Formula",
+      "url": "https://onlineinternetcafe.com/high-level-noise-margin-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:48+00:00"
+    },
+    {
+      "title": "High Pass Phase Electronics Formula",
+      "url": "https://onlineinternetcafe.com/high-pass-phase-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:47+00:00"
+    },
+    {
       "title": "Hochbergs Gt2",
       "url": "https://onlineinternetcafe.com/hochbergs-gt2/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-26T11:37:24+00:00"
+    },
+    {
+      "title": "Hold Time Constraint Electronics Formula",
+      "url": "https://onlineinternetcafe.com/hold-time-constraint-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:57:10+00:00"
     },
     {
       "title": "Holt Winters Method",
@@ -12364,10 +12040,46 @@
       "last_modified": "2026-07-26T13:14:16+00:00"
     },
     {
+      "title": "Hybrid Pi Resistance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/hybrid-pi-resistance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:04+00:00"
+    },
+    {
+      "title": "Hysteresis Width Electronics Formula",
+      "url": "https://onlineinternetcafe.com/hysteresis-width-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:23+00:00"
+    },
+    {
       "title": "I Squared Statistic",
       "url": "https://onlineinternetcafe.com/i-squared-statistic/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-02T08:42:48+00:00"
+    },
+    {
+      "title": "Ideal Adc Snr Electronics Formula",
+      "url": "https://onlineinternetcafe.com/ideal-adc-snr-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:11+00:00"
+    },
+    {
+      "title": "Ideal Converter Input Current Electronics Formula",
+      "url": "https://onlineinternetcafe.com/ideal-converter-input-current-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:48+00:00"
+    },
+    {
+      "title": "Ideal Dac Output Electronics Formula",
+      "url": "https://onlineinternetcafe.com/ideal-dac-output-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:13+00:00"
+    },
+    {
+      "title": "Ideal Op Amp Differential Voltage Electronics Formula",
+      "url": "https://onlineinternetcafe.com/ideal-op-amp-differential-voltage-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:35+00:00"
     },
     {
       "title": "Idealgewicht Rechner",
@@ -12376,16 +12088,64 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
+      "title": "Inductor Current Electronics Formula",
+      "url": "https://onlineinternetcafe.com/inductor-current-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:34+00:00"
+    },
+    {
+      "title": "Inductor Impedance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/inductor-impedance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:38+00:00"
+    },
+    {
       "title": "Inflationsrechner",
       "url": "https://onlineinternetcafe.com/rechner-de/inflationsrechner/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
+      "title": "Instrumentation Amplifier Gain Electronics Formula",
+      "url": "https://onlineinternetcafe.com/instrumentation-amplifier-gain-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:24+00:00"
+    },
+    {
       "title": "Integralrechner",
       "url": "https://onlineinternetcafe.com/rechner-de/integralrechner/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
+    },
+    {
+      "title": "Integrated White Noise Electronics Formula",
+      "url": "https://onlineinternetcafe.com/integrated-white-noise-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:45+00:00"
+    },
+    {
+      "title": "Intrinsic Emitter Resistance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/intrinsic-emitter-resistance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:03+00:00"
+    },
+    {
+      "title": "Inverting Buck Boost Output Electronics Formula",
+      "url": "https://onlineinternetcafe.com/inverting-buck-boost-output-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:45+00:00"
+    },
+    {
+      "title": "Inverting Schmitt Thresholds Electronics Formula",
+      "url": "https://onlineinternetcafe.com/inverting-schmitt-thresholds-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:22+00:00"
+    },
+    {
+      "title": "Inverting Summing Amplifier Electronics Formula",
+      "url": "https://onlineinternetcafe.com/inverting-summing-amplifier-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:16+00:00"
     },
     {
       "title": "Ipv4 Subnetzrechner",
@@ -12400,10 +12160,64 @@
       "last_modified": "2026-08-07T17:31:42+00:00"
     },
     {
+      "title": "Jfet Common Source Gain Electronics Formula",
+      "url": "https://onlineinternetcafe.com/jfet-common-source-gain-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:18+00:00"
+    },
+    {
+      "title": "Jfet Drain Current Electronics Formula",
+      "url": "https://onlineinternetcafe.com/jfet-drain-current-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:11+00:00"
+    },
+    {
+      "title": "Jfet Drain Source Voltage Electronics Formula",
+      "url": "https://onlineinternetcafe.com/jfet-drain-source-voltage-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:17+00:00"
+    },
+    {
+      "title": "Jfet Output Resistance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/jfet-output-resistance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:19+00:00"
+    },
+    {
+      "title": "Jfet Self Bias Voltage Electronics Formula",
+      "url": "https://onlineinternetcafe.com/jfet-self-bias-voltage-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:16+00:00"
+    },
+    {
+      "title": "Jfet Source Follower Gain Electronics Formula",
+      "url": "https://onlineinternetcafe.com/jfet-source-follower-gain-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:19+00:00"
+    },
+    {
+      "title": "Jfet Transconductance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/jfet-transconductance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:12+00:00"
+    },
+    {
+      "title": "Jk Characteristic Equation Electronics Formula",
+      "url": "https://onlineinternetcafe.com/jk-characteristic-equation-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:57:07+00:00"
+    },
+    {
       "title": "Johansen Cointegration Test",
       "url": "https://onlineinternetcafe.com/johansen-cointegration-test/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-04T07:06:28+00:00"
+    },
+    {
+      "title": "Johnson Noise Voltage Electronics Formula",
+      "url": "https://onlineinternetcafe.com/johnson-noise-voltage-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:43+00:00"
     },
     {
       "title": "Kaiser Meyer Olkin Test",
@@ -12502,46 +12316,10 @@
       "last_modified": "2026-07-29T08:35:25+00:00"
     },
     {
-      "title": "Largest Mersenne Prime Number",
-      "url": "https://onlineinternetcafe.com/largest-mersenne-prime-number/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T09:44:42+00:00"
-    },
-    {
-      "title": "Largest Prime Number",
-      "url": "https://onlineinternetcafe.com/largest-prime-number/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T09:44:48+00:00"
-    },
-    {
-      "title": "Largest Prime Number Discovery",
-      "url": "https://onlineinternetcafe.com/largest-prime-number-discovery/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T09:44:44+00:00"
-    },
-    {
-      "title": "Largest Prime Number Less Than 100",
-      "url": "https://onlineinternetcafe.com/largest-prime-number-less-than-100/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T09:44:46+00:00"
-    },
-    {
-      "title": "Largest Prime Number Less Than 1000",
-      "url": "https://onlineinternetcafe.com/largest-prime-number-less-than-1000/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T09:44:46+00:00"
-    },
-    {
       "title": "Laufpace Rechner",
       "url": "https://onlineinternetcafe.com/rechner-de/laufpace-rechner/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
-    },
-    {
-      "title": "Learn Morse Code",
-      "url": "https://onlineinternetcafe.com/learn-morse-code/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:11+00:00"
     },
     {
       "title": "Life Table Analysis",
@@ -12562,16 +12340,82 @@
       "last_modified": "2026-08-04T07:06:44+00:00"
     },
     {
+      "title": "Line Regulation Electronics Formula",
+      "url": "https://onlineinternetcafe.com/line-regulation-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:46+00:00"
+    },
+    {
+      "title": "Linear Power Derating Electronics Formula",
+      "url": "https://onlineinternetcafe.com/linear-power-derating-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T04:00:09+00:00"
+    },
+    {
       "title": "Ljung Box Test",
       "url": "https://onlineinternetcafe.com/ljung-box-test/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-04T07:06:26+00:00"
     },
     {
+      "title": "Load Regulation Electronics Formula",
+      "url": "https://onlineinternetcafe.com/load-regulation-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:47+00:00"
+    },
+    {
+      "title": "Loaded Quality Factor Electronics Formula",
+      "url": "https://onlineinternetcafe.com/loaded-quality-factor-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:43+00:00"
+    },
+    {
+      "title": "Loaded Stage Gain Electronics Formula",
+      "url": "https://onlineinternetcafe.com/loaded-stage-gain-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:28+00:00"
+    },
+    {
       "title": "Log Rank Test",
       "url": "https://onlineinternetcafe.com/log-rank-test/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-04T07:06:07+00:00"
+    },
+    {
+      "title": "Logic Fan Out Electronics Formula",
+      "url": "https://onlineinternetcafe.com/logic-fan-out-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:57:05+00:00"
+    },
+    {
+      "title": "Loop Gain Electronics Formula",
+      "url": "https://onlineinternetcafe.com/loop-gain-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:24+00:00"
+    },
+    {
+      "title": "Lossless Characteristic Impedance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/lossless-characteristic-impedance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:23+00:00"
+    },
+    {
+      "title": "Lossless Line Input Impedance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/lossless-line-input-impedance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:24+00:00"
+    },
+    {
+      "title": "Low Level Noise Margin Electronics Formula",
+      "url": "https://onlineinternetcafe.com/low-level-noise-margin-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:49+00:00"
+    },
+    {
+      "title": "Low Pass Phase Electronics Formula",
+      "url": "https://onlineinternetcafe.com/low-pass-phase-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:46+00:00"
     },
     {
       "title": "Mae",
@@ -12616,10 +12460,28 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
+      "title": "Maximum Quantization Error Electronics Formula",
+      "url": "https://onlineinternetcafe.com/maximum-quantization-error-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:11+00:00"
+    },
+    {
+      "title": "Maximum Undistorted Peak Swing Electronics Formula",
+      "url": "https://onlineinternetcafe.com/maximum-undistorted-peak-swing-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:38+00:00"
+    },
+    {
       "title": "Mcdonalds Omega",
       "url": "https://onlineinternetcafe.com/mcdonalds-omega/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-29T09:15:05+00:00"
+    },
+    {
+      "title": "Measured Rise Time Correction Electronics Formula",
+      "url": "https://onlineinternetcafe.com/measured-rise-time-correction-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T04:00:14+00:00"
     },
     {
       "title": "Mehrwertsteuerrechner Deutschland",
@@ -12628,10 +12490,34 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
+      "title": "Memory Capacity Electronics Formula",
+      "url": "https://onlineinternetcafe.com/memory-capacity-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:57:11+00:00"
+    },
+    {
       "title": "Mieten Oder Kaufen Rechner",
       "url": "https://onlineinternetcafe.com/rechner-de/mieten-oder-kaufen-rechner/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
+    },
+    {
+      "title": "Miller Input Capacitance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/miller-input-capacitance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:10+00:00"
+    },
+    {
+      "title": "Minimum Clock Period Electronics Formula",
+      "url": "https://onlineinternetcafe.com/minimum-clock-period-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:57:10+00:00"
+    },
+    {
+      "title": "Minimum Input Voltage Electronics Formula",
+      "url": "https://onlineinternetcafe.com/minimum-input-voltage-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:48+00:00"
     },
     {
       "title": "Missing Values In Survey Data",
@@ -12658,190 +12544,16 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
-      "title": "Morse Code Alphabet",
-      "url": "https://onlineinternetcafe.com/morse-code-alphabet/",
+      "title": "Mos Current Mirror Ratio Electronics Formula",
+      "url": "https://onlineinternetcafe.com/mos-current-mirror-ratio-electronics-formula/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:00+00:00"
+      "last_modified": "2026-08-14T03:54:34+00:00"
     },
     {
-      "title": "Morse Code Audio Decoder",
-      "url": "https://onlineinternetcafe.com/morse-code-audio-decoder/",
+      "title": "Mos Differential Pair Gain Electronics Formula",
+      "url": "https://onlineinternetcafe.com/mos-differential-pair-gain-electronics-formula/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:04+00:00"
-    },
-    {
-      "title": "Morse Code Audio Generator",
-      "url": "https://onlineinternetcafe.com/morse-code-audio-generator/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:03+00:00"
-    },
-    {
-      "title": "Morse Code Bracelet Generator",
-      "url": "https://onlineinternetcafe.com/morse-code-bracelet-generator/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:15+00:00"
-    },
-    {
-      "title": "Morse Code Crochet Pattern Generator",
-      "url": "https://onlineinternetcafe.com/morse-code-crochet-pattern-generator/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:18+00:00"
-    },
-    {
-      "title": "Morse Code Decoder",
-      "url": "https://onlineinternetcafe.com/morse-code-decoder/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:11:58+00:00"
-    },
-    {
-      "title": "Morse Code Flashlight",
-      "url": "https://onlineinternetcafe.com/morse-code-flashlight/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:08+00:00"
-    },
-    {
-      "title": "Morse Code Generator",
-      "url": "https://onlineinternetcafe.com/morse-code-generator/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:11:59+00:00"
-    },
-    {
-      "title": "Morse Code Image Decoder",
-      "url": "https://onlineinternetcafe.com/morse-code-image-decoder/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:15+00:00"
-    },
-    {
-      "title": "Morse Code Image Generator",
-      "url": "https://onlineinternetcafe.com/morse-code-image-generator/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:14+00:00"
-    },
-    {
-      "title": "Morse Code Keyboard",
-      "url": "https://onlineinternetcafe.com/morse-code-keyboard/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:10+00:00"
-    },
-    {
-      "title": "Morse Code Keyer",
-      "url": "https://onlineinternetcafe.com/morse-code-keyer/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:11+00:00"
-    },
-    {
-      "title": "Morse Code Letters",
-      "url": "https://onlineinternetcafe.com/morse-code-letters/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:00+00:00"
-    },
-    {
-      "title": "Morse Code Light Decoder",
-      "url": "https://onlineinternetcafe.com/morse-code-light-decoder/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:08+00:00"
-    },
-    {
-      "title": "Morse Code Listening Trainer",
-      "url": "https://onlineinternetcafe.com/morse-code-listening-trainer/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:12+00:00"
-    },
-    {
-      "title": "Morse Code Necklace Generator",
-      "url": "https://onlineinternetcafe.com/morse-code-necklace-generator/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:16+00:00"
-    },
-    {
-      "title": "Morse Code Numbers",
-      "url": "https://onlineinternetcafe.com/morse-code-numbers/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:01+00:00"
-    },
-    {
-      "title": "Morse Code Practice",
-      "url": "https://onlineinternetcafe.com/morse-code-practice/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:12+00:00"
-    },
-    {
-      "title": "Morse Code Punctuation Prosigns",
-      "url": "https://onlineinternetcafe.com/morse-code-punctuation-prosigns/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:02+00:00"
-    },
-    {
-      "title": "Morse Code Quiz",
-      "url": "https://onlineinternetcafe.com/morse-code-quiz/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:13+00:00"
-    },
-    {
-      "title": "Morse Code Tap Decoder",
-      "url": "https://onlineinternetcafe.com/morse-code-tap-decoder/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:09+00:00"
-    },
-    {
-      "title": "Morse Code Tapper",
-      "url": "https://onlineinternetcafe.com/morse-code-tapper/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:09+00:00"
-    },
-    {
-      "title": "Morse Code Tattoo Generator",
-      "url": "https://onlineinternetcafe.com/morse-code-tattoo-generator/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:16+00:00"
-    },
-    {
-      "title": "Morse Code Timing Analyzer",
-      "url": "https://onlineinternetcafe.com/morse-code-timing-analyzer/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:07+00:00"
-    },
-    {
-      "title": "Morse Code To Binary",
-      "url": "https://onlineinternetcafe.com/morse-code-to-binary/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:17+00:00"
-    },
-    {
-      "title": "Morse Code To English Translator",
-      "url": "https://onlineinternetcafe.com/morse-code-to-english-translator/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:11:58+00:00"
-    },
-    {
-      "title": "Morse Code Tone Generator",
-      "url": "https://onlineinternetcafe.com/morse-code-tone-generator/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:04+00:00"
-    },
-    {
-      "title": "Morse Code Translator",
-      "url": "https://onlineinternetcafe.com/morse-code-translator/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:11:57+00:00"
-    },
-    {
-      "title": "Morse Code Tree",
-      "url": "https://onlineinternetcafe.com/morse-code-tree/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:02+00:00"
-    },
-    {
-      "title": "Morse Code Waveform Generator",
-      "url": "https://onlineinternetcafe.com/morse-code-waveform-generator/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:05+00:00"
-    },
-    {
-      "title": "Morse Code Worksheet Generator",
-      "url": "https://onlineinternetcafe.com/morse-code-worksheet-generator/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:18+00:00"
+      "last_modified": "2026-08-14T03:54:31+00:00"
     },
     {
       "title": "Moses Test",
@@ -12850,10 +12562,34 @@
       "last_modified": "2026-07-28T10:15:04+00:00"
     },
     {
+      "title": "Mosfet Common Source Gain Electronics Formula",
+      "url": "https://onlineinternetcafe.com/mosfet-common-source-gain-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:25+00:00"
+    },
+    {
+      "title": "Mosfet Saturation Condition Electronics Formula",
+      "url": "https://onlineinternetcafe.com/mosfet-saturation-condition-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:21+00:00"
+    },
+    {
       "title": "Moving Average",
       "url": "https://onlineinternetcafe.com/moving-average/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-04T07:06:28+00:00"
+    },
+    {
+      "title": "N Bit Converter Resolution Electronics Formula",
+      "url": "https://onlineinternetcafe.com/n-bit-converter-resolution-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:57:12+00:00"
+    },
+    {
+      "title": "Nand Operation Electronics Formula",
+      "url": "https://onlineinternetcafe.com/nand-operation-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:59+00:00"
     },
     {
       "title": "Nelson Aalen Estimator",
@@ -12874,6 +12610,30 @@
       "last_modified": "2026-08-02T10:00:49+00:00"
     },
     {
+      "title": "Noise Factor Electronics Formula",
+      "url": "https://onlineinternetcafe.com/noise-factor-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:47+00:00"
+    },
+    {
+      "title": "Nor Operation Electronics Formula",
+      "url": "https://onlineinternetcafe.com/nor-operation-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:57:00+00:00"
+    },
+    {
+      "title": "Not Operation Electronics Formula",
+      "url": "https://onlineinternetcafe.com/not-operation-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:59+00:00"
+    },
+    {
+      "title": "Ntc Thermistor Beta Equation Electronics Formula",
+      "url": "https://onlineinternetcafe.com/ntc-thermistor-beta-equation-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:52+00:00"
+    },
+    {
       "title": "Null And Alternative Hypotheses 2",
       "url": "https://onlineinternetcafe.com/null-and-alternative-hypotheses-2/",
       "category": "Other Salar Cafe resources",
@@ -12886,10 +12646,46 @@
       "last_modified": "2026-08-02T10:00:49+00:00"
     },
     {
+      "title": "Or Operation Electronics Formula",
+      "url": "https://onlineinternetcafe.com/or-operation-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:58+00:00"
+    },
+    {
+      "title": "Overall Cascaded Voltage Gain Electronics Formula",
+      "url": "https://onlineinternetcafe.com/overall-cascaded-voltage-gain-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:26+00:00"
+    },
+    {
+      "title": "Overall Gain In Db Electronics Formula",
+      "url": "https://onlineinternetcafe.com/overall-gain-in-db-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:27+00:00"
+    },
+    {
+      "title": "Oxide Capacitance Per Unit Area Electronics Formula",
+      "url": "https://onlineinternetcafe.com/oxide-capacitance-per-unit-area-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:20+00:00"
+    },
+    {
       "title": "Parallel Analysis",
       "url": "https://onlineinternetcafe.com/parallel-analysis/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-02T10:00:47+00:00"
+    },
+    {
+      "title": "Parallel Inductance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/parallel-inductance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:36+00:00"
+    },
+    {
+      "title": "Parallel Rlc Damping Factor Electronics Formula",
+      "url": "https://onlineinternetcafe.com/parallel-rlc-damping-factor-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:42+00:00"
     },
     {
       "title": "Parallelwiderstands Rechner",
@@ -12922,16 +12718,34 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
+      "title": "Phase Detector Output Electronics Formula",
+      "url": "https://onlineinternetcafe.com/phase-detector-output-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:52+00:00"
+    },
+    {
+      "title": "Phase Margin Electronics Formula",
+      "url": "https://onlineinternetcafe.com/phase-margin-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:30+00:00"
+    },
+    {
       "title": "Phillips Perron Test",
       "url": "https://onlineinternetcafe.com/phillips-perron-test/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-04T07:06:32+00:00"
     },
     {
-      "title": "Portfolio",
-      "url": "https://onlineinternetcafe.com/portfolio/",
+      "title": "Pll Open Loop Gain Electronics Formula",
+      "url": "https://onlineinternetcafe.com/pll-open-loop-gain-electronics-formula/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-27T15:46:22+00:00"
+      "last_modified": "2026-08-14T03:59:54+00:00"
+    },
+    {
+      "title": "Polar Rectangular Conversion Electronics Formula",
+      "url": "https://onlineinternetcafe.com/polar-rectangular-conversion-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:37+00:00"
     },
     {
       "title": "Power Bi Dashboard Service",
@@ -12940,10 +12754,16 @@
       "last_modified": "2026-08-01T12:54:28+00:00"
     },
     {
-      "title": "Pricing",
-      "url": "https://onlineinternetcafe.com/pricing/",
+      "title": "Power Gain In Db Electronics Formula",
+      "url": "https://onlineinternetcafe.com/power-gain-in-db-electronics-formula/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-27T15:46:22+00:00"
+      "last_modified": "2026-08-14T03:53:46+00:00"
+    },
+    {
+      "title": "Power Stage Junction Temperature Electronics Formula",
+      "url": "https://onlineinternetcafe.com/power-stage-junction-temperature-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:39+00:00"
     },
     {
       "title": "Primfaktorzerlegung Rechner",
@@ -12962,6 +12782,12 @@
       "url": "https://onlineinternetcafe.com/privacy-policy/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-01T13:19:22+00:00"
+    },
+    {
+      "title": "Probe Input Impedance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/probe-input-impedance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T04:00:14+00:00"
     },
     {
       "title": "Promax Rotation",
@@ -12994,6 +12820,24 @@
       "last_modified": "2026-08-01T12:50:16+00:00"
     },
     {
+      "title": "Quarter Bridge Output Approximation Electronics Formula",
+      "url": "https://onlineinternetcafe.com/quarter-bridge-output-approximation-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:51+00:00"
+    },
+    {
+      "title": "Quarter Wave Length Electronics Formula",
+      "url": "https://onlineinternetcafe.com/quarter-wave-length-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:42+00:00"
+    },
+    {
+      "title": "Quarter Wave Transformer Impedance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/quarter-wave-transformer-impedance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:26+00:00"
+    },
+    {
       "title": "Questionnaire Coding In Excel",
       "url": "https://onlineinternetcafe.com/questionnaire-coding-in-excel/",
       "category": "Other Salar Cafe resources",
@@ -13004,6 +12848,12 @@
       "url": "https://onlineinternetcafe.com/questionnaire-coding-in-spss/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-04T07:06:49+00:00"
+    },
+    {
+      "title": "R 2r Dac Output Electronics Formula",
+      "url": "https://onlineinternetcafe.com/r-2r-dac-output-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:14+00:00"
     },
     {
       "title": "R Data Analysis Help",
@@ -13054,22 +12904,46 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
-      "title": "Repeated Sequence Cipher Analyzer",
-      "url": "https://onlineinternetcafe.com/repeated-sequence-cipher-analyzer/",
+      "title": "Required Sink To Ambient Resistance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/required-sink-to-ambient-resistance-electronics-formula/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T07:03:14+00:00"
+      "last_modified": "2026-08-14T04:00:08+00:00"
     },
     {
-      "title": "Research Data Analysis Help",
-      "url": "https://onlineinternetcafe.com/research-data-analysis-help/",
+      "title": "Resistor Impedance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/resistor-impedance-electronics-formula/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-27T15:46:21+00:00"
+      "last_modified": "2026-08-14T03:53:38+00:00"
+    },
+    {
+      "title": "Responsivity From Quantum Efficiency Electronics Formula",
+      "url": "https://onlineinternetcafe.com/responsivity-from-quantum-efficiency-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:49+00:00"
+    },
+    {
+      "title": "Return Loss Electronics Formula",
+      "url": "https://onlineinternetcafe.com/return-loss-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:26+00:00"
     },
     {
       "title": "Reverse Coding Likert Items",
       "url": "https://onlineinternetcafe.com/reverse-coding-likert-items/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-04T07:06:50+00:00"
+    },
+    {
+      "title": "Ripple Factor Electronics Formula",
+      "url": "https://onlineinternetcafe.com/ripple-factor-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:52+00:00"
+    },
+    {
+      "title": "Rms Phase Jitter Electronics Formula",
+      "url": "https://onlineinternetcafe.com/rms-phase-jitter-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:56+00:00"
     },
     {
       "title": "Rmse",
@@ -13114,6 +12988,12 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
+      "title": "Scr Average Power Loss Electronics Formula",
+      "url": "https://onlineinternetcafe.com/scr-average-power-loss-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:40+00:00"
+    },
+    {
       "title": "Scree Plot",
       "url": "https://onlineinternetcafe.com/scree-plot/",
       "category": "Other Salar Cafe resources",
@@ -13124,6 +13004,12 @@
       "url": "https://onlineinternetcafe.com/seasonal-decomposition/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-04T07:06:33+00:00"
+    },
+    {
+      "title": "Second Order Q Electronics Formula",
+      "url": "https://onlineinternetcafe.com/second-order-q-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:21+00:00"
     },
     {
       "title": "Seitenverhaeltnis Rechner",
@@ -13150,10 +13036,46 @@
       "last_modified": "2026-08-02T10:00:41+00:00"
     },
     {
+      "title": "Sensitivity To Open Loop Gain Electronics Formula",
+      "url": "https://onlineinternetcafe.com/sensitivity-to-open-loop-gain-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:26+00:00"
+    },
+    {
+      "title": "Series Inductance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/series-inductance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:35+00:00"
+    },
+    {
+      "title": "Series Rlc Impedance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/series-rlc-impedance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:43+00:00"
+    },
+    {
       "title": "Services",
       "url": "https://onlineinternetcafe.com/services/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-01T12:41:55+00:00"
+    },
+    {
+      "title": "Shannon Channel Capacity Electronics Formula",
+      "url": "https://onlineinternetcafe.com/shannon-channel-capacity-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:21+00:00"
+    },
+    {
+      "title": "Shift Register Time Electronics Formula",
+      "url": "https://onlineinternetcafe.com/shift-register-time-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:57:11+00:00"
+    },
+    {
+      "title": "Shot Noise Current Electronics Formula",
+      "url": "https://onlineinternetcafe.com/shot-noise-current-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:44+00:00"
     },
     {
       "title": "Sichtfeld Rechner",
@@ -13168,16 +13090,34 @@
       "last_modified": "2026-07-28T10:12:41+00:00"
     },
     {
+      "title": "Signal To Noise Ratio Electronics Formula",
+      "url": "https://onlineinternetcafe.com/signal-to-noise-ratio-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:46+00:00"
+    },
+    {
       "title": "Simple Exponential Smoothing",
       "url": "https://onlineinternetcafe.com/simple-exponential-smoothing/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-04T07:06:32+00:00"
     },
     {
-      "title": "Sos Morse Code",
-      "url": "https://onlineinternetcafe.com/sos-morse-code/",
+      "title": "Slew Rate Electronics Formula",
+      "url": "https://onlineinternetcafe.com/slew-rate-electronics-formula/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T18:12:03+00:00"
+      "last_modified": "2026-08-14T03:56:18+00:00"
+    },
+    {
+      "title": "Solar Cell Fill Factor Electronics Formula",
+      "url": "https://onlineinternetcafe.com/solar-cell-fill-factor-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:50+00:00"
+    },
+    {
+      "title": "Source Termination Resistor Electronics Formula",
+      "url": "https://onlineinternetcafe.com/source-termination-resistor-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:57+00:00"
     },
     {
       "title": "Spannungsteiler Rechner",
@@ -13196,18 +13136,6 @@
       "url": "https://onlineinternetcafe.com/srmr/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-02T10:00:40+00:00"
-    },
-    {
-      "title": "Staff Statement Markaz 06",
-      "url": "https://onlineinternetcafe.com/staff-statement-markaz-06/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-26T22:02:00+00:00"
-    },
-    {
-      "title": "Staff Statement Markaz 06 Admin",
-      "url": "https://onlineinternetcafe.com/staff-statement-markaz-06-admin/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-26T22:02:00+00:00"
     },
     {
       "title": "Standardabweichungsrechner",
@@ -13300,6 +13228,18 @@
       "last_modified": "2026-08-04T07:06:01+00:00"
     },
     {
+      "title": "Switching Loss Approximation Electronics Formula",
+      "url": "https://onlineinternetcafe.com/switching-loss-approximation-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:56:46+00:00"
+    },
+    {
+      "title": "T Flip Flop Next State Electronics Formula",
+      "url": "https://onlineinternetcafe.com/t-flip-flop-next-state-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:57:07+00:00"
+    },
+    {
       "title": "Tarone Ware Test",
       "url": "https://onlineinternetcafe.com/tarone-ware-test/",
       "category": "Other Salar Cafe resources",
@@ -13316,6 +13256,24 @@
       "url": "https://onlineinternetcafe.com/terms-of-service/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-01T13:20:22+00:00"
+    },
+    {
+      "title": "Thermal Noise Power Electronics Formula",
+      "url": "https://onlineinternetcafe.com/thermal-noise-power-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:44+00:00"
+    },
+    {
+      "title": "Thermal Voltage Electronics Formula",
+      "url": "https://onlineinternetcafe.com/thermal-voltage-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:48+00:00"
+    },
+    {
+      "title": "Threshold With Body Effect Electronics Formula",
+      "url": "https://onlineinternetcafe.com/threshold-with-body-effect-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:24+00:00"
     },
     {
       "title": "Time Series Analysis",
@@ -13348,10 +13306,28 @@
       "last_modified": "2026-08-02T10:00:38+00:00"
     },
     {
+      "title": "Toggle Divider Output Electronics Formula",
+      "url": "https://onlineinternetcafe.com/toggle-divider-output-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:57:09+00:00"
+    },
+    {
       "title": "Tolerance Statistic",
       "url": "https://onlineinternetcafe.com/tolerance-statistic/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-26T11:36:11+00:00"
+    },
+    {
+      "title": "Total Input Referred Noise Electronics Formula",
+      "url": "https://onlineinternetcafe.com/total-input-referred-noise-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:48+00:00"
+    },
+    {
+      "title": "Total Thermal Resistance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/total-thermal-resistance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T04:00:07+00:00"
     },
     {
       "title": "Trend Analysis",
@@ -13402,10 +13378,28 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
+      "title": "Voltage Gain In Db Electronics Formula",
+      "url": "https://onlineinternetcafe.com/voltage-gain-in-db-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:45+00:00"
+    },
+    {
+      "title": "Voltage Standing Wave Ratio Electronics Formula",
+      "url": "https://onlineinternetcafe.com/voltage-standing-wave-ratio-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:25+00:00"
+    },
+    {
       "title": "Volumenrechner",
       "url": "https://onlineinternetcafe.com/rechner-de/volumenrechner/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
+    },
+    {
+      "title": "Wave Velocity Electronics Formula",
+      "url": "https://onlineinternetcafe.com/wave-velocity-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:59:23+00:00"
     },
     {
       "title": "Weighted Moving Average",
@@ -13426,6 +13420,18 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
+      "title": "Wye To Delta Resistance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/wye-to-delta-resistance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:32+00:00"
+    },
+    {
+      "title": "Xor Operation Electronics Formula",
+      "url": "https://onlineinternetcafe.com/xor-operation-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:57:01+00:00"
+    },
+    {
       "title": "Zeitdauer Rechner",
       "url": "https://onlineinternetcafe.com/rechner-de/zeitdauer-rechner/",
       "category": "Other Salar Cafe resources",
@@ -13438,16 +13444,22 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
+      "title": "Zener Current Electronics Formula",
+      "url": "https://onlineinternetcafe.com/zener-current-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:53:55+00:00"
+    },
+    {
+      "title": "Zero Bias Transconductance Electronics Formula",
+      "url": "https://onlineinternetcafe.com/zero-bias-transconductance-electronics-formula/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-08-14T03:54:13+00:00"
+    },
+    {
       "title": "Zinseszinsrechner",
       "url": "https://onlineinternetcafe.com/rechner-de/zinseszinsrechner/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
-    },
-    {
-      "title": "Zodiac Cipher Analysis Helper",
-      "url": "https://onlineinternetcafe.com/zodiac-cipher-analysis-helper/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-07-28T07:03:17+00:00"
     },
     {
       "title": "Zyklusrechner",
@@ -14032,6 +14044,12 @@
       "last_modified": "2026-07-28T10:20:04+00:00"
     },
     {
+      "title": "Exponential Reliability Electronics Formula",
+      "url": "https://onlineinternetcafe.com/exponential-reliability-electronics-formula/",
+      "category": "Reliability and agreement",
+      "last_modified": "2026-08-14T04:00:10+00:00"
+    },
+    {
       "title": "Fleiss Kappa",
       "url": "https://onlineinternetcafe.com/fleiss-kappa/",
       "category": "Reliability and agreement",
@@ -14090,6 +14108,12 @@
       "url": "https://onlineinternetcafe.com/category/reliability-and-agreement-tests/",
       "category": "Reliability and agreement",
       "last_modified": "2026-07-31T20:58:33+00:00"
+    },
+    {
+      "title": "Series System Reliability Electronics Formula",
+      "url": "https://onlineinternetcafe.com/series-system-reliability-electronics-formula/",
+      "category": "Reliability and agreement",
+      "last_modified": "2026-08-14T04:00:12+00:00"
     },
     {
       "title": "Split Half Reliability",
@@ -15922,6 +15946,18 @@
       "last_modified": "2026-08-03T08:01:40+00:00"
     },
     {
+      "title": "555 Astable Frequency Electronics Formula",
+      "url": "https://onlineinternetcafe.com/555-astable-frequency-electronics-formula/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-14T03:56:33+00:00"
+    },
+    {
+      "title": "Aliased Frequency Electronics Formula",
+      "url": "https://onlineinternetcafe.com/aliased-frequency-electronics-formula/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-14T03:59:13+00:00"
+    },
+    {
       "title": "Ar Model",
       "url": "https://onlineinternetcafe.com/ar-model/",
       "category": "Statistical foundations and probability",
@@ -15964,6 +16000,12 @@
       "last_modified": "2026-08-07T17:48:10+00:00"
     },
     {
+      "title": "Bjt Unity Gain Frequency Electronics Formula",
+      "url": "https://onlineinternetcafe.com/bjt-unity-gain-frequency-electronics-formula/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-14T03:54:11+00:00"
+    },
+    {
       "title": "Box Plot",
       "url": "https://onlineinternetcafe.com/category/box-plot/",
       "category": "Statistical foundations and probability",
@@ -15992,6 +16034,24 @@
       "url": "https://onlineinternetcafe.com/central-limit-theorem-2/",
       "category": "Statistical foundations and probability",
       "last_modified": "2026-08-07T17:49:43+00:00"
+    },
+    {
+      "title": "Colpitts Oscillator Frequency Electronics Formula",
+      "url": "https://onlineinternetcafe.com/colpitts-oscillator-frequency-electronics-formula/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-14T03:56:32+00:00"
+    },
+    {
+      "title": "Common Mode Input Voltage Electronics Formula",
+      "url": "https://onlineinternetcafe.com/common-mode-input-voltage-electronics-formula/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-14T03:54:30+00:00"
+    },
+    {
+      "title": "Common Mode Rejection Ratio Electronics Formula",
+      "url": "https://onlineinternetcafe.com/common-mode-rejection-ratio-electronics-formula/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-14T03:54:32+00:00"
     },
     {
       "title": "Conditional Probability Independence 2",
@@ -16060,6 +16120,12 @@
       "last_modified": "2026-08-04T07:06:09+00:00"
     },
     {
+      "title": "Forward Diode Voltage Model Electronics Formula",
+      "url": "https://onlineinternetcafe.com/forward-diode-voltage-model-electronics-formula/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-14T03:53:49+00:00"
+    },
+    {
       "title": "Frequency And Relative Frequency Table",
       "url": "https://onlineinternetcafe.com/frequency-and-relative-frequency-table/",
       "category": "Statistical foundations and probability",
@@ -16078,6 +16144,12 @@
       "last_modified": "2026-08-04T07:06:23+00:00"
     },
     {
+      "title": "General Synthesizer Frequency Electronics Formula",
+      "url": "https://onlineinternetcafe.com/general-synthesizer-frequency-electronics-formula/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-14T03:59:55+00:00"
+    },
+    {
       "title": "Geometric Distribution",
       "url": "https://onlineinternetcafe.com/geometric-distribution/",
       "category": "Statistical foundations and probability",
@@ -16094,6 +16166,12 @@
       "url": "https://onlineinternetcafe.com/histogram-interpretation/",
       "category": "Statistical foundations and probability",
       "last_modified": "2026-07-26T13:14:24+00:00"
+    },
+    {
+      "title": "Intermediate Frequency Electronics Formula",
+      "url": "https://onlineinternetcafe.com/intermediate-frequency-electronics-formula/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-14T03:59:20+00:00"
     },
     {
       "title": "Interquartile Range",
@@ -16118,6 +16196,12 @@
       "url": "https://onlineinternetcafe.com/mean-median-and-mode/",
       "category": "Statistical foundations and probability",
       "last_modified": "2026-07-26T11:21:02+00:00"
+    },
+    {
+      "title": "Mean Time Between Failures Electronics Formula",
+      "url": "https://onlineinternetcafe.com/mean-time-between-failures-electronics-formula/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-14T04:00:11+00:00"
     },
     {
       "title": "Measurement Model",
@@ -16150,6 +16234,12 @@
       "last_modified": "2026-08-07T17:39:45+00:00"
     },
     {
+      "title": "Nyquist Sampling Criterion Electronics Formula",
+      "url": "https://onlineinternetcafe.com/nyquist-sampling-criterion-electronics-formula/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-14T03:59:12+00:00"
+    },
+    {
       "title": "Parametric Survival Models",
       "url": "https://onlineinternetcafe.com/parametric-survival-models/",
       "category": "Statistical foundations and probability",
@@ -16160,6 +16250,12 @@
       "url": "https://onlineinternetcafe.com/percentiles-and-quartiles/",
       "category": "Statistical foundations and probability",
       "last_modified": "2026-07-26T11:21:03+00:00"
+    },
+    {
+      "title": "Pfd Frequency Electronics Formula",
+      "url": "https://onlineinternetcafe.com/pfd-frequency-electronics-formula/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-14T03:59:55+00:00"
     },
     {
       "title": "Probability Rules 2",
@@ -16178,6 +16274,18 @@
       "url": "https://onlineinternetcafe.com/range/",
       "category": "Statistical foundations and probability",
       "last_modified": "2026-07-26T11:21:03+00:00"
+    },
+    {
+      "title": "Rc Phase Shift Oscillator Frequency Electronics Formula",
+      "url": "https://onlineinternetcafe.com/rc-phase-shift-oscillator-frequency-electronics-formula/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-14T03:56:31+00:00"
+    },
+    {
+      "title": "Sallen Key Natural Frequency Electronics Formula",
+      "url": "https://onlineinternetcafe.com/sallen-key-natural-frequency-electronics-formula/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-14T03:56:20+00:00"
     },
     {
       "title": "Sampling Bias",
@@ -16258,6 +16366,12 @@
       "last_modified": "2026-08-02T10:00:39+00:00"
     },
     {
+      "title": "Triangular Oscillator Frequency Electronics Formula",
+      "url": "https://onlineinternetcafe.com/triangular-oscillator-frequency-electronics-formula/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-14T03:56:37+00:00"
+    },
+    {
       "title": "Unit 2 Probability Random Variables And Probability Distributions",
       "url": "https://onlineinternetcafe.com/category/unit-2-probability-random-variables-and-probability-distributions/",
       "category": "Statistical foundations and probability",
@@ -16280,6 +16394,12 @@
       "url": "https://onlineinternetcafe.com/variance/",
       "category": "Statistical foundations and probability",
       "last_modified": "2026-06-20T16:51:27+00:00"
+    },
+    {
+      "title": "Vco Frequency Electronics Formula",
+      "url": "https://onlineinternetcafe.com/vco-frequency-electronics-formula/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-08-14T03:59:53+00:00"
     },
     {
       "title": "Vecm Model",
