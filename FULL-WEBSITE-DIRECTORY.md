@@ -1,7 +1,7 @@
 # Complete Salar Cafe Website Directory
 
 **Public URLs cataloged: 2,778**  
-**Generated automatically: 2026-08-15T03:07:01+00:00**
+**Generated automatically: 2026-08-16T03:14:40+00:00**
 
 This directory is generated from the public XML sitemap families of [Salar Cafe](https://onlineinternetcafe.com/). It is designed to cover the complete indexable website rather than a small hand-selected group of pages. New public URLs are added automatically when the website sitemap is refreshed.
 
@@ -134,8 +134,8 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Structural Equation Modeling](https://onlineinternetcafe.com/structural-equation-modeling/) — last modified 2026-08-02T10:00:41+00:00
 - [Structural Model](https://onlineinternetcafe.com/structural-model/) — last modified 2026-08-02T10:00:39+00:00
 - [Triangular Oscillator Frequency Electronics Formula](https://onlineinternetcafe.com/triangular-oscillator-frequency-electronics-formula/) — last modified 2026-08-14T03:56:37+00:00
-- [Unit 2 Probability Random Variables And Probability Distributions](https://onlineinternetcafe.com/category/unit-2-probability-random-variables-and-probability-distributions/) — last modified 2026-07-18T12:14:56+00:00
-- [Unit 4 Inference For Quantitative Data Means](https://onlineinternetcafe.com/category/unit-4-inference-for-quantitative-data-means/) — last modified 2026-07-28T10:06:29+00:00
+- [Unit 2 Probability Random Variables And Probability Distributions](https://onlineinternetcafe.com/category/unit-2-probability-random-variables-and-probability-distributions/) — last modified 2026-08-14T13:03:19+00:00
+- [Unit 4 Inference For Quantitative Data Means](https://onlineinternetcafe.com/category/unit-4-inference-for-quantitative-data-means/) — last modified 2026-08-14T13:07:14+00:00
 - [Var Model](https://onlineinternetcafe.com/var-model/) — last modified 2026-08-04T07:06:38+00:00
 - [Variance](https://onlineinternetcafe.com/variance/) — last modified 2026-06-20T16:51:27+00:00
 - [Vco Frequency Electronics Formula](https://onlineinternetcafe.com/vco-frequency-electronics-formula/) — last modified 2026-08-14T03:59:53+00:00
@@ -355,7 +355,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Simple Linear Regression Guide](https://onlineinternetcafe.com/simple-linear-regression-guide/) — last modified 2026-08-02T09:00:30+00:00
 - [Stepwise Regression](https://onlineinternetcafe.com/stepwise-regression/) — last modified 2026-08-02T08:42:38+00:00
 - [Tobit Regression](https://onlineinternetcafe.com/tobit-regression/) — last modified 2026-08-02T08:42:39+00:00
-- [Unit 5 Regression Analysis](https://onlineinternetcafe.com/category/unit-5-regression-analysis/) — last modified 2026-07-18T12:14:44+00:00
+- [Unit 5 Regression Analysis](https://onlineinternetcafe.com/category/unit-5-regression-analysis/) — last modified 2026-08-14T12:58:30+00:00
 - [Weighted Least Squares Regression](https://onlineinternetcafe.com/weighted-least-squares-regression/) — last modified 2026-08-02T08:42:40+00:00
 - [Zero Inflated Negative Binomial Regression](https://onlineinternetcafe.com/zero-inflated-negative-binomial-regression/) — last modified 2026-08-02T08:42:47+00:00
 - [Zero Inflated Poisson Regression](https://onlineinternetcafe.com/zero-inflated-poisson-regression/) — last modified 2026-08-02T08:42:41+00:00
@@ -432,7 +432,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Pearson Chi Square Test](https://onlineinternetcafe.com/pearson-chi-square-test/) — last modified 2026-07-28T10:10:15+00:00
 - [Relative Risk](https://onlineinternetcafe.com/relative-risk/) — last modified 2026-07-28T10:11:03+00:00
 - [Risk Difference](https://onlineinternetcafe.com/risk-difference/) — last modified 2026-07-28T10:12:40+00:00
-- [Unit 3 Inference For Categorical Data Proportions](https://onlineinternetcafe.com/category/unit-3-inference-for-categorical-data-proportions/) — last modified 2026-07-28T10:06:32+00:00
+- [Unit 3 Inference For Categorical Data Proportions](https://onlineinternetcafe.com/category/unit-3-inference-for-categorical-data-proportions/) — last modified 2026-08-14T13:08:38+00:00
 
 ## Nonparametric tests
 
@@ -2360,16 +2360,16 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 
 ## Public archive pages
 
-- [Academic Support](https://onlineinternetcafe.com/category/academic-support/) — last modified 2026-07-28T10:06:32+00:00
-- [AP Statistics](https://onlineinternetcafe.com/category/ap-statistics/) — last modified 2026-07-28T10:06:32+00:00
+- [Academic Support](https://onlineinternetcafe.com/category/academic-support/) — last modified 2026-08-14T13:09:32+00:00
+- [AP Statistics](https://onlineinternetcafe.com/category/ap-statistics/) — last modified 2026-08-14T13:09:32+00:00
 - [AP Statistics Exam](https://onlineinternetcafe.com/category/ap-statistics-exam/) — last modified 2026-07-26T11:15:56+00:00
 - [Blog](https://onlineinternetcafe.com/category/blog/) — last modified 2026-08-02T08:42:48+00:00
 - [Clinical Trials Using R](https://onlineinternetcafe.com/category/clinical-trials-using-r/) — last modified 2026-06-17T17:37:22+00:00
 - [Data Design](https://onlineinternetcafe.com/category/data-design/) — last modified 2026-06-17T17:37:22+00:00
 - [Digital Publishing](https://onlineinternetcafe.com/category/digital-publishing/) — last modified 2026-06-17T17:37:22+00:00
-- [Exam Administration Preparation And Resources](https://onlineinternetcafe.com/category/exam-administration-preparation-and-resources/) — last modified 2026-07-26T13:13:49+00:00
-- [Legacy And Enrichment](https://onlineinternetcafe.com/category/legacy-and-enrichment/) — last modified 2026-07-28T10:06:30+00:00
-- [Legacy Enrichment](https://onlineinternetcafe.com/category/legacy-enrichment/) — last modified 2026-07-28T10:06:30+00:00
+- [Exam Administration Preparation And Resources](https://onlineinternetcafe.com/category/exam-administration-preparation-and-resources/) — last modified 2026-08-14T12:50:20+00:00
+- [Legacy And Enrichment](https://onlineinternetcafe.com/category/legacy-and-enrichment/) — last modified 2026-08-14T13:09:32+00:00
+- [Legacy Enrichment](https://onlineinternetcafe.com/category/legacy-enrichment/) — last modified 2026-08-14T13:09:32+00:00
 - [Local Services](https://onlineinternetcafe.com/category/local-services/) — last modified 2026-06-17T17:37:22+00:00
 - [Multivariate Analysis](https://onlineinternetcafe.com/category/multivariate-analysis/) — last modified 2026-07-26T11:19:00+00:00
 - [Post Hoc Tests](https://onlineinternetcafe.com/category/post-hoc-tests/) — last modified 2026-08-02T10:45:57+00:00
@@ -2378,9 +2378,9 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Survey And Likert Scale Analysis](https://onlineinternetcafe.com/category/survey-and-likert-scale-analysis/) — last modified 2026-08-04T07:06:53+00:00
 - [Survival Analysis](https://onlineinternetcafe.com/category/survival-analysis/) — last modified 2026-08-04T07:06:14+00:00
 - [Time Series Tests And Forecasting](https://onlineinternetcafe.com/category/time-series-tests-and-forecasting/) — last modified 2026-08-04T07:06:39+00:00
-- [Unit 1 Adjacency Research Design Enrichment](https://onlineinternetcafe.com/category/unit-1-adjacency-research-design-enrichment/) — last modified 2026-07-18T12:14:35+00:00
-- [Unit 1 Exploring One Variable Data And Collecting Data](https://onlineinternetcafe.com/category/unit-1-exploring-one-variable-data-and-collecting-data/) — last modified 2026-07-26T13:14:12+00:00
-- [Units 3 4 Statistical Inference](https://onlineinternetcafe.com/category/units-3-4-statistical-inference/) — last modified 2026-07-26T13:14:13+00:00
+- [Unit 1 Adjacency Research Design Enrichment](https://onlineinternetcafe.com/category/unit-1-adjacency-research-design-enrichment/) — last modified 2026-08-14T12:59:57+00:00
+- [Unit 1 Exploring One Variable Data And Collecting Data](https://onlineinternetcafe.com/category/unit-1-exploring-one-variable-data-and-collecting-data/) — last modified 2026-08-14T12:55:15+00:00
+- [Units 3 4 Statistical Inference](https://onlineinternetcafe.com/category/units-3-4-statistical-inference/) — last modified 2026-08-14T13:06:16+00:00
 - [Validity Factor Analysis And Scale Testing](https://onlineinternetcafe.com/category/validity-factor-analysis-and-scale-testing/) — last modified 2026-08-04T07:07:07+00:00
 - [Validity Factor Analysis And Scale Testing 2](https://onlineinternetcafe.com/category/validity-factor-analysis-and-scale-testing-2/) — last modified 2026-08-02T08:55:01+00:00
 
