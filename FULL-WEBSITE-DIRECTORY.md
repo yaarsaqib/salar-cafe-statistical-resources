@@ -1,7 +1,7 @@
 # Complete Salar Cafe Website Directory
 
-**Public URLs cataloged: 2,759**  
-**Generated automatically: 2026-08-19T03:12:42+00:00**
+**Public URLs cataloged: 2,761**  
+**Generated automatically: 2026-08-20T03:11:52+00:00**
 
 This directory is generated from the public XML sitemap families of [Salar Cafe](https://onlineinternetcafe.com/). It is designed to cover the complete indexable website rather than a small hand-selected group of pages. New public URLs are added automatically when the website sitemap is refreshed.
 
@@ -51,7 +51,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 | [AP Statistics learning resources](#ap-statistics-learning-resources) | 22 |
 | [Statistical calculators](#statistical-calculators) | 302 |
 | [AP score calculators](#ap-score-calculators) | 42 |
-| [General calculators and solvers](#general-calculators-and-solvers) | 1,619 |
+| [General calculators and solvers](#general-calculators-and-solvers) | 1,621 |
 | [Public archive pages](#public-archive-pages) | 23 |
 | [Other Salar Cafe resources](#other-salar-cafe-resources) | 365 |
 
@@ -1329,6 +1329,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Feistel Cipher Calculator](https://onlineinternetcafe.com/feistel-cipher-calculator/) — last modified 2026-07-28T07:03:52+00:00
 - [Feistel Decipher Calculator](https://onlineinternetcafe.com/feistel-decipher-calculator/) — last modified 2026-07-28T07:03:52+00:00
 - [Fence Gate Width Calculator](https://onlineinternetcafe.com/fence-gate-width-calculator/) — last modified 2026-07-31T20:29:18+00:00
+- [Fence Picket Spacing Calculator](https://onlineinternetcafe.com/fence-picket-spacing-calculator/) — last modified 2026-08-19T10:00:11+00:00
 - [Fence Post Depth Calculator](https://onlineinternetcafe.com/fence-post-depth-calculator/) — last modified 2026-08-01T04:16:43+00:00
 - [Fence Post Depth Calculator](https://onlineinternetcafe.com/practical-calculators/fence-post-depth-calculator/) — last modified 2026-07-22T15:29:07+00:00
 - [Fence Post Spacing Calculator](https://onlineinternetcafe.com/fence-post-spacing-calculator/) — last modified 2026-07-31T20:29:19+00:00
@@ -2088,6 +2089,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Shift Decipher Calculator](https://onlineinternetcafe.com/shift-decipher-calculator/) — last modified 2026-07-28T07:03:05+00:00
 - [Shift Differential Calculator](https://onlineinternetcafe.com/shift-differential-calculator/) — last modified 2026-07-31T20:25:38+00:00
 - [Shift Differential Calculator 2](https://onlineinternetcafe.com/shift-differential-calculator-2/) — last modified 2026-08-01T04:23:23+00:00
+- [Shiplap Calculator](https://onlineinternetcafe.com/shiplap-calculator/) — last modified 2026-08-19T12:20:51+00:00
 - [Shm Position Calculator](https://onlineinternetcafe.com/shm-position-calculator/) — last modified 2026-07-31T20:25:39+00:00
 - [Shm Position Calculator 2](https://onlineinternetcafe.com/shm-position-calculator-2/) — last modified 2026-08-01T04:23:24+00:00
 - [Shock Motion Ratio Calculator](https://onlineinternetcafe.com/shock-motion-ratio-calculator/) — last modified 2026-07-31T20:25:39+00:00

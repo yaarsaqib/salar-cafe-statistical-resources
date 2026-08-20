@@ -1,7 +1,7 @@
 {
   "website": "https://onlineinternetcafe.com",
-  "generated_utc": "2026-08-19T03:12:42+00:00",
-  "url_count": 2759,
+  "generated_utc": "2026-08-20T03:11:52+00:00",
+  "url_count": 2761,
   "sitemaps_read": [
     "https://onlineinternetcafe.com/calculator-sitemap.xml",
     "https://onlineinternetcafe.com/category-sitemap.xml",
@@ -4250,6 +4250,12 @@
       "url": "https://onlineinternetcafe.com/fence-gate-width-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-07-31T20:29:18+00:00"
+    },
+    {
+      "title": "Fence Picket Spacing Calculator",
+      "url": "https://onlineinternetcafe.com/fence-picket-spacing-calculator/",
+      "category": "General calculators and solvers",
+      "last_modified": "2026-08-19T10:00:11+00:00"
     },
     {
       "title": "Fence Post Depth Calculator",
@@ -8804,6 +8810,12 @@
       "url": "https://onlineinternetcafe.com/shift-differential-calculator-2/",
       "category": "General calculators and solvers",
       "last_modified": "2026-08-01T04:23:23+00:00"
+    },
+    {
+      "title": "Shiplap Calculator",
+      "url": "https://onlineinternetcafe.com/shiplap-calculator/",
+      "category": "General calculators and solvers",
+      "last_modified": "2026-08-19T12:20:51+00:00"
     },
     {
       "title": "Shm Position Calculator",
