@@ -1,7 +1,7 @@
 # Complete Salar Cafe Website Directory
 
 **Public URLs cataloged: 2,761**  
-**Generated automatically: 2026-08-22T03:09:33+00:00**
+**Generated automatically: 2026-08-23T03:17:42+00:00**
 
 This directory is generated from the public XML sitemap families of [Salar Cafe](https://onlineinternetcafe.com/). It is designed to cover the complete indexable website rather than a small hand-selected group of pages. New public URLs are added automatically when the website sitemap is refreshed.
 
@@ -466,7 +466,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Reliability Analysis In Python](https://onlineinternetcafe.com/reliability-analysis-in-python/) — last modified 2026-07-29T09:27:51+00:00
 - [Reliability Analysis In R](https://onlineinternetcafe.com/reliability-analysis-in-r/) — last modified 2026-07-29T09:38:22+00:00
 - [Reliability Analysis In SPSS 2](https://onlineinternetcafe.com/reliability-analysis-in-spss-2/) — last modified 2026-07-29T10:03:00+00:00
-- [Reliability And Agreement Tests](https://onlineinternetcafe.com/category/reliability-and-agreement-tests/) — last modified 2026-07-31T20:58:33+00:00
+- [Reliability And Agreement Tests](https://onlineinternetcafe.com/category/reliability-and-agreement-tests/) — last modified 2026-08-22T14:41:48+00:00
 - [Split Half Reliability](https://onlineinternetcafe.com/split-half-reliability/) — last modified 2026-07-29T10:24:48+00:00
 - [Test Retest Reliability](https://onlineinternetcafe.com/test-retest-reliability/) — last modified 2026-07-31T20:58:33+00:00
 - [Weighted Kappa](https://onlineinternetcafe.com/weighted-kappa/) — last modified 2026-07-29T05:20:05+00:00
@@ -2701,7 +2701,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Kpss Test](https://onlineinternetcafe.com/kpss-test/) — last modified 2026-08-04T07:06:27+00:00
 - [Kraftstoffverbrauchs Rechner](https://onlineinternetcafe.com/rechner-de/kraftstoffverbrauchs-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Kreditrechner](https://onlineinternetcafe.com/rechner-de/kreditrechner/) — last modified 2026-07-22T15:25:44+00:00
-- [Krippendorffs Alpha](https://onlineinternetcafe.com/krippendorffs-alpha/) — last modified 2026-07-29T08:14:00+00:00
+- [Krippendorffs Alpha](https://onlineinternetcafe.com/krippendorffs-alpha/) — last modified 2026-08-22T14:41:48+00:00
 - [Kuder Richardson Formula 20](https://onlineinternetcafe.com/kuder-richardson-formula-20/) — last modified 2026-07-29T10:40:23+00:00
 - [Kuder Richardson Formula 21](https://onlineinternetcafe.com/kuder-richardson-formula-21/) — last modified 2026-07-29T08:35:25+00:00
 - [Largest Mersenne Prime Number](https://onlineinternetcafe.com/largest-mersenne-prime-number/) — last modified 2026-07-28T09:44:42+00:00
