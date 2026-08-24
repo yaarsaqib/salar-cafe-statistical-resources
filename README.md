@@ -20,8 +20,9 @@ The materials are suitable for students, instructors, analysts, researchers, and
 
 ## Resource collection
 
-| Topic | Repository resource | Complete Salar Cafe guide |
+| Topic | Repository resource | Complete Salar Cafe guide/tool |
 |---|---|---|
+| Statistical calculators online | [Method selection, formulas, validation examples and reproducibility files](resources/statistical-calculators-online/) | [Statistical Calculators Online — 301 analysis tools](https://onlineinternetcafe.com/statistical-calculators/) |
 | Breusch–Pagan test | [Heteroscedasticity diagnostic resource](resources/breusch-pagan-test/) | [Breusch–Pagan test assumptions and interpretation](https://onlineinternetcafe.com/breusch-pagan-test/) |
 | MANCOVA | [Multivariate covariance-adjustment resource](resources/mancova/) | [MANCOVA formula, assumptions, and software guide](https://onlineinternetcafe.com/mancova/) |
 | Tukey HSD test | [Post-hoc pairwise-comparison resource](resources/tukey-hsd-test/) | [Tukey HSD formula and interpretation](https://onlineinternetcafe.com/tukey-hsd-test/) |
@@ -94,6 +95,10 @@ The Wald–Wolfowitz resource distinguishes the two-sample equality-of-distribut
 
 The Dice Counter provides a direct way to record outcomes and compare observed relative frequencies with theoretical probabilities. It is useful for classroom experiments, simulations, and game-session tracking.
 
+### Calculator-assisted analysis
+
+The statistical-calculators resource connects method selection, formula understanding, validation examples, and reproducibility checks to the browser-based [Statistical Calculators Online](https://onlineinternetcafe.com/statistical-calculators/) workspace. Its purpose is to keep software use subordinate to the research question and study design rather than treating calculator output as self-interpreting.
+
 ## Software consistency checklist
 
 When comparing SPSS, Python, R, and Excel results, confirm the following before concluding that software packages disagree:
@@ -126,10 +131,11 @@ These resources follow several general principles:
 
 ## Repository structure
 
-Each topic directory contains a detailed README and a small CSV file. Additional teaching files may be added over time, including code examples, reporting templates, data dictionaries, and software comparison notes.
+Each topic directory contains a detailed README and a small CSV file where useful. Additional teaching files may be added over time, including code examples, reporting templates, data dictionaries, and software comparison notes.
 
 ```text
 resources/
+├── statistical-calculators-online/
 ├── breusch-pagan-test/
 ├── mancova/
 ├── tukey-hsd-test/
