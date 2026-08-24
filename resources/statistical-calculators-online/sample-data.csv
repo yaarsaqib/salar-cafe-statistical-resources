@@ -1,0 +1,13 @@
+id,group,x,y,pre_score,post_score,outcome_binary,category
+1,A,2,5,62,68,1,North
+2,A,4,8,70,74,1,North
+3,A,5,7,66,69,0,South
+4,A,7,11,75,82,1,South
+5,A,8,13,71,77,1,East
+6,A,10,14,80,84,1,East
+7,B,3,4,60,62,0,North
+8,B,4,6,65,67,0,North
+9,B,6,9,68,72,1,South
+10,B,7,10,72,73,0,South
+11,B,9,12,76,80,1,East
+12,B,11,15,78,81,1,East
