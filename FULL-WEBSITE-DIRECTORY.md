@@ -1,7 +1,7 @@
 # Complete Salar Cafe Website Directory
 
 **Public URLs cataloged: 2,761**  
-**Generated automatically: 2026-08-24T03:19:16+00:00**
+**Generated automatically: 2026-08-25T03:14:42+00:00**
 
 This directory is generated from the public XML sitemap families of [Salar Cafe](https://onlineinternetcafe.com/). It is designed to cover the complete indexable website rather than a small hand-selected group of pages. New public URLs are added automatically when the website sitemap is refreshed.
 
@@ -482,7 +482,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [AP Statistics Exam Practice Test](https://onlineinternetcafe.com/ap-statistics-exam-practice-test/) — last modified 2026-08-14T12:43:19+00:00
 - [AP Statistics Exam Review](https://onlineinternetcafe.com/ap-statistics-exam-review/) — last modified 2026-08-14T12:46:19+00:00
 - [AP Statistics Final Exam Review](https://onlineinternetcafe.com/ap-statistics-final-exam-review/) — last modified 2026-08-14T12:47:15+00:00
-- [AP Statistics Formula Sheet](https://onlineinternetcafe.com/ap-statistics-formula-sheet/) — last modified 2026-08-11T04:08:57+00:00
+- [AP Statistics Formula Sheet](https://onlineinternetcafe.com/ap-statistics-formula-sheet/) — last modified 2026-08-24T16:15:26+00:00
 - [AP Statistics Frq Practice](https://onlineinternetcafe.com/ap-statistics-frq-practice/) — last modified 2026-08-14T12:44:34+00:00
 - [AP Statistics Multiple Choice Practice](https://onlineinternetcafe.com/ap-statistics-multiple-choice-practice/) — last modified 2026-08-14T12:44:33+00:00
 - [AP Statistics Online Resources](https://onlineinternetcafe.com/ap-statistics-online-resources/) — last modified 2026-08-07T17:33:47+00:00
@@ -2472,14 +2472,14 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 
 ## Public archive pages
 
-- [Academic Support](https://onlineinternetcafe.com/category/academic-support/) — last modified 2026-08-14T13:09:32+00:00
-- [AP Statistics](https://onlineinternetcafe.com/category/ap-statistics/) — last modified 2026-08-14T13:09:32+00:00
+- [Academic Support](https://onlineinternetcafe.com/category/academic-support/) — last modified 2026-08-24T16:15:26+00:00
+- [AP Statistics](https://onlineinternetcafe.com/category/ap-statistics/) — last modified 2026-08-24T16:15:26+00:00
 - [AP Statistics Exam](https://onlineinternetcafe.com/category/ap-statistics-exam/) — last modified 2026-07-26T11:15:56+00:00
 - [Blog](https://onlineinternetcafe.com/category/blog/) — last modified 2026-08-02T08:42:48+00:00
 - [Clinical Trials Using R](https://onlineinternetcafe.com/category/clinical-trials-using-r/) — last modified 2026-06-17T17:37:22+00:00
 - [Data Design](https://onlineinternetcafe.com/category/data-design/) — last modified 2026-06-17T17:37:22+00:00
 - [Digital Publishing](https://onlineinternetcafe.com/category/digital-publishing/) — last modified 2026-06-17T17:37:22+00:00
-- [Exam Administration Preparation And Resources](https://onlineinternetcafe.com/category/exam-administration-preparation-and-resources/) — last modified 2026-08-14T12:50:20+00:00
+- [Exam Administration Preparation And Resources](https://onlineinternetcafe.com/category/exam-administration-preparation-and-resources/) — last modified 2026-08-24T16:15:26+00:00
 - [Legacy And Enrichment](https://onlineinternetcafe.com/category/legacy-and-enrichment/) — last modified 2026-08-14T13:09:32+00:00
 - [Legacy Enrichment](https://onlineinternetcafe.com/category/legacy-enrichment/) — last modified 2026-08-14T13:09:32+00:00
 - [Local Services](https://onlineinternetcafe.com/category/local-services/) — last modified 2026-06-17T17:37:22+00:00
