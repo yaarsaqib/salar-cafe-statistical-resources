@@ -1,7 +1,7 @@
 # Complete Salar Cafe Website Directory
 
-**Public URLs cataloged: 2,761**  
-**Generated automatically: 2026-08-27T12:51:15+00:00**
+**Public URLs cataloged: 2,752**  
+**Generated automatically: 2026-08-28T14:23:46+00:00**
 
 This directory is generated from the public XML sitemap families of [Salar Cafe](https://onlineinternetcafe.com/). It is designed to cover the complete indexable website rather than a small hand-selected group of pages. New public URLs are added automatically when the website sitemap is refreshed.
 
@@ -53,12 +53,12 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 | [AP score calculators](#ap-score-calculators) | 42 |
 | [General calculators and solvers](#general-calculators-and-solvers) | 1,621 |
 | [Public archive pages](#public-archive-pages) | 23 |
-| [Other Salar Cafe resources](#other-salar-cafe-resources) | 365 |
+| [Other Salar Cafe resources](#other-salar-cafe-resources) | 356 |
 
 ## Main hubs and discovery
 
 - [Calculator Sitemap.Xml](https://onlineinternetcafe.com/calculator-sitemap.xml)
-- [Salar Cafe home](https://onlineinternetcafe.com/) — last modified 2026-08-21T14:57:50+00:00
+- [Salar Cafe home](https://onlineinternetcafe.com/) — last modified 2026-08-27T19:30:14+00:00
 - [Sitemap Index.Xml](https://onlineinternetcafe.com/sitemap_index.xml)
 
 ## Statistical foundations and probability
@@ -2597,15 +2597,6 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Cfi](https://onlineinternetcafe.com/cfi/) — last modified 2026-08-04T07:06:54+00:00
 - [Chemical Equation Balancer](https://onlineinternetcafe.com/chemical-equation-balancer/) — last modified 2026-07-22T17:04:53+00:00
 - [Chow Test](https://onlineinternetcafe.com/chow-test/) — last modified 2026-08-04T07:06:21+00:00
-- [Client Credits](https://onlineinternetcafe.com/client-credits/) — last modified 2026-06-20T03:28:47+00:00
-- [Client Dashboard](https://onlineinternetcafe.com/client-dashboard/) — last modified 2026-06-20T03:28:46+00:00
-- [Client Login](https://onlineinternetcafe.com/client-login/) — last modified 2026-06-20T03:28:44+00:00
-- [Client Orders](https://onlineinternetcafe.com/client-orders/) — last modified 2026-06-20T03:28:48+00:00
-- [Client Packages](https://onlineinternetcafe.com/client-packages/) — last modified 2026-06-20T03:28:47+00:00
-- [Client Pending](https://onlineinternetcafe.com/client-pending/) — last modified 2026-06-20T03:28:45+00:00
-- [Client Profile](https://onlineinternetcafe.com/client-profile/) — last modified 2026-06-20T03:28:49+00:00
-- [Client Signup](https://onlineinternetcafe.com/client-signup/) — last modified 2026-06-20T03:28:45+00:00
-- [Client Support](https://onlineinternetcafe.com/client-support/) — last modified 2026-06-20T03:28:50+00:00
 - [Clinical Trial Data Analysis Using R](https://onlineinternetcafe.com/clinical-trial-data-analysis-using-r/) — last modified 2026-06-17T17:37:22+00:00
 - [Cochran S C Test](https://onlineinternetcafe.com/cochran-s-c-test/) — last modified 2026-07-18T11:19:29+00:00
 - [Coefficient Of Variation](https://onlineinternetcafe.com/coefficient-of-variation/) — last modified 2026-07-26T11:19:01+00:00

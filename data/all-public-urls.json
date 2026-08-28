@@ -1,7 +1,7 @@
 {
   "website": "https://onlineinternetcafe.com",
-  "generated_utc": "2026-08-27T12:51:15+00:00",
-  "url_count": 2761,
+  "generated_utc": "2026-08-28T14:23:46+00:00",
+  "url_count": 2752,
   "sitemaps_read": [
     "https://onlineinternetcafe.com/calculator-sitemap.xml",
     "https://onlineinternetcafe.com/category-sitemap.xml",
@@ -11101,7 +11101,7 @@
       "title": "Salar Cafe home",
       "url": "https://onlineinternetcafe.com/",
       "category": "Main hubs and discovery",
-      "last_modified": "2026-08-21T14:57:50+00:00"
+      "last_modified": "2026-08-27T19:30:14+00:00"
     },
     {
       "title": "Sitemap Index.Xml",
@@ -11876,60 +11876,6 @@
       "url": "https://onlineinternetcafe.com/chow-test/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-04T07:06:21+00:00"
-    },
-    {
-      "title": "Client Credits",
-      "url": "https://onlineinternetcafe.com/client-credits/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-20T03:28:47+00:00"
-    },
-    {
-      "title": "Client Dashboard",
-      "url": "https://onlineinternetcafe.com/client-dashboard/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-20T03:28:46+00:00"
-    },
-    {
-      "title": "Client Login",
-      "url": "https://onlineinternetcafe.com/client-login/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-20T03:28:44+00:00"
-    },
-    {
-      "title": "Client Orders",
-      "url": "https://onlineinternetcafe.com/client-orders/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-20T03:28:48+00:00"
-    },
-    {
-      "title": "Client Packages",
-      "url": "https://onlineinternetcafe.com/client-packages/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-20T03:28:47+00:00"
-    },
-    {
-      "title": "Client Pending",
-      "url": "https://onlineinternetcafe.com/client-pending/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-20T03:28:45+00:00"
-    },
-    {
-      "title": "Client Profile",
-      "url": "https://onlineinternetcafe.com/client-profile/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-20T03:28:49+00:00"
-    },
-    {
-      "title": "Client Signup",
-      "url": "https://onlineinternetcafe.com/client-signup/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-20T03:28:45+00:00"
-    },
-    {
-      "title": "Client Support",
-      "url": "https://onlineinternetcafe.com/client-support/",
-      "category": "Other Salar Cafe resources",
-      "last_modified": "2026-06-20T03:28:50+00:00"
     },
     {
       "title": "Clinical Trial Data Analysis Using R",
