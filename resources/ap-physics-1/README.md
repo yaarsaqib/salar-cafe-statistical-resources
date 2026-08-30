@@ -1,10 +1,30 @@
 # AP Physics 1 2027 Study Map
 
-This public study map organizes the current AP Physics 1 course into its eight units and 43 topic lessons. It is intended as a navigation and review companion for students who want to move from the full course overview to a specific concept without losing the connections among motion, force, energy, momentum, rotation, oscillations, and fluids.
+This public study map organizes the current AP Physics 1 course into its eight units and 43 topic lessons. It also connects the topic map to the exam-preparation layer: formula/reference sheet, exam format, released-question guidance, laboratory work, five model papers, MCQ practice, FRQ practice, score planning, and difficulty/score-distribution resources.
 
 ## Complete AP Physics 1 hub
 
 Start with the full [AP Physics 1 2027 study guide, exam, formulas, units, labs, and practice hub](https://onlineinternetcafe.com/ap-physics-1/).
+
+## Exam, practice, labs, and model papers
+
+Open the [AP Physics 1 exam, practice, labs, MCQ, FRQ, and model-test directory](exam-practice-resources.md).
+
+That directory links directly to:
+
+- [AP Physics 1 Formula Sheet](https://onlineinternetcafe.com/ap-physics-1/formula-sheet/)
+- [AP Physics 1 Exam Format 2027](https://onlineinternetcafe.com/ap-physics-1/exam-format/)
+- [AP Physics 1 Exam Length](https://onlineinternetcafe.com/ap-physics-1/exam-length/)
+- [AP Physics 1 Exam Date](https://onlineinternetcafe.com/ap-physics-1/exam-date/)
+- [AP Physics 1 Past Papers and Released FRQs](https://onlineinternetcafe.com/ap-physics-1/past-papers/)
+- [AP Physics 1 Labs and Experimental Investigations](https://onlineinternetcafe.com/ap-physics-1/labs/)
+- [AP Physics 1 Practice Tests / 5 Model Papers](https://onlineinternetcafe.com/ap-physics-1/practice-test/)
+- [AP Physics 1 MCQ Practice](https://onlineinternetcafe.com/ap-physics-1/practice-test/mcq-practice/)
+- [AP Physics 1 FRQ Practice](https://onlineinternetcafe.com/ap-physics-1/practice-test/frq-practice/)
+- [AP Physics 1 Score Calculator](https://onlineinternetcafe.com/ap-physics-1/score-calculator/)
+- [AP Physics 1 Syllabus](https://onlineinternetcafe.com/ap-physics-1/syllabus/)
+- [AP Physics 1 Pass Rate and Score Distribution](https://onlineinternetcafe.com/ap-physics-1/pass-rate/)
+- [Is AP Physics 1 Hard?](https://onlineinternetcafe.com/ap-physics-1/is-it-hard/)
 
 ## Eight-unit course map
 
@@ -24,7 +44,9 @@ Start with the full [AP Physics 1 2027 study guide, exam, formulas, units, labs,
 1. Begin with the complete AP Physics 1 hub to understand the exam structure and the role of each unit.
 2. Open the unit map matching the concept you are studying.
 3. Use the topic-level links to reach the full explanation, equations, worked reasoning, misconceptions, and practice for that topic.
-4. Return to mixed practice only after the individual concepts and representations are secure.
+4. Use the MCQ and FRQ pages for topic-focused retrieval and reasoning practice.
+5. Use the labs resource to practice experimental design and data reasoning.
+6. Move to the five full model papers only after the individual concepts and representations are secure.
 
 ## Representation-first study principle
 
