@@ -1,7 +1,7 @@
 # Complete Salar Cafe Website Directory
 
 **Public URLs cataloged: 3,003**  
-**Generated automatically: 2026-08-31T08:42:27+00:00**
+**Generated automatically: 2026-09-01T07:51:54+00:00**
 
 This directory is generated from the public XML sitemap families of [Salar Cafe](https://onlineinternetcafe.com/). It is designed to cover the complete indexable website rather than a small hand-selected group of pages. New public URLs are added automatically when the website sitemap is refreshed.
 
@@ -82,27 +82,27 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Basic Descriptive Statistics Guides](https://onlineinternetcafe.com/category/basic-descriptive-statistics-guides/) — last modified 2026-07-28T09:59:17+00:00
 - [Binomial Distribution 2](https://onlineinternetcafe.com/binomial-distribution-2/) — last modified 2026-08-14T13:01:15+00:00
 - [Binomial Vs Geometric Distribution 2](https://onlineinternetcafe.com/binomial-vs-geometric-distribution-2/) — last modified 2026-08-14T13:01:16+00:00
-- [Blackbody Radiation](https://onlineinternetcafe.com/ap-physics-2/modern-physics/blackbody-radiation/) — last modified 2026-08-31T03:02:01+00:00
-- [Bohr Model Atomic Structure](https://onlineinternetcafe.com/ap-physics-2/modern-physics/bohr-model-atomic-structure/) — last modified 2026-08-31T03:01:59+00:00
+- [Blackbody Radiation](https://onlineinternetcafe.com/ap-physics-2/modern-physics/blackbody-radiation/) — last modified 2026-08-31T19:26:42+00:00
+- [Bohr Model Atomic Structure](https://onlineinternetcafe.com/ap-physics-2/modern-physics/bohr-model-atomic-structure/) — last modified 2026-08-31T19:26:41+00:00
 - [Box Plot](https://onlineinternetcafe.com/category/box-plot/) — last modified 2026-07-26T11:19:01+00:00
 - [Box Plot Interpretation](https://onlineinternetcafe.com/box-plot-interpretation/) — last modified 2026-07-26T11:19:01+00:00
 - [Calculadora De Media Mediana Y Moda](https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-media-mediana-y-moda/) — last modified 2026-07-22T15:28:32+00:00
 - [Central Limit Theorem](https://onlineinternetcafe.com/central-limit-theorem/) — last modified 2026-07-26T11:19:01+00:00
 - [Central Limit Theorem 2](https://onlineinternetcafe.com/central-limit-theorem-2/) — last modified 2026-08-14T13:03:19+00:00
-- [Compton Scattering](https://onlineinternetcafe.com/ap-physics-2/modern-physics/compton-scattering/) — last modified 2026-08-31T03:02:02+00:00
+- [Compton Scattering](https://onlineinternetcafe.com/ap-physics-2/modern-physics/compton-scattering/) — last modified 2026-08-31T19:26:43+00:00
 - [Conditional Probability Independence 2](https://onlineinternetcafe.com/conditional-probability-independence-2/) — last modified 2026-08-14T13:00:43+00:00
 - [Covariance Based Sem](https://onlineinternetcafe.com/covariance-based-sem/) — last modified 2026-08-04T07:07:00+00:00
 - [Descriptive Statistics](https://onlineinternetcafe.com/descriptive-statistics/) — last modified 2026-07-26T11:19:01+00:00
 - [Descriptive Statistics For Likert Data](https://onlineinternetcafe.com/descriptive-statistics-for-likert-data/) — last modified 2026-08-04T07:06:41+00:00
 - [Duncans Multiple Range Test Formula Interpretation SPSS Python R And Excel Guide](https://onlineinternetcafe.com/duncans-multiple-range-test-formula-interpretation-spss-python-r-and-excel-guide/) — last modified 2026-07-26T11:37:20+00:00
 - [Effect Size](https://onlineinternetcafe.com/effect-size/) — last modified 2026-07-26T11:19:01+00:00
-- [Emission Absorption Spectra](https://onlineinternetcafe.com/ap-physics-2/modern-physics/emission-absorption-spectra/) — last modified 2026-08-31T03:02:00+00:00
+- [Emission Absorption Spectra](https://onlineinternetcafe.com/ap-physics-2/modern-physics/emission-absorption-spectra/) — last modified 2026-08-31T19:26:42+00:00
 - [Empirical Rule Normal Distribution](https://onlineinternetcafe.com/empirical-rule-normal-distribution/) — last modified 2026-08-07T17:40:43+00:00
 - [Engle Granger Cointegration Test](https://onlineinternetcafe.com/engle-granger-cointegration-test/) — last modified 2026-08-04T07:06:17+00:00
 - [Expected Value Random Variable 2](https://onlineinternetcafe.com/expected-value-random-variable-2/) — last modified 2026-08-14T13:00:44+00:00
 - [Exponential Survival Model](https://onlineinternetcafe.com/exponential-survival-model/) — last modified 2026-08-04T07:06:11+00:00
 - [Fine Gray Model](https://onlineinternetcafe.com/fine-gray-model/) — last modified 2026-08-04T07:06:09+00:00
-- [Fission Fusion Nuclear Decay](https://onlineinternetcafe.com/ap-physics-2/modern-physics/fission-fusion-nuclear-decay/) — last modified 2026-08-31T03:02:03+00:00
+- [Fission Fusion Nuclear Decay](https://onlineinternetcafe.com/ap-physics-2/modern-physics/fission-fusion-nuclear-decay/) — last modified 2026-08-31T19:26:44+00:00
 - [Frequency And Relative Frequency Table](https://onlineinternetcafe.com/frequency-and-relative-frequency-table/) — last modified 2026-08-07T17:38:01+00:00
 - [Frequency Distribution](https://onlineinternetcafe.com/frequency-distribution/) — last modified 2026-07-26T13:14:23+00:00
 - [Garch Model](https://onlineinternetcafe.com/garch-model/) — last modified 2026-08-04T07:06:23+00:00
@@ -116,14 +116,14 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Measurement Model](https://onlineinternetcafe.com/measurement-model/) — last modified 2026-08-02T10:00:51+00:00
 - [Model Fit Indices](https://onlineinternetcafe.com/model-fit-indices/) — last modified 2026-08-02T10:00:48+00:00
 - [Moderated Mediation](https://onlineinternetcafe.com/moderated-mediation/) — last modified 2026-07-26T11:15:47+00:00
-- [Modern Physics](https://onlineinternetcafe.com/ap-physics-2/modern-physics/) — last modified 2026-08-31T03:01:36+00:00
+- [Modern Physics](https://onlineinternetcafe.com/ap-physics-2/modern-physics/) — last modified 2026-08-31T19:26:17+00:00
 - [Normal Distribution](https://onlineinternetcafe.com/normal-distribution/) — last modified 2026-07-26T11:21:02+00:00
 - [Normal Distribution 2](https://onlineinternetcafe.com/normal-distribution-2/) — last modified 2026-08-07T17:39:45+00:00
 - [Parametric Survival Models](https://onlineinternetcafe.com/parametric-survival-models/) — last modified 2026-08-04T07:06:05+00:00
 - [Percentiles And Quartiles](https://onlineinternetcafe.com/percentiles-and-quartiles/) — last modified 2026-07-26T11:21:03+00:00
-- [Photoelectric Effect](https://onlineinternetcafe.com/ap-physics-2/modern-physics/photoelectric-effect/) — last modified 2026-08-31T03:02:01+00:00
+- [Photoelectric Effect](https://onlineinternetcafe.com/ap-physics-2/modern-physics/photoelectric-effect/) — last modified 2026-08-31T19:26:43+00:00
 - [Probability Rules 2](https://onlineinternetcafe.com/probability-rules-2/) — last modified 2026-08-14T12:59:57+00:00
-- [Quantum Theory Wave Particle Duality](https://onlineinternetcafe.com/ap-physics-2/modern-physics/quantum-theory-wave-particle-duality/) — last modified 2026-08-31T03:01:59+00:00
+- [Quantum Theory Wave Particle Duality](https://onlineinternetcafe.com/ap-physics-2/modern-physics/quantum-theory-wave-particle-duality/) — last modified 2026-08-31T19:26:41+00:00
 - [Random Variables](https://onlineinternetcafe.com/random-variables/) — last modified 2026-08-14T12:55:48+00:00
 - [Range](https://onlineinternetcafe.com/range/) — last modified 2026-07-26T11:21:03+00:00
 - [Sampling Bias](https://onlineinternetcafe.com/sampling-bias/) — last modified 2026-08-14T12:55:15+00:00
@@ -140,7 +140,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Statistical Power](https://onlineinternetcafe.com/statistical-power/) — last modified 2026-07-26T11:21:04+00:00
 - [Structural Equation Modeling](https://onlineinternetcafe.com/structural-equation-modeling/) — last modified 2026-08-02T10:00:41+00:00
 - [Structural Model](https://onlineinternetcafe.com/structural-model/) — last modified 2026-08-02T10:00:39+00:00
-- [Types Radioactive Decay](https://onlineinternetcafe.com/ap-physics-2/modern-physics/types-radioactive-decay/) — last modified 2026-08-31T03:02:03+00:00
+- [Types Radioactive Decay](https://onlineinternetcafe.com/ap-physics-2/modern-physics/types-radioactive-decay/) — last modified 2026-08-31T19:26:44+00:00
 - [Unit 2 Probability Random Variables And Probability Distributions](https://onlineinternetcafe.com/category/unit-2-probability-random-variables-and-probability-distributions/) — last modified 2026-08-14T13:03:19+00:00
 - [Unit 4 Inference For Quantitative Data Means](https://onlineinternetcafe.com/category/unit-4-inference-for-quantitative-data-means/) — last modified 2026-08-14T13:07:14+00:00
 - [Var Model](https://onlineinternetcafe.com/var-model/) — last modified 2026-08-04T07:06:38+00:00
@@ -869,7 +869,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [AP Us History Score Calculator](https://onlineinternetcafe.com/ap-us-history-score-calculator/) — last modified 2026-08-01T04:12:36+00:00
 - [AP World History Score Calculator](https://onlineinternetcafe.com/ap-world-history-score-calculator/) — last modified 2026-08-01T04:12:37+00:00
 - [Score Calculator](https://onlineinternetcafe.com/ap-physics-1/score-calculator/) — last modified 2026-08-30T19:35:45+00:00
-- [Score Calculator](https://onlineinternetcafe.com/ap-physics-2/score-calculator/) — last modified 2026-08-31T03:01:22+00:00
+- [Score Calculator](https://onlineinternetcafe.com/ap-physics-2/score-calculator/) — last modified 2026-08-31T19:26:06+00:00
 
 ## General calculators and solvers
 
@@ -2571,7 +2571,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [1rm Rechner](https://onlineinternetcafe.com/rechner-de/1rm-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [2019 International Practice Exam AP Statistics](https://onlineinternetcafe.com/2019-international-practice-exam-ap-statistics/) — last modified 2026-08-07T17:29:47+00:00
 - [30 Day](https://onlineinternetcafe.com/ap-physics-1/study-plan/30-day/) — last modified 2026-08-30T19:35:47+00:00
-- [30 Day](https://onlineinternetcafe.com/ap-physics-2/study-plan/30-day/) — last modified 2026-08-31T03:01:28+00:00
+- [30 Day](https://onlineinternetcafe.com/ap-physics-2/study-plan/30-day/) — last modified 2026-08-31T19:26:11+00:00
 - [Abfindungsrechner Deutschland](https://onlineinternetcafe.com/rechner-de/abfindungsrechner-deutschland/) — last modified 2026-07-22T15:25:44+00:00
 - [Ableitungsrechner](https://onlineinternetcafe.com/rechner-de/ableitungsrechner/) — last modified 2026-07-22T15:25:44+00:00
 - [About](https://onlineinternetcafe.com/about/) — last modified 2026-07-27T15:46:23+00:00
@@ -2586,8 +2586,8 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Angular Momentum Impulse](https://onlineinternetcafe.com/ap-physics-1/rotating-systems-energy-momentum/angular-momentum-impulse/) — last modified 2026-08-30T19:36:10+00:00
 - [Anlagerechner](https://onlineinternetcafe.com/rechner-de/anlagerechner/) — last modified 2026-07-22T15:25:44+00:00
 - [AP Physics 1](https://onlineinternetcafe.com/ap-physics-1/) — last modified 2026-08-30T19:35:38+00:00
-- [AP Physics 1 Vs 2](https://onlineinternetcafe.com/ap-physics-2/ap-physics-1-vs-2/) — last modified 2026-08-31T03:01:31+00:00
-- [AP Physics 2](https://onlineinternetcafe.com/ap-physics-2/) — last modified 2026-08-31T03:01:18+00:00
+- [AP Physics 1 Vs 2](https://onlineinternetcafe.com/ap-physics-2/ap-physics-1-vs-2/) — last modified 2026-08-31T19:26:13+00:00
+- [AP Physics 2](https://onlineinternetcafe.com/ap-physics-2/) — last modified 2026-08-31T19:26:01+00:00
 - [Arbeitslosengeld 1 Rechner Deutschland](https://onlineinternetcafe.com/rechner-de/arbeitslosengeld-1-rechner-deutschland/) — last modified 2026-07-22T15:25:44+00:00
 - [Arbeitstage Rechner Deutschland](https://onlineinternetcafe.com/rechner-de/arbeitstage-rechner-deutschland/) — last modified 2026-07-22T15:25:44+00:00
 - [Arch Test](https://onlineinternetcafe.com/arch-test/) — last modified 2026-08-04T07:06:18+00:00
@@ -2601,7 +2601,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Blog](https://onlineinternetcafe.com/blog/) — last modified 2026-08-01T13:10:27+00:00
 - [Bmi Rechner](https://onlineinternetcafe.com/rechner-de/bmi-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Book Store](https://onlineinternetcafe.com/book-store/) — last modified 2026-06-17T17:28:49+00:00
-- [Boundary Behavior Polarization](https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/boundary-behavior-polarization/) — last modified 2026-08-31T03:01:55+00:00
+- [Boundary Behavior Polarization](https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/boundary-behavior-polarization/) — last modified 2026-08-31T19:26:37+00:00
 - [Box Pierce Test](https://onlineinternetcafe.com/box-pierce-test/) — last modified 2026-08-04T07:06:19+00:00
 - [Breslow Test](https://onlineinternetcafe.com/breslow-test/) — last modified 2026-08-04T07:06:14+00:00
 - [Breusch Godfrey Test](https://onlineinternetcafe.com/breusch-godfrey-test/) — last modified 2026-08-04T07:06:18+00:00
@@ -2667,7 +2667,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Calculadora Resico Mexico](https://onlineinternetcafe.com/calculadoras-mx/calculadora-resico-mexico/) — last modified 2026-07-22T15:28:32+00:00
 - [Calculadora Tdee](https://onlineinternetcafe.com/calculadoras-mx/calculadora-tdee/) — last modified 2026-07-22T15:28:32+00:00
 - [Calculadoras Mx](https://onlineinternetcafe.com/calculadoras-mx/) — last modified 2026-07-22T15:28:32+00:00
-- [Capacitors](https://onlineinternetcafe.com/ap-physics-2/electric-force-field-potential/capacitors/) — last modified 2026-08-31T03:01:43+00:00
+- [Capacitors](https://onlineinternetcafe.com/ap-physics-2/electric-force-field-potential/capacitors/) — last modified 2026-08-31T19:26:24+00:00
 - [Cdaipy](https://onlineinternetcafe.com/cdaipy/) — last modified 2026-07-18T19:54:44+00:00
 - [Cdair](https://onlineinternetcafe.com/cdair/) — last modified 2026-07-19T04:32:56+00:00
 - [Cdaispss](https://onlineinternetcafe.com/cdaispss/) — last modified 2026-07-19T05:29:55+00:00
@@ -2683,12 +2683,12 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Communalities](https://onlineinternetcafe.com/communalities/) — last modified 2026-08-04T07:06:56+00:00
 - [Competing Risks Analysis](https://onlineinternetcafe.com/competing-risks-analysis/) — last modified 2026-08-04T07:06:12+00:00
 - [Composite Score Creation](https://onlineinternetcafe.com/composite-score-creation/) — last modified 2026-08-04T07:06:39+00:00
-- [Compound Dc Circuits](https://onlineinternetcafe.com/ap-physics-2/electric-circuits/compound-dc-circuits/) — last modified 2026-08-31T03:01:47+00:00
+- [Compound Dc Circuits](https://onlineinternetcafe.com/ap-physics-2/electric-circuits/compound-dc-circuits/) — last modified 2026-08-31T19:26:28+00:00
 - [Confirmatory Composite Analysis](https://onlineinternetcafe.com/confirmatory-composite-analysis/) — last modified 2026-08-04T07:06:58+00:00
 - [Confirmatory Factor Analysis](https://onlineinternetcafe.com/confirmatory-factor-analysis/) — last modified 2026-08-04T07:06:58+00:00
 - [Conservation Angular Momentum](https://onlineinternetcafe.com/ap-physics-1/rotating-systems-energy-momentum/conservation-angular-momentum/) — last modified 2026-08-30T19:36:10+00:00
-- [Conservation Electric Charge Charging](https://onlineinternetcafe.com/ap-physics-2/electric-force-field-potential/conservation-electric-charge-charging/) — last modified 2026-08-31T03:01:40+00:00
-- [Conservation Electric Energy](https://onlineinternetcafe.com/ap-physics-2/electric-force-field-potential/conservation-electric-energy/) — last modified 2026-08-31T03:01:44+00:00
+- [Conservation Electric Charge Charging](https://onlineinternetcafe.com/ap-physics-2/electric-force-field-potential/conservation-electric-charge-charging/) — last modified 2026-08-31T19:26:22+00:00
+- [Conservation Electric Energy](https://onlineinternetcafe.com/ap-physics-2/electric-force-field-potential/conservation-electric-energy/) — last modified 2026-08-31T19:26:24+00:00
 - [Conservation Energy](https://onlineinternetcafe.com/ap-physics-1/work-energy-power/conservation-energy/) — last modified 2026-08-30T19:36:01+00:00
 - [Conservation Linear Momentum](https://onlineinternetcafe.com/ap-physics-1/linear-momentum/conservation-linear-momentum/) — last modified 2026-08-30T19:36:04+00:00
 - [Construct Validity](https://onlineinternetcafe.com/construct-validity/) — last modified 2026-08-04T07:06:59+00:00
@@ -2709,12 +2709,12 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Datumsdifferenz Rechner](https://onlineinternetcafe.com/rechner-de/datumsdifferenz-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Density](https://onlineinternetcafe.com/ap-physics-1/fluids/density/) — last modified 2026-08-30T19:36:15+00:00
 - [Deutscher Notenrechner](https://onlineinternetcafe.com/rechner-de/deutscher-notenrechner/) — last modified 2026-07-22T15:25:44+00:00
-- [Diffraction](https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/diffraction/) — last modified 2026-08-31T03:01:57+00:00
+- [Diffraction](https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/diffraction/) — last modified 2026-08-31T19:26:39+00:00
 - [Disclaimer](https://onlineinternetcafe.com/disclaimer/) — last modified 2026-08-01T13:23:38+00:00
 - [Discriminant Validity](https://onlineinternetcafe.com/discriminant-validity/) — last modified 2026-08-04T07:07:03+00:00
 - [Displacement Velocity Acceleration](https://onlineinternetcafe.com/ap-physics-1/kinematics/displacement-velocity-acceleration/) — last modified 2026-08-30T19:35:50+00:00
-- [Doppler Effect](https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/doppler-effect/) — last modified 2026-08-31T03:01:56+00:00
-- [Double Slit Diffraction Gratings](https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/double-slit-diffraction-gratings/) — last modified 2026-08-31T03:01:58+00:00
+- [Doppler Effect](https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/doppler-effect/) — last modified 2026-08-31T19:26:38+00:00
+- [Double Slit Diffraction Gratings](https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/double-slit-diffraction-gratings/) — last modified 2026-08-31T19:26:40+00:00
 - [Downloadzeit Rechner](https://onlineinternetcafe.com/rechner-de/downloadzeit-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Drehmoment Umrechner](https://onlineinternetcafe.com/rechner-de/drehmoment-umrechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Dreiecksrechner](https://onlineinternetcafe.com/rechner-de/dreiecksrechner/) — last modified 2026-07-22T15:25:44+00:00
@@ -2724,26 +2724,26 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Eigenvalues](https://onlineinternetcafe.com/eigenvalues/) — last modified 2026-08-04T07:07:02+00:00
 - [Einkommensteuerrechner Deutschland 2026](https://onlineinternetcafe.com/rechner-de/einkommensteuerrechner-deutschland-2026/) — last modified 2026-07-22T15:25:44+00:00
 - [Eisprungrechner](https://onlineinternetcafe.com/rechner-de/eisprungrechner/) — last modified 2026-07-22T15:25:44+00:00
-- [Electric Charge Electric Force](https://onlineinternetcafe.com/ap-physics-2/electric-force-field-potential/electric-charge-electric-force/) — last modified 2026-08-31T03:01:40+00:00
-- [Electric Circuits](https://onlineinternetcafe.com/ap-physics-2/electric-circuits/) — last modified 2026-08-31T03:01:33+00:00
-- [Electric Current](https://onlineinternetcafe.com/ap-physics-2/electric-circuits/electric-current/) — last modified 2026-08-31T03:01:44+00:00
-- [Electric Fields](https://onlineinternetcafe.com/ap-physics-2/electric-force-field-potential/electric-fields/) — last modified 2026-08-31T03:01:41+00:00
-- [Electric Force Field Potential](https://onlineinternetcafe.com/ap-physics-2/electric-force-field-potential/) — last modified 2026-08-31T03:01:33+00:00
-- [Electric Potential](https://onlineinternetcafe.com/ap-physics-2/electric-force-field-potential/electric-potential/) — last modified 2026-08-31T03:01:42+00:00
-- [Electric Potential Energy](https://onlineinternetcafe.com/ap-physics-2/electric-force-field-potential/electric-potential-energy/) — last modified 2026-08-31T03:01:42+00:00
-- [Electric Power](https://onlineinternetcafe.com/ap-physics-2/electric-circuits/electric-power/) — last modified 2026-08-31T03:01:46+00:00
-- [Electromagnetic Induction Faradays Law](https://onlineinternetcafe.com/ap-physics-2/magnetism-electromagnetism/electromagnetic-induction-faradays-law/) — last modified 2026-08-31T03:01:51+00:00
-- [Electromagnetic Waves](https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/electromagnetic-waves/) — last modified 2026-08-31T03:01:55+00:00
+- [Electric Charge Electric Force](https://onlineinternetcafe.com/ap-physics-2/electric-force-field-potential/electric-charge-electric-force/) — last modified 2026-08-31T19:26:21+00:00
+- [Electric Circuits](https://onlineinternetcafe.com/ap-physics-2/electric-circuits/) — last modified 2026-08-31T19:26:15+00:00
+- [Electric Current](https://onlineinternetcafe.com/ap-physics-2/electric-circuits/electric-current/) — last modified 2026-08-31T19:26:25+00:00
+- [Electric Fields](https://onlineinternetcafe.com/ap-physics-2/electric-force-field-potential/electric-fields/) — last modified 2026-08-31T19:26:22+00:00
+- [Electric Force Field Potential](https://onlineinternetcafe.com/ap-physics-2/electric-force-field-potential/) — last modified 2026-08-31T19:26:14+00:00
+- [Electric Potential](https://onlineinternetcafe.com/ap-physics-2/electric-force-field-potential/electric-potential/) — last modified 2026-08-31T19:26:23+00:00
+- [Electric Potential Energy](https://onlineinternetcafe.com/ap-physics-2/electric-force-field-potential/electric-potential-energy/) — last modified 2026-08-31T19:26:23+00:00
+- [Electric Power](https://onlineinternetcafe.com/ap-physics-2/electric-circuits/electric-power/) — last modified 2026-08-31T19:26:27+00:00
+- [Electromagnetic Induction Faradays Law](https://onlineinternetcafe.com/ap-physics-2/magnetism-electromagnetism/electromagnetic-induction-faradays-law/) — last modified 2026-08-31T19:26:33+00:00
+- [Electromagnetic Waves](https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/electromagnetic-waves/) — last modified 2026-08-31T19:26:37+00:00
 - [Electronics Formulas](https://onlineinternetcafe.com/electronics-formulas/) — last modified 2026-08-14T03:53:27+00:00
 - [Elterngeldrechner Deutschland](https://onlineinternetcafe.com/rechner-de/elterngeldrechner-deutschland/) — last modified 2026-07-22T15:25:44+00:00
 - [Endnoten Rechner](https://onlineinternetcafe.com/rechner-de/endnoten-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [English To Morse Code Translator](https://onlineinternetcafe.com/english-to-morse-code-translator/) — last modified 2026-07-28T18:11:57+00:00
 - [Enigma Machine Cipher Simulator](https://onlineinternetcafe.com/enigma-machine-cipher-simulator/) — last modified 2026-07-28T07:03:54+00:00
-- [Entropy Second Law](https://onlineinternetcafe.com/ap-physics-2/thermodynamics/entropy-second-law/) — last modified 2026-08-31T03:01:39+00:00
+- [Entropy Second Law](https://onlineinternetcafe.com/ap-physics-2/thermodynamics/entropy-second-law/) — last modified 2026-08-31T19:26:21+00:00
 - [Exam Date](https://onlineinternetcafe.com/ap-physics-1/exam-date/) — last modified 2026-08-30T19:35:38+00:00
-- [Exam Date](https://onlineinternetcafe.com/ap-physics-2/exam-date/) — last modified 2026-08-31T03:01:21+00:00
+- [Exam Date](https://onlineinternetcafe.com/ap-physics-2/exam-date/) — last modified 2026-08-31T19:26:05+00:00
 - [Exam Format](https://onlineinternetcafe.com/ap-physics-1/exam-format/) — last modified 2026-08-30T19:35:38+00:00
-- [Exam Format](https://onlineinternetcafe.com/ap-physics-2/exam-format/) — last modified 2026-08-31T03:01:21+00:00
+- [Exam Format](https://onlineinternetcafe.com/ap-physics-2/exam-format/) — last modified 2026-08-31T19:26:05+00:00
 - [Exam Length](https://onlineinternetcafe.com/ap-physics-1/exam-length/) — last modified 2026-08-30T19:35:39+00:00
 - [Excel Dashboard Service](https://onlineinternetcafe.com/excel-dashboard-service/) — last modified 2026-08-01T12:53:43+00:00
 - [Excel Data Cleaning Service](https://onlineinternetcafe.com/excel-data-cleaning-service/) — last modified 2026-08-01T12:52:18+00:00
@@ -2759,7 +2759,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Ffmi Rechner](https://onlineinternetcafe.com/rechner-de/ffmi-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [File Handling And Confidentiality Policy](https://onlineinternetcafe.com/file-handling-and-confidentiality-policy/) — last modified 2026-07-27T15:46:27+00:00
 - [File Handling Policy](https://onlineinternetcafe.com/file-handling-policy/) — last modified 2026-06-17T17:06:07+00:00
-- [First Law Thermodynamics](https://onlineinternetcafe.com/ap-physics-2/thermodynamics/first-law-thermodynamics/) — last modified 2026-08-31T03:01:38+00:00
+- [First Law Thermodynamics](https://onlineinternetcafe.com/ap-physics-2/thermodynamics/first-law-thermodynamics/) — last modified 2026-08-31T19:26:19+00:00
 - [Fisher’s Lsd Test](https://onlineinternetcafe.com/fishers-lsd-test/) — last modified 2026-07-26T11:37:22+00:00
 - [Five Number Summary](https://onlineinternetcafe.com/five-number-summary/) — last modified 2026-07-26T13:14:23+00:00
 - [Flaechenrechner](https://onlineinternetcafe.com/rechner-de/flaechenrechner/) — last modified 2026-07-22T15:25:44+00:00
@@ -2771,20 +2771,20 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Forces Free Body Diagrams](https://onlineinternetcafe.com/ap-physics-1/force-translational-dynamics/forces-free-body-diagrams/) — last modified 2026-08-30T19:35:54+00:00
 - [Forecast Accuracy Metrics](https://onlineinternetcafe.com/forecast-accuracy-metrics/) — last modified 2026-08-04T07:06:23+00:00
 - [Formula Sheet](https://onlineinternetcafe.com/ap-physics-1/formula-sheet/) — last modified 2026-08-30T19:35:38+00:00
-- [Formula Sheet](https://onlineinternetcafe.com/ap-physics-2/formula-sheet/) — last modified 2026-08-31T03:01:19+00:00
+- [Formula Sheet](https://onlineinternetcafe.com/ap-physics-2/formula-sheet/) — last modified 2026-08-31T19:26:02+00:00
 - [Fornell Larcker Criterion](https://onlineinternetcafe.com/fornell-larcker-criterion/) — last modified 2026-08-04T07:07:07+00:00
 - [Frq Atlas](https://onlineinternetcafe.com/ap-physics-1/frq-atlas/) — last modified 2026-08-30T19:35:45+00:00
 - [Frq Practice](https://onlineinternetcafe.com/ap-physics-1/frq-practice/) — last modified 2026-08-30T04:47:57+00:00
 - [Frq Practice](https://onlineinternetcafe.com/ap-physics-1/practice-test/frq-practice/) — last modified 2026-08-30T19:35:42+00:00
-- [Frq Practice](https://onlineinternetcafe.com/ap-physics-2/frq-practice/) — last modified 2026-08-31T03:01:24+00:00
+- [Frq Practice](https://onlineinternetcafe.com/ap-physics-2/frq-practice/) — last modified 2026-08-31T19:26:07+00:00
 - [Frq Self Grader](https://onlineinternetcafe.com/ap-physics-1/frq-self-grader/) — last modified 2026-08-30T19:35:46+00:00
-- [Frq Self Grader](https://onlineinternetcafe.com/ap-physics-2/frq-self-grader/) — last modified 2026-08-31T03:01:25+00:00
+- [Frq Self Grader](https://onlineinternetcafe.com/ap-physics-2/frq-self-grader/) — last modified 2026-08-31T19:26:08+00:00
 - [Funktionsplotter](https://onlineinternetcafe.com/rechner-de/funktionsplotter/) — last modified 2026-07-22T15:25:44+00:00
-- [Geometric Optics](https://onlineinternetcafe.com/ap-physics-2/geometric-optics/) — last modified 2026-08-31T03:01:35+00:00
+- [Geometric Optics](https://onlineinternetcafe.com/ap-physics-2/geometric-optics/) — last modified 2026-08-31T19:26:16+00:00
 - [Gfi](https://onlineinternetcafe.com/gfi/) — last modified 2026-08-02T10:00:52+00:00
 - [Ggt Rechner](https://onlineinternetcafe.com/rechner-de/ggt-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Glossary](https://onlineinternetcafe.com/ap-physics-1/glossary/) — last modified 2026-08-30T19:35:46+00:00
-- [Glossary](https://onlineinternetcafe.com/ap-physics-2/glossary/) — last modified 2026-08-31T03:01:26+00:00
+- [Glossary](https://onlineinternetcafe.com/ap-physics-2/glossary/) — last modified 2026-08-31T19:26:09+00:00
 - [Gravitational Force](https://onlineinternetcafe.com/ap-physics-1/force-translational-dynamics/gravitational-force/) — last modified 2026-08-30T19:35:56+00:00
 - [Greenhouse Geisser Correction](https://onlineinternetcafe.com/greenhouse-geisser-correction/) — last modified 2026-07-26T13:14:15+00:00
 - [Grundumsatz Rechner](https://onlineinternetcafe.com/rechner-de/grundumsatz-rechner/) — last modified 2026-07-22T15:25:44+00:00
@@ -2798,16 +2798,16 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Htmt Ratio](https://onlineinternetcafe.com/htmt-ratio/) — last modified 2026-08-02T10:00:50+00:00
 - [Huynh Feldt Correction](https://onlineinternetcafe.com/huynh-feldt-correction/) — last modified 2026-07-26T13:14:16+00:00
 - [I Squared Statistic](https://onlineinternetcafe.com/i-squared-statistic/) — last modified 2026-08-02T08:42:48+00:00
-- [Ideal Gas Law](https://onlineinternetcafe.com/ap-physics-2/thermodynamics/ideal-gas-law/) — last modified 2026-08-31T03:01:37+00:00
+- [Ideal Gas Law](https://onlineinternetcafe.com/ap-physics-2/thermodynamics/ideal-gas-law/) — last modified 2026-08-31T19:26:18+00:00
 - [Idealgewicht Rechner](https://onlineinternetcafe.com/rechner-de/idealgewicht-rechner/) — last modified 2026-07-22T15:25:44+00:00
-- [Images Formed Lenses](https://onlineinternetcafe.com/ap-physics-2/geometric-optics/images-formed-lenses/) — last modified 2026-08-31T03:01:53+00:00
-- [Images Formed Mirrors](https://onlineinternetcafe.com/ap-physics-2/geometric-optics/images-formed-mirrors/) — last modified 2026-08-31T03:01:52+00:00
+- [Images Formed Lenses](https://onlineinternetcafe.com/ap-physics-2/geometric-optics/images-formed-lenses/) — last modified 2026-08-31T19:26:35+00:00
+- [Images Formed Mirrors](https://onlineinternetcafe.com/ap-physics-2/geometric-optics/images-formed-mirrors/) — last modified 2026-08-31T19:26:34+00:00
 - [Impulse](https://onlineinternetcafe.com/ap-physics-1/linear-momentum/impulse/) — last modified 2026-08-30T19:36:03+00:00
 - [Inflationsrechner](https://onlineinternetcafe.com/rechner-de/inflationsrechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Integralrechner](https://onlineinternetcafe.com/rechner-de/integralrechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Ipv4 Subnetzrechner](https://onlineinternetcafe.com/rechner-de/ipv4-subnetzrechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Is It Hard](https://onlineinternetcafe.com/ap-physics-1/is-it-hard/) — last modified 2026-08-30T19:35:44+00:00
-- [Is It Hard](https://onlineinternetcafe.com/ap-physics-2/is-it-hard/) — last modified 2026-08-31T03:01:31+00:00
+- [Is It Hard](https://onlineinternetcafe.com/ap-physics-2/is-it-hard/) — last modified 2026-08-31T19:26:13+00:00
 - [Is The AP Statistics Exam Hard](https://onlineinternetcafe.com/is-the-ap-statistics-exam-hard/) — last modified 2026-08-07T17:31:42+00:00
 - [Johansen Cointegration Test](https://onlineinternetcafe.com/johansen-cointegration-test/) — last modified 2026-08-04T07:06:28+00:00
 - [Kaiser Meyer Olkin Test](https://onlineinternetcafe.com/kaiser-meyer-olkin-test/) — last modified 2026-08-02T10:00:51+00:00
@@ -2819,9 +2819,9 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Kgv Rechner](https://onlineinternetcafe.com/rechner-de/kgv-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Kinematics](https://onlineinternetcafe.com/ap-physics-1/kinematics/) — last modified 2026-08-30T19:35:49+00:00
 - [Kinetic Static Friction](https://onlineinternetcafe.com/ap-physics-1/force-translational-dynamics/kinetic-static-friction/) — last modified 2026-08-30T19:35:56+00:00
-- [Kinetic Theory Temperature Pressure](https://onlineinternetcafe.com/ap-physics-2/thermodynamics/kinetic-theory-temperature-pressure/) — last modified 2026-08-31T03:01:37+00:00
-- [Kirchhoffs Junction Rule](https://onlineinternetcafe.com/ap-physics-2/electric-circuits/kirchhoffs-junction-rule/) — last modified 2026-08-31T03:01:48+00:00
-- [Kirchhoffs Loop Rule](https://onlineinternetcafe.com/ap-physics-2/electric-circuits/kirchhoffs-loop-rule/) — last modified 2026-08-31T03:01:47+00:00
+- [Kinetic Theory Temperature Pressure](https://onlineinternetcafe.com/ap-physics-2/thermodynamics/kinetic-theory-temperature-pressure/) — last modified 2026-08-31T19:26:18+00:00
+- [Kirchhoffs Junction Rule](https://onlineinternetcafe.com/ap-physics-2/electric-circuits/kirchhoffs-junction-rule/) — last modified 2026-08-31T19:26:30+00:00
+- [Kirchhoffs Loop Rule](https://onlineinternetcafe.com/ap-physics-2/electric-circuits/kirchhoffs-loop-rule/) — last modified 2026-08-31T19:26:29+00:00
 - [Koerperfett Rechner](https://onlineinternetcafe.com/rechner-de/koerperfett-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Kolmogorov Smirnov](https://onlineinternetcafe.com/kolmogorov-smirnov/) — last modified 2026-07-28T10:14:04+00:00
 - [Kolmogorov Smirnov Test](https://onlineinternetcafe.com/kolmogorov-smirnov-test/) — last modified 2026-07-26T11:19:00+00:00
@@ -2832,14 +2832,14 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Kuder Richardson Formula 20](https://onlineinternetcafe.com/kuder-richardson-formula-20/) — last modified 2026-07-29T10:40:23+00:00
 - [Kuder Richardson Formula 21](https://onlineinternetcafe.com/kuder-richardson-formula-21/) — last modified 2026-07-29T08:35:25+00:00
 - [Labs](https://onlineinternetcafe.com/ap-physics-1/labs/) — last modified 2026-08-30T19:35:43+00:00
-- [Labs](https://onlineinternetcafe.com/ap-physics-2/labs/) — last modified 2026-08-31T03:01:25+00:00
+- [Labs](https://onlineinternetcafe.com/ap-physics-2/labs/) — last modified 2026-08-31T19:26:09+00:00
 - [Largest Mersenne Prime Number](https://onlineinternetcafe.com/largest-mersenne-prime-number/) — last modified 2026-07-28T09:44:42+00:00
 - [Largest Prime Number](https://onlineinternetcafe.com/largest-prime-number/) — last modified 2026-07-28T09:44:48+00:00
 - [Largest Prime Number Discovery](https://onlineinternetcafe.com/largest-prime-number-discovery/) — last modified 2026-07-28T09:44:44+00:00
 - [Largest Prime Number Less Than 100](https://onlineinternetcafe.com/largest-prime-number-less-than-100/) — last modified 2026-07-28T09:44:46+00:00
 - [Largest Prime Number Less Than 1000](https://onlineinternetcafe.com/largest-prime-number-less-than-1000/) — last modified 2026-07-28T09:44:46+00:00
 - [Last Minute Review](https://onlineinternetcafe.com/ap-physics-1/study-plan/last-minute-review/) — last modified 2026-08-30T19:35:49+00:00
-- [Last Minute Review](https://onlineinternetcafe.com/ap-physics-2/study-plan/last-minute-review/) — last modified 2026-08-31T03:01:30+00:00
+- [Last Minute Review](https://onlineinternetcafe.com/ap-physics-2/study-plan/last-minute-review/) — last modified 2026-08-31T19:26:12+00:00
 - [Laufpace Rechner](https://onlineinternetcafe.com/rechner-de/laufpace-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Learn Morse Code](https://onlineinternetcafe.com/learn-morse-code/) — last modified 2026-07-28T18:12:11+00:00
 - [Life Table Analysis](https://onlineinternetcafe.com/life-table-analysis/) — last modified 2026-08-04T07:06:09+00:00
@@ -2850,10 +2850,10 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Ljung Box Test](https://onlineinternetcafe.com/ljung-box-test/) — last modified 2026-08-04T07:06:26+00:00
 - [Log Rank Test](https://onlineinternetcafe.com/log-rank-test/) — last modified 2026-08-04T07:06:07+00:00
 - [Mae](https://onlineinternetcafe.com/mae/) — last modified 2026-08-04T07:06:30+00:00
-- [Magnetic Fields](https://onlineinternetcafe.com/ap-physics-2/magnetism-electromagnetism/magnetic-fields/) — last modified 2026-08-31T03:01:49+00:00
-- [Magnetism Current Carrying Wires](https://onlineinternetcafe.com/ap-physics-2/magnetism-electromagnetism/magnetism-current-carrying-wires/) — last modified 2026-08-31T03:01:51+00:00
-- [Magnetism Electromagnetism](https://onlineinternetcafe.com/ap-physics-2/magnetism-electromagnetism/) — last modified 2026-08-31T03:01:34+00:00
-- [Magnetism Moving Charges](https://onlineinternetcafe.com/ap-physics-2/magnetism-electromagnetism/magnetism-moving-charges/) — last modified 2026-08-31T03:01:50+00:00
+- [Magnetic Fields](https://onlineinternetcafe.com/ap-physics-2/magnetism-electromagnetism/magnetic-fields/) — last modified 2026-08-31T19:26:31+00:00
+- [Magnetism Current Carrying Wires](https://onlineinternetcafe.com/ap-physics-2/magnetism-electromagnetism/magnetism-current-carrying-wires/) — last modified 2026-08-31T19:26:32+00:00
+- [Magnetism Electromagnetism](https://onlineinternetcafe.com/ap-physics-2/magnetism-electromagnetism/) — last modified 2026-08-31T19:26:15+00:00
+- [Magnetism Moving Charges](https://onlineinternetcafe.com/ap-physics-2/magnetism-electromagnetism/magnetism-moving-charges/) — last modified 2026-08-31T19:26:31+00:00
 - [Makronaehrstoff Rechner](https://onlineinternetcafe.com/rechner-de/makronaehrstoff-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Mape](https://onlineinternetcafe.com/mape/) — last modified 2026-08-04T07:06:30+00:00
 - [Margin Of Error](https://onlineinternetcafe.com/margin-of-error/) — last modified 2026-07-26T11:21:02+00:00
@@ -2863,7 +2863,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Mcdonalds Omega](https://onlineinternetcafe.com/mcdonalds-omega/) — last modified 2026-07-29T09:15:05+00:00
 - [Mcq Practice](https://onlineinternetcafe.com/ap-physics-1/mcq-practice/) — last modified 2026-08-30T04:47:57+00:00
 - [Mcq Practice](https://onlineinternetcafe.com/ap-physics-1/practice-test/mcq-practice/) — last modified 2026-08-30T19:35:41+00:00
-- [Mcq Practice](https://onlineinternetcafe.com/ap-physics-2/mcq-practice/) — last modified 2026-08-31T03:01:23+00:00
+- [Mcq Practice](https://onlineinternetcafe.com/ap-physics-2/mcq-practice/) — last modified 2026-08-31T19:26:07+00:00
 - [Mehrwertsteuerrechner Deutschland](https://onlineinternetcafe.com/rechner-de/mehrwertsteuerrechner-deutschland/) — last modified 2026-07-22T15:25:44+00:00
 - [Mieten Oder Kaufen Rechner](https://onlineinternetcafe.com/rechner-de/mieten-oder-kaufen-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Missing Values In Survey Data](https://onlineinternetcafe.com/missing-values-in-survey-data/) — last modified 2026-08-04T07:06:46+00:00
@@ -2914,7 +2914,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Number To Persian Words](https://onlineinternetcafe.com/number-to-persian-words/) — last modified 2026-08-30T07:07:22+00:00
 - [Oblimin Rotation](https://onlineinternetcafe.com/oblimin-rotation/) — last modified 2026-08-02T10:00:49+00:00
 - [One Week Review](https://onlineinternetcafe.com/ap-physics-1/study-plan/one-week-review/) — last modified 2026-08-30T19:35:48+00:00
-- [One Week Review](https://onlineinternetcafe.com/ap-physics-2/study-plan/one-week-review/) — last modified 2026-08-31T03:01:29+00:00
+- [One Week Review](https://onlineinternetcafe.com/ap-physics-2/study-plan/one-week-review/) — last modified 2026-08-31T19:26:11+00:00
 - [Orbiting Satellites](https://onlineinternetcafe.com/ap-physics-1/rotating-systems-energy-momentum/orbiting-satellites/) — last modified 2026-08-30T19:36:11+00:00
 - [Oscillations](https://onlineinternetcafe.com/ap-physics-1/oscillations/) — last modified 2026-08-30T19:36:12+00:00
 - [Parallel Analysis](https://onlineinternetcafe.com/parallel-analysis/) — last modified 2026-08-02T10:00:47+00:00
@@ -2925,7 +2925,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Past Papers](https://onlineinternetcafe.com/ap-physics-1/past-papers/) — last modified 2026-08-30T19:35:42+00:00
 - [Path Analysis](https://onlineinternetcafe.com/path-analysis/) — last modified 2026-08-02T10:00:44+00:00
 - [Pc Netzteil Rechner](https://onlineinternetcafe.com/rechner-de/pc-netzteil-rechner/) — last modified 2026-07-22T15:25:44+00:00
-- [Periodic Waves](https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/periodic-waves/) — last modified 2026-08-31T03:01:54+00:00
+- [Periodic Waves](https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/periodic-waves/) — last modified 2026-08-31T19:26:36+00:00
 - [Persian Base64 Tool](https://onlineinternetcafe.com/persian-base64-tool/) — last modified 2026-08-30T07:07:28+00:00
 - [Persian Compound Interest](https://onlineinternetcafe.com/persian-compound-interest/) — last modified 2026-08-30T07:06:57+00:00
 - [Persian Date Add Subtract](https://onlineinternetcafe.com/persian-date-add-subtract/) — last modified 2026-08-30T07:06:53+00:00
@@ -2987,7 +2987,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Power](https://onlineinternetcafe.com/ap-physics-1/work-energy-power/power/) — last modified 2026-08-30T19:36:01+00:00
 - [Power Bi Dashboard Service](https://onlineinternetcafe.com/power-bi-dashboard-service/) — last modified 2026-08-01T12:54:28+00:00
 - [Practice Test](https://onlineinternetcafe.com/ap-physics-1/practice-test/) — last modified 2026-08-30T19:35:41+00:00
-- [Practice Test](https://onlineinternetcafe.com/ap-physics-2/practice-test/) — last modified 2026-08-31T03:01:23+00:00
+- [Practice Test](https://onlineinternetcafe.com/ap-physics-2/practice-test/) — last modified 2026-08-31T19:26:06+00:00
 - [Pressure](https://onlineinternetcafe.com/ap-physics-1/fluids/pressure/) — last modified 2026-08-30T19:36:16+00:00
 - [Pricing](https://onlineinternetcafe.com/pricing/) — last modified 2026-07-27T15:46:22+00:00
 - [Primfaktorzerlegung Rechner](https://onlineinternetcafe.com/rechner-de/primfaktorzerlegung-rechner/) — last modified 2026-07-22T15:25:44+00:00
@@ -3006,10 +3006,10 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Raid Speicherrechner](https://onlineinternetcafe.com/rechner-de/raid-speicherrechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Random Number Generator](https://onlineinternetcafe.com/random-number-generator/) — last modified 2026-08-01T04:21:54+00:00
 - [Randomized Experiments Blocking Blinding 2](https://onlineinternetcafe.com/randomized-experiments-blocking-blinding-2/) — last modified 2026-08-06T03:01:37+00:00
-- [Rc Circuits](https://onlineinternetcafe.com/ap-physics-2/electric-circuits/rc-circuits/) — last modified 2026-08-31T03:01:48+00:00
+- [Rc Circuits](https://onlineinternetcafe.com/ap-physics-2/electric-circuits/rc-circuits/) — last modified 2026-08-31T19:26:30+00:00
 - [Rechner De](https://onlineinternetcafe.com/rechner-de/) — last modified 2026-07-22T15:25:44+00:00
-- [Reflection](https://onlineinternetcafe.com/ap-physics-2/geometric-optics/reflection/) — last modified 2026-08-31T03:01:51+00:00
-- [Refraction](https://onlineinternetcafe.com/ap-physics-2/geometric-optics/refraction/) — last modified 2026-08-31T03:01:53+00:00
+- [Reflection](https://onlineinternetcafe.com/ap-physics-2/geometric-optics/reflection/) — last modified 2026-08-31T19:26:33+00:00
+- [Refraction](https://onlineinternetcafe.com/ap-physics-2/geometric-optics/refraction/) — last modified 2026-08-31T19:26:34+00:00
 - [Refund Policy](https://onlineinternetcafe.com/refund-policy/) — last modified 2026-08-01T13:22:56+00:00
 - [Relative Motion](https://onlineinternetcafe.com/ap-physics-1/kinematics/relative-motion/) — last modified 2026-08-30T19:35:51+00:00
 - [Rentenrechner Deutschland](https://onlineinternetcafe.com/rechner-de/rentenrechner-deutschland/) — last modified 2026-07-22T15:25:44+00:00
@@ -3017,9 +3017,9 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Representing Motion](https://onlineinternetcafe.com/ap-physics-1/kinematics/representing-motion/) — last modified 2026-08-30T19:35:51+00:00
 - [Representing Shm](https://onlineinternetcafe.com/ap-physics-1/oscillations/representing-shm/) — last modified 2026-08-30T19:36:13+00:00
 - [Research Data Analysis Help](https://onlineinternetcafe.com/research-data-analysis-help/) — last modified 2026-07-27T15:46:21+00:00
-- [Resistance Resistivity Ohms Law](https://onlineinternetcafe.com/ap-physics-2/electric-circuits/resistance-resistivity-ohms-law/) — last modified 2026-08-31T03:01:46+00:00
+- [Resistance Resistivity Ohms Law](https://onlineinternetcafe.com/ap-physics-2/electric-circuits/resistance-resistivity-ohms-law/) — last modified 2026-08-31T19:26:26+00:00
 - [Reverse Coding Likert Items](https://onlineinternetcafe.com/reverse-coding-likert-items/) — last modified 2026-08-04T07:06:50+00:00
-- [Review](https://onlineinternetcafe.com/ap-physics-2/review/) — last modified 2026-08-31T03:01:27+00:00
+- [Review](https://onlineinternetcafe.com/ap-physics-2/review/) — last modified 2026-08-31T19:26:10+00:00
 - [Rial Toman Converter](https://onlineinternetcafe.com/rial-toman-converter/) — last modified 2026-08-30T07:06:55+00:00
 - [Rmse](https://onlineinternetcafe.com/rmse/) — last modified 2026-08-04T07:06:31+00:00
 - [Rmsea](https://onlineinternetcafe.com/rmsea/) — last modified 2026-08-02T10:00:44+00:00
@@ -3046,12 +3046,12 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Shm Energy](https://onlineinternetcafe.com/ap-physics-1/oscillations/shm-energy/) — last modified 2026-08-30T19:36:14+00:00
 - [Sichtfeld Rechner](https://onlineinternetcafe.com/rechner-de/sichtfeld-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Sign Test](https://onlineinternetcafe.com/sign-test/) — last modified 2026-07-28T10:12:41+00:00
-- [Simple Circuits](https://onlineinternetcafe.com/ap-physics-2/electric-circuits/simple-circuits/) — last modified 2026-08-31T03:01:45+00:00
+- [Simple Circuits](https://onlineinternetcafe.com/ap-physics-2/electric-circuits/simple-circuits/) — last modified 2026-08-31T19:26:26+00:00
 - [Simple Exponential Smoothing](https://onlineinternetcafe.com/simple-exponential-smoothing/) — last modified 2026-08-04T07:06:32+00:00
 - [Simple Harmonic Motion](https://onlineinternetcafe.com/ap-physics-1/oscillations/simple-harmonic-motion/) — last modified 2026-08-30T19:36:12+00:00
 - [Sos Morse Code](https://onlineinternetcafe.com/sos-morse-code/) — last modified 2026-07-28T18:12:03+00:00
 - [Spannungsteiler Rechner](https://onlineinternetcafe.com/rechner-de/spannungsteiler-rechner/) — last modified 2026-07-22T15:25:44+00:00
-- [Specific Heat Thermal Conductivity](https://onlineinternetcafe.com/ap-physics-2/thermodynamics/specific-heat-thermal-conductivity/) — last modified 2026-08-31T03:01:39+00:00
+- [Specific Heat Thermal Conductivity](https://onlineinternetcafe.com/ap-physics-2/thermodynamics/specific-heat-thermal-conductivity/) — last modified 2026-08-31T19:26:20+00:00
 - [Spring Forces](https://onlineinternetcafe.com/ap-physics-1/force-translational-dynamics/spring-forces/) — last modified 2026-08-30T19:35:57+00:00
 - [SPSS Data Analysis Help](https://onlineinternetcafe.com/spss-data-analysis-help/) — last modified 2026-08-01T12:46:39+00:00
 - [Srmr](https://onlineinternetcafe.com/srmr/) — last modified 2026-08-02T10:00:40+00:00
@@ -3063,7 +3063,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Steigungsrechner](https://onlineinternetcafe.com/rechner-de/steigungsrechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Stichprobenumfang Rechner](https://onlineinternetcafe.com/rechner-de/stichprobenumfang-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Study Plan](https://onlineinternetcafe.com/ap-physics-1/study-plan/) — last modified 2026-08-30T19:35:47+00:00
-- [Study Plan](https://onlineinternetcafe.com/ap-physics-2/study-plan/) — last modified 2026-08-31T03:01:28+00:00
+- [Study Plan](https://onlineinternetcafe.com/ap-physics-2/study-plan/) — last modified 2026-08-31T19:26:10+00:00
 - [Survey Analysis In Python](https://onlineinternetcafe.com/survey-analysis-in-python/) — last modified 2026-08-04T07:06:51+00:00
 - [Survey Analysis In R](https://onlineinternetcafe.com/survey-analysis-in-r/) — last modified 2026-08-04T07:06:52+00:00
 - [Survey Analysis In SPSS](https://onlineinternetcafe.com/survey-analysis-in-spss/) — last modified 2026-08-04T07:06:53+00:00
@@ -3075,14 +3075,14 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Survival Analysis In SPSS](https://onlineinternetcafe.com/survival-analysis-in-spss/) — last modified 2026-08-04T07:06:04+00:00
 - [Survival Function](https://onlineinternetcafe.com/survival-function/) — last modified 2026-08-04T07:06:01+00:00
 - [Syllabus](https://onlineinternetcafe.com/ap-physics-1/syllabus/) — last modified 2026-08-30T19:35:39+00:00
-- [Syllabus](https://onlineinternetcafe.com/ap-physics-2/syllabus/) — last modified 2026-08-31T03:01:20+00:00
+- [Syllabus](https://onlineinternetcafe.com/ap-physics-2/syllabus/) — last modified 2026-08-31T19:26:04+00:00
 - [Systems Center Of Mass](https://onlineinternetcafe.com/ap-physics-1/force-translational-dynamics/systems-center-of-mass/) — last modified 2026-08-30T19:35:53+00:00
 - [Tarone Ware Test](https://onlineinternetcafe.com/tarone-ware-test/) — last modified 2026-08-04T07:06:01+00:00
 - [Tdee Rechner](https://onlineinternetcafe.com/rechner-de/tdee-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Terms Of Service](https://onlineinternetcafe.com/terms-of-service/) — last modified 2026-08-01T13:20:22+00:00
-- [Thermal Energy Transfer Equilibrium](https://onlineinternetcafe.com/ap-physics-2/thermodynamics/thermal-energy-transfer-equilibrium/) — last modified 2026-08-31T03:01:38+00:00
-- [Thermodynamics](https://onlineinternetcafe.com/ap-physics-2/thermodynamics/) — last modified 2026-08-31T03:01:32+00:00
-- [Thin Film Interference](https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/thin-film-interference/) — last modified 2026-08-31T03:01:59+00:00
+- [Thermal Energy Transfer Equilibrium](https://onlineinternetcafe.com/ap-physics-2/thermodynamics/thermal-energy-transfer-equilibrium/) — last modified 2026-08-31T19:26:19+00:00
+- [Thermodynamics](https://onlineinternetcafe.com/ap-physics-2/thermodynamics/) — last modified 2026-08-31T19:26:13+00:00
+- [Thin Film Interference](https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/thin-film-interference/) — last modified 2026-08-31T19:26:40+00:00
 - [Time Series Analysis](https://onlineinternetcafe.com/time-series-analysis/) — last modified 2026-08-04T07:06:33+00:00
 - [Time Series In Excel](https://onlineinternetcafe.com/time-series-in-excel/) — last modified 2026-08-04T07:06:36+00:00
 - [Time Series In Python](https://onlineinternetcafe.com/time-series-in-python/) — last modified 2026-08-04T07:06:37+00:00
@@ -3097,16 +3097,16 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Trinkgeldrechner](https://onlineinternetcafe.com/rechner-de/trinkgeldrechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Type I Type Ii Errors Power 2](https://onlineinternetcafe.com/type-i-type-ii-errors-power-2/) — last modified 2026-08-14T13:05:44+00:00
 - [Units](https://onlineinternetcafe.com/ap-physics-1/units/) — last modified 2026-08-30T19:35:40+00:00
-- [Units](https://onlineinternetcafe.com/ap-physics-2/units/) — last modified 2026-08-31T03:01:20+00:00
+- [Units](https://onlineinternetcafe.com/ap-physics-2/units/) — last modified 2026-08-31T19:26:03+00:00
 - [Unixzeit Rechner](https://onlineinternetcafe.com/rechner-de/unixzeit-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Varimax Rotation](https://onlineinternetcafe.com/varimax-rotation/) — last modified 2026-08-02T10:00:37+00:00
 - [Verduennungsrechner](https://onlineinternetcafe.com/rechner-de/verduennungsrechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Verhaeltnisrechner](https://onlineinternetcafe.com/rechner-de/verhaeltnisrechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Vo2max Rechner](https://onlineinternetcafe.com/rechner-de/vo2max-rechner/) — last modified 2026-07-22T15:25:44+00:00
 - [Volumenrechner](https://onlineinternetcafe.com/rechner-de/volumenrechner/) — last modified 2026-07-22T15:25:44+00:00
-- [Wave Interference Standing Waves](https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/wave-interference-standing-waves/) — last modified 2026-08-31T03:01:57+00:00
-- [Wave Pulses Waves](https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/wave-pulses-waves/) — last modified 2026-08-31T03:01:54+00:00
-- [Waves Sound Physical Optics](https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/) — last modified 2026-08-31T03:01:35+00:00
+- [Wave Interference Standing Waves](https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/wave-interference-standing-waves/) — last modified 2026-08-31T19:26:39+00:00
+- [Wave Pulses Waves](https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/wave-pulses-waves/) — last modified 2026-08-31T19:26:36+00:00
+- [Waves Sound Physical Optics](https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/) — last modified 2026-08-31T19:26:16+00:00
 - [Weighted Moving Average](https://onlineinternetcafe.com/weighted-moving-average/) — last modified 2026-08-04T07:06:37+00:00
 - [What Is The AP Statistics Exam](https://onlineinternetcafe.com/what-is-the-ap-statistics-exam/) — last modified 2026-08-14T12:40:28+00:00
 - [Wissenschaftlicher Rechner](https://onlineinternetcafe.com/rechner-de/wissenschaftlicher-rechner/) — last modified 2026-07-22T15:25:44+00:00
