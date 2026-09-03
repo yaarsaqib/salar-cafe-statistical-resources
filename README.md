@@ -161,10 +161,6 @@ Synthetic data are useful because they allow learners to:
 - Compare software packages using identical input
 - Practice interpretation before working with real research data
 
-## Other public research projects
-
-The maintainer also develops **[USA Rockhounding](https://usarockhounding.com/)**, a public field-research project that organizes rockhounding locations, access context, collecting-status evidence, directions, and state-level discovery. Its [interactive 50-state rockhounding map](https://usarockhounding.com/rockhounding-map/) separates location discovery from permission and collecting-status questions so field planning can be checked against current site-specific rules.
-
 ## Citation
 
 Saqib, Muhammad Yar. (2026). *Salar Cafe Statistical Learning Resources*. GitHub. Companion website: [Salar Cafe](https://onlineinternetcafe.com/).
