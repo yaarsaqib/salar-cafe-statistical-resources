@@ -1,13 +1,13 @@
 {
   "website": "https://onlineinternetcafe.com",
-  "generated_utc": "2026-09-02T07:08:43+00:00",
+  "generated_utc": "2026-09-03T07:27:19+00:00",
   "url_count": 9,
   "sitemaps_read": [],
   "warnings": [
-    "Unable to fetch https://onlineinternetcafe.com/sitemap_index.xml: HTTP Error 403: Forbidden",
-    "Unable to fetch https://onlineinternetcafe.com/sitemap.xml: HTTP Error 403: Forbidden",
-    "Unable to fetch https://onlineinternetcafe.com/wp-sitemap.xml: HTTP Error 403: Forbidden",
-    "Unable to fetch https://onlineinternetcafe.com/calculator-sitemap.xml: HTTP Error 403: Forbidden"
+    "Unable to fetch https://onlineinternetcafe.com/sitemap_index.xml: <urlopen error [Errno 101] Network is unreachable>",
+    "Unable to fetch https://onlineinternetcafe.com/sitemap.xml: <urlopen error [Errno 101] Network is unreachable>",
+    "Unable to fetch https://onlineinternetcafe.com/wp-sitemap.xml: <urlopen error [Errno 101] Network is unreachable>",
+    "Unable to fetch https://onlineinternetcafe.com/calculator-sitemap.xml: <urlopen error [Errno 101] Network is unreachable>"
   ],
   "urls": [
     {

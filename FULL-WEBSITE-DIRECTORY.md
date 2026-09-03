@@ -1,7 +1,7 @@
 # Complete Salar Cafe Website Directory
 
 **Public URLs cataloged: 9**  
-**Generated automatically: 2026-09-02T07:08:43+00:00**
+**Generated automatically: 2026-09-03T07:27:19+00:00**
 
 This directory is generated from the public XML sitemap families of [Salar Cafe](https://onlineinternetcafe.com/). It is designed to cover the complete indexable website rather than a small hand-selected group of pages. New public URLs are added automatically when the website sitemap is refreshed.
 
@@ -51,10 +51,10 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 
 The directory retained confirmed seed URLs when one or more sitemap endpoints could not be read. The next scheduled run will try those endpoints again.
 
-- `Unable to fetch https://onlineinternetcafe.com/sitemap_index.xml: HTTP Error 403: Forbidden`
-- `Unable to fetch https://onlineinternetcafe.com/sitemap.xml: HTTP Error 403: Forbidden`
-- `Unable to fetch https://onlineinternetcafe.com/wp-sitemap.xml: HTTP Error 403: Forbidden`
-- `Unable to fetch https://onlineinternetcafe.com/calculator-sitemap.xml: HTTP Error 403: Forbidden`
+- `Unable to fetch https://onlineinternetcafe.com/sitemap_index.xml: <urlopen error [Errno 101] Network is unreachable>`
+- `Unable to fetch https://onlineinternetcafe.com/sitemap.xml: <urlopen error [Errno 101] Network is unreachable>`
+- `Unable to fetch https://onlineinternetcafe.com/wp-sitemap.xml: <urlopen error [Errno 101] Network is unreachable>`
+- `Unable to fetch https://onlineinternetcafe.com/calculator-sitemap.xml: <urlopen error [Errno 101] Network is unreachable>`
 
 ---
 
