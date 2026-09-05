@@ -4,7 +4,7 @@ This resource explains the **two-sample Wald–Wolfowitz runs test**, a nonparam
 
 The method should not be confused with the one-sample runs test for randomness. In the two-sample procedure, observations from both groups are pooled and sorted by the measured outcome. Each ordered observation is then replaced by its group label. The test statistic is the number of uninterrupted blocks, or **runs**, in that ordered label sequence.
 
-For a complete worked analysis with formulas, tie-order sensitivity, SPSS, Python, R and Excel workflows, see the [Wald Wolfowitz runs test guide at Salar Cafe](https://onlineinternetcafe.com/wald-wolfowitz-runs-test-7-essential-steps-formula-and-worked-example/).
+For a complete worked analysis with formulas, tie-order sensitivity, SPSS, Python, R and Excel workflows, see the [Wald Wolfowitz runs test guide at Salar Cafe](https://onlineinternetcafe.com/wald-wolfowitz-runs-test/).
 
 ## Files
 
@@ -144,8 +144,21 @@ A significant result establishes evidence against equality of the complete distr
 
 > A two-sample Wald–Wolfowitz runs test was used to compare the complete outcome distributions for Group A (`n = ...`) and Group B (`n = ...`). After pooling and ordering the observations, the label sequence contained `R = ...` runs compared with `E(R) = ...` under the null model, `z = ...`, `p = ...`. The analysis used [exact/asymptotic] inference with [tie rule or no ties].
 
+## Current Salar Cafe resources
+
+- [Complete Wald–Wolfowitz runs test guide](https://onlineinternetcafe.com/wald-wolfowitz-runs-test/)
+- [Wald–Wolfowitz runs test calculator](https://onlineinternetcafe.com/statistical-calculators/wald-wolfowitz-calculator/)
+- [Runs test for randomness — one-sample procedure](https://onlineinternetcafe.com/runs-test/)
+- [Mann–Whitney U test guide](https://onlineinternetcafe.com/mann-whitney-u-test/)
+- [Two-sample Kolmogorov–Smirnov test guide](https://onlineinternetcafe.com/kolmogorov-smirnov/)
+- [Moses test of extreme reactions](https://onlineinternetcafe.com/moses-test/)
+- [Ansari–Bradley scale test guide](https://onlineinternetcafe.com/ansari-bradley-test/)
+- [Parametric vs nonparametric tests](https://onlineinternetcafe.com/parametric-vs-nonparametric-tests/)
+- [Nonparametric tests in Python](https://onlineinternetcafe.com/nonparametric-tests-in-python/)
+- [Salar Statistics Analysis Studio](https://onlineinternetcafe.com/statistical-calculators/)
+
 ## Citation
 
 Saqib, Muhammad Yar. (2026). *Wald–Wolfowitz Two-Sample Runs Test Learning Resource*. Salar Cafe Statistical Learning Resources. GitHub.
 
-Complete companion guide: [Wald Wolfowitz Runs Test: Formula, Worked Example and Software Workflows](https://onlineinternetcafe.com/wald-wolfowitz-runs-test-7-essential-steps-formula-and-worked-example/).
+Complete companion guide: [Wald Wolfowitz Runs Test: Formula, Worked Example and Software Workflows](https://onlineinternetcafe.com/wald-wolfowitz-runs-test/).
