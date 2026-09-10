@@ -1,6 +1,6 @@
 {
   "website": "https://onlineinternetcafe.com",
-  "generated_utc": "2026-09-09T07:25:56+00:00",
+  "generated_utc": "2026-09-10T07:21:29+00:00",
   "url_count": 3099,
   "sitemaps_read": [
     "https://onlineinternetcafe.com/calculator-sitemap.xml",
@@ -674,7 +674,7 @@
       "title": "Score Calculator",
       "url": "https://onlineinternetcafe.com/ap-physics-c/score-calculator/",
       "category": "AP score calculators",
-      "last_modified": "2026-09-08T18:00:16+00:00"
+      "last_modified": "2026-09-10T07:02:40+00:00"
     },
     {
       "title": "AP Statistics Book",
@@ -2541,12 +2541,6 @@
       "url": "https://onlineinternetcafe.com/caesar-cipher-calculator/",
       "category": "General calculators and solvers",
       "last_modified": "2026-07-28T07:03:02+00:00"
-    },
-    {
-      "title": "Caesar Decipher Calculator",
-      "url": "https://onlineinternetcafe.com/caesar-decipher-calculator/",
-      "category": "General calculators and solvers",
-      "last_modified": "2026-07-28T07:03:03+00:00"
     },
     {
       "title": "Cagr Annualized Return Calculator",
@@ -8633,6 +8627,12 @@
       "last_modified": "2026-08-01T04:22:40+00:00"
     },
     {
+      "title": "Rot13 Cipher Calculator",
+      "url": "https://onlineinternetcafe.com/rot13-cipher-calculator/",
+      "category": "General calculators and solvers",
+      "last_modified": "2026-07-28T07:03:03+00:00"
+    },
+    {
       "title": "Rot47 Cipher Calculator",
       "url": "https://onlineinternetcafe.com/rot47-cipher-calculator/",
       "category": "General calculators and solvers",
@@ -11678,13 +11678,13 @@
       "title": "Amperes Law",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/magnetic-fields-electromagnetism/amperes-law/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:47+00:00"
+      "last_modified": "2026-09-10T07:03:16+00:00"
     },
     {
       "title": "Angular Momentum Angular Impulse",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/angular-momentum-angular-impulse/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:32+00:00"
+      "last_modified": "2026-09-10T07:02:57+00:00"
     },
     {
       "title": "Angular Momentum Impulse",
@@ -11720,7 +11720,7 @@
       "title": "AP Physics C",
       "url": "https://onlineinternetcafe.com/ap-physics-c/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T17:59:57+00:00"
+      "last_modified": "2026-09-10T07:02:20+00:00"
     },
     {
       "title": "Arbeitslosengeld 1 Rechner Deutschland",
@@ -12206,7 +12206,7 @@
       "title": "Capacitors",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/conductors-capacitors/capacitors/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:40+00:00"
+      "last_modified": "2026-09-10T07:03:06+00:00"
     },
     {
       "title": "Cdaipy",
@@ -12242,7 +12242,7 @@
       "title": "Change Momentum Impulse",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/linear-momentum/change-momentum-impulse/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:26+00:00"
+      "last_modified": "2026-09-10T07:02:51+00:00"
     },
     {
       "title": "Chemical Equation Balancer",
@@ -12266,7 +12266,7 @@
       "title": "Circular Motion",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/circular-motion/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:22+00:00"
+      "last_modified": "2026-09-10T07:02:46+00:00"
     },
     {
       "title": "Clinical Trial Data Analysis Using R",
@@ -12320,13 +12320,13 @@
       "title": "Compound Direct Current Circuits",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/compound-direct-current-circuits/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:43+00:00"
+      "last_modified": "2026-09-10T07:03:09+00:00"
     },
     {
       "title": "Conductors Capacitors",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/conductors-capacitors/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:38+00:00"
+      "last_modified": "2026-09-10T07:03:05+00:00"
     },
     {
       "title": "Confirmatory Composite Analysis",
@@ -12344,7 +12344,7 @@
       "title": "Connecting Linear Rotational Motion",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/connecting-linear-rotational-motion/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:28+00:00"
+      "last_modified": "2026-09-10T07:02:53+00:00"
     },
     {
       "title": "Conservation Angular Momentum",
@@ -12356,13 +12356,13 @@
       "title": "Conservation Angular Momentum",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/conservation-angular-momentum/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:33+00:00"
+      "last_modified": "2026-09-10T07:02:57+00:00"
     },
     {
       "title": "Conservation Charge Charging",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/conservation-charge-charging/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:14+00:00"
+      "last_modified": "2026-09-10T07:02:38+00:00"
     },
     {
       "title": "Conservation Electric Charge Charging",
@@ -12380,7 +12380,7 @@
       "title": "Conservation Electric Energy",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-potential/conservation-electric-energy/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:38+00:00"
+      "last_modified": "2026-09-10T07:03:04+00:00"
     },
     {
       "title": "Conservation Energy",
@@ -12392,7 +12392,7 @@
       "title": "Conservation Energy",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/conservation-energy/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:24+00:00"
+      "last_modified": "2026-09-10T07:02:49+00:00"
     },
     {
       "title": "Conservation Linear Momentum",
@@ -12404,7 +12404,7 @@
       "title": "Conservation Linear Momentum",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/linear-momentum/conservation-linear-momentum/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:27+00:00"
+      "last_modified": "2026-09-10T07:02:51+00:00"
     },
     {
       "title": "Construct Validity",
@@ -12518,7 +12518,7 @@
       "title": "Dielectrics",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/conductors-capacitors/dielectrics/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:40+00:00"
+      "last_modified": "2026-09-10T07:03:06+00:00"
     },
     {
       "title": "Diffraction",
@@ -12548,7 +12548,7 @@
       "title": "Displacement Velocity Acceleration",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/displacement-velocity-acceleration/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:11+00:00"
+      "last_modified": "2026-09-10T07:02:35+00:00"
     },
     {
       "title": "Doppler Effect",
@@ -12620,7 +12620,7 @@
       "title": "Elastic Inelastic Collisions",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/linear-momentum/elastic-inelastic-collisions/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:27+00:00"
+      "last_modified": "2026-09-10T07:02:52+00:00"
     },
     {
       "title": "Electric Charge Electric Force",
@@ -12632,13 +12632,13 @@
       "title": "Electric Charge Force",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/electric-charge-force/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:13+00:00"
+      "last_modified": "2026-09-10T07:02:37+00:00"
     },
     {
       "title": "Electric Charges Fields Gauss Law",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:09+00:00"
+      "last_modified": "2026-09-10T07:02:34+00:00"
     },
     {
       "title": "Electric Circuits",
@@ -12650,7 +12650,7 @@
       "title": "Electric Circuits",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:41+00:00"
+      "last_modified": "2026-09-10T07:03:07+00:00"
     },
     {
       "title": "Electric Current",
@@ -12662,7 +12662,7 @@
       "title": "Electric Current",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/electric-current/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:41+00:00"
+      "last_modified": "2026-09-10T07:03:08+00:00"
     },
     {
       "title": "Electric Fields",
@@ -12674,19 +12674,19 @@
       "title": "Electric Fields",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/electric-fields/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:14+00:00"
+      "last_modified": "2026-09-10T07:02:38+00:00"
     },
     {
       "title": "Electric Fields Charge Distributions",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/electric-fields-charge-distributions/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:14+00:00"
+      "last_modified": "2026-09-10T07:02:39+00:00"
     },
     {
       "title": "Electric Flux",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/electric-flux/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:15+00:00"
+      "last_modified": "2026-09-10T07:02:39+00:00"
     },
     {
       "title": "Electric Force Field Potential",
@@ -12704,7 +12704,7 @@
       "title": "Electric Potential",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-potential/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:37+00:00"
+      "last_modified": "2026-09-10T07:03:02+00:00"
     },
     {
       "title": "Electric Potential Energy",
@@ -12716,7 +12716,7 @@
       "title": "Electric Potential Energy",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-potential/electric-potential-energy/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:37+00:00"
+      "last_modified": "2026-09-10T07:03:03+00:00"
     },
     {
       "title": "Electric Power",
@@ -12728,19 +12728,19 @@
       "title": "Electric Power",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/electric-power/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:43+00:00"
+      "last_modified": "2026-09-10T07:03:09+00:00"
     },
     {
       "title": "Electricity Magnetism",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:06+00:00"
+      "last_modified": "2026-09-10T07:02:31+00:00"
     },
     {
       "title": "Electromagnetic Induction",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:48+00:00"
+      "last_modified": "2026-09-10T07:03:16+00:00"
     },
     {
       "title": "Electromagnetic Induction Faradays Law",
@@ -12776,13 +12776,13 @@
       "title": "Energy Momentum Rotating Systems",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:31+00:00"
+      "last_modified": "2026-09-10T07:02:56+00:00"
     },
     {
       "title": "Energy Simple Harmonic Oscillators",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/energy-simple-harmonic-oscillators/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:36+00:00"
+      "last_modified": "2026-09-10T07:03:01+00:00"
     },
     {
       "title": "English To Morse Code Translator",
@@ -12818,19 +12818,19 @@
       "title": "Exam Date",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/exam-date/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:09+00:00"
+      "last_modified": "2026-09-10T07:02:34+00:00"
     },
     {
       "title": "Exam Date",
       "url": "https://onlineinternetcafe.com/ap-physics-c/exam-date/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T17:59:59+00:00"
+      "last_modified": "2026-09-10T07:02:23+00:00"
     },
     {
       "title": "Exam Date",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/exam-date/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:05+00:00"
+      "last_modified": "2026-09-10T07:02:30+00:00"
     },
     {
       "title": "Exam Format",
@@ -12848,19 +12848,19 @@
       "title": "Exam Format",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/exam-format/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:08+00:00"
+      "last_modified": "2026-09-10T07:02:33+00:00"
     },
     {
       "title": "Exam Format",
       "url": "https://onlineinternetcafe.com/ap-physics-c/exam-format/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T17:59:58+00:00"
+      "last_modified": "2026-09-10T07:02:22+00:00"
     },
     {
       "title": "Exam Format",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/exam-format/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:04+00:00"
+      "last_modified": "2026-09-10T07:02:29+00:00"
     },
     {
       "title": "Exam Length",
@@ -12938,7 +12938,7 @@
       "title": "Faradays Law Electromagnetic Induction",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/faradays-law-electromagnetic-induction/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:48+00:00"
+      "last_modified": "2026-09-10T07:03:17+00:00"
     },
     {
       "title": "Ffmi Rechner",
@@ -13016,7 +13016,7 @@
       "title": "Force Translational Dynamics",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:17+00:00"
+      "last_modified": "2026-09-10T07:02:41+00:00"
     },
     {
       "title": "Forces Free Body Diagrams",
@@ -13028,7 +13028,7 @@
       "title": "Forces Free Body Diagrams",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/forces-free-body-diagrams/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:18+00:00"
+      "last_modified": "2026-09-10T07:02:42+00:00"
     },
     {
       "title": "Forecast Accuracy Metrics",
@@ -13052,19 +13052,19 @@
       "title": "Formula Sheet",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/formula-sheet/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:07+00:00"
+      "last_modified": "2026-09-10T07:02:32+00:00"
     },
     {
       "title": "Formula Sheet",
       "url": "https://onlineinternetcafe.com/ap-physics-c/formula-sheet/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T17:59:57+00:00"
+      "last_modified": "2026-09-10T07:02:21+00:00"
     },
     {
       "title": "Formula Sheet",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/formula-sheet/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:03+00:00"
+      "last_modified": "2026-09-10T07:02:28+00:00"
     },
     {
       "title": "Fornell Larcker Criterion",
@@ -13076,7 +13076,7 @@
       "title": "Frq",
       "url": "https://onlineinternetcafe.com/ap-physics-c/frq/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T17:59:59+00:00"
+      "last_modified": "2026-09-10T07:02:24+00:00"
     },
     {
       "title": "Frq Atlas",
@@ -13124,7 +13124,7 @@
       "title": "Gauss Law",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/gauss-law/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:15+00:00"
+      "last_modified": "2026-09-10T07:02:40+00:00"
     },
     {
       "title": "Geometric Optics",
@@ -13166,7 +13166,7 @@
       "title": "Gravitational Force",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/gravitational-force/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:20+00:00"
+      "last_modified": "2026-09-10T07:02:44+00:00"
     },
     {
       "title": "Greenhouse Geisser Correction",
@@ -13274,13 +13274,13 @@
       "title": "Induced Currents Magnetic Forces",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/induced-currents-magnetic-forces/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:49+00:00"
+      "last_modified": "2026-09-10T07:03:17+00:00"
     },
     {
       "title": "Inductance",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/inductance/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:49+00:00"
+      "last_modified": "2026-09-10T07:03:18+00:00"
     },
     {
       "title": "Inflationsrechner",
@@ -13316,7 +13316,7 @@
       "title": "Is It Hard",
       "url": "https://onlineinternetcafe.com/ap-physics-c/is-it-hard/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:01+00:00"
+      "last_modified": "2026-09-10T07:02:26+00:00"
     },
     {
       "title": "Is The AP Statistics Exam Hard",
@@ -13382,7 +13382,7 @@
       "title": "Kinematics",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:05+00:00"
+      "last_modified": "2026-09-10T07:02:30+00:00"
     },
     {
       "title": "Kinetic Static Friction",
@@ -13394,7 +13394,7 @@
       "title": "Kinetic Static Friction",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/kinetic-static-friction/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:20+00:00"
+      "last_modified": "2026-09-10T07:02:45+00:00"
     },
     {
       "title": "Kinetic Theory Temperature Pressure",
@@ -13412,7 +13412,7 @@
       "title": "Kirchhoffs Junction Rule",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/kirchhoffs-junction-rule/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:44+00:00"
+      "last_modified": "2026-09-10T07:03:10+00:00"
     },
     {
       "title": "Kirchhoffs Loop Rule",
@@ -13424,7 +13424,7 @@
       "title": "Kirchhoffs Loop Rule",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/kirchhoffs-loop-rule/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:43+00:00"
+      "last_modified": "2026-09-10T07:03:10+00:00"
     },
     {
       "title": "Koerperfett Rechner",
@@ -13496,7 +13496,7 @@
       "title": "Labs",
       "url": "https://onlineinternetcafe.com/ap-physics-c/labs/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:00+00:00"
+      "last_modified": "2026-09-10T07:02:24+00:00"
     },
     {
       "title": "Largest Mersenne Prime Number",
@@ -13550,7 +13550,7 @@
       "title": "Lc Circuits",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/lc-circuits/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:50+00:00"
+      "last_modified": "2026-09-10T07:03:19+00:00"
     },
     {
       "title": "Learn Morse Code",
@@ -13586,7 +13586,7 @@
       "title": "Linear Momentum",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/linear-momentum/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:26+00:00"
+      "last_modified": "2026-09-10T07:02:50+00:00"
     },
     {
       "title": "Linear Rotational Motion",
@@ -13610,7 +13610,7 @@
       "title": "Lr Circuits",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/lr-circuits/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:50+00:00"
+      "last_modified": "2026-09-10T07:03:18+00:00"
     },
     {
       "title": "Mae",
@@ -13628,13 +13628,13 @@
       "title": "Magnetic Fields Current Carrying Wires Biot Savart Law",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/magnetic-fields-electromagnetism/magnetic-fields-current-carrying-wires-biot-savart-law/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:47+00:00"
+      "last_modified": "2026-09-10T07:03:15+00:00"
     },
     {
       "title": "Magnetic Fields Electromagnetism",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/magnetic-fields-electromagnetism/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:45+00:00"
+      "last_modified": "2026-09-10T07:03:14+00:00"
     },
     {
       "title": "Magnetism Current Carrying Wires",
@@ -13658,7 +13658,7 @@
       "title": "Magnetism Moving Charges",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/magnetic-fields-electromagnetism/magnetism-moving-charges/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:46+00:00"
+      "last_modified": "2026-09-10T07:03:15+00:00"
     },
     {
       "title": "Makronaehrstoff Rechner",
@@ -13724,7 +13724,7 @@
       "title": "Mechanics",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:02+00:00"
+      "last_modified": "2026-09-10T07:02:27+00:00"
     },
     {
       "title": "Mehrwertsteuerrechner Deutschland",
@@ -13964,13 +13964,13 @@
       "title": "Motion Orbiting Satellites",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/motion-orbiting-satellites/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:34+00:00"
+      "last_modified": "2026-09-10T07:02:59+00:00"
     },
     {
       "title": "Motion Two Three Dimensions",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/motion-two-three-dimensions/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:13+00:00"
+      "last_modified": "2026-09-10T07:02:37+00:00"
     },
     {
       "title": "Moving Average",
@@ -14000,7 +14000,7 @@
       "title": "Newtons First Law",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/newtons-first-law/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:19+00:00"
+      "last_modified": "2026-09-10T07:02:43+00:00"
     },
     {
       "title": "Newtons Second Law",
@@ -14012,13 +14012,13 @@
       "title": "Newtons Second Law",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/newtons-second-law/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:19+00:00"
+      "last_modified": "2026-09-10T07:02:43+00:00"
     },
     {
       "title": "Newtons Second Law Rotational Form",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/newtons-second-law-rotational-form/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:31+00:00"
+      "last_modified": "2026-09-10T07:02:55+00:00"
     },
     {
       "title": "Newtons Third Law",
@@ -14030,7 +14030,7 @@
       "title": "Newtons Third Law",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/newtons-third-law/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:18+00:00"
+      "last_modified": "2026-09-10T07:02:42+00:00"
     },
     {
       "title": "Nfi",
@@ -14084,7 +14084,7 @@
       "title": "Oscillations",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:34+00:00"
+      "last_modified": "2026-09-10T07:02:59+00:00"
     },
     {
       "title": "Parallel Analysis",
@@ -14492,7 +14492,7 @@
       "title": "Potential Energy",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/potential-energy/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:24+00:00"
+      "last_modified": "2026-09-10T07:02:49+00:00"
     },
     {
       "title": "Power",
@@ -14504,7 +14504,7 @@
       "title": "Power",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/power/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:25+00:00"
+      "last_modified": "2026-09-10T07:02:50+00:00"
     },
     {
       "title": "Power Bi Dashboard Service",
@@ -14528,13 +14528,13 @@
       "title": "Practice Test",
       "url": "https://onlineinternetcafe.com/ap-physics-c/practice-test/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:00+00:00"
+      "last_modified": "2026-09-10T07:02:25+00:00"
     },
     {
       "title": "Prerequisites",
       "url": "https://onlineinternetcafe.com/ap-physics-c/prerequisites/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:02+00:00"
+      "last_modified": "2026-09-10T07:02:26+00:00"
     },
     {
       "title": "Pressure",
@@ -14660,13 +14660,13 @@
       "title": "Redistribution Charge Between Conductors",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/conductors-capacitors/redistribution-charge-between-conductors/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:39+00:00"
+      "last_modified": "2026-09-10T07:03:05+00:00"
     },
     {
       "title": "Reference Frames Relative Motion",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/reference-frames-relative-motion/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:12+00:00"
+      "last_modified": "2026-09-10T07:02:36+00:00"
     },
     {
       "title": "Reflection",
@@ -14708,7 +14708,7 @@
       "title": "Representing Analyzing Shm",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/representing-analyzing-shm/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:35+00:00"
+      "last_modified": "2026-09-10T07:03:00+00:00"
     },
     {
       "title": "Representing Motion",
@@ -14720,7 +14720,7 @@
       "title": "Representing Motion",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/representing-motion/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:11+00:00"
+      "last_modified": "2026-09-10T07:02:36+00:00"
     },
     {
       "title": "Representing Shm",
@@ -14744,19 +14744,19 @@
       "title": "Resistance Resistivity Ohms Law",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/resistance-resistivity-ohms-law/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:42+00:00"
+      "last_modified": "2026-09-10T07:03:08+00:00"
     },
     {
       "title": "Resistive Forces",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/resistive-forces/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:22+00:00"
+      "last_modified": "2026-09-10T07:02:46+00:00"
     },
     {
       "title": "Resistor Capacitor Circuits",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/resistor-capacitor-circuits/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:45+00:00"
+      "last_modified": "2026-09-10T07:03:10+00:00"
     },
     {
       "title": "Reverse Coding Likert Items",
@@ -14804,7 +14804,7 @@
       "title": "Rolling",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/rolling/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:33+00:00"
+      "last_modified": "2026-09-10T07:02:58+00:00"
     },
     {
       "title": "Roman Numeral Converter",
@@ -14828,7 +14828,7 @@
       "title": "Rotational Equilibrium Newtons First Law",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/rotational-equilibrium-newtons-first-law/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:30+00:00"
+      "last_modified": "2026-09-10T07:02:55+00:00"
     },
     {
       "title": "Rotational Inertia",
@@ -14840,7 +14840,7 @@
       "title": "Rotational Inertia",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/rotational-inertia/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:30+00:00"
+      "last_modified": "2026-09-10T07:02:54+00:00"
     },
     {
       "title": "Rotational Kinematics",
@@ -14876,7 +14876,7 @@
       "title": "Scalars Vectors",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/scalars-vectors/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:10+00:00"
+      "last_modified": "2026-09-10T07:02:34+00:00"
     },
     {
       "title": "Schlafrechner",
@@ -14972,7 +14972,7 @@
       "title": "Simple Physical Pendulums",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/simple-physical-pendulums/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:36+00:00"
+      "last_modified": "2026-09-10T07:03:02+00:00"
     },
     {
       "title": "Sos Morse Code",
@@ -15002,7 +15002,7 @@
       "title": "Spring Forces",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/spring-forces/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:21+00:00"
+      "last_modified": "2026-09-10T07:02:45+00:00"
     },
     {
       "title": "SPSS Data Analysis Help",
@@ -15152,7 +15152,7 @@
       "title": "Systems Center Of Mass",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/systems-center-of-mass/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:17+00:00"
+      "last_modified": "2026-09-10T07:02:41+00:00"
     },
     {
       "title": "Tarone Ware Test",
@@ -15236,7 +15236,7 @@
       "title": "Torque",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/torque/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:29+00:00"
+      "last_modified": "2026-09-10T07:02:53+00:00"
     },
     {
       "title": "Torque Rotational Dynamics",
@@ -15248,7 +15248,7 @@
       "title": "Torque Rotational Dynamics",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:28+00:00"
+      "last_modified": "2026-09-10T07:02:52+00:00"
     },
     {
       "title": "Torque Work",
@@ -15260,7 +15260,7 @@
       "title": "Torque Work",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/torque-work/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:32+00:00"
+      "last_modified": "2026-09-10T07:02:56+00:00"
     },
     {
       "title": "Translational Kinetic Energy",
@@ -15272,7 +15272,7 @@
       "title": "Translational Kinetic Energy",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/translational-kinetic-energy/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:23+00:00"
+      "last_modified": "2026-09-10T07:02:47+00:00"
     },
     {
       "title": "Trend Analysis",
@@ -15308,19 +15308,19 @@
       "title": "Units",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/units/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:07+00:00"
+      "last_modified": "2026-09-10T07:02:32+00:00"
     },
     {
       "title": "Units",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/units/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:04+00:00"
+      "last_modified": "2026-09-10T07:02:28+00:00"
     },
     {
       "title": "Units",
       "url": "https://onlineinternetcafe.com/ap-physics-c/units/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T17:59:58+00:00"
+      "last_modified": "2026-09-10T07:02:22+00:00"
     },
     {
       "title": "Unixzeit Rechner",
@@ -15404,7 +15404,7 @@
       "title": "Work",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/work/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:23+00:00"
+      "last_modified": "2026-09-10T07:02:48+00:00"
     },
     {
       "title": "Work Energy Power",
@@ -15416,7 +15416,7 @@
       "title": "Work Energy Power",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/",
       "category": "Other Salar Cafe resources",
-      "last_modified": "2026-09-08T18:00:22+00:00"
+      "last_modified": "2026-09-10T07:02:47+00:00"
     },
     {
       "title": "Zeitdauer Rechner",
@@ -18098,7 +18098,7 @@
       "title": "Frequency Period Shm",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/frequency-period-shm/",
       "category": "Statistical foundations and probability",
-      "last_modified": "2026-09-08T18:00:35+00:00"
+      "last_modified": "2026-09-10T07:03:00+00:00"
     },
     {
       "title": "Garch Model",
