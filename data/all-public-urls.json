@@ -1,7 +1,7 @@
 {
   "website": "https://onlineinternetcafe.com",
-  "generated_utc": "2026-09-13T07:30:30+00:00",
-  "url_count": 3121,
+  "generated_utc": "2026-09-14T07:56:53+00:00",
+  "url_count": 3269,
   "sitemaps_read": [
     "https://onlineinternetcafe.com/calculator-sitemap.xml",
     "https://onlineinternetcafe.com/category-sitemap.xml",
@@ -17,6 +17,8 @@
     "https://onlineinternetcafe.com/page-sitemap18.xml",
     "https://onlineinternetcafe.com/page-sitemap19.xml",
     "https://onlineinternetcafe.com/page-sitemap2.xml",
+    "https://onlineinternetcafe.com/page-sitemap20.xml",
+    "https://onlineinternetcafe.com/page-sitemap21.xml",
     "https://onlineinternetcafe.com/page-sitemap3.xml",
     "https://onlineinternetcafe.com/page-sitemap4.xml",
     "https://onlineinternetcafe.com/page-sitemap5.xml",
@@ -677,6 +679,12 @@
       "last_modified": "2026-09-11T18:40:57+00:00"
     },
     {
+      "title": "Score Calculator",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/score-calculator/",
+      "category": "AP score calculators",
+      "last_modified": "2026-09-13T15:11:27+00:00"
+    },
+    {
       "title": "AP Statistics Book",
       "url": "https://onlineinternetcafe.com/ap-statistics-book/",
       "category": "AP Statistics learning resources",
@@ -809,6 +817,12 @@
       "last_modified": "2026-08-07T17:38:43+00:00"
     },
     {
+      "title": "Bacterial Transformation Gene Expression Investigation",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/bacterial-transformation-gene-expression-investigation/",
+      "category": "Assumptions, diagnostics and transformations",
+      "last_modified": "2026-09-13T15:08:31+00:00"
+    },
+    {
       "title": "Bartlett S Test",
       "url": "https://onlineinternetcafe.com/bartlett-s-test/",
       "category": "Assumptions, diagnostics and transformations",
@@ -905,6 +919,12 @@
       "last_modified": "2026-07-26T11:19:00+00:00"
     },
     {
+      "title": "Mixed Diagnostic",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/practice/mixed-diagnostic/",
+      "category": "Assumptions, diagnostics and transformations",
+      "last_modified": "2026-09-13T15:12:43+00:00"
+    },
+    {
       "title": "Multicollinearity Check",
       "url": "https://onlineinternetcafe.com/multicollinearity-check/",
       "category": "Assumptions, diagnostics and transformations",
@@ -945,6 +965,12 @@
       "url": "https://onlineinternetcafe.com/shapiro-wilk-test/",
       "category": "Assumptions, diagnostics and transformations",
       "last_modified": "2026-08-02T11:00:51+00:00"
+    },
+    {
+      "title": "Sinusoidal Function Transformations",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sinusoidal-function-transformations/",
+      "category": "Assumptions, diagnostics and transformations",
+      "last_modified": "2026-09-13T15:11:38+00:00"
     },
     {
       "title": "Skewness And Kurtosis Normality Check",
@@ -1047,6 +1073,12 @@
       "url": "https://onlineinternetcafe.com/chi-square-goodness-of-fit-test-2/",
       "category": "Categorical, exact and agreement tests",
       "last_modified": "2026-08-14T13:07:55+00:00"
+    },
+    {
+      "title": "Chi Square Quantitative Investigation",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/chi-square-quantitative-investigation/",
+      "category": "Categorical, exact and agreement tests",
+      "last_modified": "2026-09-13T15:08:26+00:00"
     },
     {
       "title": "Chi Square Test For Homogeneity",
@@ -2577,6 +2609,42 @@
       "url": "https://onlineinternetcafe.com/calculator-bacalaureat-2026/",
       "category": "General calculators and solvers",
       "last_modified": "2026-06-21T19:32:10+00:00"
+    },
+    {
+      "title": "Calculator No Calculator Decision Practice Set 1",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/calculator-no-calculator-decision-practice-set-1/",
+      "category": "General calculators and solvers",
+      "last_modified": "2026-09-13T15:10:39+00:00"
+    },
+    {
+      "title": "Calculator Policy",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/calculator-policy/",
+      "category": "General calculators and solvers",
+      "last_modified": "2026-09-13T15:11:24+00:00"
+    },
+    {
+      "title": "Calculator Rules",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/calculator-rules/",
+      "category": "General calculators and solvers",
+      "last_modified": "2026-09-13T15:12:40+00:00"
+    },
+    {
+      "title": "Calculator Rules",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/calculator-rules/",
+      "category": "General calculators and solvers",
+      "last_modified": "2026-09-13T15:08:19+00:00"
+    },
+    {
+      "title": "Calculator Rules",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/calculator-rules/",
+      "category": "General calculators and solvers",
+      "last_modified": "2026-09-13T15:10:31+00:00"
+    },
+    {
+      "title": "Calculator Rules",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/calculator-rules/",
+      "category": "General calculators and solvers",
+      "last_modified": "2026-09-13T15:09:34+00:00"
     },
     {
       "title": "Calories Burned Calculator",
@@ -11711,6 +11779,36 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
+      "title": "AP",
+      "url": "https://onlineinternetcafe.com/ap/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:07:01+00:00"
+    },
+    {
+      "title": "AP Biology",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:14+00:00"
+    },
+    {
+      "title": "AP Calculus",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:26+00:00"
+    },
+    {
+      "title": "AP Chemistry",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:28+00:00"
+    },
+    {
+      "title": "AP Computer Science A",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:35+00:00"
+    },
+    {
       "title": "AP Physics 1",
       "url": "https://onlineinternetcafe.com/ap-physics-1/",
       "category": "Other Salar Cafe resources",
@@ -11733,6 +11831,12 @@
       "url": "https://onlineinternetcafe.com/ap-physics-c/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-09-11T18:40:39+00:00"
+    },
+    {
+      "title": "AP Precalculus",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:20+00:00"
     },
     {
       "title": "Arbeitslosengeld 1 Rechner Deutschland",
@@ -11853,6 +11957,12 @@
       "url": "https://onlineinternetcafe.com/rechner-de/brutto-netto-rechner-deutschland-2026/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
+    },
+    {
+      "title": "Buffer Capacity Titration Curve Investigation",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/buffer-capacity-titration-curve-investigation/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:44+00:00"
     },
     {
       "title": "Business Data Analysis Service",
@@ -12209,6 +12319,12 @@
       "last_modified": "2026-07-22T15:28:32+00:00"
     },
     {
+      "title": "Calorimetry Hess Law Lab Analysis",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/calorimetry-hess-law-lab-analysis/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:41+00:00"
+    },
+    {
       "title": "Capacitors",
       "url": "https://onlineinternetcafe.com/ap-physics-2/electric-force-field-potential/capacitors/",
       "category": "Other Salar Cafe resources",
@@ -12237,6 +12353,12 @@
       "url": "https://onlineinternetcafe.com/cdaispss/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-19T05:29:55+00:00"
+    },
+    {
+      "title": "Cell Cycle Mitosis Microscopy Investigation",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/cell-cycle-mitosis-microscopy-investigation/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:29+00:00"
     },
     {
       "title": "Celsius Fahrenheit Rechner",
@@ -12291,6 +12413,48 @@
       "url": "https://onlineinternetcafe.com/cochran-s-c-test/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-18T11:19:29+00:00"
+    },
+    {
+      "title": "Code Analysis Debugging Lab",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/practice/code-analysis-debugging-lab/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:44+00:00"
+    },
+    {
+      "title": "Code Tracing Program Reasoning Set 1",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/practice/code-tracing-program-reasoning-set-1/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:46+00:00"
+    },
+    {
+      "title": "Code Tracing Program Reasoning Set 2",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/practice/code-tracing-program-reasoning-set-2/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:47+00:00"
+    },
+    {
+      "title": "Coding Playground Arraylist 2d Arrays Set 1",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/practice/coding-playground-arraylist-2d-arrays-set-1/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:48+00:00"
+    },
+    {
+      "title": "Coding Playground Arrays Traversal Set 4",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/practice/coding-playground-arrays-traversal-set-4/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:07:25+00:00"
+    },
+    {
+      "title": "Coding Playground Classes Methods Set 2",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/practice/coding-playground-classes-methods-set-2/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:48+00:00"
+    },
+    {
+      "title": "Coding Playground Strings Control Structures Set 3",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/practice/coding-playground-strings-control-structures-set-3/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:49+00:00"
     },
     {
       "title": "Coefficient Of Variation",
@@ -12749,6 +12913,12 @@
       "last_modified": "2026-09-11T18:40:48+00:00"
     },
     {
+      "title": "Electrochemistry Cell Potential Investigation",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/electrochemistry-cell-potential-investigation/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:43+00:00"
+    },
+    {
       "title": "Electromagnetic Induction",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/",
       "category": "Other Salar Cafe resources",
@@ -12815,6 +12985,30 @@
       "last_modified": "2026-09-05T07:26:27+00:00"
     },
     {
+      "title": "Enzyme Activity Cellular Energetics Investigation",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/enzyme-activity-cellular-energetics-investigation/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:26+00:00"
+    },
+    {
+      "title": "Equilibrium Ice Table Investigation",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/equilibrium-ice-table-investigation/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:46+00:00"
+    },
+    {
+      "title": "Equivalent Representations Trigonometric Functions",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/equivalent-representations-trigonometric-functions/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:42+00:00"
+    },
+    {
+      "title": "Exam Date",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/exam-date/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:39+00:00"
+    },
+    {
       "title": "Exam Date",
       "url": "https://onlineinternetcafe.com/ap-physics-1/exam-date/",
       "category": "Other Salar Cafe resources",
@@ -12843,6 +13037,36 @@
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/exam-date/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-09-11T18:40:47+00:00"
+    },
+    {
+      "title": "Exam Date",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/exam-date/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:18+00:00"
+    },
+    {
+      "title": "Exam Date",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/exam-date/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:29+00:00"
+    },
+    {
+      "title": "Exam Date",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/exam-date/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:32+00:00"
+    },
+    {
+      "title": "Exam Date",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exam-date/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:23+00:00"
+    },
+    {
+      "title": "Exam Format",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/exam-format/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:37+00:00"
     },
     {
       "title": "Exam Format",
@@ -12875,10 +13099,64 @@
       "last_modified": "2026-09-11T18:40:46+00:00"
     },
     {
+      "title": "Exam Format",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/exam-format/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:16+00:00"
+    },
+    {
+      "title": "Exam Format",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/exam-format/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:28+00:00"
+    },
+    {
+      "title": "Exam Format",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/exam-format/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:30+00:00"
+    },
+    {
+      "title": "Exam Format",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exam-format/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:22+00:00"
+    },
+    {
+      "title": "Exam Length",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/exam-length/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:39+00:00"
+    },
+    {
       "title": "Exam Length",
       "url": "https://onlineinternetcafe.com/ap-physics-1/exam-length/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-30T19:35:39+00:00"
+    },
+    {
+      "title": "Exam Length",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/exam-length/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:18+00:00"
+    },
+    {
+      "title": "Exam Length",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/exam-length/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:30+00:00"
+    },
+    {
+      "title": "Exam Length",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/exam-length/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:33+00:00"
+    },
+    {
+      "title": "Exam Length",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exam-length/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:24+00:00"
     },
     {
       "title": "Excel Dashboard Service",
@@ -12899,6 +13177,12 @@
       "last_modified": "2026-08-07T17:44:53+00:00"
     },
     {
+      "title": "Experimental Design Data Analysis",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/experimental-design-data-analysis/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:25+00:00"
+    },
+    {
       "title": "Experimental Vs Quasi Experimental Design 2",
       "url": "https://onlineinternetcafe.com/experimental-vs-quasi-experimental-design-2/",
       "category": "Other Salar Cafe resources",
@@ -12909,6 +13193,18 @@
       "url": "https://onlineinternetcafe.com/exploratory-factor-analysis/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-04T07:07:06+00:00"
+    },
+    {
+      "title": "Exponential Logarithmic Equations Inequalities",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/exponential-logarithmic-equations-inequalities/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:33+00:00"
+    },
+    {
+      "title": "Exponential Logarithmic Functions",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:28+00:00"
     },
     {
       "title": "Exponential Smoothing",
@@ -13049,6 +13345,12 @@
       "last_modified": "2026-08-04T07:06:23+00:00"
     },
     {
+      "title": "Formula Reference",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/formula-reference/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:20+00:00"
+    },
+    {
       "title": "Formula Sheet",
       "url": "https://onlineinternetcafe.com/ap-physics-1/formula-sheet/",
       "category": "Other Salar Cafe resources",
@@ -13097,6 +13399,12 @@
       "last_modified": "2026-08-30T19:35:45+00:00"
     },
     {
+      "title": "Frq Blueprint Lab",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/practice/frq-blueprint-lab/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:43+00:00"
+    },
+    {
       "title": "Frq Practice",
       "url": "https://onlineinternetcafe.com/ap-physics-1/frq-practice/",
       "category": "Other Salar Cafe resources",
@@ -13127,6 +13435,12 @@
       "last_modified": "2026-09-11T18:41:34+00:00"
     },
     {
+      "title": "Frq Practice",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/frq-practice/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:26+00:00"
+    },
+    {
       "title": "Frq Self Grader",
       "url": "https://onlineinternetcafe.com/ap-physics-1/frq-self-grader/",
       "category": "Other Salar Cafe resources",
@@ -13149,6 +13463,12 @@
       "url": "https://onlineinternetcafe.com/rechner-de/funktionsplotter/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
+    },
+    {
+      "title": "Gas Laws Molar Mass Investigation",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/gas-laws-molar-mass-investigation/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:44+00:00"
     },
     {
       "title": "Gauss Law",
@@ -13185,6 +13505,12 @@
       "url": "https://onlineinternetcafe.com/ap-physics-2/glossary/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-09-05T07:26:16+00:00"
+    },
+    {
+      "title": "Gravimetric Stoichiometry Limiting Reactant Investigation",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/gravimetric-stoichiometry-limiting-reactant-investigation/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:45+00:00"
     },
     {
       "title": "Gravitational Force",
@@ -13325,6 +13651,36 @@
       "last_modified": "2026-07-22T15:25:44+00:00"
     },
     {
+      "title": "Interactive Labs",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/interactive-labs/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:38+00:00"
+    },
+    {
+      "title": "Interactive Labs",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:17+00:00"
+    },
+    {
+      "title": "Interactive Labs",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/interactive-labs/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:29+00:00"
+    },
+    {
+      "title": "Interactive Labs",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:31+00:00"
+    },
+    {
+      "title": "Inverse Trigonometric Functions",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/inverse-trigonometric-functions/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:40+00:00"
+    },
+    {
       "title": "Ipv4 Subnetzrechner",
       "url": "https://onlineinternetcafe.com/rechner-de/ipv4-subnetzrechner/",
       "category": "Other Salar Cafe resources",
@@ -13355,10 +13711,22 @@
       "last_modified": "2026-08-07T17:31:42+00:00"
     },
     {
+      "title": "Java Quick Reference Mastery",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/reference-guide/java-quick-reference-mastery/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:44+00:00"
+    },
+    {
       "title": "Johansen Cointegration Test",
       "url": "https://onlineinternetcafe.com/johansen-cointegration-test/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-04T07:06:28+00:00"
+    },
+    {
+      "title": "Justification Error Analysis Practice 1",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/justification-error-analysis-practice-1/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:38+00:00"
     },
     {
       "title": "Kaiser Meyer Olkin Test",
@@ -13431,6 +13799,12 @@
       "url": "https://onlineinternetcafe.com/ap-physics-2/thermodynamics/kinetic-theory-temperature-pressure/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-09-05T07:26:24+00:00"
+    },
+    {
+      "title": "Kinetics Rate Law Investigation",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/kinetics-rate-law-investigation/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:42+00:00"
     },
     {
       "title": "Kirchhoffs Junction Rule",
@@ -13643,6 +14017,12 @@
       "last_modified": "2026-08-04T07:06:07+00:00"
     },
     {
+      "title": "Logarithmic Function Manipulation",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/logarithmic-function-manipulation/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:34+00:00"
+    },
+    {
       "title": "Lr Circuits",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/lr-circuits/",
       "category": "Other Salar Cafe resources",
@@ -13769,6 +14149,12 @@
       "last_modified": "2026-09-11T18:41:34+00:00"
     },
     {
+      "title": "Mcq Practice",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/mcq-practice/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:25+00:00"
+    },
+    {
       "title": "Mechanics",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/",
       "category": "Other Salar Cafe resources",
@@ -13779,6 +14165,12 @@
       "url": "https://onlineinternetcafe.com/rechner-de/mehrwertsteuerrechner-deutschland/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
+    },
+    {
+      "title": "Mendelian Genetics Pedigree Investigation",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/mendelian-genetics-pedigree-investigation/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:31+00:00"
     },
     {
       "title": "Mieten Oder Kaufen Rechner",
@@ -13797,6 +14189,18 @@
       "url": "https://onlineinternetcafe.com/rechner-de/mittelwertrechner/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
+    },
+    {
+      "title": "Mixed Representation Practice Set 1",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/mixed-representation-practice-set-1/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:37+00:00"
+    },
+    {
+      "title": "Mixed Representation Practice Set 2",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/mixed-representation-practice-set-2/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:37+00:00"
     },
     {
       "title": "Molaritaetsrechner",
@@ -14027,6 +14431,18 @@
       "last_modified": "2026-08-04T07:06:28+00:00"
     },
     {
+      "title": "Multi Representation Synthesis Practice Set 1",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/multi-representation-synthesis-practice-set-1/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:40+00:00"
+    },
+    {
+      "title": "Multi Representation Synthesis Set 2",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/multi-representation-synthesis-set-2/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:41+00:00"
+    },
+    {
       "title": "Nelson Aalen Estimator",
       "url": "https://onlineinternetcafe.com/nelson-aalen-estimator/",
       "category": "Other Salar Cafe resources",
@@ -14141,6 +14557,12 @@
       "last_modified": "2026-09-11T18:41:17+00:00"
     },
     {
+      "title": "Osmosis Membrane Transport Investigation",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/osmosis-membrane-transport-investigation/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:28+00:00"
+    },
+    {
       "title": "Parallel Analysis",
       "url": "https://onlineinternetcafe.com/parallel-analysis/",
       "category": "Other Salar Cafe resources",
@@ -14151,6 +14573,12 @@
       "url": "https://onlineinternetcafe.com/rechner-de/parallelwiderstands-rechner/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
+    },
+    {
+      "title": "Parameters Vectors Matrices",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/parameters-vectors-matrices/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:29+00:00"
     },
     {
       "title": "Partial Least Squares Sem",
@@ -14187,6 +14615,12 @@
       "url": "https://onlineinternetcafe.com/rechner-de/pc-netzteil-rechner/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-07-22T15:25:44+00:00"
+    },
+    {
+      "title": "Periodic Phenomena",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/periodic-phenomena/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:35+00:00"
     },
     {
       "title": "Periodic Waves",
@@ -14531,6 +14965,30 @@
       "last_modified": "2026-08-04T07:06:32+00:00"
     },
     {
+      "title": "Photosynthesis Cellular Respiration Investigation",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/photosynthesis-cellular-respiration-investigation/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:27+00:00"
+    },
+    {
+      "title": "Polar Function Graphs",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/polar-function-graphs/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:43+00:00"
+    },
+    {
+      "title": "Polynomial Rational Functions",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/polynomial-rational-functions/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:28+00:00"
+    },
+    {
+      "title": "Population Genetics Hardy Weinberg Investigation",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/population-genetics-hardy-weinberg-investigation/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:29+00:00"
+    },
+    {
       "title": "Portfolio",
       "url": "https://onlineinternetcafe.com/portfolio/",
       "category": "Other Salar Cafe resources",
@@ -14567,6 +15025,30 @@
       "last_modified": "2026-08-01T12:54:28+00:00"
     },
     {
+      "title": "Practice",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/practice/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:38+00:00"
+    },
+    {
+      "title": "Practice",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/practice/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:16+00:00"
+    },
+    {
+      "title": "Practice",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:28+00:00"
+    },
+    {
+      "title": "Practice",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/practice/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:31+00:00"
+    },
+    {
       "title": "Practice Test",
       "url": "https://onlineinternetcafe.com/ap-physics-1/practice-test/",
       "category": "Other Salar Cafe resources",
@@ -14583,6 +15065,12 @@
       "url": "https://onlineinternetcafe.com/ap-physics-c/practice-test/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-09-11T18:40:43+00:00"
+    },
+    {
+      "title": "Practice Test",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:25+00:00"
     },
     {
       "title": "Prerequisites",
@@ -14699,6 +15187,12 @@
       "last_modified": "2026-08-06T03:01:37+00:00"
     },
     {
+      "title": "Rates Of Change In Polar Functions",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/rates-of-change-in-polar-functions/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:43+00:00"
+    },
+    {
       "title": "Rc Circuits",
       "url": "https://onlineinternetcafe.com/ap-physics-2/electric-circuits/rc-circuits/",
       "category": "Other Salar Cafe resources",
@@ -14721,6 +15215,30 @@
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/reference-frames-relative-motion/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-09-11T18:40:54+00:00"
+    },
+    {
+      "title": "Reference Guide",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/reference-guide/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:36+00:00"
+    },
+    {
+      "title": "Reference Guide",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/reference-guide/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:14+00:00"
+    },
+    {
+      "title": "Reference Guide",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/reference-guide/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:26+00:00"
+    },
+    {
+      "title": "Reference Guide",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/reference-guide/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:29+00:00"
     },
     {
       "title": "Reflection",
@@ -14963,6 +15481,12 @@
       "last_modified": "2026-08-04T07:06:33+00:00"
     },
     {
+      "title": "Secant Cosecant Cotangent Functions",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/secant-cosecant-cotangent-functions/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:41+00:00"
+    },
+    {
       "title": "Seitenverhaeltnis Rechner",
       "url": "https://onlineinternetcafe.com/rechner-de/seitenverhaeltnis-rechner/",
       "category": "Other Salar Cafe resources",
@@ -14985,6 +15509,12 @@
       "url": "https://onlineinternetcafe.com/sem-in-smartpls/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-02T10:00:41+00:00"
+    },
+    {
+      "title": "Semi Log Plots",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/semi-log-plots/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:30+00:00"
     },
     {
       "title": "Services",
@@ -15035,6 +15565,30 @@
       "last_modified": "2026-09-11T18:41:20+00:00"
     },
     {
+      "title": "Sine Cosine And Tangent",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sine-cosine-and-tangent/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:36+00:00"
+    },
+    {
+      "title": "Sine Cosine Function Graphs",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sine-cosine-function-graphs/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:37+00:00"
+    },
+    {
+      "title": "Sine Cosine Function Values",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sine-cosine-function-values/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:36+00:00"
+    },
+    {
+      "title": "Sinusoidal Functions",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sinusoidal-functions/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:37+00:00"
+    },
+    {
       "title": "Sos Morse Code",
       "url": "https://onlineinternetcafe.com/sos-morse-code/",
       "category": "Other Salar Cafe resources",
@@ -15051,6 +15605,12 @@
       "url": "https://onlineinternetcafe.com/ap-physics-2/thermodynamics/specific-heat-thermal-conductivity/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-09-05T07:26:27+00:00"
+    },
+    {
+      "title": "Spectrophotometry Beer Lambert Investigation",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/spectrophotometry-beer-lambert-investigation/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:43+00:00"
     },
     {
       "title": "Spring Forces",
@@ -15209,6 +15769,12 @@
       "last_modified": "2026-09-05T07:26:10+00:00"
     },
     {
+      "title": "Syllabus",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/syllabus/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:22+00:00"
+    },
+    {
       "title": "Systems Center Of Mass",
       "url": "https://onlineinternetcafe.com/ap-physics-1/force-translational-dynamics/systems-center-of-mass/",
       "category": "Other Salar Cafe resources",
@@ -15237,6 +15803,18 @@
       "url": "https://onlineinternetcafe.com/terms-of-service/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-01T13:20:22+00:00"
+    },
+    {
+      "title": "The Tangent Function",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/the-tangent-function/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:39+00:00"
+    },
+    {
+      "title": "Theorem Conditions Counterexamples Practice Set 1",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/theorem-conditions-counterexamples-practice-set-1/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:39+00:00"
     },
     {
       "title": "Thermal Energy Transfer Equilibrium",
@@ -15279,6 +15857,30 @@
       "url": "https://onlineinternetcafe.com/time-series-in-r/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-04T07:06:36+00:00"
+    },
+    {
+      "title": "Timed Frq Practice Set 1",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/practice/timed-frq-practice-set-1/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:45+00:00"
+    },
+    {
+      "title": "Timed Frq Practice Set 2",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/practice/timed-frq-practice-set-2/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:45+00:00"
+    },
+    {
+      "title": "Timed Frq Practice Set 3",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/practice/timed-frq-practice-set-3/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:46+00:00"
+    },
+    {
+      "title": "Titration Equilibrium Lab Analysis",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/titration-equilibrium-lab-analysis/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:41+00:00"
     },
     {
       "title": "Tli",
@@ -15341,10 +15943,34 @@
       "last_modified": "2026-09-11T18:41:05+00:00"
     },
     {
+      "title": "Transpiration Water Potential Investigation",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/transpiration-water-potential-investigation/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:30+00:00"
+    },
+    {
       "title": "Trend Analysis",
       "url": "https://onlineinternetcafe.com/trend-analysis/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-08-04T07:06:35+00:00"
+    },
+    {
+      "title": "Trigonometric Equations And Inequalities",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/trigonometric-equations-and-inequalities/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:40+00:00"
+    },
+    {
+      "title": "Trigonometric Polar Functions",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:29+00:00"
+    },
+    {
+      "title": "Trigonometry And Polar Coordinates",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/trigonometry-and-polar-coordinates/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:42+00:00"
     },
     {
       "title": "Trinkgeldrechner",
@@ -15359,10 +15985,40 @@
       "last_modified": "2026-08-14T13:05:44+00:00"
     },
     {
+      "title": "Unit 1 Atomic Structure Properties",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-1-atomic-structure-properties/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:34+00:00"
+    },
+    {
+      "title": "Unit 1 Chemistry Of Life",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-1-chemistry-of-life/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:20+00:00"
+    },
+    {
+      "title": "Unit 1 Limits Continuity",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-1-limits-continuity/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:31+00:00"
+    },
+    {
+      "title": "Unit 1 Using Objects Methods",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/units/unit-1-using-objects-methods/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:41+00:00"
+    },
+    {
       "title": "Unit 10 Conductors Capacitors",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-10-conductors-capacitors/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-09-11T18:40:52+00:00"
+    },
+    {
+      "title": "Unit 10 Infinite Sequences Series",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-10-infinite-sequences-series/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:36+00:00"
     },
     {
       "title": "Unit 11 Electric Circuits",
@@ -15383,10 +16039,112 @@
       "last_modified": "2026-09-11T18:40:53+00:00"
     },
     {
+      "title": "Unit 2 Cells",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-2-cells/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:20+00:00"
+    },
+    {
+      "title": "Unit 2 Compound Structure Properties",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-2-compound-structure-properties/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:35+00:00"
+    },
+    {
+      "title": "Unit 2 Differentiation Definition Properties",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-2-differentiation-definition-properties/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:32+00:00"
+    },
+    {
+      "title": "Unit 2 Mastery Check",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/unit-2-mastery-check/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:35+00:00"
+    },
+    {
+      "title": "Unit 2 Selection Iteration",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/units/unit-2-selection-iteration/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:41+00:00"
+    },
+    {
+      "title": "Unit 3 Cellular Energetics",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-3-cellular-energetics/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:21+00:00"
+    },
+    {
+      "title": "Unit 3 Class Creation",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/units/unit-3-class-creation/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:42+00:00"
+    },
+    {
+      "title": "Unit 3 Differentiation Composite Implicit Inverse",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-3-differentiation-composite-implicit-inverse/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:32+00:00"
+    },
+    {
+      "title": "Unit 3 Mastery Check",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/unit-3-mastery-check/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:44+00:00"
+    },
+    {
+      "title": "Unit 3 Properties Substances Mixtures",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-3-properties-substances-mixtures/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:36+00:00"
+    },
+    {
+      "title": "Unit 4 Cell Communication Cell Cycle",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-4-cell-communication-cell-cycle/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:21+00:00"
+    },
+    {
+      "title": "Unit 4 Chemical Reactions",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-4-chemical-reactions/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:36+00:00"
+    },
+    {
+      "title": "Unit 4 Contextual Applications Differentiation",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-4-contextual-applications-differentiation/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:33+00:00"
+    },
+    {
+      "title": "Unit 4 Data Collections",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/units/unit-4-data-collections/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:42+00:00"
+    },
+    {
       "title": "Unit 4 Linear Momentum",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/unit-4-linear-momentum/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-09-11T18:41:02+00:00"
+    },
+    {
+      "title": "Unit 5 Analytical Applications Differentiation",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-5-analytical-applications-differentiation/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:33+00:00"
+    },
+    {
+      "title": "Unit 5 Heredity",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-5-heredity/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:22+00:00"
+    },
+    {
+      "title": "Unit 5 Kinetics",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-5-kinetics/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:37+00:00"
     },
     {
       "title": "Unit 5 Torque Rotational Dynamics",
@@ -15395,10 +16153,46 @@
       "last_modified": "2026-09-11T18:41:03+00:00"
     },
     {
+      "title": "Unit 6 Gene Expression Regulation",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-6-gene-expression-regulation/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:23+00:00"
+    },
+    {
+      "title": "Unit 6 Integration Accumulation Change",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-6-integration-accumulation-change/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:34+00:00"
+    },
+    {
       "title": "Unit 6 Rotating Systems",
       "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/unit-6-rotating-systems/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-09-11T18:41:03+00:00"
+    },
+    {
+      "title": "Unit 6 Thermochemistry",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-6-thermochemistry/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:38+00:00"
+    },
+    {
+      "title": "Unit 7 Differential Equations",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-7-differential-equations/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:35+00:00"
+    },
+    {
+      "title": "Unit 7 Equilibrium",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-7-equilibrium/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:39+00:00"
+    },
+    {
+      "title": "Unit 7 Natural Selection",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-7-natural-selection/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:24+00:00"
     },
     {
       "title": "Unit 7 Oscillations",
@@ -15407,10 +16201,46 @@
       "last_modified": "2026-09-11T18:41:04+00:00"
     },
     {
+      "title": "Unit 8 Acids Bases",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-8-acids-bases/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:39+00:00"
+    },
+    {
+      "title": "Unit 8 Applications Integration",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-8-applications-integration/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:35+00:00"
+    },
+    {
+      "title": "Unit 8 Ecology",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-8-ecology/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:24+00:00"
+    },
+    {
+      "title": "Unit 9 Applications Thermodynamics",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-9-applications-thermodynamics/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:40+00:00"
+    },
+    {
       "title": "Unit 9 Electric Potential",
       "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-9-electric-potential/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-09-11T18:40:52+00:00"
+    },
+    {
+      "title": "Unit 9 Parametric Polar Vector Valued Functions",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-9-parametric-polar-vector-valued-functions/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:36+00:00"
+    },
+    {
+      "title": "Units",
+      "url": "https://onlineinternetcafe.com/ap-computer-science-a/units/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:12:36+00:00"
     },
     {
       "title": "Units",
@@ -15441,6 +16271,30 @@
       "url": "https://onlineinternetcafe.com/ap-physics-c/units/",
       "category": "Other Salar Cafe resources",
       "last_modified": "2026-09-11T18:40:40+00:00"
+    },
+    {
+      "title": "Units",
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/units/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:08:15+00:00"
+    },
+    {
+      "title": "Units",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:10:27+00:00"
+    },
+    {
+      "title": "Units",
+      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/units/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:09:29+00:00"
+    },
+    {
+      "title": "Units",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/units/",
+      "category": "Other Salar Cafe resources",
+      "last_modified": "2026-09-13T15:11:21+00:00"
     },
     {
       "title": "Unixzeit Rechner",
@@ -18119,6 +18973,12 @@
       "last_modified": "2026-08-14T13:03:19+00:00"
     },
     {
+      "title": "Competing Function Model Validation",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/competing-function-model-validation/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-09-13T15:11:31+00:00"
+    },
+    {
       "title": "Compton Scattering",
       "url": "https://onlineinternetcafe.com/ap-physics-2/modern-physics/compton-scattering/",
       "category": "Statistical foundations and probability",
@@ -18221,6 +19081,18 @@
       "last_modified": "2026-09-11T18:41:18+00:00"
     },
     {
+      "title": "Function Model Construction And Application",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/polynomial-rational-functions/function-model-construction-and-application/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-09-13T15:11:32+00:00"
+    },
+    {
+      "title": "Function Model Selection And Assumption Articulation",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/polynomial-rational-functions/function-model-selection-and-assumption-articulation/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-09-13T15:11:32+00:00"
+    },
+    {
       "title": "Garch Model",
       "url": "https://onlineinternetcafe.com/garch-model/",
       "category": "Statistical foundations and probability",
@@ -18257,6 +19129,12 @@
       "last_modified": "2026-07-26T13:14:26+00:00"
     },
     {
+      "title": "Logarithmic Function Context Data Modeling",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/logarithmic-function-context-data-modeling/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-09-13T15:11:33+00:00"
+    },
+    {
       "title": "Ma Model",
       "url": "https://onlineinternetcafe.com/ma-model/",
       "category": "Statistical foundations and probability",
@@ -18291,6 +19169,12 @@
       "url": "https://onlineinternetcafe.com/model-fit-indices/",
       "category": "Statistical foundations and probability",
       "last_modified": "2026-08-02T10:00:48+00:00"
+    },
+    {
+      "title": "Modeling Labs",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/modeling-labs/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-09-13T15:11:26+00:00"
     },
     {
       "title": "Moderated Mediation",
@@ -18399,6 +19283,12 @@
       "url": "https://onlineinternetcafe.com/ap-physics-1/oscillations/shm-frequency-period/",
       "category": "Statistical foundations and probability",
       "last_modified": "2026-08-30T19:36:13+00:00"
+    },
+    {
+      "title": "Sinusoidal Function Context Data Modeling",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sinusoidal-function-context-data-modeling/",
+      "category": "Statistical foundations and probability",
+      "last_modified": "2026-09-13T15:11:38+00:00"
     },
     {
       "title": "Skewness",
