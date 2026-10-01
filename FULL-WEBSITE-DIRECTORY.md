@@ -1,7 +1,7 @@
 # Complete Salar Cafe Website Directory
 
 **Public URLs cataloged: 3,455**  
-**Generated automatically: 2026-09-30T08:39:12+00:00**
+**Generated automatically: 2026-10-01T09:01:53+00:00**
 
 This directory is generated from the public XML sitemap families of [Salar Cafe](https://onlineinternetcafe.com/). It is designed to cover the complete indexable website rather than a small hand-selected group of pages. New public URLs are added automatically when the website sitemap is refreshed.
 
@@ -2594,21 +2594,21 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 
 ## Public archive pages
 
-- [Academic Support](https://onlineinternetcafe.com/category/academic-support/) — last modified 2026-08-24T16:15:26+00:00
+- [Academic Support](https://onlineinternetcafe.com/category/academic-support/) — last modified 2026-09-30T09:56:37+00:00
 - [AP Statistics](https://onlineinternetcafe.com/category/ap-statistics/) — last modified 2026-08-24T16:15:26+00:00
 - [AP Statistics Exam](https://onlineinternetcafe.com/category/ap-statistics-exam/) — last modified 2026-07-26T11:15:56+00:00
 - [Blog](https://onlineinternetcafe.com/category/blog/) — last modified 2026-08-30T11:29:11+00:00
-- [Clinical Trials Using R](https://onlineinternetcafe.com/category/clinical-trials-using-r/) — last modified 2026-06-17T17:37:22+00:00
-- [Data Design](https://onlineinternetcafe.com/category/data-design/) — last modified 2026-06-17T17:37:22+00:00
-- [Digital Publishing](https://onlineinternetcafe.com/category/digital-publishing/) — last modified 2026-06-17T17:37:22+00:00
+- [Clinical Trials Using R](https://onlineinternetcafe.com/category/clinical-trials-using-r/) — last modified 2026-09-30T09:56:37+00:00
+- [Data Design](https://onlineinternetcafe.com/category/data-design/) — last modified 2026-09-30T09:56:37+00:00
+- [Digital Publishing](https://onlineinternetcafe.com/category/digital-publishing/) — last modified 2026-09-30T09:56:37+00:00
 - [Exam Administration Preparation And Resources](https://onlineinternetcafe.com/category/exam-administration-preparation-and-resources/) — last modified 2026-08-24T16:15:26+00:00
 - [Legacy And Enrichment](https://onlineinternetcafe.com/category/legacy-and-enrichment/) — last modified 2026-08-14T13:09:32+00:00
 - [Legacy Enrichment](https://onlineinternetcafe.com/category/legacy-enrichment/) — last modified 2026-08-14T13:09:32+00:00
-- [Local Services](https://onlineinternetcafe.com/category/local-services/) — last modified 2026-06-17T17:37:22+00:00
+- [Local Services](https://onlineinternetcafe.com/category/local-services/) — last modified 2026-09-30T09:56:37+00:00
 - [Multivariate Analysis](https://onlineinternetcafe.com/category/multivariate-analysis/) — last modified 2026-07-26T11:19:00+00:00
 - [Post Hoc Tests](https://onlineinternetcafe.com/category/post-hoc-tests/) — last modified 2026-08-02T10:45:57+00:00
-- [R Programming](https://onlineinternetcafe.com/category/r-programming/) — last modified 2026-06-17T17:37:22+00:00
-- [Rstudio](https://onlineinternetcafe.com/category/rstudio/) — last modified 2026-06-17T17:37:22+00:00
+- [R Programming](https://onlineinternetcafe.com/category/r-programming/) — last modified 2026-09-30T09:56:37+00:00
+- [Rstudio](https://onlineinternetcafe.com/category/rstudio/) — last modified 2026-09-30T09:56:37+00:00
 - [Survey And Likert Scale Analysis](https://onlineinternetcafe.com/category/survey-and-likert-scale-analysis/) — last modified 2026-08-04T07:06:53+00:00
 - [Survival Analysis](https://onlineinternetcafe.com/category/survival-analysis/) — last modified 2026-08-04T07:06:14+00:00
 - [Time Series Tests And Forecasting](https://onlineinternetcafe.com/category/time-series-tests-and-forecasting/) — last modified 2026-08-04T07:06:39+00:00
@@ -2774,7 +2774,7 @@ This directory is generated from the public XML sitemap families of [Salar Cafe]
 - [Chromatography Separation Quantitative Evidence Investigation](https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/chromatography-separation-quantitative-evidence-investigation/) — last modified 2026-09-18T14:24:38+00:00
 - [Circular Motion](https://onlineinternetcafe.com/ap-physics-1/force-translational-dynamics/circular-motion/) — last modified 2026-08-30T19:35:58+00:00
 - [Circular Motion](https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/circular-motion/) — last modified 2026-09-11T18:41:01+00:00
-- [Clinical Trial Data Analysis Using R](https://onlineinternetcafe.com/clinical-trial-data-analysis-using-r/) — last modified 2026-06-17T17:37:22+00:00
+- [Clinical Trial Data Analysis Using R](https://onlineinternetcafe.com/clinical-trial-data-analysis-using-r/) — last modified 2026-09-30T09:56:37+00:00
 - [Cochran S C Test](https://onlineinternetcafe.com/cochran-s-c-test/) — last modified 2026-07-18T11:19:29+00:00
 - [Code Analysis Debugging Lab](https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/code-analysis-debugging-lab/) — last modified 2026-09-18T14:31:42+00:00
 - [Code Tracing Program Reasoning Set 1](https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/code-tracing-program-reasoning-set-1/) — last modified 2026-09-18T14:31:42+00:00
