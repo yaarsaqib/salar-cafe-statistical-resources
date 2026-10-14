@@ -80,7 +80,8 @@ def valid_site_url(url):
         return False
 
 
-def load_catalog(path=CATALOG_PATH):
+def load_catalog(path=None):
+    path = path if path is not None else CATALOG_PATH
     payload = json.loads(Path(path).read_text(encoding="utf-8"))
     if payload.get("website") != SITE or not isinstance(payload.get("urls"), list):
         raise ValueError("Invalid Salar Cafe catalog format")
