@@ -1,0 +1,82 @@
+name: Salar Cafe daily health report
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 3 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'airflow/**'
+      - '.github/workflows/salar-cafe-daily-monitor.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: salar-cafe-daily-health
+  cancel-in-progress: false
+
+jobs:
+  daily-report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout existing site catalog
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Test the monitor without network access
+        run: python -m unittest discover -s airflow/tests -v
+
+      - name: Configure optional read-only GA4 credentials
+        env:
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+          GA4_SERVICE_ACCOUNT_JSON_B64: ${{ secrets.GA4_SERVICE_ACCOUNT_JSON_B64 }}
+        shell: bash
+        run: |
+          if [ -n "$GA4_PROPERTY_ID" ] && [ -n "$GA4_SERVICE_ACCOUNT_JSON_B64" ]; then
+            python -m pip install --quiet google-analytics-data
+            printf '%s' "$GA4_SERVICE_ACCOUNT_JSON_B64" | base64 --decode > "$RUNNER_TEMP/ga4-service-account.json"
+            chmod 600 "$RUNNER_TEMP/ga4-service-account.json"
+            echo "GOOGLE_APPLICATION_CREDENTIALS=$RUNNER_TEMP/ga4-service-account.json" >> "$GITHUB_ENV"
+          else
+            echo "GA4 not configured; the site-audit report will still be generated."
+          fi
+
+      - name: Run the public site audit
+        env:
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+          SALAR_BATCH_SIZE: '120'
+        run: python airflow/dags/site_monitor_lib.py
+
+      - name: Upload dated report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: salar-cafe-site-health
+          path: |
+            reports/airflow/latest.json
+            reports/airflow/latest.md
+          if-no-files-found: ignore
+          retention-days: 30
+
+      - name: Commit daily report history
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add reports/airflow/
+          if git diff --cached --quiet; then
+            echo "No report changes."
+          else
+            git commit -m 'Update Salar Cafe daily site health [skip ci]'
+            git push
+          fi
+
+      - name: Remove temporary GA4 credentials
+        if: always()
+        run: rm -f "$RUNNER_TEMP/ga4-service-account.json"
