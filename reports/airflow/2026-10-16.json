@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-16",
+  "generated_utc": "2026-10-16T08:09:18.386303+00:00",
+  "website": "https://onlineinternetcafe.com",
+  "catalog_url_count": 7,
+  "catalog_generated_utc": "2026-10-16T07:29:41+00:00",
+  "catalog_warnings": [
+    "Unable to fetch https://onlineinternetcafe.com/sitemap_index.xml: <urlopen error [Errno 101] Network is unreachable>",
+    "Unable to fetch https://onlineinternetcafe.com/sitemap.xml: <urlopen error [Errno 101] Network is unreachable>",
+    "Unable to fetch https://onlineinternetcafe.com/wp-sitemap.xml: <urlopen error [Errno 101] Network is unreachable>",
+    "Unable to fetch https://onlineinternetcafe.com/calculator-sitemap.xml: <urlopen error [Errno 101] Network is unreachable>"
+  ],
+  "batch_slot": 0,
+  "batch_count": 1,
+  "checked": 7,
+  "http_200": 6,
+  "flagged": 1,
+  "issue_counts": {
+    "http_404": 1
+  },
+  "wordpress": {
+    "pages": 2525,
+    "posts": 529
+  },
+  "ga4": {
+    "status": "not_configured"
+  },
+  "previous_report_date": "2026-10-15",
+  "pages": [
+    {
+      "url": "https://onlineinternetcafe.com/",
+      "status": 200,
+      "elapsed_ms": 175,
+      "bytes_read": 90145,
+      "issues": [],
+      "title": "Statistical Analysis Online: Free Tools & Guides | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/statistical-calculators/",
+      "status": 200,
+      "elapsed_ms": 213,
+      "bytes_read": 1817982,
+      "issues": [],
+      "title": "Free Online Statistical Calculators & Analysis Studio",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/statistical-calculators/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-score-calculator/",
+      "status": 200,
+      "elapsed_ms": 235,
+      "bytes_read": 95489,
+      "issues": [],
+      "title": "AP Score Calculator 2027: 40 Subject Guides | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-score-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/differential-equation-solver/",
+      "status": 200,
+      "elapsed_ms": 310,
+      "bytes_read": 73620,
+      "issues": [],
+      "title": "Differential Equation Solver: ODE, PDE & Derivatives",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/differential-equation-solver/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/chemical-reaction-calculator/",
+      "status": 404,
+      "elapsed_ms": 757,
+      "bytes_read": 0,
+      "issues": [
+        "http_404"
+      ]
+    },
+    {
+      "url": "https://onlineinternetcafe.com/equation-plotter-calculator/",
+      "status": 200,
+      "elapsed_ms": 736,
+      "bytes_read": 71481,
+      "issues": [],
+      "title": "Equation Plotter Calculator: 2D, Polar, Parametric & 3D",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/equation-plotter-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/physics-formula-solver/",
+      "status": 200,
+      "elapsed_ms": 675,
+      "bytes_read": 69605,
+      "issues": [],
+      "title": "Physics Formula Solver: Search Equations, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/physics-formula-solver/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    }
+  ]
+}
