@@ -1,0 +1,1740 @@
+{
+  "date": "2026-10-17",
+  "generated_utc": "2026-10-17T07:49:16.425707+00:00",
+  "website": "https://onlineinternetcafe.com",
+  "catalog_url_count": 3266,
+  "catalog_generated_utc": "2026-10-17T07:00:42+00:00",
+  "catalog_warnings": [],
+  "batch_slot": 2,
+  "batch_count": 28,
+  "checked": 125,
+  "http_200": 125,
+  "flagged": 107,
+  "issue_counts": {
+    "missing_h1": 107
+  },
+  "wordpress": {
+    "pages": 2525,
+    "posts": 529
+  },
+  "ga4": {
+    "status": "not_configured"
+  },
+  "previous_report_date": "2026-10-16",
+  "pages": [
+    {
+      "url": "https://onlineinternetcafe.com/",
+      "status": 200,
+      "elapsed_ms": 93,
+      "bytes_read": 90145,
+      "issues": [],
+      "title": "Statistical Analysis Online: Free Tools & Guides | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/statistical-calculators/",
+      "status": 200,
+      "elapsed_ms": 15,
+      "bytes_read": 1817982,
+      "issues": [],
+      "title": "Free Online Statistical Calculators & Analysis Studio",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/statistical-calculators/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/web-calculators/",
+      "status": 200,
+      "elapsed_ms": 215,
+      "bytes_read": 98168,
+      "issues": [],
+      "title": "Web Calculators | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/web-calculators/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-score-calculator/",
+      "status": 200,
+      "elapsed_ms": 13,
+      "bytes_read": 95489,
+      "issues": [],
+      "title": "AP Score Calculator 2027: 40 Subject Guides | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-score-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/differential-equation-solver/",
+      "status": 200,
+      "elapsed_ms": 227,
+      "bytes_read": 73620,
+      "issues": [],
+      "title": "Differential Equation Solver: ODE, PDE & Derivatives",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/differential-equation-solver/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-2/units/",
+      "status": 200,
+      "elapsed_ms": 209,
+      "bytes_read": 89217,
+      "issues": [],
+      "title": "AP Physics 2 Units 2027: All 7 Units & 46 Topics",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-2/units/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/",
+      "status": 200,
+      "elapsed_ms": 212,
+      "bytes_read": 81197,
+      "issues": [],
+      "title": "AP Physics 2 Unit 14: Waves, Sound, and Physical Optics",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/boundary-behavior-polarization/",
+      "status": 200,
+      "elapsed_ms": 237,
+      "bytes_read": 84186,
+      "issues": [],
+      "title": "AP Physics 2 14.3: Wave Boundaries & Polarization",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/boundary-behavior-polarization/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/diffraction/",
+      "status": 200,
+      "elapsed_ms": 934,
+      "bytes_read": 82944,
+      "issues": [],
+      "title": "AP Physics 2 14.7: Diffraction",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/diffraction/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/doppler-effect/",
+      "status": 200,
+      "elapsed_ms": 922,
+      "bytes_read": 83264,
+      "issues": [],
+      "title": "AP Physics 2 14.5: The Doppler Effect",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/doppler-effect/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/double-slit-diffraction-gratings/",
+      "status": 200,
+      "elapsed_ms": 994,
+      "bytes_read": 83753,
+      "issues": [],
+      "title": "AP Physics 2 14.8: Double-Slit Interference & Gratings",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/double-slit-diffraction-gratings/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/electromagnetic-waves/",
+      "status": 200,
+      "elapsed_ms": 945,
+      "bytes_read": 83694,
+      "issues": [],
+      "title": "AP Physics 2 14.4: Electromagnetic Waves",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/electromagnetic-waves/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/periodic-waves/",
+      "status": 200,
+      "elapsed_ms": 215,
+      "bytes_read": 82661,
+      "issues": [],
+      "title": "AP Physics 2 14.2: Periodic Waves",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/periodic-waves/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/thin-film-interference/",
+      "status": 200,
+      "elapsed_ms": 884,
+      "bytes_read": 84705,
+      "issues": [],
+      "title": "AP Physics 2 14.9: Thin-Film Interference",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/thin-film-interference/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/wave-interference-standing-waves/",
+      "status": 200,
+      "elapsed_ms": 913,
+      "bytes_read": 84139,
+      "issues": [],
+      "title": "AP Physics 2 14.6: Interference & Standing Waves",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/wave-interference-standing-waves/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/wave-pulses-waves/",
+      "status": 200,
+      "elapsed_ms": 858,
+      "bytes_read": 84435,
+      "issues": [],
+      "title": "AP Physics 2 14.1: Properties of Wave Pulses and Waves",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/wave-pulses-waves/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c-electricity-magnetism-score-calculator/",
+      "status": 200,
+      "elapsed_ms": 220,
+      "bytes_read": 88261,
+      "issues": [],
+      "title": "AP Physics C: Electricity and Magnetism Score Calculator 2027 | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c-electricity-magnetism-score-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c-mechanics-score-calculator/",
+      "status": 200,
+      "elapsed_ms": 223,
+      "bytes_read": 87822,
+      "issues": [],
+      "title": "AP Physics C: Mechanics Score Calculator 2027 | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c-mechanics-score-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/",
+      "status": 200,
+      "elapsed_ms": 1862,
+      "bytes_read": 106016,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C 2027: Mechanics & E&M Guide",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/",
+      "status": 200,
+      "elapsed_ms": 1768,
+      "bytes_read": 94152,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C: Electricity & Magnetism 2027 Study Guide",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/conductors-capacitors/",
+      "status": 200,
+      "elapsed_ms": 2197,
+      "bytes_read": 84389,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 10.1: Electrostatics with Conductors",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/conductors-capacitors/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/conductors-capacitors/capacitors/",
+      "status": 200,
+      "elapsed_ms": 1716,
+      "bytes_read": 99490,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 10.3: Capacitors",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/conductors-capacitors/capacitors/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/conductors-capacitors/dielectrics/",
+      "status": 200,
+      "elapsed_ms": 1628,
+      "bytes_read": 101149,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 10.4: Dielectrics",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/conductors-capacitors/dielectrics/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/conductors-capacitors/redistribution-charge-between-conductors/",
+      "status": 200,
+      "elapsed_ms": 1600,
+      "bytes_read": 99276,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 10.2: Charge Redistribution",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/conductors-capacitors/redistribution-charge-between-conductors/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/",
+      "status": 200,
+      "elapsed_ms": 195,
+      "bytes_read": 102480,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M Unit 8: Charges, Fields & Gauss’s Law 2027",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/conservation-charge-charging/",
+      "status": 200,
+      "elapsed_ms": 1718,
+      "bytes_read": 93509,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 8.2: Conservation of Charge & Charging",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/conservation-charge-charging/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/electric-charge-force/",
+      "status": 200,
+      "elapsed_ms": 1661,
+      "bytes_read": 94400,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 8.1: Electric Charge and Electric Force",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/electric-charge-force/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/electric-fields-charge-distributions/",
+      "status": 200,
+      "elapsed_ms": 212,
+      "bytes_read": 94133,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 8.4: Electric Fields of Charge Distributions",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/electric-fields-charge-distributions/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/electric-fields/",
+      "status": 200,
+      "elapsed_ms": 212,
+      "bytes_read": 94606,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 8.3: Electric Fields",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/electric-fields/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/electric-flux/",
+      "status": 200,
+      "elapsed_ms": 1702,
+      "bytes_read": 92224,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 8.5: Electric Flux",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/electric-flux/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/gauss-law/",
+      "status": 200,
+      "elapsed_ms": 208,
+      "bytes_read": 93991,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 8.6: Gauss's Law",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/gauss-law/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/",
+      "status": 200,
+      "elapsed_ms": 213,
+      "bytes_read": 84673,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 11.2: Simple Circuits",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/compound-direct-current-circuits/",
+      "status": 200,
+      "elapsed_ms": 1633,
+      "bytes_read": 105098,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 11.5: Compound Direct Current Circuits",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/compound-direct-current-circuits/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/electric-current/",
+      "status": 200,
+      "elapsed_ms": 1658,
+      "bytes_read": 99827,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 11.1: Electric Current",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/electric-current/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/electric-power/",
+      "status": 200,
+      "elapsed_ms": 1610,
+      "bytes_read": 99813,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 11.4: Electric Power",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/electric-power/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/kirchhoffs-junction-rule/",
+      "status": 200,
+      "elapsed_ms": 1503,
+      "bytes_read": 102484,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 11.7: Kirchhoff’s Junction Rule",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/kirchhoffs-junction-rule/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/kirchhoffs-loop-rule/",
+      "status": 200,
+      "elapsed_ms": 1767,
+      "bytes_read": 104672,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 11.6: Kirchhoff’s Loop Rule",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/kirchhoffs-loop-rule/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/resistance-resistivity-ohms-law/",
+      "status": 200,
+      "elapsed_ms": 1793,
+      "bytes_read": 102837,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 11.3: Resistance, Resistivity, and Ohm’s Law",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/resistance-resistivity-ohms-law/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/resistor-capacitor-circuits/",
+      "status": 200,
+      "elapsed_ms": 1673,
+      "bytes_read": 108671,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 11.8: Resistor-Capacitor (RC) Circuits",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/resistor-capacitor-circuits/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-potential/",
+      "status": 200,
+      "elapsed_ms": 220,
+      "bytes_read": 84249,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 9.2: Electric Potential",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-potential/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-potential/conservation-electric-energy/",
+      "status": 200,
+      "elapsed_ms": 1862,
+      "bytes_read": 99699,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 9.3: Conservation of Electric Energy",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-potential/conservation-electric-energy/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-potential/electric-potential-energy/",
+      "status": 200,
+      "elapsed_ms": 1672,
+      "bytes_read": 98914,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 9.1: Electric Potential Energy",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-potential/electric-potential-energy/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/",
+      "status": 200,
+      "elapsed_ms": 1613,
+      "bytes_read": 89482,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 13.1: Magnetic Flux",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/faradays-law-electromagnetic-induction/",
+      "status": 200,
+      "elapsed_ms": 1619,
+      "bytes_read": 108715,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 13.2: Electromagnetic Induction",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/faradays-law-electromagnetic-induction/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/induced-currents-magnetic-forces/",
+      "status": 200,
+      "elapsed_ms": 1815,
+      "bytes_read": 110275,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 13.3: Induced Currents and Magnetic Forces",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/induced-currents-magnetic-forces/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/inductance/",
+      "status": 200,
+      "elapsed_ms": 2396,
+      "bytes_read": 104554,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 13.4: Inductance",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/inductance/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/lc-circuits/",
+      "status": 200,
+      "elapsed_ms": 2107,
+      "bytes_read": 108693,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 13.6: LC Circuits",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/lc-circuits/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/lr-circuits/",
+      "status": 200,
+      "elapsed_ms": 1770,
+      "bytes_read": 104972,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 13.5: LR Circuits",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/lr-circuits/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/exam-date/",
+      "status": 200,
+      "elapsed_ms": 1657,
+      "bytes_read": 81320,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M Exam Date 2027: May 5",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/exam-date/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/exam-format/",
+      "status": 200,
+      "elapsed_ms": 2045,
+      "bytes_read": 85955,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M Exam Format 2027",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/exam-format/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/formula-sheet/",
+      "status": 200,
+      "elapsed_ms": 1581,
+      "bytes_read": 150625,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M Formula Sheet 2027",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/formula-sheet/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/frq-practice/",
+      "status": 200,
+      "elapsed_ms": 1581,
+      "bytes_read": 72362,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M FRQ Practice 2027 | 124 Questions",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/frq-practice/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/magnetic-fields-electromagnetism/",
+      "status": 200,
+      "elapsed_ms": 1588,
+      "bytes_read": 89985,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 12.1: Magnetic Fields",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/magnetic-fields-electromagnetism/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/magnetic-fields-electromagnetism/amperes-law/",
+      "status": 200,
+      "elapsed_ms": 1561,
+      "bytes_read": 110501,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 12.4: Ampère’s Law",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/magnetic-fields-electromagnetism/amperes-law/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/magnetic-fields-electromagnetism/magnetic-fields-current-carrying-wires-biot-savart-law/",
+      "status": 200,
+      "elapsed_ms": 211,
+      "bytes_read": 108878,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 12.3: Current-Generated Magnetic Fields",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/magnetic-fields-electromagnetism/magnetic-fields-current-carrying-wires-biot-savart-law/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/magnetic-fields-electromagnetism/magnetism-moving-charges/",
+      "status": 200,
+      "elapsed_ms": 1533,
+      "bytes_read": 109145,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M 12.2: Magnetism and Moving Charges",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/magnetic-fields-electromagnetism/magnetism-moving-charges/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/mcq-practice/",
+      "status": 200,
+      "elapsed_ms": 1518,
+      "bytes_read": 72017,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M MCQ Practice 2027 | 1,302 Questions",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/mcq-practice/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/model-exams/",
+      "status": 200,
+      "elapsed_ms": 1450,
+      "bytes_read": 70154,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M Model Exams 2027 | 5 Full Tests",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/model-exams/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-10-conductors-capacitors/",
+      "status": 200,
+      "elapsed_ms": 1458,
+      "bytes_read": 85762,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M Unit 10: Conductors & Capacitors 2027",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-10-conductors-capacitors/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-11-electric-circuits/",
+      "status": 200,
+      "elapsed_ms": 1487,
+      "bytes_read": 89355,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M Unit 11: Electric Circuits 2027",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-11-electric-circuits/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-12-magnetic-fields-electromagnetism/",
+      "status": 200,
+      "elapsed_ms": 1537,
+      "bytes_read": 85616,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M Unit 12: Magnetic Fields & Electromagnetism 2027",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-12-magnetic-fields-electromagnetism/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-13-electromagnetic-induction/",
+      "status": 200,
+      "elapsed_ms": 1698,
+      "bytes_read": 87899,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M Unit 13: Electromagnetic Induction 2027",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-13-electromagnetic-induction/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-9-electric-potential/",
+      "status": 200,
+      "elapsed_ms": 1629,
+      "bytes_read": 84471,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M Unit 9: Electric Potential 2027",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-9-electric-potential/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/units/",
+      "status": 200,
+      "elapsed_ms": 1642,
+      "bytes_read": 92234,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C E&M Units 2027: All 6 Units",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/units/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/exam-date/",
+      "status": 200,
+      "elapsed_ms": 216,
+      "bytes_read": 81656,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Exam Dates 2027: Mechanics & E&M",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/exam-date/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/exam-format/",
+      "status": 200,
+      "elapsed_ms": 1642,
+      "bytes_read": 84066,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Exam Format 2027: Both Exams",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/exam-format/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/formula-sheet/",
+      "status": 200,
+      "elapsed_ms": 1688,
+      "bytes_read": 220648,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Formula & Equation Sheet 2027",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/formula-sheet/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/frq-self-grader/",
+      "status": 200,
+      "elapsed_ms": 1768,
+      "bytes_read": 71077,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C FRQ Self-Grader 2027 | Rubric Practice",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/frq-self-grader/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/frq/",
+      "status": 200,
+      "elapsed_ms": 1649,
+      "bytes_read": 93127,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C FRQ Guide 2027: All 4 Question Types",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/frq/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/is-it-hard/",
+      "status": 200,
+      "elapsed_ms": 230,
+      "bytes_read": 85162,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "Is AP Physics C Hard? Mechanics vs E&M 2027",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/is-it-hard/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/labs/",
+      "status": 200,
+      "elapsed_ms": 1766,
+      "bytes_read": 247237,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Labs & Investigations 2027: Mechanics + E&M",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/labs/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/",
+      "status": 200,
+      "elapsed_ms": 1855,
+      "bytes_read": 90400,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C: Mechanics 2027 Study Guide",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/",
+      "status": 200,
+      "elapsed_ms": 1805,
+      "bytes_read": 83454,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 6.1: Rotational Kinetic Energy",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/angular-momentum-angular-impulse/",
+      "status": 200,
+      "elapsed_ms": 1782,
+      "bytes_read": 100288,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 6.3: Angular Momentum and Angular Impulse",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/angular-momentum-angular-impulse/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/conservation-angular-momentum/",
+      "status": 200,
+      "elapsed_ms": 214,
+      "bytes_read": 99536,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 6.4: Conservation of Angular Momentum",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/conservation-angular-momentum/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/motion-orbiting-satellites/",
+      "status": 200,
+      "elapsed_ms": 1690,
+      "bytes_read": 100838,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 6.6: Motion of Orbiting Satellites",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/motion-orbiting-satellites/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/rolling/",
+      "status": 200,
+      "elapsed_ms": 1708,
+      "bytes_read": 100675,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 6.5: Rolling",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/rolling/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/torque-work/",
+      "status": 200,
+      "elapsed_ms": 211,
+      "bytes_read": 99073,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 6.2: Torque and Work",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/torque-work/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/exam-date/",
+      "status": 200,
+      "elapsed_ms": 1476,
+      "bytes_read": 81015,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics Exam Date 2027: May 3",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/exam-date/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/exam-format/",
+      "status": 200,
+      "elapsed_ms": 1997,
+      "bytes_read": 84743,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics Exam Format 2027",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/exam-format/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/",
+      "status": 200,
+      "elapsed_ms": 270,
+      "bytes_read": 101419,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics Unit 2: Force & Dynamics 2027",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/circular-motion/",
+      "status": 200,
+      "elapsed_ms": 2031,
+      "bytes_read": 95362,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 2.10: Circular Motion",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/circular-motion/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/forces-free-body-diagrams/",
+      "status": 200,
+      "elapsed_ms": 209,
+      "bytes_read": 92808,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 2.2: Forces and Free-Body Diagrams",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/forces-free-body-diagrams/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/gravitational-force/",
+      "status": 200,
+      "elapsed_ms": 198,
+      "bytes_read": 94517,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 2.6: Gravitational Force",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/gravitational-force/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/kinetic-static-friction/",
+      "status": 200,
+      "elapsed_ms": 1652,
+      "bytes_read": 92970,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 2.7: Kinetic and Static Friction",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/kinetic-static-friction/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/newtons-first-law/",
+      "status": 200,
+      "elapsed_ms": 1823,
+      "bytes_read": 87908,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 2.4: Newton's First Law",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/newtons-first-law/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/newtons-second-law/",
+      "status": 200,
+      "elapsed_ms": 1688,
+      "bytes_read": 93008,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 2.5: Newton's Second Law",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/newtons-second-law/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/newtons-third-law/",
+      "status": 200,
+      "elapsed_ms": 267,
+      "bytes_read": 92214,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 2.3: Newton's Third Law",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/newtons-third-law/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/resistive-forces/",
+      "status": 200,
+      "elapsed_ms": 4997,
+      "bytes_read": 93143,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 2.9: Resistive Forces",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/resistive-forces/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/spring-forces/",
+      "status": 200,
+      "elapsed_ms": 1521,
+      "bytes_read": 91883,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 2.8: Spring Forces",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/spring-forces/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/systems-center-of-mass/",
+      "status": 200,
+      "elapsed_ms": 1756,
+      "bytes_read": 93705,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 2.1: Systems and Center of Mass",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/systems-center-of-mass/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/formula-sheet/",
+      "status": 200,
+      "elapsed_ms": 1911,
+      "bytes_read": 153061,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics Formula Sheet 2027",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/formula-sheet/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/frq-practice/",
+      "status": 200,
+      "elapsed_ms": 2096,
+      "bytes_read": 72082,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics FRQ Practice 2027 | 164 Questions",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/frq-practice/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/",
+      "status": 200,
+      "elapsed_ms": 239,
+      "bytes_read": 97568,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics Unit 1: Kinematics 2027",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/displacement-velocity-acceleration/",
+      "status": 200,
+      "elapsed_ms": 1751,
+      "bytes_read": 97012,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 1.2: Displacement, Velocity & Acceleration",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/displacement-velocity-acceleration/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/motion-two-three-dimensions/",
+      "status": 200,
+      "elapsed_ms": 1687,
+      "bytes_read": 88678,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 1.5: Motion in Two or Three Dimensions",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/motion-two-three-dimensions/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/reference-frames-relative-motion/",
+      "status": 200,
+      "elapsed_ms": 232,
+      "bytes_read": 88870,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 1.4: Reference Frames and Relative Motion",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/reference-frames-relative-motion/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/representing-motion/",
+      "status": 200,
+      "elapsed_ms": 1781,
+      "bytes_read": 92003,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 1.3: Representing Motion",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/representing-motion/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/scalars-vectors/",
+      "status": 200,
+      "elapsed_ms": 1837,
+      "bytes_read": 97798,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 1.1: Scalars and Vectors",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/scalars-vectors/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/linear-momentum/",
+      "status": 200,
+      "elapsed_ms": 1691,
+      "bytes_read": 82034,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 4.1: Linear Momentum",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/linear-momentum/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/linear-momentum/change-momentum-impulse/",
+      "status": 200,
+      "elapsed_ms": 214,
+      "bytes_read": 96760,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 4.2: Change in Momentum and Impulse",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/linear-momentum/change-momentum-impulse/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/linear-momentum/conservation-linear-momentum/",
+      "status": 200,
+      "elapsed_ms": 1606,
+      "bytes_read": 98909,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 4.3: Conservation of Linear Momentum",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/linear-momentum/conservation-linear-momentum/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/linear-momentum/elastic-inelastic-collisions/",
+      "status": 200,
+      "elapsed_ms": 213,
+      "bytes_read": 98559,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 4.4: Elastic and Inelastic Collisions",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/linear-momentum/elastic-inelastic-collisions/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/mcq-practice/",
+      "status": 200,
+      "elapsed_ms": 1620,
+      "bytes_read": 71728,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics MCQ Practice 2027 | 1,722 Questions",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/mcq-practice/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/model-exams/",
+      "status": 200,
+      "elapsed_ms": 1551,
+      "bytes_read": 71332,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics Model Exams 2027 | 5 Full Tests",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/model-exams/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/",
+      "status": 200,
+      "elapsed_ms": 1642,
+      "bytes_read": 82178,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 7.1: Defining Simple Harmonic Motion",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/energy-simple-harmonic-oscillators/",
+      "status": 200,
+      "elapsed_ms": 212,
+      "bytes_read": 99026,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 7.4: Energy of Simple Harmonic Oscillators",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/energy-simple-harmonic-oscillators/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/frequency-period-shm/",
+      "status": 200,
+      "elapsed_ms": 1661,
+      "bytes_read": 98539,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 7.2: Frequency and Period of SHM",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/frequency-period-shm/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/representing-analyzing-shm/",
+      "status": 200,
+      "elapsed_ms": 227,
+      "bytes_read": 99757,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 7.3: Representing and Analyzing SHM",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/representing-analyzing-shm/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/simple-physical-pendulums/",
+      "status": 200,
+      "elapsed_ms": 1741,
+      "bytes_read": 100717,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 7.5: Simple and Physical Pendulums",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/simple-physical-pendulums/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/",
+      "status": 200,
+      "elapsed_ms": 278,
+      "bytes_read": 81995,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 5.1: Rotational Kinematics",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/connecting-linear-rotational-motion/",
+      "status": 200,
+      "elapsed_ms": 221,
+      "bytes_read": 97345,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 5.2: Linear & Rotational Motion",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/connecting-linear-rotational-motion/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/newtons-second-law-rotational-form/",
+      "status": 200,
+      "elapsed_ms": 1872,
+      "bytes_read": 100004,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 5.6: Rotational Newton’s Second Law",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/newtons-second-law-rotational-form/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/rotational-equilibrium-newtons-first-law/",
+      "status": 200,
+      "elapsed_ms": 1966,
+      "bytes_read": 98618,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 5.5: Rotational Equilibrium",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/rotational-equilibrium-newtons-first-law/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/rotational-inertia/",
+      "status": 200,
+      "elapsed_ms": 1723,
+      "bytes_read": 97856,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 5.4: Rotational Inertia",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/rotational-inertia/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/torque/",
+      "status": 200,
+      "elapsed_ms": 1739,
+      "bytes_read": 97568,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 5.3: Torque",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/torque/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/unit-4-linear-momentum/",
+      "status": 200,
+      "elapsed_ms": 201,
+      "bytes_read": 84291,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics Unit 4: Linear Momentum 2027",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/unit-4-linear-momentum/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/unit-5-torque-rotational-dynamics/",
+      "status": 200,
+      "elapsed_ms": 1871,
+      "bytes_read": 86686,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics Unit 5: Torque & Rotational Dynamics 2027",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/unit-5-torque-rotational-dynamics/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/unit-6-rotating-systems/",
+      "status": 200,
+      "elapsed_ms": 1971,
+      "bytes_read": 86166,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics Unit 6: Rotating Systems 2027",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/unit-6-rotating-systems/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/unit-7-oscillations/",
+      "status": 200,
+      "elapsed_ms": 3436,
+      "bytes_read": 84117,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics Unit 7: Oscillations 2027",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/unit-7-oscillations/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/units/",
+      "status": 200,
+      "elapsed_ms": 2870,
+      "bytes_read": 92769,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics Units 2027: All 7 Units",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/units/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/",
+      "status": 200,
+      "elapsed_ms": 2665,
+      "bytes_read": 98944,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics Unit 3: Work, Energy & Power 2027",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/conservation-energy/",
+      "status": 200,
+      "elapsed_ms": 2271,
+      "bytes_read": 101639,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 3.4: Conservation of Energy",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/conservation-energy/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/potential-energy/",
+      "status": 200,
+      "elapsed_ms": 1811,
+      "bytes_read": 100827,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 3.3: Potential Energy",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/potential-energy/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/power/",
+      "status": 200,
+      "elapsed_ms": 207,
+      "bytes_read": 97542,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Mechanics 3.5: Power",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/power/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    }
+  ]
+}
