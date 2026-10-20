@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-19",
-  "generated_utc": "2026-10-19T08:54:19.443209+00:00",
+  "date": "2026-10-20",
+  "generated_utc": "2026-10-20T08:34:49.915116+00:00",
   "website": "https://onlineinternetcafe.com",
   "catalog_url_count": 3266,
-  "catalog_generated_utc": "2026-10-19T07:52:22+00:00",
+  "catalog_generated_utc": "2026-10-20T07:39:52+00:00",
   "catalog_warnings": [],
-  "batch_slot": 4,
+  "batch_slot": 5,
   "batch_count": 28,
   "checked": 125,
   "http_200": 125,
-  "flagged": 3,
+  "flagged": 68,
   "issue_counts": {
-    "multiple_h1": 3
+    "missing_h1": 68
   },
   "wordpress": {
     "pages": 2525,
@@ -20,12 +20,12 @@
   "ga4": {
     "status": "not_configured"
   },
-  "previous_report_date": "2026-10-18",
+  "previous_report_date": "2026-10-19",
   "pages": [
     {
       "url": "https://onlineinternetcafe.com/",
       "status": 200,
-      "elapsed_ms": 142,
+      "elapsed_ms": 419,
       "bytes_read": 90145,
       "issues": [],
       "title": "Statistical Analysis Online: Free Tools & Guides | Salar Cafe",
@@ -37,7 +37,7 @@
     {
       "url": "https://onlineinternetcafe.com/statistical-calculators/",
       "status": 200,
-      "elapsed_ms": 509,
+      "elapsed_ms": 369,
       "bytes_read": 1817982,
       "issues": [],
       "title": "Free Online Statistical Calculators & Analysis Studio",
@@ -49,7 +49,7 @@
     {
       "url": "https://onlineinternetcafe.com/web-calculators/",
       "status": 200,
-      "elapsed_ms": 323,
+      "elapsed_ms": 318,
       "bytes_read": 98168,
       "issues": [],
       "title": "Web Calculators | Salar Cafe",
@@ -61,7 +61,7 @@
     {
       "url": "https://onlineinternetcafe.com/ap-score-calculator/",
       "status": 200,
-      "elapsed_ms": 320,
+      "elapsed_ms": 906,
       "bytes_read": 95489,
       "issues": [],
       "title": "AP Score Calculator 2027: 40 Subject Guides | Salar Cafe",
@@ -73,7 +73,7 @@
     {
       "url": "https://onlineinternetcafe.com/differential-equation-solver/",
       "status": 200,
-      "elapsed_ms": 322,
+      "elapsed_ms": 327,
       "bytes_read": 73620,
       "issues": [],
       "title": "Differential Equation Solver: ODE, PDE & Derivatives",
@@ -83,1450 +83,1580 @@
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/differential-equations-slope-fields-euler-synthesis-set-10/",
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-methods-control-collections-set-13/",
       "status": 200,
-      "elapsed_ms": 2163,
-      "bytes_read": 117736,
+      "elapsed_ms": 1756,
+      "bytes_read": 138283,
       "issues": [],
-      "title": "AP Calculus AB + BC Differential Equations, Slope Fields & Euler Synthesis Set 10 - Salar Cafe",
+      "title": "AP Computer Science A Coding Playground Practice Set 13: Methods, Control & Collections Integration - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/differential-equations-slope-fields-euler-synthesis-set-10/",
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-methods-control-collections-set-13/",
       "description_present": true,
       "robots": "index,follow,max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/differential-equations-slope-fields-synthesis-set-2/",
-      "status": 200,
-      "elapsed_ms": 3168,
-      "bytes_read": 118212,
-      "issues": [],
-      "title": "AP Calculus AB + BC Differential Equations & Slope Fields Synthesis Set 2 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/differential-equations-slope-fields-synthesis-set-2/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/fundamental-theorem-accumulation-synthesis-set-4/",
-      "status": 200,
-      "elapsed_ms": 2135,
-      "bytes_read": 118543,
-      "issues": [],
-      "title": "AP Calculus AB + BC Fundamental Theorem & Accumulation Synthesis Set 4 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/fundamental-theorem-accumulation-synthesis-set-4/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/implicit-inverse-composite-differentiation-synthesis-set-15/",
-      "status": 200,
-      "elapsed_ms": 2200,
-      "bytes_read": 115300,
-      "issues": [],
-      "title": "AP Calculus AB + BC Implicit, Inverse & Composite Differentiation Synthesis Set 15 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/implicit-inverse-composite-differentiation-synthesis-set-15/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/integral-applications-representation-synthesis-set-8/",
-      "status": 200,
-      "elapsed_ms": 2156,
-      "bytes_read": 116050,
-      "issues": [],
-      "title": "AP Calculus AB + BC Integral Applications & Representation Synthesis Set 8 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/integral-applications-representation-synthesis-set-8/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/integration-applications-quantitative-interpretation-synthesis-set-11/",
-      "status": 200,
-      "elapsed_ms": 1907,
-      "bytes_read": 117652,
-      "issues": [],
-      "title": "AP Calculus AB + BC Integration Applications & Quantitative Interpretation Synthesis Set 11 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/integration-applications-quantitative-interpretation-synthesis-set-11/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/justification-error-analysis-practice-1/",
-      "status": 200,
-      "elapsed_ms": 2046,
-      "bytes_read": 118311,
-      "issues": [],
-      "title": "AP Calculus AB + BC Justification & Error Analysis Practice Set 1 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/justification-error-analysis-practice-1/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/limits-continuity-differentiability-synthesis-set-13/",
-      "status": 200,
-      "elapsed_ms": 1921,
-      "bytes_read": 116236,
-      "issues": [],
-      "title": "AP Calculus AB + BC Limits, Continuity & Differentiability Synthesis Set 13 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/limits-continuity-differentiability-synthesis-set-13/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/local-linearity-derivative-applications-error-synthesis-set-14/",
-      "status": 200,
-      "elapsed_ms": 1953,
-      "bytes_read": 117021,
-      "issues": [],
-      "title": "AP Calculus AB + BC Local Linearity, Derivative Applications & Error Synthesis Set 14 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/local-linearity-derivative-applications-error-synthesis-set-14/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/mixed-representation-practice-set-1/",
-      "status": 200,
-      "elapsed_ms": 1876,
-      "bytes_read": 113449,
-      "issues": [],
-      "title": "AP Calculus AB + BC Mixed-Representation Practice Set 1 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/mixed-representation-practice-set-1/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/mixed-representation-practice-set-2/",
-      "status": 200,
-      "elapsed_ms": 1789,
-      "bytes_read": 114357,
-      "issues": [],
-      "title": "AP Calculus AB + BC Mixed-Representation Practice Set 2 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/mixed-representation-practice-set-2/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/motion-rates-accumulation-synthesis-set-5/",
-      "status": 200,
-      "elapsed_ms": 1798,
-      "bytes_read": 118371,
-      "issues": [],
-      "title": "AP Calculus AB + BC Motion, Rates & Accumulation Synthesis Set 5 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/motion-rates-accumulation-synthesis-set-5/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/multi-representation-synthesis-practice-set-1/",
-      "status": 200,
-      "elapsed_ms": 1648,
-      "bytes_read": 117972,
-      "issues": [],
-      "title": "AP Calculus AB + BC Multi-Representation Synthesis Practice Set 1 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/multi-representation-synthesis-practice-set-1/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/multi-representation-synthesis-set-2/",
-      "status": 200,
-      "elapsed_ms": 1706,
-      "bytes_read": 67486,
-      "issues": [],
-      "title": "AP Calculus AB + BC Multi-Representation Synthesis Set 2 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/multi-representation-synthesis-set-2/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/mvt-extrema-derivative-sign-analysis-synthesis-set-17/",
-      "status": 200,
-      "elapsed_ms": 2133,
-      "bytes_read": 116669,
-      "issues": [],
-      "title": "AP Calculus AB + BC MVT, Extrema & Derivative Sign Analysis Synthesis Set 17 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/mvt-extrema-derivative-sign-analysis-synthesis-set-17/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/related-rates-optimization-justification-synthesis-set-12/",
-      "status": 200,
-      "elapsed_ms": 1752,
-      "bytes_read": 116300,
-      "issues": [],
-      "title": "AP Calculus AB + BC Related Rates, Optimization & Justification Synthesis Set 12 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/related-rates-optimization-justification-synthesis-set-12/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/related-rates-optimization-synthesis-set-1/",
-      "status": 200,
-      "elapsed_ms": 1847,
-      "bytes_read": 118018,
-      "issues": [],
-      "title": "AP Calculus AB + BC Related Rates & Optimization Synthesis Set 1 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/related-rates-optimization-synthesis-set-1/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/shared-function-analysis-justification-synthesis-set-3/",
-      "status": 200,
-      "elapsed_ms": 1844,
-      "bytes_read": 119078,
-      "issues": [],
-      "title": "AP Calculus AB + BC Function Analysis & Justification Synthesis Set 3 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/shared-function-analysis-justification-synthesis-set-3/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/shared-multi-representation-synthesis-set-2/",
-      "status": 200,
-      "elapsed_ms": 1650,
-      "bytes_read": 116474,
-      "issues": [],
-      "title": "AP Calculus AB + BC Shared Multi-Representation Synthesis Set 2 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/shared-multi-representation-synthesis-set-2/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/shared-theorem-approximation-synthesis-set-1/",
-      "status": 200,
-      "elapsed_ms": 1663,
-      "bytes_read": 117880,
-      "issues": [],
-      "title": "AP Calculus AB + BC Shared Theorem & Approximation Synthesis Set 1 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/shared-theorem-approximation-synthesis-set-1/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/table-model-justification-synthesis-set-6/",
-      "status": 200,
-      "elapsed_ms": 1605,
-      "bytes_read": 119328,
-      "issues": [],
-      "title": "AP Calculus AB + BC Table, Model & Justification Synthesis Set 6 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/table-model-justification-synthesis-set-6/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/theorem-conditions-counterexamples-practice-set-1/",
-      "status": 200,
-      "elapsed_ms": 1663,
-      "bytes_read": 118272,
-      "issues": [
-        "multiple_h1"
-      ],
-      "title": "AP Calculus AB + BC Theorem Conditions & Counterexamples Practice Set 1 - Salar Cafe",
-      "h1_count": 2,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/theorem-conditions-counterexamples-practice-set-1/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/reference-guide/",
-      "status": 200,
-      "elapsed_ms": 1616,
-      "bytes_read": 68546,
-      "issues": [],
-      "title": "AP Calculus AB + BC Reference Guide 2027 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/reference-guide/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/",
-      "status": 200,
-      "elapsed_ms": 1737,
-      "bytes_read": 68699,
-      "issues": [],
-      "title": "AP Calculus AB + BC Units 2027: Complete Course Map - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/units/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-1-limits-continuity/",
-      "status": 200,
-      "elapsed_ms": 1640,
-      "bytes_read": 68990,
-      "issues": [],
-      "title": "AP Calculus Unit 1: Limits and Continuity — Complete Lesson & Practice - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-1-limits-continuity/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-10-infinite-sequences-series/",
-      "status": 200,
-      "elapsed_ms": 1834,
-      "bytes_read": 68916,
-      "issues": [],
-      "title": "AP Calculus BC Unit 10: Infinite Sequences and Series — Complete Lesson & Practice - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-10-infinite-sequences-series/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-2-differentiation-definition-properties/",
-      "status": 200,
-      "elapsed_ms": 1723,
-      "bytes_read": 69614,
-      "issues": [],
-      "title": "AP Calculus Unit 2: Differentiation — Definition and Fundamental Properties - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-2-differentiation-definition-properties/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-3-differentiation-composite-implicit-inverse/",
-      "status": 200,
-      "elapsed_ms": 1722,
-      "bytes_read": 69983,
-      "issues": [],
-      "title": "AP Calculus Unit 3: Differentiation — Composite, Implicit, and Inverse Functions - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-3-differentiation-composite-implicit-inverse/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-4-contextual-applications-differentiation/",
-      "status": 200,
-      "elapsed_ms": 1847,
-      "bytes_read": 117511,
-      "issues": [],
-      "title": "AP Calculus Unit 4: Contextual Applications of Differentiation — Complete Lesson & Practice - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-4-contextual-applications-differentiation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-5-analytical-applications-differentiation/",
-      "status": 200,
-      "elapsed_ms": 2287,
-      "bytes_read": 117414,
-      "issues": [],
-      "title": "AP Calculus Unit 5: Analytical Applications of Differentiation — Complete Lesson & Practice - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-5-analytical-applications-differentiation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-6-integration-accumulation-change/",
-      "status": 200,
-      "elapsed_ms": 2105,
-      "bytes_read": 115849,
-      "issues": [],
-      "title": "AP Calculus Unit 6: Integration and Accumulation of Change — Complete Lesson & Practice - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-6-integration-accumulation-change/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-7-differential-equations/",
-      "status": 200,
-      "elapsed_ms": 2188,
-      "bytes_read": 115176,
-      "issues": [],
-      "title": "AP Calculus AB + BC Unit 7: Differential Equations — Complete Lesson & Practice - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-7-differential-equations/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-8-applications-integration/",
-      "status": 200,
-      "elapsed_ms": 1848,
-      "bytes_read": 115470,
-      "issues": [],
-      "title": "AP Calculus AB + BC Unit 8: Applications of Integration — Complete Lesson & Practice - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-8-applications-integration/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-9-parametric-polar-vector-valued-functions/",
-      "status": 200,
-      "elapsed_ms": 2071,
-      "bytes_read": 70230,
-      "issues": [],
-      "title": "AP Calculus BC Unit 9: Parametric Equations, Polar Coordinates, and Vector-Valued Functions — Complete Lesson & Practice - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/units/unit-9-parametric-polar-vector-valued-functions/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/",
-      "status": 200,
-      "elapsed_ms": 3957,
-      "bytes_read": 71010,
-      "issues": [],
-      "title": "AP Chemistry 2027: Complete Study Guide & Practice - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/calculator-rules/",
-      "status": 200,
-      "elapsed_ms": 3886,
-      "bytes_read": 66359,
-      "issues": [
-        "multiple_h1"
-      ],
-      "title": "AP Chemistry Calculator & Technology Rules 2027 - Salar Cafe",
-      "h1_count": 2,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/calculator-rules/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/exam-date/",
-      "status": 200,
-      "elapsed_ms": 2133,
-      "bytes_read": 65257,
-      "issues": [],
-      "title": "AP Chemistry Exam Date 2027 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/exam-date/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/exam-format/",
-      "status": 200,
-      "elapsed_ms": 1870,
-      "bytes_read": 67545,
-      "issues": [],
-      "title": "AP Chemistry Exam Format 2027 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/exam-format/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/exam-length/",
-      "status": 200,
-      "elapsed_ms": 1795,
-      "bytes_read": 65263,
-      "issues": [],
-      "title": "How Long Is the AP Chemistry Exam in 2027? - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/exam-length/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/",
-      "status": 200,
-      "elapsed_ms": 2223,
-      "bytes_read": 69236,
-      "issues": [],
-      "title": "AP Chemistry Interactive Labs & Visual Explorations - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/acid-base-equivalence-indicator-selection-investigation/",
-      "status": 200,
-      "elapsed_ms": 1704,
-      "bytes_read": 114904,
-      "issues": [],
-      "title": "AP Chemistry Acid–Base Equivalence & Indicator Selection Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/acid-base-equivalence-indicator-selection-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/acid-base-speciation-buffer-design-investigation/",
-      "status": 200,
-      "elapsed_ms": 1910,
-      "bytes_read": 115706,
-      "issues": [],
-      "title": "AP Chemistry Acid–Base Speciation & Buffer Design Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/acid-base-speciation-buffer-design-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/atomic-structure-spectroscopy-composition-investigation/",
-      "status": 200,
-      "elapsed_ms": 1747,
-      "bytes_read": 115224,
-      "issues": [],
-      "title": "AP Chemistry Atomic Structure, Spectroscopy & Composition Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/atomic-structure-spectroscopy-composition-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/buffer-capacity-titration-curve-investigation/",
-      "status": 200,
-      "elapsed_ms": 1709,
-      "bytes_read": 115568,
-      "issues": [],
-      "title": "AP Chemistry Buffer Capacity & Titration Curve Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/buffer-capacity-titration-curve-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/buffer-capacity-titration-equilibrium-investigation/",
-      "status": 200,
-      "elapsed_ms": 1749,
-      "bytes_read": 116592,
-      "issues": [],
-      "title": "AP Chemistry Buffer Capacity, Titration & Equilibrium Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/buffer-capacity-titration-equilibrium-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/calorimetry-hess-law-lab-analysis/",
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-mixed-frq-design-algorithm-reasoning-set-11/",
       "status": 200,
       "elapsed_ms": 1636,
-      "bytes_read": 114077,
+      "bytes_read": 138277,
       "issues": [],
-      "title": "AP Chemistry Calorimetry & Hess’s Law Lab Analysis - Salar Cafe",
+      "title": "AP Computer Science A Coding Playground Practice Set 11: Mixed FRQ Design & Algorithm Reasoning - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/calorimetry-hess-law-lab-analysis/",
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-mixed-frq-design-algorithm-reasoning-set-11/",
       "description_present": true,
       "robots": "index,follow,max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/chromatography-separation-quantitative-evidence-investigation/",
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-nested-traversal-data-aggregation-set-21/",
       "status": 200,
-      "elapsed_ms": 1617,
-      "bytes_read": 116631,
+      "elapsed_ms": 1753,
+      "bytes_read": 140431,
       "issues": [],
-      "title": "AP Chemistry Chromatography, Separation & Quantitative Evidence Investigation - Salar Cafe",
+      "title": "AP Computer Science A Coding Playground Practice Set 21: Nested Traversal & Data Aggregation - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/chromatography-separation-quantitative-evidence-investigation/",
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-nested-traversal-data-aggregation-set-21/",
       "description_present": true,
       "robots": "index,follow,max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/electrochemical-free-energy-equilibrium-investigation/",
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-object-collaboration-collection-processing-set-17/",
       "status": 200,
-      "elapsed_ms": 1698,
-      "bytes_read": 116594,
+      "elapsed_ms": 1960,
+      "bytes_read": 141077,
       "issues": [],
-      "title": "AP Chemistry Electrochemical Free Energy & Equilibrium Investigation - Salar Cafe",
+      "title": "AP Computer Science A Coding Playground Practice Set 17: Object Collaboration & Collection Processing - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/electrochemical-free-energy-equilibrium-investigation/",
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-object-collaboration-collection-processing-set-17/",
       "description_present": true,
       "robots": "index,follow,max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/electrochemistry-cell-potential-investigation/",
-      "status": 200,
-      "elapsed_ms": 1583,
-      "bytes_read": 116147,
-      "issues": [],
-      "title": "AP Chemistry Electrochemistry & Cell Potential Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/electrochemistry-cell-potential-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/electrolysis-faraday-stoichiometry-investigation/",
-      "status": 200,
-      "elapsed_ms": 1851,
-      "bytes_read": 115993,
-      "issues": [],
-      "title": "AP Chemistry Electrolysis, Faraday Stoichiometry & Evidence Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/electrolysis-faraday-stoichiometry-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/equilibrium-ice-table-investigation/",
-      "status": 200,
-      "elapsed_ms": 1745,
-      "bytes_read": 114434,
-      "issues": [],
-      "title": "AP Chemistry Equilibrium & ICE-Table Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/equilibrium-ice-table-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/equilibrium-stress-quantitative-evidence-investigation/",
-      "status": 200,
-      "elapsed_ms": 1863,
-      "bytes_read": 117569,
-      "issues": [],
-      "title": "AP Chemistry Equilibrium Stress & Quantitative Evidence Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/equilibrium-stress-quantitative-evidence-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/galvanic-cell-potential-free-energy-investigation/",
-      "status": 200,
-      "elapsed_ms": 1508,
-      "bytes_read": 114900,
-      "issues": [],
-      "title": "AP Chemistry Galvanic Cell Potential, Free Energy & Evidence Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/galvanic-cell-potential-free-energy-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/gas-laws-kinetic-molecular-experimental-evidence-investigation/",
-      "status": 200,
-      "elapsed_ms": 1801,
-      "bytes_read": 116219,
-      "issues": [],
-      "title": "AP Chemistry Gas Laws, Kinetic Molecular Theory & Experimental Evidence Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/gas-laws-kinetic-molecular-experimental-evidence-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/gas-laws-molar-mass-investigation/",
-      "status": 200,
-      "elapsed_ms": 1708,
-      "bytes_read": 115139,
-      "issues": [],
-      "title": "AP Chemistry Gas Laws & Molar Mass Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/gas-laws-molar-mass-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/gas-stoichiometry-molecular-evidence-investigation/",
-      "status": 200,
-      "elapsed_ms": 1975,
-      "bytes_read": 116663,
-      "issues": [],
-      "title": "AP Chemistry Gas Stoichiometry & Molecular Evidence Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/gas-stoichiometry-molecular-evidence-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/gravimetric-stoichiometry-limiting-reactant-investigation/",
-      "status": 200,
-      "elapsed_ms": 2300,
-      "bytes_read": 115876,
-      "issues": [],
-      "title": "AP Chemistry Gravimetric Stoichiometry & Limiting Reactant Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/gravimetric-stoichiometry-limiting-reactant-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/intermolecular-forces-solutions-spectroscopy-investigation/",
-      "status": 200,
-      "elapsed_ms": 1997,
-      "bytes_read": 117981,
-      "issues": [],
-      "title": "AP Chemistry Intermolecular Forces, Solutions & Spectroscopy Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/intermolecular-forces-solutions-spectroscopy-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/kinetics-mechanism-arrhenius-evidence-investigation/",
-      "status": 200,
-      "elapsed_ms": 1845,
-      "bytes_read": 116592,
-      "issues": [],
-      "title": "AP Chemistry Kinetics, Mechanism & Arrhenius Evidence Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/kinetics-mechanism-arrhenius-evidence-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/kinetics-mechanism-data-synthesis-investigation/",
-      "status": 200,
-      "elapsed_ms": 1908,
-      "bytes_read": 115406,
-      "issues": [],
-      "title": "AP Chemistry Kinetics & Mechanism Data Synthesis Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/kinetics-mechanism-data-synthesis-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/kinetics-rate-law-investigation/",
-      "status": 200,
-      "elapsed_ms": 1796,
-      "bytes_read": 113629,
-      "issues": [],
-      "title": "AP Chemistry Kinetics & Rate Law Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/kinetics-rate-law-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/measurement-uncertainty-data-quality-investigation/",
-      "status": 200,
-      "elapsed_ms": 2048,
-      "bytes_read": 114987,
-      "issues": [],
-      "title": "AP Chemistry Measurement Uncertainty & Data Quality Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/measurement-uncertainty-data-quality-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/molecular-geometry-bonding-evidence-investigation/",
-      "status": 200,
-      "elapsed_ms": 1892,
-      "bytes_read": 114576,
-      "issues": [],
-      "title": "AP Chemistry Molecular Geometry, Bonding & Evidence Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/molecular-geometry-bonding-evidence-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/particulate-stoichiometry-reaction-evidence-investigation/",
-      "status": 200,
-      "elapsed_ms": 1908,
-      "bytes_read": 115029,
-      "issues": [],
-      "title": "AP Chemistry Particulate Stoichiometry & Reaction Evidence Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/particulate-stoichiometry-reaction-evidence-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/photoelectron-spectroscopy-periodic-trends-evidence-investigation/",
-      "status": 200,
-      "elapsed_ms": 1853,
-      "bytes_read": 117267,
-      "issues": [],
-      "title": "AP Chemistry Photoelectron Spectroscopy & Periodic Trends Evidence Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/photoelectron-spectroscopy-periodic-trends-evidence-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/reaction-pathway-energy-investigation/",
-      "status": 200,
-      "elapsed_ms": 2592,
-      "bytes_read": 116628,
-      "issues": [],
-      "title": "AP Chemistry Reaction Pathway, Kinetics & Energy Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/reaction-pathway-energy-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/reaction-stoichiometry-precipitation-gravimetric-evidence-investigation/",
-      "status": 200,
-      "elapsed_ms": 2080,
-      "bytes_read": 115180,
-      "issues": [],
-      "title": "AP Chemistry Reaction Stoichiometry, Precipitation & Gravimetric Evidence Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/reaction-stoichiometry-precipitation-gravimetric-evidence-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/redox-electrochemistry-thermodynamics-synthesis-investigation/",
-      "status": 200,
-      "elapsed_ms": 1921,
-      "bytes_read": 117079,
-      "issues": [],
-      "title": "AP Chemistry Redox, Electrochemistry & Thermodynamics Synthesis Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/redox-electrochemistry-thermodynamics-synthesis-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/solubility-equilibrium-common-ion-investigation/",
-      "status": 200,
-      "elapsed_ms": 1732,
-      "bytes_read": 114420,
-      "issues": [],
-      "title": "AP Chemistry Solubility Equilibrium & Common-Ion Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/solubility-equilibrium-common-ion-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/solubility-equilibrium-precipitation-investigation/",
-      "status": 200,
-      "elapsed_ms": 1838,
-      "bytes_read": 114330,
-      "issues": [],
-      "title": "AP Chemistry Solubility Equilibrium & Precipitation Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/solubility-equilibrium-precipitation-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/solution-concentration-dilution-preparation-investigation/",
-      "status": 200,
-      "elapsed_ms": 2084,
-      "bytes_read": 114656,
-      "issues": [],
-      "title": "AP Chemistry Solution Concentration, Dilution & Quantitative Preparation Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/solution-concentration-dilution-preparation-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/spectrophotometry-beer-lambert-investigation/",
-      "status": 200,
-      "elapsed_ms": 1831,
-      "bytes_read": 113837,
-      "issues": [],
-      "title": "AP Chemistry Spectrophotometry & Beer-Lambert Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/spectrophotometry-beer-lambert-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/stoichiometric-yield-energy-efficiency-investigation/",
-      "status": 200,
-      "elapsed_ms": 1675,
-      "bytes_read": 117282,
-      "issues": [],
-      "title": "AP Chemistry Stoichiometric Yield & Energy Efficiency Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/stoichiometric-yield-energy-efficiency-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/structure-bonding-intermolecular-forces-evidence-investigation/",
-      "status": 200,
-      "elapsed_ms": 1630,
-      "bytes_read": 117947,
-      "issues": [],
-      "title": "AP Chemistry Structure, Bonding & Intermolecular Forces Evidence Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/structure-bonding-intermolecular-forces-evidence-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/thermochemical-cycles-reaction-coupling-investigation/",
-      "status": 200,
-      "elapsed_ms": 1802,
-      "bytes_read": 117206,
-      "issues": [],
-      "title": "AP Chemistry Thermochemical Cycles & Reaction Coupling Evidence Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/thermochemical-cycles-reaction-coupling-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/thermodynamic-favorability-entropy-coupled-reactions-investigation/",
-      "status": 200,
-      "elapsed_ms": 1840,
-      "bytes_read": 115513,
-      "issues": [],
-      "title": "AP Chemistry Thermodynamic Favorability, Entropy & Coupled Reactions Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/thermodynamic-favorability-entropy-coupled-reactions-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/thermodynamics-equilibrium-synthesis-investigation/",
-      "status": 200,
-      "elapsed_ms": 1783,
-      "bytes_read": 115495,
-      "issues": [],
-      "title": "AP Chemistry Thermodynamics & Equilibrium Synthesis Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/thermodynamics-equilibrium-synthesis-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/titration-endpoint-indicator-pka-evidence-investigation/",
-      "status": 200,
-      "elapsed_ms": 2081,
-      "bytes_read": 115332,
-      "issues": [],
-      "title": "AP Chemistry Titration Endpoint, Indicator Choice & pKa Evidence Investigation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/titration-endpoint-indicator-pka-evidence-investigation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/titration-equilibrium-lab-analysis/",
-      "status": 200,
-      "elapsed_ms": 1837,
-      "bytes_read": 115404,
-      "issues": [],
-      "title": "AP Chemistry Titration & Equilibrium Lab Analysis - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/interactive-labs/titration-equilibrium-lab-analysis/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/practice/",
-      "status": 200,
-      "elapsed_ms": 1877,
-      "bytes_read": 114569,
-      "issues": [],
-      "title": "AP Chemistry Practice 2027: MCQ & FRQ System - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/practice/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/reference-guide/",
-      "status": 200,
-      "elapsed_ms": 1773,
-      "bytes_read": 69046,
-      "issues": [],
-      "title": "AP Chemistry Reference Guide 2027 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/reference-guide/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/units/",
-      "status": 200,
-      "elapsed_ms": 1823,
-      "bytes_read": 70156,
-      "issues": [],
-      "title": "AP Chemistry Units 2027: Complete Course Map - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/units/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-1-atomic-structure-properties/",
-      "status": 200,
-      "elapsed_ms": 1757,
-      "bytes_read": 69549,
-      "issues": [],
-      "title": "AP Chemistry Unit 1: Atomic Structure and Properties — Complete Lesson & Practice - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-1-atomic-structure-properties/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-2-compound-structure-properties/",
-      "status": 200,
-      "elapsed_ms": 1748,
-      "bytes_read": 69734,
-      "issues": [],
-      "title": "AP Chemistry Unit 2: Compound Structure and Properties - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-2-compound-structure-properties/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-3-properties-substances-mixtures/",
-      "status": 200,
-      "elapsed_ms": 2055,
-      "bytes_read": 69797,
-      "issues": [],
-      "title": "AP Chemistry Unit 3: Properties of Substances and Mixtures - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-3-properties-substances-mixtures/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-4-chemical-reactions/",
-      "status": 200,
-      "elapsed_ms": 2310,
-      "bytes_read": 116497,
-      "issues": [],
-      "title": "AP Chemistry Unit 4: Chemical Reactions — Complete Lesson & Practice - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-4-chemical-reactions/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-5-kinetics/",
-      "status": 200,
-      "elapsed_ms": 1941,
-      "bytes_read": 115977,
-      "issues": [],
-      "title": "AP Chemistry Unit 5: Kinetics — Complete Lesson & Practice - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-5-kinetics/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-6-thermochemistry/",
-      "status": 200,
-      "elapsed_ms": 1773,
-      "bytes_read": 115083,
-      "issues": [],
-      "title": "AP Chemistry Unit 6: Thermochemistry — Complete Lesson & Practice - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-6-thermochemistry/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-7-equilibrium/",
-      "status": 200,
-      "elapsed_ms": 1811,
-      "bytes_read": 114819,
-      "issues": [],
-      "title": "AP Chemistry Unit 7: Equilibrium — Complete Lesson & Practice - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-7-equilibrium/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-8-acids-bases/",
-      "status": 200,
-      "elapsed_ms": 1789,
-      "bytes_read": 114641,
-      "issues": [],
-      "title": "AP Chemistry Unit 8: Acids and Bases — Complete Lesson & Practice - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-8-acids-bases/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-9-applications-thermodynamics/",
-      "status": 200,
-      "elapsed_ms": 1908,
-      "bytes_read": 115325,
-      "issues": [],
-      "title": "AP Chemistry Unit 9: Applications of Thermodynamics — Complete Lesson & Practice - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-chemistry/units/unit-9-applications-thermodynamics/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/",
-      "status": 200,
-      "elapsed_ms": 2110,
-      "bytes_read": 71008,
-      "issues": [],
-      "title": "AP Computer Science A 2027: Complete Study Guide & Practice - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/calculator-rules/",
-      "status": 200,
-      "elapsed_ms": 1901,
-      "bytes_read": 66884,
-      "issues": [
-        "multiple_h1"
-      ],
-      "title": "AP Computer Science A Calculator & Technology Rules 2027 - Salar Cafe",
-      "h1_count": 2,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/calculator-rules/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/exam-date/",
-      "status": 200,
-      "elapsed_ms": 1922,
-      "bytes_read": 65706,
-      "issues": [],
-      "title": "AP Computer Science A Exam Date 2027 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/exam-date/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/exam-format/",
-      "status": 200,
-      "elapsed_ms": 1843,
-      "bytes_read": 68115,
-      "issues": [],
-      "title": "AP Computer Science A Exam Format 2027 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/exam-format/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/exam-length/",
-      "status": 200,
-      "elapsed_ms": 2248,
-      "bytes_read": 65710,
-      "issues": [],
-      "title": "How Long Is the AP Computer Science A Exam in 2027? - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/exam-length/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/interactive-labs/",
-      "status": 200,
-      "elapsed_ms": 1944,
-      "bytes_read": 70418,
-      "issues": [],
-      "title": "AP Computer Science A Coding Playground & Trace Explorer - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/interactive-labs/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/interactive-labs/coding-playground-practice-set-10/",
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-object-collaboration-encapsulation-data-collections-set-28/",
       "status": 200,
       "elapsed_ms": 1864,
-      "bytes_read": 136306,
+      "bytes_read": 140322,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 10: Data Collections Algorithms & Responsible Computing - Salar Cafe",
+      "title": "AP Computer Science A Coding Playground Set 28: Object Collaboration, Encapsulation & Data Collections - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/interactive-labs/coding-playground-practice-set-10/",
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-object-collaboration-encapsulation-data-collections-set-28/",
       "description_present": true,
       "robots": "index,follow,max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/",
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-recursive-reasoning-collection-processing-set-27/",
       "status": 200,
-      "elapsed_ms": 2039,
-      "bytes_read": 123082,
+      "elapsed_ms": 1582,
+      "bytes_read": 138259,
       "issues": [],
-      "title": "AP Computer Science A Practice 2027: MCQ & FRQ System - Salar Cafe",
+      "title": "AP Computer Science A Coding Playground Set 27: Recursive Reasoning & Collection Processing - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/",
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-recursive-reasoning-collection-processing-set-27/",
       "description_present": true,
       "robots": "index,follow,max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/code-analysis-debugging-lab/",
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-search-sort-data-representation-set-19/",
       "status": 200,
-      "elapsed_ms": 1834,
-      "bytes_read": 67782,
+      "elapsed_ms": 1597,
+      "bytes_read": 141093,
       "issues": [],
-      "title": "AP Computer Science A Code Analysis & Debugging Practice - Salar Cafe",
+      "title": "AP Computer Science A Coding Playground Practice Set 19: Search, Sort & Data Representation - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/code-analysis-debugging-lab/",
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-search-sort-data-representation-set-19/",
       "description_present": true,
       "robots": "index,follow,max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/code-tracing-program-reasoning-set-1/",
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-searching-sorting-recursion-set-7/",
       "status": 200,
-      "elapsed_ms": 1856,
-      "bytes_read": 133573,
+      "elapsed_ms": 1587,
+      "bytes_read": 135872,
       "issues": [],
-      "title": "AP Computer Science A Code Tracing & Program Reasoning Set 1 - Salar Cafe",
+      "title": "AP Computer Science A Coding Playground Practice Set 7: Searching, Sorting & Recursion - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/code-tracing-program-reasoning-set-1/",
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-searching-sorting-recursion-set-7/",
       "description_present": true,
       "robots": "index,follow,max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/code-tracing-program-reasoning-set-2/",
-      "status": 200,
-      "elapsed_ms": 2215,
-      "bytes_read": 135391,
-      "issues": [],
-      "title": "AP Computer Science A Code Tracing & Program Reasoning Set 2 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/code-tracing-program-reasoning-set-2/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-2d-array-traversal-testing-set-31/",
-      "status": 200,
-      "elapsed_ms": 1936,
-      "bytes_read": 137469,
-      "issues": [],
-      "title": "AP Computer Science A Coding Playground Set 31: 2D Array Traversal, Aliasing & Boundary Testing - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-2d-array-traversal-testing-set-31/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-2d-arrays-nested-traversal-set-6/",
-      "status": 200,
-      "elapsed_ms": 2073,
-      "bytes_read": 134949,
-      "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 6: 2D Arrays & Nested Traversal - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-2d-arrays-nested-traversal-set-6/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-arraylist-2d-arrays-set-1/",
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-simulation-invariants-data-structures-set-24/",
       "status": 200,
       "elapsed_ms": 1696,
-      "bytes_read": 135782,
+      "bytes_read": 140690,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 1: ArrayList & 2D Arrays - Salar Cafe",
+      "title": "AP Computer Science A Coding Playground Practice Set 24: Simulation, Invariants & Data Structures - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-arraylist-2d-arrays-set-1/",
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-simulation-invariants-data-structures-set-24/",
       "description_present": true,
       "robots": "index,follow,max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-arraylist-data-analysis-set-5/",
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-specification-testing-debugging-set-9/",
       "status": 200,
-      "elapsed_ms": 1656,
-      "bytes_read": 135224,
+      "elapsed_ms": 1654,
+      "bytes_read": 137408,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 5: ArrayList Data Analysis - Salar Cafe",
+      "title": "AP Computer Science A Coding Playground Practice Set 9: Specification, Testing & Debugging - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-arraylist-data-analysis-set-5/",
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-specification-testing-debugging-set-9/",
       "description_present": true,
       "robots": "index,follow,max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-arraylist-mutation-index-invariants-set-32/",
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-specification-testing-refactoring-set-20/",
       "status": 200,
-      "elapsed_ms": 1752,
-      "bytes_read": 137334,
+      "elapsed_ms": 1721,
+      "bytes_read": 139195,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Set 32: ArrayList Mutation, Index Invariants & Filtering - Salar Cafe",
+      "title": "AP Computer Science A Coding Playground Practice Set 20: Specification, Testing & Refactoring - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-arraylist-mutation-index-invariants-set-32/",
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-specification-testing-refactoring-set-20/",
       "description_present": true,
       "robots": "index,follow,max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-arrays-traversal-set-4/",
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-static-instance-overloading-method-selection-set-34/",
       "status": 200,
-      "elapsed_ms": 1671,
-      "bytes_read": 134993,
+      "elapsed_ms": 1501,
+      "bytes_read": 138353,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 4: Arrays & Traversal Algorithms - Salar Cafe",
+      "title": "AP Computer Science A Coding Playground Set 34: Static vs Instance Methods, Overloading & Method Selection - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-arrays-traversal-set-4/",
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-static-instance-overloading-method-selection-set-34/",
       "description_present": true,
       "robots": "index,follow,max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-class-design-arraylist-data-analysis-set-22/",
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-string-algorithms-nested-iteration-robust-testing-set-29/",
       "status": 200,
-      "elapsed_ms": 1758,
-      "bytes_read": 141130,
+      "elapsed_ms": 1617,
+      "bytes_read": 137748,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 22: Class Design & ArrayList Data Analysis - Salar Cafe",
+      "title": "AP Computer Science A Coding Playground Set 29: String Algorithms, Nested Iteration & Robust Testing - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-class-design-arraylist-data-analysis-set-22/",
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-string-algorithms-nested-iteration-robust-testing-set-29/",
       "description_present": true,
       "robots": "index,follow,max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-class-design-object-collaboration-set-8/",
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-strings-control-structures-set-3/",
       "status": 200,
-      "elapsed_ms": 1747,
-      "bytes_read": 137361,
+      "elapsed_ms": 1630,
+      "bytes_read": 136342,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 8: Class Design & Object Collaboration - Salar Cafe",
+      "title": "AP Computer Science A Coding Playground Practice Set 3: Strings & Control Structures - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-class-design-object-collaboration-set-8/",
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-strings-control-structures-set-3/",
       "description_present": true,
       "robots": "index,follow,max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-classes-methods-set-2/",
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-traversal-mutation-correctness-set-16/",
       "status": 200,
-      "elapsed_ms": 1816,
-      "bytes_read": 136524,
+      "elapsed_ms": 1685,
+      "bytes_read": 140818,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 2: Classes & Methods - Salar Cafe",
+      "title": "AP Computer Science A Coding Playground Practice Set 16: Traversal, Mutation & Correctness - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-classes-methods-set-2/",
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-traversal-mutation-correctness-set-16/",
       "description_present": true,
       "robots": "index,follow,max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-collection-transformation-contract-design-set-25/",
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/frq-blueprint-lab/",
+      "status": 200,
+      "elapsed_ms": 1687,
+      "bytes_read": 67855,
+      "issues": [],
+      "title": "AP Computer Science A FRQ Blueprint Practice 2027 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/frq-blueprint-lab/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/mixed-diagnostic/",
+      "status": 200,
+      "elapsed_ms": 2804,
+      "bytes_read": 124494,
+      "issues": [],
+      "title": "AP Computer Science A Mixed Diagnostic: Units 1–4 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/mixed-diagnostic/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/timed-frq-practice-set-1/",
+      "status": 200,
+      "elapsed_ms": 1864,
+      "bytes_read": 106447,
+      "issues": [],
+      "title": "AP Computer Science A Timed FRQ Practice Set 1 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/timed-frq-practice-set-1/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/timed-frq-practice-set-2/",
+      "status": 200,
+      "elapsed_ms": 1806,
+      "bytes_read": 105570,
+      "issues": [],
+      "title": "AP Computer Science A Timed FRQ Practice Set 2 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/timed-frq-practice-set-2/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/timed-frq-practice-set-3/",
+      "status": 200,
+      "elapsed_ms": 1693,
+      "bytes_read": 104831,
+      "issues": [],
+      "title": "AP Computer Science A Timed FRQ Practice Set 3 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/timed-frq-practice-set-3/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/reference-guide/",
+      "status": 200,
+      "elapsed_ms": 1667,
+      "bytes_read": 70046,
+      "issues": [],
+      "title": "AP Computer Science A Reference Guide 2027 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/reference-guide/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/reference-guide/java-quick-reference-mastery/",
+      "status": 200,
+      "elapsed_ms": 1687,
+      "bytes_read": 114371,
+      "issues": [],
+      "title": "AP Computer Science A Java Quick Reference Mastery 2027 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/reference-guide/java-quick-reference-mastery/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/units/",
+      "status": 200,
+      "elapsed_ms": 1967,
+      "bytes_read": 69983,
+      "issues": [],
+      "title": "AP Computer Science A Units 2027: Complete Course Map - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/units/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/units/unit-1-using-objects-methods/",
+      "status": 200,
+      "elapsed_ms": 1700,
+      "bytes_read": 71147,
+      "issues": [],
+      "title": "AP Computer Science A Unit 1: Using Objects and Methods — Complete Lesson & Practice - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/units/unit-1-using-objects-methods/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/units/unit-2-selection-iteration/",
+      "status": 200,
+      "elapsed_ms": 1714,
+      "bytes_read": 69836,
+      "issues": [],
+      "title": "AP Computer Science A Unit 2: Selection and Iteration - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/units/unit-2-selection-iteration/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/units/unit-3-class-creation/",
       "status": 200,
       "elapsed_ms": 1751,
-      "bytes_read": 140321,
+      "bytes_read": 69713,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 25: Collection Transformation & Contract-Driven Design - Salar Cafe",
+      "title": "AP Computer Science A Unit 3: Class Creation - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-collection-transformation-contract-design-set-25/",
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/units/unit-3-class-creation/",
       "description_present": true,
       "robots": "index,follow,max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-collections-helper-methods-set-12/",
+      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/units/unit-4-data-collections/",
       "status": 200,
-      "elapsed_ms": 1746,
-      "bytes_read": 138356,
+      "elapsed_ms": 1759,
+      "bytes_read": 116897,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 12: Collections & Helper-Method Design - Salar Cafe",
+      "title": "AP Computer Science A Unit 4: Data Collections — Complete Lesson & Practice - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-collections-helper-methods-set-12/",
+      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/units/unit-4-data-collections/",
       "description_present": true,
       "robots": "index,follow,max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-constructors-encapsulation-object-state-set-33/",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/",
       "status": 200,
-      "elapsed_ms": 2316,
-      "bytes_read": 138320,
-      "issues": [],
-      "title": "AP Computer Science A Coding Playground Set 33: Constructors, Encapsulation & Object State - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-constructors-encapsulation-object-state-set-33/",
+      "elapsed_ms": 1701,
+      "bytes_read": 82278,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus 2027: Complete Study Guide, Functions & Practice",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-decomposition-invariants-data-transformation-set-18/",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/calculator-policy/",
       "status": 200,
-      "elapsed_ms": 2175,
-      "bytes_read": 141594,
+      "elapsed_ms": 1745,
+      "bytes_read": 78161,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 18: Decomposition, Invariants & Data Transformation - Salar Cafe",
+      "title": "AP Precalculus Calculator Policy 2027: When a Graphing Calculator Is Required",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-decomposition-invariants-data-transformation-set-18/",
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/calculator-policy/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-efficiency-aliasing-robust-collections-set-26/",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exam-date/",
       "status": 200,
-      "elapsed_ms": 2616,
-      "bytes_read": 137817,
-      "issues": [],
-      "title": "AP Computer Science A Coding Playground Set 26: Algorithmic Efficiency, Aliasing & Robust Collection Processing - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-efficiency-aliasing-robust-collections-set-26/",
+      "elapsed_ms": 1623,
+      "bytes_read": 76863,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Exam Date 2027: May 11, Session 1",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/exam-date/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-four-frq-blueprint-set-14/",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exam-format/",
       "status": 200,
-      "elapsed_ms": 2050,
-      "bytes_read": 139732,
-      "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 14: Four-FRQ Blueprint - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-four-frq-blueprint-set-14/",
+      "elapsed_ms": 1738,
+      "bytes_read": 79985,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Exam Format 2027: 42 MCQs, 4 FRQs & Calculator Split",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/exam-format/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-frq-testing-repair-set-15/",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exam-length/",
       "status": 200,
-      "elapsed_ms": 2165,
-      "bytes_read": 141214,
-      "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 15: FRQ Testing & Repair - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-frq-testing-repair-set-15/",
+      "elapsed_ms": 1743,
+      "bytes_read": 77296,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "How Long Is the AP Precalculus Exam 2027? Timing & Pacing",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/exam-length/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-helper-methods-decomposition-testing-set-30/",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/",
       "status": 200,
-      "elapsed_ms": 1912,
-      "bytes_read": 137811,
-      "issues": [],
-      "title": "AP Computer Science A Coding Playground Set 30: Helper Methods, Decomposition & Test-Oriented Design - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-helper-methods-decomposition-testing-set-30/",
+      "elapsed_ms": 1626,
+      "bytes_read": 80725,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Unit 2: Exponential and Logarithmic Functions",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-method-contracts-testing-data-collections-set-23/",
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/competing-function-model-validation/",
       "status": 200,
-      "elapsed_ms": 1822,
-      "bytes_read": 142358,
-      "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 23: Method Contracts, Testing & Data Collections - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-method-contracts-testing-data-collections-set-23/",
+      "elapsed_ms": 1750,
+      "bytes_read": 92606,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus 2.6 Competing Function Model Validation: Residuals & Regression",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/competing-function-model-validation/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/exponential-logarithmic-equations-inequalities/",
+      "status": 200,
+      "elapsed_ms": 1745,
+      "bytes_read": 87821,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus 2.13 Exponential & Logarithmic Equations and Inequalities",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/exponential-logarithmic-equations-inequalities/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/logarithmic-function-context-data-modeling/",
+      "status": 200,
+      "elapsed_ms": 1693,
+      "bytes_read": 95334,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus 2.14 Logarithmic Function Context & Data Modeling",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/logarithmic-function-context-data-modeling/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/logarithmic-function-manipulation/",
+      "status": 200,
+      "elapsed_ms": 1697,
+      "bytes_read": 82263,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus 2.12: Logarithmic Function Manipulation",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/logarithmic-function-manipulation/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/semi-log-plots/",
+      "status": 200,
+      "elapsed_ms": 1636,
+      "bytes_read": 88283,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus 2.15 Semi-Log Plots: Graphs, Models & Practice",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/semi-log-plots/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/formula-reference/",
+      "status": 200,
+      "elapsed_ms": 1697,
+      "bytes_read": 80344,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Formula & Function Reference Guide 2027",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/formula-reference/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/modeling-labs/",
+      "status": 200,
+      "elapsed_ms": 1756,
+      "bytes_read": 79847,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Full Graphing Calculator & Function Explorer",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/modeling-labs/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/parameters-vectors-matrices/",
+      "status": 200,
+      "elapsed_ms": 1693,
+      "bytes_read": 79955,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Unit 4: Parameters, Vectors, and Matrices",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/parameters-vectors-matrices/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/polynomial-rational-functions/",
+      "status": 200,
+      "elapsed_ms": 1785,
+      "bytes_read": 80241,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Unit 1: Polynomial and Rational Functions",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/polynomial-rational-functions/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/polynomial-rational-functions/function-model-construction-and-application/",
+      "status": 200,
+      "elapsed_ms": 1793,
+      "bytes_read": 99186,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus 1.14 Function Model Construction & Application",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/polynomial-rational-functions/function-model-construction-and-application/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/polynomial-rational-functions/function-model-selection-and-assumption-articulation/",
+      "status": 200,
+      "elapsed_ms": 1694,
+      "bytes_read": 94441,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus 1.13 Function Model Selection & Assumptions",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/polynomial-rational-functions/function-model-selection-and-assumption-articulation/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/",
+      "status": 200,
+      "elapsed_ms": 1670,
+      "bytes_read": 124453,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Practice Test 2027: Topic Practice & Diagnostics",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/assessed-units-1-3-mixed-synthesis-set-1/",
+      "status": 200,
+      "elapsed_ms": 1850,
+      "bytes_read": 149123,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Assessed Units 1–3 Mixed Synthesis Set 1",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/assessed-units-1-3-mixed-synthesis-set-1/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/assessed-units-1-3-mixed-synthesis-set-2/",
+      "status": 200,
+      "elapsed_ms": 2406,
+      "bytes_read": 147729,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Assessed Units 1–3 Mixed Synthesis Set 2",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/assessed-units-1-3-mixed-synthesis-set-2/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/assessed-units-1-3-mixed-synthesis-set-3/",
+      "status": 200,
+      "elapsed_ms": 2151,
+      "bytes_read": 150968,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Assessed Units 1–3 Mixed Synthesis Set 3",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/assessed-units-1-3-mixed-synthesis-set-3/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/assessed-units-1-3-mixed-synthesis-set-4/",
+      "status": 200,
+      "elapsed_ms": 2295,
+      "bytes_read": 149456,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Assessed Units 1–3 Mixed Synthesis Set 4",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/assessed-units-1-3-mixed-synthesis-set-4/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/composition-inverse-domain-synthesis-set-18/",
+      "status": 200,
+      "elapsed_ms": 2346,
+      "bytes_read": 151519,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Composition, Inverses & Domain Reasoning Synthesis Set 18",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/composition-inverse-domain-synthesis-set-18/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/decision-justification-synthesis-set-11/",
+      "status": 200,
+      "elapsed_ms": 1859,
+      "bytes_read": 151060,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Decision & Justification Synthesis Set 11",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/decision-justification-synthesis-set-11/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/evidence-assumptions-communication-synthesis-set-10/",
+      "status": 200,
+      "elapsed_ms": 1874,
+      "bytes_read": 152728,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Evidence, Assumptions & Communication Synthesis Set 10",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/evidence-assumptions-communication-synthesis-set-10/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/exponential-growth-logarithmic-scales-data-linearization-synthesis-set-23/",
+      "status": 200,
+      "elapsed_ms": 1840,
+      "bytes_read": 149568,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Exponential Growth, Logarithmic Scales & Data Linearization Synthesis Set 23",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/exponential-growth-logarithmic-scales-data-linearization-synthesis-set-23/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/exponential-logarithmic-model-validation-synthesis-set-19/",
+      "status": 200,
+      "elapsed_ms": 2400,
+      "bytes_read": 150832,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Exponential, Logarithmic & Model Validation Synthesis Set 19",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/exponential-logarithmic-model-validation-synthesis-set-19/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/frq-practice/",
+      "status": 200,
+      "elapsed_ms": 1917,
+      "bytes_read": 83720,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus FRQ Practice 2027: Original Free-Response Questions",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/frq-practice/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/function-families-parameter-inference-synthesis-set-7/",
+      "status": 200,
+      "elapsed_ms": 2072,
+      "bytes_read": 151493,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Function Families & Parameter Inference Synthesis Set 7",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/function-families-parameter-inference-synthesis-set-7/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/graphical-numerical-algebraic-reasoning-synthesis-set-6/",
+      "status": 200,
+      "elapsed_ms": 2132,
+      "bytes_read": 150687,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Graphical, Numerical & Algebraic Reasoning Synthesis Set 6",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/graphical-numerical-algebraic-reasoning-synthesis-set-6/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/inverse-trigonometric-reasoning-restricted-domains-synthesis-set-25/",
+      "status": 200,
+      "elapsed_ms": 2593,
+      "bytes_read": 148251,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Inverse Trigonometric Reasoning & Restricted Domains Synthesis Set 25",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/inverse-trigonometric-reasoning-restricted-domains-synthesis-set-25/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/mcq-practice/",
+      "status": 200,
+      "elapsed_ms": 1748,
+      "bytes_read": 80565,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus MCQ Practice 2027: Original Questions with Explanations",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/mcq-practice/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/model-comparison-constraints-synthesis-set-8/",
+      "status": 200,
+      "elapsed_ms": 1879,
+      "bytes_read": 151324,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Model Comparison & Constraint Reasoning Synthesis Set 8",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/model-comparison-constraints-synthesis-set-8/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/model-diagnostics-decision-thresholds-synthesis-set-15/",
+      "status": 200,
+      "elapsed_ms": 2036,
+      "bytes_read": 150085,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Model Diagnostics & Decision Thresholds Synthesis Set 15",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/model-diagnostics-decision-thresholds-synthesis-set-15/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/model-reconciliation-assumption-stress-test-synthesis-set-17/",
+      "status": 200,
+      "elapsed_ms": 1951,
+      "bytes_read": 152531,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Model Reconciliation & Assumption Stress-Test Synthesis Set 17",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/model-reconciliation-assumption-stress-test-synthesis-set-17/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/model-selection-under-constraints-synthesis-set-12/",
+      "status": 200,
+      "elapsed_ms": 1758,
+      "bytes_read": 151567,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Model Selection Under Constraints Synthesis Set 12",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/model-selection-under-constraints-synthesis-set-12/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/modeling-technology-reasoning-synthesis-set-5/",
+      "status": 200,
+      "elapsed_ms": 1803,
+      "bytes_read": 147736,
+      "issues": [],
+      "title": "AP Precalculus Modeling & Technology Reasoning Synthesis Set 5",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/modeling-technology-reasoning-synthesis-set-5/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/multi-representation-error-detection-synthesis-set-16/",
+      "status": 200,
+      "elapsed_ms": 1711,
+      "bytes_read": 152433,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Multi-Representation Error Detection Synthesis Set 16",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/multi-representation-error-detection-synthesis-set-16/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/parameter-sensitivity-robustness-synthesis-set-14/",
+      "status": 200,
+      "elapsed_ms": 1807,
+      "bytes_read": 152411,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Parameter Sensitivity & Robustness Synthesis Set 14",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/parameter-sensitivity-robustness-synthesis-set-14/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/piecewise-functions-continuity-model-selection-synthesis-set-29/",
+      "status": 200,
+      "elapsed_ms": 1732,
+      "bytes_read": 148970,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Piecewise Functions, Continuity & Model Selection Synthesis Set 29",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/piecewise-functions-continuity-model-selection-synthesis-set-29/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/polar-functions-rates-change-synthesis-set-21/",
+      "status": 200,
+      "elapsed_ms": 1713,
+      "bytes_read": 147697,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Polar Functions & Rates of Change Synthesis Set 21",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/polar-functions-rates-change-synthesis-set-21/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/polynomial-rational-asymptotic-behavior-synthesis-set-22/",
+      "status": 200,
+      "elapsed_ms": 1814,
+      "bytes_read": 147448,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Polynomial, Rational & Asymptotic Behavior Synthesis Set 22",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/polynomial-rational-asymptotic-behavior-synthesis-set-22/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/polynomial-transformation-zeros-parameter-estimation-synthesis-set-24/",
+      "status": 200,
+      "elapsed_ms": 1760,
+      "bytes_read": 148174,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Polynomial Transformation, Zeros & Parameter Estimation Synthesis Set 24",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/polynomial-transformation-zeros-parameter-estimation-synthesis-set-24/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/quantitative-reasoning-error-analysis-synthesis-set-9/",
+      "status": 200,
+      "elapsed_ms": 1685,
+      "bytes_read": 150510,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Quantitative Reasoning & Error Analysis Synthesis Set 9",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/quantitative-reasoning-error-analysis-synthesis-set-9/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/rational-equations-extraneous-domain-constraints-synthesis-set-28/",
+      "status": 200,
+      "elapsed_ms": 1666,
+      "bytes_read": 149964,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Rational Equations, Extraneous Solutions & Domain Constraints Synthesis Set 28",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/rational-equations-extraneous-domain-constraints-synthesis-set-28/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/representation-translation-validation-synthesis-set-13/",
+      "status": 200,
+      "elapsed_ms": 1700,
+      "bytes_read": 152693,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Representation Translation & Validation Synthesis Set 13",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/representation-translation-validation-synthesis-set-13/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/tables-differences-function-family-classification-synthesis-set-26/",
+      "status": 200,
+      "elapsed_ms": 2246,
+      "bytes_read": 149801,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Tables, Differences & Function Family Classification Synthesis Set 26",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/tables-differences-function-family-classification-synthesis-set-26/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/trigonometric-modeling-periodic-validation-synthesis-set-20/",
+      "status": 200,
+      "elapsed_ms": 1904,
+      "bytes_read": 150001,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Trigonometric Modeling & Periodic Validation Synthesis Set 20",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/trigonometric-modeling-periodic-validation-synthesis-set-20/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/trigonometric-transformations-equation-solving-synthesis-set-27/",
+      "status": 200,
+      "elapsed_ms": 2324,
+      "bytes_read": 147107,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Trigonometric Transformations & Equation Solving Synthesis Set 27",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/trigonometric-transformations-equation-solving-synthesis-set-27/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/unit-1-mastery-check/",
+      "status": 200,
+      "elapsed_ms": 2249,
+      "bytes_read": 78282,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Unit 1 Mastery Check: Polynomial & Rational Functions",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/unit-1-mastery-check/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/unit-2-mastery-check/",
+      "status": 200,
+      "elapsed_ms": 2005,
+      "bytes_read": 78301,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Unit 2 Mastery Check: Exponential & Logarithmic Functions",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/unit-2-mastery-check/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/unit-3-mastery-check/",
+      "status": 200,
+      "elapsed_ms": 2287,
+      "bytes_read": 78908,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Unit 3 Mastery Check: Trigonometric & Polar Functions",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/unit-3-mastery-check/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/score-calculator/",
+      "status": 200,
+      "elapsed_ms": 1802,
+      "bytes_read": 77244,
+      "issues": [],
+      "title": "AP Precalculus Score Calculator 2027: Section-Weighted Estimate",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/score-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/syllabus/",
+      "status": 200,
+      "elapsed_ms": 1900,
+      "bytes_read": 84264,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Syllabus 2026–27: 58 Official Topics",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/syllabus/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/",
+      "status": 200,
+      "elapsed_ms": 1828,
+      "bytes_read": 80471,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Unit 3: Trigonometric and Polar Functions",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/equivalent-representations-trigonometric-functions/",
+      "status": 200,
+      "elapsed_ms": 1833,
+      "bytes_read": 79761,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Topic 3.12: Equivalent Representations of Trigonometric Functions",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/equivalent-representations-trigonometric-functions/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/inverse-trigonometric-functions/",
+      "status": 200,
+      "elapsed_ms": 1804,
+      "bytes_read": 78844,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Topic 3.9: Inverse Trigonometric Functions",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/inverse-trigonometric-functions/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/periodic-phenomena/",
+      "status": 200,
+      "elapsed_ms": 1821,
+      "bytes_read": 79460,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Topic 3.1: Periodic Phenomena",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/periodic-phenomena/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/polar-function-graphs/",
+      "status": 200,
+      "elapsed_ms": 2126,
+      "bytes_read": 79929,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Topic 3.14: Polar Function Graphs",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/polar-function-graphs/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/rates-of-change-in-polar-functions/",
+      "status": 200,
+      "elapsed_ms": 1693,
+      "bytes_read": 83553,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Topic 3.15: Rates of Change in Polar Functions",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/rates-of-change-in-polar-functions/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/secant-cosecant-cotangent-functions/",
+      "status": 200,
+      "elapsed_ms": 1651,
+      "bytes_read": 79361,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Topic 3.11: The Secant, Cosecant, and Cotangent Functions",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/secant-cosecant-cotangent-functions/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sine-cosine-and-tangent/",
+      "status": 200,
+      "elapsed_ms": 1539,
+      "bytes_read": 79632,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Topic 3.2: Sine, Cosine, and Tangent",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sine-cosine-and-tangent/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sine-cosine-function-graphs/",
+      "status": 200,
+      "elapsed_ms": 1583,
+      "bytes_read": 80595,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Topic 3.4: Sine and Cosine Function Graphs",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sine-cosine-function-graphs/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sine-cosine-function-values/",
+      "status": 200,
+      "elapsed_ms": 1700,
+      "bytes_read": 80671,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Topic 3.3: Sine and Cosine Function Values",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sine-cosine-function-values/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sinusoidal-function-context-data-modeling/",
+      "status": 200,
+      "elapsed_ms": 1599,
+      "bytes_read": 81574,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Topic 3.7: Sinusoidal Function Context and Data Modeling",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sinusoidal-function-context-data-modeling/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sinusoidal-function-transformations/",
+      "status": 200,
+      "elapsed_ms": 1671,
+      "bytes_read": 81228,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Topic 3.6: Sinusoidal Function Transformations",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sinusoidal-function-transformations/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sinusoidal-functions/",
+      "status": 200,
+      "elapsed_ms": 1651,
+      "bytes_read": 80248,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Topic 3.5: Sinusoidal Functions",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sinusoidal-functions/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/the-tangent-function/",
+      "status": 200,
+      "elapsed_ms": 1487,
+      "bytes_read": 79694,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Topic 3.8: The Tangent Function",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/the-tangent-function/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/trigonometric-equations-and-inequalities/",
+      "status": 200,
+      "elapsed_ms": 1575,
+      "bytes_read": 79415,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Topic 3.10: Trigonometric Equations and Inequalities",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/trigonometric-equations-and-inequalities/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/trigonometry-and-polar-coordinates/",
+      "status": 200,
+      "elapsed_ms": 1672,
+      "bytes_read": 79995,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Topic 3.13: Trigonometry and Polar Coordinates",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/trigonometry-and-polar-coordinates/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/units/",
+      "status": 200,
+      "elapsed_ms": 1578,
+      "bytes_read": 81166,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Precalculus Units 2027: All 4 Units & 58 Topics",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/units/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/appliance-energy-cost-calculator/",
+      "status": 200,
+      "elapsed_ms": 2023,
+      "bytes_read": 81468,
+      "issues": [],
+      "title": "Appliance Energy Cost Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/appliance-energy-cost-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/aquarium-dose-calculator/",
+      "status": 200,
+      "elapsed_ms": 2014,
+      "bytes_read": 80871,
+      "issues": [],
+      "title": "Aquarium Dosing Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/aquarium-dose-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/aquarium-salinity-calculator/",
+      "status": 200,
+      "elapsed_ms": 2350,
+      "bytes_read": 79841,
+      "issues": [],
+      "title": "Aquarium Salinity Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/aquarium-salinity-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/aquarium-volume-calculator/",
+      "status": 200,
+      "elapsed_ms": 6659,
+      "bytes_read": 84762,
+      "issues": [],
+      "title": "Aquarium Volume Calculator: Formula, Units & Results",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/aquarium-volume-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ar-model/",
+      "status": 200,
+      "elapsed_ms": 728,
+      "bytes_read": 174304,
+      "issues": [],
+      "title": "AR Model: Formula, Worked Example & Interpretation",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ar-model/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/arch-test/",
+      "status": 200,
+      "elapsed_ms": 1244,
+      "bytes_read": 173906,
+      "issues": [],
+      "title": "ARCH Test: Formula, Worked Example & Interpretation",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/arch-test/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/area-between-curves-calculator/",
+      "status": 200,
+      "elapsed_ms": 3629,
+      "bytes_read": 77285,
+      "issues": [],
+      "title": "Area Under Curve Calculator: Formula, Steps & Results",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/area-between-curves-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/area-calculator/",
+      "status": 200,
+      "elapsed_ms": 5405,
+      "bytes_read": 80618,
+      "issues": [],
+      "title": "Area Calculator: 10 Shapes, Perimeter & Unit Conversion",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/area-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/arima-model/",
+      "status": 200,
+      "elapsed_ms": 809,
+      "bytes_read": 175230,
+      "issues": [],
+      "title": "ARIMA Model: Formula, Worked Example & Interpretation",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/arima-model/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/aristocrat-cipher-solver/",
+      "status": 200,
+      "elapsed_ms": 814,
+      "bytes_read": 75377,
+      "issues": [],
+      "title": "Aristocrat Cipher Solver | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/aristocrat-cipher-solver/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/arma-model/",
+      "status": 200,
+      "elapsed_ms": 808,
+      "bytes_read": 169041,
+      "issues": [],
+      "title": "ARMA Model: Formula, Worked Example & Interpretation",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/arma-model/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/arrhenius-rate-calculator/",
+      "status": 200,
+      "elapsed_ms": 3626,
+      "bytes_read": 82435,
+      "issues": [],
+      "title": "Arrhenius Equation Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/arrhenius-rate-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/arrow-spine-calculator/",
+      "status": 200,
+      "elapsed_ms": 324,
+      "bytes_read": 81821,
+      "issues": [],
+      "title": "Arrow Spine Calculator with FOC and Arrow Weight",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/arrow-spine-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/asbestos-abatement-cost-calculator/",
+      "status": 200,
+      "elapsed_ms": 3253,
+      "bytes_read": 77665,
+      "issues": [],
+      "title": "Asbestos Abatement Cost Calculator | U.S. Estimator",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/asbestos-abatement-cost-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/aspect-ratio-calculator/",
+      "status": 200,
+      "elapsed_ms": 3344,
+      "bytes_read": 83879,
+      "issues": [],
+      "title": "Aspect Ratio Calculator: Formula & Results",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/aspect-ratio-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/asphalt-calculator/",
+      "status": 200,
+      "elapsed_ms": 2314,
+      "bytes_read": 81956,
+      "issues": [],
+      "title": "Asphalt Calculator for Tons, Truckloads and Cost",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/asphalt-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/atbash-cipher-calculator/",
+      "status": 200,
+      "elapsed_ms": 682,
+      "bytes_read": 74930,
+      "issues": [],
+      "title": "Atbash Cipher Calculator | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/atbash-cipher-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/atom-economy-calculator/",
+      "status": 200,
+      "elapsed_ms": 3556,
+      "bytes_read": 80219,
+      "issues": [],
+      "title": "Atom Economy Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/atom-economy-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/attic-ventilation-calculator/",
+      "status": 200,
+      "elapsed_ms": 2415,
+      "bytes_read": 82637,
+      "issues": [],
+      "title": "Attic Ventilation Calculator: Net Free Area and Vent Count",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/attic-ventilation-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/audio-file-size-calculator/",
+      "status": 200,
+      "elapsed_ms": 1974,
+      "bytes_read": 83278,
+      "issues": [],
+      "title": "Audio File Size Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/audio-file-size-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/augmented-dickey-fuller-test/",
+      "status": 200,
+      "elapsed_ms": 612,
+      "bytes_read": 175338,
+      "issues": [],
+      "title": "Augmented Dickey Fuller Test: Formula, Results & Guide",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/augmented-dickey-fuller-test/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/auto-glass-business-roi-calculator/",
+      "status": 200,
+      "elapsed_ms": 1795,
+      "bytes_read": 75662,
+      "issues": [],
+      "title": "Auto Glass Business ROI Calculator: Formula, Units & Results",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/auto-glass-business-roi-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     }
   ]
 }
