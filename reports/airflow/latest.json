@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-20",
-  "generated_utc": "2026-10-20T08:34:49.915116+00:00",
+  "date": "2026-10-21",
+  "generated_utc": "2026-10-21T08:36:44.190927+00:00",
   "website": "https://onlineinternetcafe.com",
   "catalog_url_count": 3266,
-  "catalog_generated_utc": "2026-10-20T07:39:52+00:00",
+  "catalog_generated_utc": "2026-10-21T07:44:34+00:00",
   "catalog_warnings": [],
-  "batch_slot": 5,
+  "batch_slot": 6,
   "batch_count": 28,
   "checked": 125,
   "http_200": 125,
-  "flagged": 68,
+  "flagged": 1,
   "issue_counts": {
-    "missing_h1": 68
+    "multiple_h1": 1
   },
   "wordpress": {
     "pages": 2525,
@@ -20,12 +20,12 @@
   "ga4": {
     "status": "not_configured"
   },
-  "previous_report_date": "2026-10-19",
+  "previous_report_date": "2026-10-20",
   "pages": [
     {
       "url": "https://onlineinternetcafe.com/",
       "status": 200,
-      "elapsed_ms": 419,
+      "elapsed_ms": 174,
       "bytes_read": 90145,
       "issues": [],
       "title": "Statistical Analysis Online: Free Tools & Guides | Salar Cafe",
@@ -37,7 +37,7 @@
     {
       "url": "https://onlineinternetcafe.com/statistical-calculators/",
       "status": 200,
-      "elapsed_ms": 369,
+      "elapsed_ms": 318,
       "bytes_read": 1817982,
       "issues": [],
       "title": "Free Online Statistical Calculators & Analysis Studio",
@@ -49,7 +49,7 @@
     {
       "url": "https://onlineinternetcafe.com/web-calculators/",
       "status": 200,
-      "elapsed_ms": 318,
+      "elapsed_ms": 293,
       "bytes_read": 98168,
       "issues": [],
       "title": "Web Calculators | Salar Cafe",
@@ -61,7 +61,7 @@
     {
       "url": "https://onlineinternetcafe.com/ap-score-calculator/",
       "status": 200,
-      "elapsed_ms": 906,
+      "elapsed_ms": 70,
       "bytes_read": 95489,
       "issues": [],
       "title": "AP Score Calculator 2027: 40 Subject Guides | Salar Cafe",
@@ -73,7 +73,7 @@
     {
       "url": "https://onlineinternetcafe.com/differential-equation-solver/",
       "status": 200,
-      "elapsed_ms": 327,
+      "elapsed_ms": 579,
       "bytes_read": 73620,
       "issues": [],
       "title": "Differential Equation Solver: ODE, PDE & Derivatives",
@@ -83,1578 +83,1444 @@
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-methods-control-collections-set-13/",
+      "url": "https://onlineinternetcafe.com/auto-glass-lead-conversion-calculator/",
       "status": 200,
-      "elapsed_ms": 1756,
-      "bytes_read": 138283,
+      "elapsed_ms": 6800,
+      "bytes_read": 75590,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 13: Methods, Control & Collections Integration - Salar Cafe",
+      "title": "Auto Glass Lead Conversion Calculator",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-methods-control-collections-set-13/",
+      "canonical": "https://onlineinternetcafe.com/auto-glass-lead-conversion-calculator/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-mixed-frq-design-algorithm-reasoning-set-11/",
+      "url": "https://onlineinternetcafe.com/auto-glass-repair-pricing-calculator/",
       "status": 200,
-      "elapsed_ms": 1636,
-      "bytes_read": 138277,
+      "elapsed_ms": 5654,
+      "bytes_read": 76518,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 11: Mixed FRQ Design & Algorithm Reasoning - Salar Cafe",
+      "title": "Auto Glass Repair Pricing Calculator",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-mixed-frq-design-algorithm-reasoning-set-11/",
+      "canonical": "https://onlineinternetcafe.com/auto-glass-repair-pricing-calculator/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-nested-traversal-data-aggregation-set-21/",
+      "url": "https://onlineinternetcafe.com/autocorrelation-function/",
       "status": 200,
-      "elapsed_ms": 1753,
-      "bytes_read": 140431,
+      "elapsed_ms": 304,
+      "bytes_read": 177857,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 21: Nested Traversal & Data Aggregation - Salar Cafe",
+      "title": "Autocorrelation Function: Formula, Results & Guide",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-nested-traversal-data-aggregation-set-21/",
+      "canonical": "https://onlineinternetcafe.com/autocorrelation-function/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-object-collaboration-collection-processing-set-17/",
+      "url": "https://onlineinternetcafe.com/autocorrelation-test/",
       "status": 200,
-      "elapsed_ms": 1960,
-      "bytes_read": 141077,
+      "elapsed_ms": 315,
+      "bytes_read": 133874,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 17: Object Collaboration & Collection Processing - Salar Cafe",
+      "title": "Autocorrelation Test: Formula, Interpretation, SPSS, Python, R and Excel Guide - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-object-collaboration-collection-processing-set-17/",
+      "canonical": "https://onlineinternetcafe.com/autocorrelation-test/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-object-collaboration-encapsulation-data-collections-set-28/",
+      "url": "https://onlineinternetcafe.com/autokey-cipher-calculator/",
       "status": 200,
-      "elapsed_ms": 1864,
-      "bytes_read": 140322,
+      "elapsed_ms": 325,
+      "bytes_read": 75014,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Set 28: Object Collaboration, Encapsulation & Data Collections - Salar Cafe",
+      "title": "Autokey Cipher Calculator | Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-object-collaboration-encapsulation-data-collections-set-28/",
+      "canonical": "https://onlineinternetcafe.com/autokey-cipher-calculator/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-recursive-reasoning-collection-processing-set-27/",
+      "url": "https://onlineinternetcafe.com/autokey-decipher-calculator/",
       "status": 200,
-      "elapsed_ms": 1582,
-      "bytes_read": 138259,
+      "elapsed_ms": 296,
+      "bytes_read": 75479,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Set 27: Recursive Reasoning & Collection Processing - Salar Cafe",
+      "title": "Autokey Decipher Calculator | Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-recursive-reasoning-collection-processing-set-27/",
+      "canonical": "https://onlineinternetcafe.com/autokey-decipher-calculator/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-search-sort-data-representation-set-19/",
+      "url": "https://onlineinternetcafe.com/average-atomic-mass-calculator/",
       "status": 200,
-      "elapsed_ms": 1597,
-      "bytes_read": 141093,
+      "elapsed_ms": 3383,
+      "bytes_read": 83048,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 19: Search, Sort & Data Representation - Salar Cafe",
+      "title": "Average Atomic Mass Calculator: Calculator and Guide",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-search-sort-data-representation-set-19/",
+      "canonical": "https://onlineinternetcafe.com/average-atomic-mass-calculator/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-searching-sorting-recursion-set-7/",
+      "url": "https://onlineinternetcafe.com/average-variance-extracted/",
       "status": 200,
-      "elapsed_ms": 1587,
-      "bytes_read": 135872,
+      "elapsed_ms": 706,
+      "bytes_read": 165155,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 7: Searching, Sorting & Recursion - Salar Cafe",
+      "title": "Average Variance Extracted: Results & Interpretation",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-searching-sorting-recursion-set-7/",
+      "canonical": "https://onlineinternetcafe.com/average-variance-extracted/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-simulation-invariants-data-structures-set-24/",
+      "url": "https://onlineinternetcafe.com/bac-calculator/",
       "status": 200,
-      "elapsed_ms": 1696,
-      "bytes_read": 140690,
+      "elapsed_ms": 3059,
+      "bytes_read": 78972,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 24: Simulation, Invariants & Data Structures - Salar Cafe",
+      "title": "BAC Calculator with Drink Size, ABV and Time",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-simulation-invariants-data-structures-set-24/",
+      "canonical": "https://onlineinternetcafe.com/bac-calculator/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-specification-testing-debugging-set-9/",
+      "url": "https://onlineinternetcafe.com/backfill-volume-calculator/",
       "status": 200,
-      "elapsed_ms": 1654,
-      "bytes_read": 137408,
+      "elapsed_ms": 5244,
+      "bytes_read": 83579,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 9: Specification, Testing & Debugging - Salar Cafe",
+      "title": "Backfill Volume Calculator: Formula, Units & Steps",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-specification-testing-debugging-set-9/",
+      "canonical": "https://onlineinternetcafe.com/backfill-volume-calculator/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-specification-testing-refactoring-set-20/",
+      "url": "https://onlineinternetcafe.com/backsplash-tile-calculator/",
       "status": 200,
-      "elapsed_ms": 1721,
-      "bytes_read": 139195,
+      "elapsed_ms": 3821,
+      "bytes_read": 85406,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 20: Specification, Testing & Refactoring - Salar Cafe",
+      "title": "Backsplash Tile Calculator: Formula, Units & Steps",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-specification-testing-refactoring-set-20/",
+      "canonical": "https://onlineinternetcafe.com/backsplash-tile-calculator/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-static-instance-overloading-method-selection-set-34/",
+      "url": "https://onlineinternetcafe.com/baconian-cipher-calculator/",
       "status": 200,
-      "elapsed_ms": 1501,
-      "bytes_read": 138353,
+      "elapsed_ms": 890,
+      "bytes_read": 75491,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Set 34: Static vs Instance Methods, Overloading & Method Selection - Salar Cafe",
+      "title": "Baconian Cipher Calculator | Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-static-instance-overloading-method-selection-set-34/",
+      "canonical": "https://onlineinternetcafe.com/baconian-cipher-calculator/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-string-algorithms-nested-iteration-robust-testing-set-29/",
+      "url": "https://onlineinternetcafe.com/baconian-decipher-calculator/",
       "status": 200,
-      "elapsed_ms": 1617,
-      "bytes_read": 137748,
+      "elapsed_ms": 731,
+      "bytes_read": 75977,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Set 29: String Algorithms, Nested Iteration & Robust Testing - Salar Cafe",
+      "title": "Baconian Decipher Calculator | Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-string-algorithms-nested-iteration-robust-testing-set-29/",
+      "canonical": "https://onlineinternetcafe.com/baconian-decipher-calculator/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-strings-control-structures-set-3/",
+      "url": "https://onlineinternetcafe.com/bacterial-growth-calculator/",
       "status": 200,
-      "elapsed_ms": 1630,
-      "bytes_read": 136342,
+      "elapsed_ms": 5445,
+      "bytes_read": 80105,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 3: Strings & Control Structures - Salar Cafe",
+      "title": "Bacterial Growth Calculator: Formula, Units & Steps",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-strings-control-structures-set-3/",
+      "canonical": "https://onlineinternetcafe.com/bacterial-growth-calculator/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-traversal-mutation-correctness-set-16/",
+      "url": "https://onlineinternetcafe.com/bakers-percentage-calculator/",
       "status": 200,
-      "elapsed_ms": 1685,
-      "bytes_read": 140818,
+      "elapsed_ms": 3764,
+      "bytes_read": 80556,
       "issues": [],
-      "title": "AP Computer Science A Coding Playground Practice Set 16: Traversal, Mutation & Correctness - Salar Cafe",
+      "title": "Baker's Percentage Calculator: Formula, Units & Steps",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/coding-playground-traversal-mutation-correctness-set-16/",
+      "canonical": "https://onlineinternetcafe.com/bakers-percentage-calculator/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/frq-blueprint-lab/",
+      "url": "https://onlineinternetcafe.com/baking-pan-volume-calculator/",
       "status": 200,
-      "elapsed_ms": 1687,
-      "bytes_read": 67855,
+      "elapsed_ms": 4280,
+      "bytes_read": 81169,
       "issues": [],
-      "title": "AP Computer Science A FRQ Blueprint Practice 2027 - Salar Cafe",
+      "title": "Baking Pan Volume Calculator: Formula, Units & Steps",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/frq-blueprint-lab/",
+      "canonical": "https://onlineinternetcafe.com/baking-pan-volume-calculator/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/mixed-diagnostic/",
+      "url": "https://onlineinternetcafe.com/baking-soda-pool-calculator/",
       "status": 200,
-      "elapsed_ms": 2804,
-      "bytes_read": 124494,
+      "elapsed_ms": 2273,
+      "bytes_read": 76551,
       "issues": [],
-      "title": "AP Computer Science A Mixed Diagnostic: Units 1–4 - Salar Cafe",
+      "title": "Baking Soda Pool Calculator: Formula, Steps & Results",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/mixed-diagnostic/",
+      "canonical": "https://onlineinternetcafe.com/baking-soda-pool-calculator/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/timed-frq-practice-set-1/",
+      "url": "https://onlineinternetcafe.com/balanced-anova-formula-equal-group-sizes-spss-python-r-and-excel-guide/",
       "status": 200,
-      "elapsed_ms": 1864,
-      "bytes_read": 106447,
+      "elapsed_ms": 296,
+      "bytes_read": 140541,
       "issues": [],
-      "title": "AP Computer Science A Timed FRQ Practice Set 1 - Salar Cafe",
+      "title": "Balanced ANOVA: Formula, Equal Group Sizes, SPSS, Python, R and Excel Guide - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/timed-frq-practice-set-1/",
+      "canonical": "https://onlineinternetcafe.com/balanced-anova-formula-equal-group-sizes-spss-python-r-and-excel-guide/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/timed-frq-practice-set-2/",
+      "url": "https://onlineinternetcafe.com/balanced-anova/",
       "status": 200,
-      "elapsed_ms": 1806,
-      "bytes_read": 105570,
+      "elapsed_ms": 790,
+      "bytes_read": 139521,
       "issues": [],
-      "title": "AP Computer Science A Timed FRQ Practice Set 2 - Salar Cafe",
+      "title": "Balanced ANOVA: Formula, Equal Group Sizes, SPSS, Python, R and Excel Guide - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/timed-frq-practice-set-2/",
+      "canonical": "https://onlineinternetcafe.com/balanced-anova/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/timed-frq-practice-set-3/",
+      "url": "https://onlineinternetcafe.com/baluster-spacing-calculator/",
       "status": 200,
-      "elapsed_ms": 1693,
-      "bytes_read": 104831,
+      "elapsed_ms": 2803,
+      "bytes_read": 86447,
       "issues": [],
-      "title": "AP Computer Science A Timed FRQ Practice Set 3 - Salar Cafe",
+      "title": "Baluster Spacing Calculator – Stair, Deck & Templates",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/practice/timed-frq-practice-set-3/",
+      "canonical": "https://onlineinternetcafe.com/baluster-spacing-calculator/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/reference-guide/",
+      "url": "https://onlineinternetcafe.com/bark-mulch-calculator/",
       "status": 200,
-      "elapsed_ms": 1667,
-      "bytes_read": 70046,
+      "elapsed_ms": 303,
+      "bytes_read": 83481,
       "issues": [],
-      "title": "AP Computer Science A Reference Guide 2027 - Salar Cafe",
+      "title": "Bark Mulch Calculator: Coverage, Bags, Yards & Cost",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/reference-guide/",
+      "canonical": "https://onlineinternetcafe.com/bark-mulch-calculator/",
       "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/reference-guide/java-quick-reference-mastery/",
-      "status": 200,
-      "elapsed_ms": 1687,
-      "bytes_read": 114371,
-      "issues": [],
-      "title": "AP Computer Science A Java Quick Reference Mastery 2027 - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/reference-guide/java-quick-reference-mastery/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/units/",
-      "status": 200,
-      "elapsed_ms": 1967,
-      "bytes_read": 69983,
-      "issues": [],
-      "title": "AP Computer Science A Units 2027: Complete Course Map - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/units/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/units/unit-1-using-objects-methods/",
-      "status": 200,
-      "elapsed_ms": 1700,
-      "bytes_read": 71147,
-      "issues": [],
-      "title": "AP Computer Science A Unit 1: Using Objects and Methods — Complete Lesson & Practice - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/units/unit-1-using-objects-methods/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/units/unit-2-selection-iteration/",
-      "status": 200,
-      "elapsed_ms": 1714,
-      "bytes_read": 69836,
-      "issues": [],
-      "title": "AP Computer Science A Unit 2: Selection and Iteration - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/units/unit-2-selection-iteration/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/units/unit-3-class-creation/",
-      "status": 200,
-      "elapsed_ms": 1751,
-      "bytes_read": 69713,
-      "issues": [],
-      "title": "AP Computer Science A Unit 3: Class Creation - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/units/unit-3-class-creation/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-computer-science-a/units/unit-4-data-collections/",
-      "status": 200,
-      "elapsed_ms": 1759,
-      "bytes_read": 116897,
-      "issues": [],
-      "title": "AP Computer Science A Unit 4: Data Collections — Complete Lesson & Practice - Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-computer-science-a/units/unit-4-data-collections/",
-      "description_present": true,
-      "robots": "index,follow,max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/",
-      "status": 200,
-      "elapsed_ms": 1701,
-      "bytes_read": 82278,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus 2027: Complete Study Guide, Functions & Practice",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/calculator-policy/",
-      "status": 200,
-      "elapsed_ms": 1745,
-      "bytes_read": 78161,
-      "issues": [],
-      "title": "AP Precalculus Calculator Policy 2027: When a Graphing Calculator Is Required",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/calculator-policy/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exam-date/",
-      "status": 200,
-      "elapsed_ms": 1623,
-      "bytes_read": 76863,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Exam Date 2027: May 11, Session 1",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/exam-date/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exam-format/",
-      "status": 200,
-      "elapsed_ms": 1738,
-      "bytes_read": 79985,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Exam Format 2027: 42 MCQs, 4 FRQs & Calculator Split",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/exam-format/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exam-length/",
-      "status": 200,
-      "elapsed_ms": 1743,
-      "bytes_read": 77296,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "How Long Is the AP Precalculus Exam 2027? Timing & Pacing",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/exam-length/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/",
-      "status": 200,
-      "elapsed_ms": 1626,
-      "bytes_read": 80725,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Unit 2: Exponential and Logarithmic Functions",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/competing-function-model-validation/",
-      "status": 200,
-      "elapsed_ms": 1750,
-      "bytes_read": 92606,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus 2.6 Competing Function Model Validation: Residuals & Regression",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/competing-function-model-validation/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/exponential-logarithmic-equations-inequalities/",
-      "status": 200,
-      "elapsed_ms": 1745,
-      "bytes_read": 87821,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus 2.13 Exponential & Logarithmic Equations and Inequalities",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/exponential-logarithmic-equations-inequalities/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/logarithmic-function-context-data-modeling/",
-      "status": 200,
-      "elapsed_ms": 1693,
-      "bytes_read": 95334,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus 2.14 Logarithmic Function Context & Data Modeling",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/logarithmic-function-context-data-modeling/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/logarithmic-function-manipulation/",
-      "status": 200,
-      "elapsed_ms": 1697,
-      "bytes_read": 82263,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus 2.12: Logarithmic Function Manipulation",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/logarithmic-function-manipulation/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/semi-log-plots/",
-      "status": 200,
-      "elapsed_ms": 1636,
-      "bytes_read": 88283,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus 2.15 Semi-Log Plots: Graphs, Models & Practice",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/exponential-logarithmic-functions/semi-log-plots/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/formula-reference/",
-      "status": 200,
-      "elapsed_ms": 1697,
-      "bytes_read": 80344,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Formula & Function Reference Guide 2027",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/formula-reference/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/modeling-labs/",
-      "status": 200,
-      "elapsed_ms": 1756,
-      "bytes_read": 79847,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Full Graphing Calculator & Function Explorer",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/modeling-labs/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/parameters-vectors-matrices/",
-      "status": 200,
-      "elapsed_ms": 1693,
-      "bytes_read": 79955,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Unit 4: Parameters, Vectors, and Matrices",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/parameters-vectors-matrices/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/polynomial-rational-functions/",
-      "status": 200,
-      "elapsed_ms": 1785,
-      "bytes_read": 80241,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Unit 1: Polynomial and Rational Functions",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/polynomial-rational-functions/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/polynomial-rational-functions/function-model-construction-and-application/",
-      "status": 200,
-      "elapsed_ms": 1793,
-      "bytes_read": 99186,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus 1.14 Function Model Construction & Application",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/polynomial-rational-functions/function-model-construction-and-application/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/polynomial-rational-functions/function-model-selection-and-assumption-articulation/",
-      "status": 200,
-      "elapsed_ms": 1694,
-      "bytes_read": 94441,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus 1.13 Function Model Selection & Assumptions",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/polynomial-rational-functions/function-model-selection-and-assumption-articulation/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/",
-      "status": 200,
-      "elapsed_ms": 1670,
-      "bytes_read": 124453,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Practice Test 2027: Topic Practice & Diagnostics",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/assessed-units-1-3-mixed-synthesis-set-1/",
-      "status": 200,
-      "elapsed_ms": 1850,
-      "bytes_read": 149123,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Assessed Units 1–3 Mixed Synthesis Set 1",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/assessed-units-1-3-mixed-synthesis-set-1/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/assessed-units-1-3-mixed-synthesis-set-2/",
-      "status": 200,
-      "elapsed_ms": 2406,
-      "bytes_read": 147729,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Assessed Units 1–3 Mixed Synthesis Set 2",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/assessed-units-1-3-mixed-synthesis-set-2/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/assessed-units-1-3-mixed-synthesis-set-3/",
-      "status": 200,
-      "elapsed_ms": 2151,
-      "bytes_read": 150968,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Assessed Units 1–3 Mixed Synthesis Set 3",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/assessed-units-1-3-mixed-synthesis-set-3/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/assessed-units-1-3-mixed-synthesis-set-4/",
-      "status": 200,
-      "elapsed_ms": 2295,
-      "bytes_read": 149456,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Assessed Units 1–3 Mixed Synthesis Set 4",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/assessed-units-1-3-mixed-synthesis-set-4/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/composition-inverse-domain-synthesis-set-18/",
-      "status": 200,
-      "elapsed_ms": 2346,
-      "bytes_read": 151519,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Composition, Inverses & Domain Reasoning Synthesis Set 18",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/composition-inverse-domain-synthesis-set-18/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/decision-justification-synthesis-set-11/",
-      "status": 200,
-      "elapsed_ms": 1859,
-      "bytes_read": 151060,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Decision & Justification Synthesis Set 11",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/decision-justification-synthesis-set-11/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/evidence-assumptions-communication-synthesis-set-10/",
-      "status": 200,
-      "elapsed_ms": 1874,
-      "bytes_read": 152728,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Evidence, Assumptions & Communication Synthesis Set 10",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/evidence-assumptions-communication-synthesis-set-10/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/exponential-growth-logarithmic-scales-data-linearization-synthesis-set-23/",
-      "status": 200,
-      "elapsed_ms": 1840,
-      "bytes_read": 149568,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Exponential Growth, Logarithmic Scales & Data Linearization Synthesis Set 23",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/exponential-growth-logarithmic-scales-data-linearization-synthesis-set-23/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/exponential-logarithmic-model-validation-synthesis-set-19/",
-      "status": 200,
-      "elapsed_ms": 2400,
-      "bytes_read": 150832,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Exponential, Logarithmic & Model Validation Synthesis Set 19",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/exponential-logarithmic-model-validation-synthesis-set-19/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/frq-practice/",
-      "status": 200,
-      "elapsed_ms": 1917,
-      "bytes_read": 83720,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus FRQ Practice 2027: Original Free-Response Questions",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/frq-practice/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/function-families-parameter-inference-synthesis-set-7/",
-      "status": 200,
-      "elapsed_ms": 2072,
-      "bytes_read": 151493,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Function Families & Parameter Inference Synthesis Set 7",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/function-families-parameter-inference-synthesis-set-7/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/graphical-numerical-algebraic-reasoning-synthesis-set-6/",
-      "status": 200,
-      "elapsed_ms": 2132,
-      "bytes_read": 150687,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Graphical, Numerical & Algebraic Reasoning Synthesis Set 6",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/graphical-numerical-algebraic-reasoning-synthesis-set-6/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/inverse-trigonometric-reasoning-restricted-domains-synthesis-set-25/",
-      "status": 200,
-      "elapsed_ms": 2593,
-      "bytes_read": 148251,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Inverse Trigonometric Reasoning & Restricted Domains Synthesis Set 25",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/inverse-trigonometric-reasoning-restricted-domains-synthesis-set-25/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/mcq-practice/",
-      "status": 200,
-      "elapsed_ms": 1748,
-      "bytes_read": 80565,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus MCQ Practice 2027: Original Questions with Explanations",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/mcq-practice/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/model-comparison-constraints-synthesis-set-8/",
-      "status": 200,
-      "elapsed_ms": 1879,
-      "bytes_read": 151324,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Model Comparison & Constraint Reasoning Synthesis Set 8",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/model-comparison-constraints-synthesis-set-8/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/model-diagnostics-decision-thresholds-synthesis-set-15/",
-      "status": 200,
-      "elapsed_ms": 2036,
-      "bytes_read": 150085,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Model Diagnostics & Decision Thresholds Synthesis Set 15",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/model-diagnostics-decision-thresholds-synthesis-set-15/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/model-reconciliation-assumption-stress-test-synthesis-set-17/",
-      "status": 200,
-      "elapsed_ms": 1951,
-      "bytes_read": 152531,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Model Reconciliation & Assumption Stress-Test Synthesis Set 17",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/model-reconciliation-assumption-stress-test-synthesis-set-17/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/model-selection-under-constraints-synthesis-set-12/",
-      "status": 200,
-      "elapsed_ms": 1758,
-      "bytes_read": 151567,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Model Selection Under Constraints Synthesis Set 12",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/model-selection-under-constraints-synthesis-set-12/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/modeling-technology-reasoning-synthesis-set-5/",
-      "status": 200,
-      "elapsed_ms": 1803,
-      "bytes_read": 147736,
-      "issues": [],
-      "title": "AP Precalculus Modeling & Technology Reasoning Synthesis Set 5",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/modeling-technology-reasoning-synthesis-set-5/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/multi-representation-error-detection-synthesis-set-16/",
-      "status": 200,
-      "elapsed_ms": 1711,
-      "bytes_read": 152433,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Multi-Representation Error Detection Synthesis Set 16",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/multi-representation-error-detection-synthesis-set-16/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/parameter-sensitivity-robustness-synthesis-set-14/",
-      "status": 200,
-      "elapsed_ms": 1807,
-      "bytes_read": 152411,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Parameter Sensitivity & Robustness Synthesis Set 14",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/parameter-sensitivity-robustness-synthesis-set-14/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/piecewise-functions-continuity-model-selection-synthesis-set-29/",
-      "status": 200,
-      "elapsed_ms": 1732,
-      "bytes_read": 148970,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Piecewise Functions, Continuity & Model Selection Synthesis Set 29",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/piecewise-functions-continuity-model-selection-synthesis-set-29/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/polar-functions-rates-change-synthesis-set-21/",
-      "status": 200,
-      "elapsed_ms": 1713,
-      "bytes_read": 147697,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Polar Functions & Rates of Change Synthesis Set 21",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/polar-functions-rates-change-synthesis-set-21/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/polynomial-rational-asymptotic-behavior-synthesis-set-22/",
-      "status": 200,
-      "elapsed_ms": 1814,
-      "bytes_read": 147448,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Polynomial, Rational & Asymptotic Behavior Synthesis Set 22",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/polynomial-rational-asymptotic-behavior-synthesis-set-22/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/polynomial-transformation-zeros-parameter-estimation-synthesis-set-24/",
-      "status": 200,
-      "elapsed_ms": 1760,
-      "bytes_read": 148174,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Polynomial Transformation, Zeros & Parameter Estimation Synthesis Set 24",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/polynomial-transformation-zeros-parameter-estimation-synthesis-set-24/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/quantitative-reasoning-error-analysis-synthesis-set-9/",
-      "status": 200,
-      "elapsed_ms": 1685,
-      "bytes_read": 150510,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Quantitative Reasoning & Error Analysis Synthesis Set 9",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/quantitative-reasoning-error-analysis-synthesis-set-9/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/rational-equations-extraneous-domain-constraints-synthesis-set-28/",
-      "status": 200,
-      "elapsed_ms": 1666,
-      "bytes_read": 149964,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Rational Equations, Extraneous Solutions & Domain Constraints Synthesis Set 28",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/rational-equations-extraneous-domain-constraints-synthesis-set-28/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/representation-translation-validation-synthesis-set-13/",
-      "status": 200,
-      "elapsed_ms": 1700,
-      "bytes_read": 152693,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Representation Translation & Validation Synthesis Set 13",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/representation-translation-validation-synthesis-set-13/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/tables-differences-function-family-classification-synthesis-set-26/",
-      "status": 200,
-      "elapsed_ms": 2246,
-      "bytes_read": 149801,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Tables, Differences & Function Family Classification Synthesis Set 26",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/tables-differences-function-family-classification-synthesis-set-26/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/trigonometric-modeling-periodic-validation-synthesis-set-20/",
-      "status": 200,
-      "elapsed_ms": 1904,
-      "bytes_read": 150001,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Trigonometric Modeling & Periodic Validation Synthesis Set 20",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/trigonometric-modeling-periodic-validation-synthesis-set-20/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/trigonometric-transformations-equation-solving-synthesis-set-27/",
-      "status": 200,
-      "elapsed_ms": 2324,
-      "bytes_read": 147107,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Trigonometric Transformations & Equation Solving Synthesis Set 27",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/trigonometric-transformations-equation-solving-synthesis-set-27/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/unit-1-mastery-check/",
-      "status": 200,
-      "elapsed_ms": 2249,
-      "bytes_read": 78282,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Unit 1 Mastery Check: Polynomial & Rational Functions",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/unit-1-mastery-check/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/unit-2-mastery-check/",
-      "status": 200,
-      "elapsed_ms": 2005,
-      "bytes_read": 78301,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Unit 2 Mastery Check: Exponential & Logarithmic Functions",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/unit-2-mastery-check/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/unit-3-mastery-check/",
-      "status": 200,
-      "elapsed_ms": 2287,
-      "bytes_read": 78908,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Unit 3 Mastery Check: Trigonometric & Polar Functions",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/practice-test/unit-3-mastery-check/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/score-calculator/",
-      "status": 200,
-      "elapsed_ms": 1802,
-      "bytes_read": 77244,
-      "issues": [],
-      "title": "AP Precalculus Score Calculator 2027: Section-Weighted Estimate",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/score-calculator/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/syllabus/",
-      "status": 200,
-      "elapsed_ms": 1900,
-      "bytes_read": 84264,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Syllabus 2026–27: 58 Official Topics",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/syllabus/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/",
-      "status": 200,
-      "elapsed_ms": 1828,
-      "bytes_read": 80471,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Unit 3: Trigonometric and Polar Functions",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/equivalent-representations-trigonometric-functions/",
-      "status": 200,
-      "elapsed_ms": 1833,
-      "bytes_read": 79761,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Topic 3.12: Equivalent Representations of Trigonometric Functions",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/equivalent-representations-trigonometric-functions/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/inverse-trigonometric-functions/",
-      "status": 200,
-      "elapsed_ms": 1804,
-      "bytes_read": 78844,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Topic 3.9: Inverse Trigonometric Functions",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/inverse-trigonometric-functions/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/periodic-phenomena/",
-      "status": 200,
-      "elapsed_ms": 1821,
-      "bytes_read": 79460,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Topic 3.1: Periodic Phenomena",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/periodic-phenomena/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/polar-function-graphs/",
-      "status": 200,
-      "elapsed_ms": 2126,
-      "bytes_read": 79929,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Topic 3.14: Polar Function Graphs",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/polar-function-graphs/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/rates-of-change-in-polar-functions/",
-      "status": 200,
-      "elapsed_ms": 1693,
-      "bytes_read": 83553,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Topic 3.15: Rates of Change in Polar Functions",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/rates-of-change-in-polar-functions/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/secant-cosecant-cotangent-functions/",
-      "status": 200,
-      "elapsed_ms": 1651,
-      "bytes_read": 79361,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Topic 3.11: The Secant, Cosecant, and Cotangent Functions",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/secant-cosecant-cotangent-functions/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sine-cosine-and-tangent/",
-      "status": 200,
-      "elapsed_ms": 1539,
-      "bytes_read": 79632,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Topic 3.2: Sine, Cosine, and Tangent",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sine-cosine-and-tangent/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sine-cosine-function-graphs/",
-      "status": 200,
-      "elapsed_ms": 1583,
-      "bytes_read": 80595,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Topic 3.4: Sine and Cosine Function Graphs",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sine-cosine-function-graphs/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sine-cosine-function-values/",
-      "status": 200,
-      "elapsed_ms": 1700,
-      "bytes_read": 80671,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Topic 3.3: Sine and Cosine Function Values",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sine-cosine-function-values/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sinusoidal-function-context-data-modeling/",
-      "status": 200,
-      "elapsed_ms": 1599,
-      "bytes_read": 81574,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Topic 3.7: Sinusoidal Function Context and Data Modeling",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sinusoidal-function-context-data-modeling/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sinusoidal-function-transformations/",
-      "status": 200,
-      "elapsed_ms": 1671,
-      "bytes_read": 81228,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Topic 3.6: Sinusoidal Function Transformations",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sinusoidal-function-transformations/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sinusoidal-functions/",
-      "status": 200,
-      "elapsed_ms": 1651,
-      "bytes_read": 80248,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Topic 3.5: Sinusoidal Functions",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/sinusoidal-functions/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/the-tangent-function/",
-      "status": 200,
-      "elapsed_ms": 1487,
-      "bytes_read": 79694,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Topic 3.8: The Tangent Function",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/the-tangent-function/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/trigonometric-equations-and-inequalities/",
-      "status": 200,
-      "elapsed_ms": 1575,
-      "bytes_read": 79415,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Topic 3.10: Trigonometric Equations and Inequalities",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/trigonometric-equations-and-inequalities/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/trigonometry-and-polar-coordinates/",
-      "status": 200,
-      "elapsed_ms": 1672,
-      "bytes_read": 79995,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Topic 3.13: Trigonometry and Polar Coordinates",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/trigonometric-polar-functions/trigonometry-and-polar-coordinates/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap/ap-precalculus/units/",
-      "status": 200,
-      "elapsed_ms": 1578,
-      "bytes_read": 81166,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Precalculus Units 2027: All 4 Units & 58 Topics",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap/ap-precalculus/units/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/appliance-energy-cost-calculator/",
-      "status": 200,
-      "elapsed_ms": 2023,
-      "bytes_read": 81468,
-      "issues": [],
-      "title": "Appliance Energy Cost Calculator: Formula, Units & Steps",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/appliance-energy-cost-calculator/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/aquarium-dose-calculator/",
-      "status": 200,
-      "elapsed_ms": 2014,
-      "bytes_read": 80871,
-      "issues": [],
-      "title": "Aquarium Dosing Calculator: Formula, Units & Steps",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/aquarium-dose-calculator/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/aquarium-salinity-calculator/",
-      "status": 200,
-      "elapsed_ms": 2350,
-      "bytes_read": 79841,
-      "issues": [],
-      "title": "Aquarium Salinity Calculator: Formula, Units & Steps",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/aquarium-salinity-calculator/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/aquarium-volume-calculator/",
-      "status": 200,
-      "elapsed_ms": 6659,
-      "bytes_read": 84762,
-      "issues": [],
-      "title": "Aquarium Volume Calculator: Formula, Units & Results",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/aquarium-volume-calculator/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ar-model/",
-      "status": 200,
-      "elapsed_ms": 728,
-      "bytes_read": 174304,
-      "issues": [],
-      "title": "AR Model: Formula, Worked Example & Interpretation",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ar-model/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/arch-test/",
-      "status": 200,
-      "elapsed_ms": 1244,
-      "bytes_read": 173906,
-      "issues": [],
-      "title": "ARCH Test: Formula, Worked Example & Interpretation",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/arch-test/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/area-between-curves-calculator/",
-      "status": 200,
-      "elapsed_ms": 3629,
-      "bytes_read": 77285,
-      "issues": [],
-      "title": "Area Under Curve Calculator: Formula, Steps & Results",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/area-between-curves-calculator/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/area-calculator/",
-      "status": 200,
-      "elapsed_ms": 5405,
-      "bytes_read": 80618,
-      "issues": [],
-      "title": "Area Calculator: 10 Shapes, Perimeter & Unit Conversion",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/area-calculator/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/arima-model/",
-      "status": 200,
-      "elapsed_ms": 809,
-      "bytes_read": 175230,
-      "issues": [],
-      "title": "ARIMA Model: Formula, Worked Example & Interpretation",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/arima-model/",
-      "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/aristocrat-cipher-solver/",
+      "url": "https://onlineinternetcafe.com/barnards-exact-test/",
       "status": 200,
       "elapsed_ms": 814,
-      "bytes_read": 75377,
+      "bytes_read": 170014,
       "issues": [],
-      "title": "Aristocrat Cipher Solver | Salar Cafe",
+      "title": "Barnard's Exact Test: Formula, Interpretation, Python, R, SPSS and Excel Guide - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/aristocrat-cipher-solver/",
+      "canonical": "https://onlineinternetcafe.com/barnards-exact-test/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/arma-model/",
+      "url": "https://onlineinternetcafe.com/barndominium-build-cost-calculator/",
+      "status": 200,
+      "elapsed_ms": 2843,
+      "bytes_read": 77686,
+      "issues": [],
+      "title": "Barndominium Build Cost Calculator | U.S. Estimator",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/barndominium-build-cost-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bartlett-s-test/",
+      "status": 200,
+      "elapsed_ms": 397,
+      "bytes_read": 139827,
+      "issues": [],
+      "title": "Bartlett's Test: Assumptions, Interpretation, SPSS, Python, R and Excel Guide - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bartlett-s-test/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bartletts-test-of-sphericity/",
       "status": 200,
       "elapsed_ms": 808,
-      "bytes_read": 169041,
+      "bytes_read": 163631,
       "issues": [],
-      "title": "ARMA Model: Formula, Worked Example & Interpretation",
+      "title": "Bartletts Test of Sphericity: Results & Interpretation",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/arma-model/",
+      "canonical": "https://onlineinternetcafe.com/bartletts-test-of-sphericity/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/arrhenius-rate-calculator/",
+      "url": "https://onlineinternetcafe.com/baseboard-material-calculator/",
       "status": 200,
-      "elapsed_ms": 3626,
-      "bytes_read": 82435,
+      "elapsed_ms": 5035,
+      "bytes_read": 85749,
       "issues": [],
-      "title": "Arrhenius Equation Calculator: Formula, Units & Steps",
+      "title": "Baseboard Calculator: Formula, Units & Steps",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/arrhenius-rate-calculator/",
+      "canonical": "https://onlineinternetcafe.com/baseboard-material-calculator/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/arrow-spine-calculator/",
+      "url": "https://onlineinternetcafe.com/basement-finish-excavation-cost-calculator/",
       "status": 200,
-      "elapsed_ms": 324,
-      "bytes_read": 81821,
+      "elapsed_ms": 2868,
+      "bytes_read": 79295,
       "issues": [],
-      "title": "Arrow Spine Calculator with FOC and Arrow Weight",
+      "title": "Basement Cost Calculator: Formula, Steps & Results",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/arrow-spine-calculator/",
+      "canonical": "https://onlineinternetcafe.com/basement-finish-excavation-cost-calculator/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/asbestos-abatement-cost-calculator/",
+      "url": "https://onlineinternetcafe.com/bathroom-remodel-cost-calculator/",
       "status": 200,
-      "elapsed_ms": 3253,
-      "bytes_read": 77665,
+      "elapsed_ms": 2911,
+      "bytes_read": 77614,
       "issues": [],
-      "title": "Asbestos Abatement Cost Calculator | U.S. Estimator",
+      "title": "Bathroom Renovation Cost Calculator: Formula & Steps",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/asbestos-abatement-cost-calculator/",
+      "canonical": "https://onlineinternetcafe.com/bathroom-remodel-cost-calculator/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/aspect-ratio-calculator/",
+      "url": "https://onlineinternetcafe.com/battery-c-rate-calculator/",
       "status": 200,
-      "elapsed_ms": 3344,
-      "bytes_read": 83879,
+      "elapsed_ms": 2046,
+      "bytes_read": 79453,
       "issues": [],
-      "title": "Aspect Ratio Calculator: Formula & Results",
+      "title": "Battery C-Rate Calculator: Formula, Units & Steps",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/aspect-ratio-calculator/",
+      "canonical": "https://onlineinternetcafe.com/battery-c-rate-calculator/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/asphalt-calculator/",
+      "url": "https://onlineinternetcafe.com/battery-capacity-runtime-calculator/",
       "status": 200,
-      "elapsed_ms": 2314,
-      "bytes_read": 81956,
+      "elapsed_ms": 2257,
+      "bytes_read": 83050,
       "issues": [],
-      "title": "Asphalt Calculator for Tons, Truckloads and Cost",
+      "title": "Battery Runtime Calculator: Ah, Watts and Peukert",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/asphalt-calculator/",
+      "canonical": "https://onlineinternetcafe.com/battery-capacity-runtime-calculator/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/atbash-cipher-calculator/",
+      "url": "https://onlineinternetcafe.com/battery-charge-time-calculator/",
       "status": 200,
-      "elapsed_ms": 682,
-      "bytes_read": 74930,
+      "elapsed_ms": 2143,
+      "bytes_read": 81645,
       "issues": [],
-      "title": "Atbash Cipher Calculator | Salar Cafe",
+      "title": "Battery Charging Time Calculator: Formula, Units & Steps",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/atbash-cipher-calculator/",
+      "canonical": "https://onlineinternetcafe.com/battery-charge-time-calculator/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/atom-economy-calculator/",
+      "url": "https://onlineinternetcafe.com/batting-average-calculator/",
       "status": 200,
-      "elapsed_ms": 3556,
-      "bytes_read": 80219,
+      "elapsed_ms": 2086,
+      "bytes_read": 82592,
       "issues": [],
-      "title": "Atom Economy Calculator: Formula, Units & Steps",
+      "title": "Batting Average Calculator with OBP, SLG and OPS",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/atom-economy-calculator/",
+      "canonical": "https://onlineinternetcafe.com/batting-average-calculator/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/attic-ventilation-calculator/",
+      "url": "https://onlineinternetcafe.com/bayesian-regression/",
       "status": 200,
-      "elapsed_ms": 2415,
-      "bytes_read": 82637,
+      "elapsed_ms": 338,
+      "bytes_read": 139878,
       "issues": [],
-      "title": "Attic Ventilation Calculator: Net Free Area and Vent Count",
+      "title": "Bayesian Regression: Interpretation, Python, R, SPSS and Excel Guide - Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/attic-ventilation-calculator/",
+      "canonical": "https://onlineinternetcafe.com/bayesian-regression/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/audio-file-size-calculator/",
+      "url": "https://onlineinternetcafe.com/beale-cipher-analysis-helper/",
       "status": 200,
-      "elapsed_ms": 1974,
-      "bytes_read": 83278,
+      "elapsed_ms": 658,
+      "bytes_read": 76103,
       "issues": [],
-      "title": "Audio File Size Calculator: Formula, Units & Steps",
+      "title": "Beale Cipher Analysis Helper | Salar Cafe",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/audio-file-size-calculator/",
+      "canonical": "https://onlineinternetcafe.com/beale-cipher-analysis-helper/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/augmented-dickey-fuller-test/",
+      "url": "https://onlineinternetcafe.com/beam-bending-stress-calculator/",
       "status": 200,
-      "elapsed_ms": 612,
-      "bytes_read": 175338,
+      "elapsed_ms": 2075,
+      "bytes_read": 81029,
       "issues": [],
-      "title": "Augmented Dickey Fuller Test: Formula, Results & Guide",
+      "title": "Beam Bending Stress Calculator: Formula, Units & Steps",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/augmented-dickey-fuller-test/",
+      "canonical": "https://onlineinternetcafe.com/beam-bending-stress-calculator/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/auto-glass-business-roi-calculator/",
+      "url": "https://onlineinternetcafe.com/beam-calculator/",
       "status": 200,
-      "elapsed_ms": 1795,
-      "bytes_read": 75662,
+      "elapsed_ms": 1943,
+      "bytes_read": 82093,
       "issues": [],
-      "title": "Auto Glass Business ROI Calculator: Formula, Units & Results",
+      "title": "Beam Calculator: Formula, Steps & Results",
       "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/auto-glass-business-roi-calculator/",
+      "canonical": "https://onlineinternetcafe.com/beam-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/beaufort-cipher-calculator/",
+      "status": 200,
+      "elapsed_ms": 308,
+      "bytes_read": 75005,
+      "issues": [],
+      "title": "Beaufort Cipher Calculator | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/beaufort-cipher-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/beaufort-decipher-calculator/",
+      "status": 200,
+      "elapsed_ms": 659,
+      "bytes_read": 75487,
+      "issues": [],
+      "title": "Beaufort Decipher Calculator | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/beaufort-decipher-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bed-height-calculator/",
+      "status": 200,
+      "elapsed_ms": 1989,
+      "bytes_read": 75904,
+      "issues": [],
+      "title": "Bed Height Calculator: Frame, Mattress, Riser & Knee Fit",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bed-height-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/beef-hanging-weight-calculator/",
+      "status": 200,
+      "elapsed_ms": 1644,
+      "bytes_read": 77047,
+      "issues": [],
+      "title": "Hanging Weight Beef Calculator: Formula, Steps & Results",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/beef-hanging-weight-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/beer-color-srm-calculator/",
+      "status": 200,
+      "elapsed_ms": 2254,
+      "bytes_read": 78144,
+      "issues": [],
+      "title": "Beer Color Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/beer-color-srm-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/beer-ibu-calculator/",
+      "status": 200,
+      "elapsed_ms": 1913,
+      "bytes_read": 80863,
+      "issues": [],
+      "title": "Beer IBU Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/beer-ibu-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/beer-lambert-calculator/",
+      "status": 200,
+      "elapsed_ms": 1878,
+      "bytes_read": 81230,
+      "issues": [],
+      "title": "Beer-Lambert Law Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/beer-lambert-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/beneish-m-score-calculator/",
+      "status": 200,
+      "elapsed_ms": 1711,
+      "bytes_read": 77114,
+      "issues": [],
+      "title": "Beneish M Score Calculator: Formula, Steps & Results",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/beneish-m-score-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bernoulli-pressure-calculator/",
+      "status": 200,
+      "elapsed_ms": 2135,
+      "bytes_read": 85291,
+      "issues": [],
+      "title": "Bernoulli Pressure Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bernoulli-pressure-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/best-ap-statistics-review-books/",
+      "status": 200,
+      "elapsed_ms": 653,
+      "bytes_read": 102380,
+      "issues": [],
+      "title": "Best AP Statistics Review Books 2027: New-Format Picks",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/best-ap-statistics-review-books/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bicycle-gear-inches-calculator/",
+      "status": 200,
+      "elapsed_ms": 1839,
+      "bytes_read": 81001,
+      "issues": [],
+      "title": "Bicycle Gear Inches Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bicycle-gear-inches-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bicycle-power-calculator/",
+      "status": 200,
+      "elapsed_ms": 1534,
+      "bytes_read": 79692,
+      "issues": [],
+      "title": "Cycling Power Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bicycle-power-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bicycle-speed-cadence-calculator/",
+      "status": 200,
+      "elapsed_ms": 1869,
+      "bytes_read": 82342,
+      "issues": [],
+      "title": "Bicycle Speed from Cadence Calculator",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bicycle-speed-cadence-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bifid-cipher-calculator/",
+      "status": 200,
+      "elapsed_ms": 686,
+      "bytes_read": 75605,
+      "issues": [],
+      "title": "Bifid Cipher Calculator | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bifid-cipher-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bifid-decipher-calculator/",
+      "status": 200,
+      "elapsed_ms": 701,
+      "bytes_read": 76123,
+      "issues": [],
+      "title": "Bifid Decipher Calculator | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bifid-decipher-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bike-seat-height-calculator/",
+      "status": 200,
+      "elapsed_ms": 300,
+      "bytes_read": 81113,
+      "issues": [],
+      "title": "Bike Seat Height Calculator: Inseam, Crank and Saddle Setup",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bike-seat-height-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/binary-calculator/",
+      "status": 200,
+      "elapsed_ms": 1843,
+      "bytes_read": 77683,
+      "issues": [],
+      "title": "Binary Calculator for Arithmetic and Base Conversion",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/binary-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/binary-logistic-regression/",
+      "status": 200,
+      "elapsed_ms": 298,
+      "bytes_read": 173852,
+      "issues": [],
+      "title": "Binary Logistic Regression: Formula, Interpretation, SPSS, Python, R and Excel Guide - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/binary-logistic-regression/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/binary-to-morse-code/",
+      "status": 200,
+      "elapsed_ms": 610,
+      "bytes_read": 75145,
+      "issues": [],
+      "title": "Binary to Morse Code Converter | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/binary-to-morse-code/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/binomial-distribution-2/",
+      "status": 200,
+      "elapsed_ms": 302,
+      "bytes_read": 182359,
+      "issues": [],
+      "title": "Binomial Distribution: Conditions, Formula, Mean, and SD - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/binomial-distribution-2/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/binomial-expansion-calculator/",
+      "status": 200,
+      "elapsed_ms": 2066,
+      "bytes_read": 81266,
+      "issues": [],
+      "title": "Binomial Expansion Calculator with Exact Coefficients",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/binomial-expansion-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/binomial-geometric-practice-problems-2/",
+      "status": 200,
+      "elapsed_ms": 717,
+      "bytes_read": 175035,
+      "issues": [],
+      "title": "Binomial and Geometric Practice Problems: Legacy Comparison - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/binomial-geometric-practice-problems-2/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/binomial-test/",
+      "status": 200,
+      "elapsed_ms": 1358,
+      "bytes_read": 167552,
+      "issues": [],
+      "title": "Binomial Test: Formula, Interpretation, Python, R, SPSS and Excel Guide - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/binomial-test/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/binomial-vs-geometric-distribution-2/",
+      "status": 200,
+      "elapsed_ms": 495,
+      "bytes_read": 172854,
+      "issues": [],
+      "title": "Binomial vs Geometric Distribution: How to Choose - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/binomial-vs-geometric-distribution-2/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bird-cage-size-calculator/",
+      "status": 200,
+      "elapsed_ms": 4099,
+      "bytes_read": 79687,
+      "issues": [],
+      "title": "Bird Cage Size Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bird-cage-size-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/biserial-correlation/",
+      "status": 200,
+      "elapsed_ms": 296,
+      "bytes_read": 132449,
+      "issues": [],
+      "title": "Biserial Correlation: Formula, Interpretation, SPSS, Python, R and Excel Guide - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/biserial-correlation/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bitumen-calculator/",
+      "status": 200,
+      "elapsed_ms": 681,
+      "bytes_read": 131751,
+      "issues": [
+        "multiple_h1"
+      ],
+      "title": "Bitumen Calculator: Asphalt Quantity, Road Bitumen, Spray Rate and Roofing Calculator - Salar Cafe",
+      "h1_count": 2,
+      "canonical": "https://onlineinternetcafe.com/bitumen-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/black-scholes-calculator/",
+      "status": 200,
+      "elapsed_ms": 1989,
+      "bytes_read": 84524,
+      "issues": [],
+      "title": "Black-scholes Calculator: Formula, Steps & Results",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/black-scholes-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bland-altman-plot/",
+      "status": 200,
+      "elapsed_ms": 664,
+      "bytes_read": 182827,
+      "issues": [],
+      "title": "Bland Altman Plot: Formula, Interpretation, Python, R, SPSS and Excel Guide - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bland-altman-plot/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/blog/",
+      "status": 200,
+      "elapsed_ms": 1350,
+      "bytes_read": 78272,
+      "issues": [],
+      "title": "Blog - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/blog/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bmi-calculator/",
+      "status": 200,
+      "elapsed_ms": 2111,
+      "bytes_read": 93376,
+      "issues": [],
+      "title": "BMI Calculator: Adult, Child Percentile & BMI Chart",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bmi-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bmr-calculator/",
+      "status": 200,
+      "elapsed_ms": 1867,
+      "bytes_read": 80315,
+      "issues": [],
+      "title": "BMR Calculator with Three Established Equations",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bmr-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/board-and-batten-calculator/",
+      "status": 200,
+      "elapsed_ms": 2006,
+      "bytes_read": 83968,
+      "issues": [],
+      "title": "Board and Batten Calculator: Formula, Units & Results",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/board-and-batten-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/board-foot-calculator/",
+      "status": 200,
+      "elapsed_ms": 1914,
+      "bytes_read": 81744,
+      "issues": [],
+      "title": "Board Foot Calculator for Lumber Quantity and Cost",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/board-foot-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/body-fat-calculator/",
+      "status": 200,
+      "elapsed_ms": 1808,
+      "bytes_read": 80462,
+      "issues": [],
+      "title": "Body Fat Calculator: Formula & Results",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/body-fat-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/body-surface-area-calculator/",
+      "status": 200,
+      "elapsed_ms": 2216,
+      "bytes_read": 79248,
+      "issues": [],
+      "title": "Body Surface Area Calculator: Mosteller and More",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/body-surface-area-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/boil-off-rate-calculator/",
+      "status": 200,
+      "elapsed_ms": 1823,
+      "bytes_read": 81191,
+      "issues": [],
+      "title": "Boil-Off Rate Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/boil-off-rate-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/boiler-feed-pump-calculator/",
+      "status": 200,
+      "elapsed_ms": 297,
+      "bytes_read": 86751,
+      "issues": [],
+      "title": "Boiler Feed Pump Calculator: Flow, Head, NPSH & kW",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/boiler-feed-pump-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/boiler-size-calculator/",
+      "status": 200,
+      "elapsed_ms": 1797,
+      "bytes_read": 79438,
+      "issues": [],
+      "title": "Boiler Size Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/boiler-size-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/boiling-point-elevation-calculator/",
+      "status": 200,
+      "elapsed_ms": 1944,
+      "bytes_read": 81978,
+      "issues": [],
+      "title": "Boiling Point Elevation Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/boiling-point-elevation-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bond-convexity-calculator/",
+      "status": 200,
+      "elapsed_ms": 1810,
+      "bytes_read": 80304,
+      "issues": [],
+      "title": "Bond Convexity Approximation Calculator",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bond-convexity-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bond-current-yield-calculator/",
+      "status": 200,
+      "elapsed_ms": 1985,
+      "bytes_read": 80080,
+      "issues": [],
+      "title": "Bond Current Yield Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bond-current-yield-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bond-duration-calculator/",
+      "status": 200,
+      "elapsed_ms": 2317,
+      "bytes_read": 80305,
+      "issues": [],
+      "title": "Bond Duration Approximation Calculator",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bond-duration-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bond-order-calculator/",
+      "status": 200,
+      "elapsed_ms": 2179,
+      "bytes_read": 79867,
+      "issues": [],
+      "title": "Bond Order Calculator for Molecular Orbital Electron Counts",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bond-order-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bond-price-calculator/",
+      "status": 200,
+      "elapsed_ms": 2460,
+      "bytes_read": 86786,
+      "issues": [],
+      "title": "Bond Price Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bond-price-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bonferroni-correction/",
+      "status": 200,
+      "elapsed_ms": 70,
+      "bytes_read": 132160,
+      "issues": [],
+      "title": "Bonferroni Correction: Formula, Interpretation, SPSS, Python, R and Excel Guide - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bonferroni-correction/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bonus-withholding-calculator/",
+      "status": 200,
+      "elapsed_ms": 2139,
+      "bytes_read": 79983,
+      "issues": [],
+      "title": "Bonus Withholding Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bonus-withholding-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/book-cipher-calculator/",
+      "status": 200,
+      "elapsed_ms": 669,
+      "bytes_read": 75320,
+      "issues": [],
+      "title": "Book Cipher Calculator | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/book-cipher-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/book-decipher-calculator/",
+      "status": 200,
+      "elapsed_ms": 1077,
+      "bytes_read": 75798,
+      "issues": [],
+      "title": "Book Decipher Calculator | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/book-decipher-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/book-store/",
+      "status": 200,
+      "elapsed_ms": 632,
+      "bytes_read": 70671,
+      "issues": [],
+      "title": "Book Store - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/book-store/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/boschloo-test/",
+      "status": 200,
+      "elapsed_ms": 685,
+      "bytes_read": 175321,
+      "issues": [],
+      "title": "Boschloo Test: Formula, Statistic, Calculator, Python, R, SPSS and Excel Guide - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/boschloo-test/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bowkers-test/",
+      "status": 200,
+      "elapsed_ms": 724,
+      "bytes_read": 203460,
+      "issues": [],
+      "title": "Bowker's Test of Symmetry: Formula, Calculator, Example, Python, R, SPSS and Excel Guide - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bowkers-test/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bowling-score-calculator/",
+      "status": 200,
+      "elapsed_ms": 2008,
+      "bytes_read": 80011,
+      "issues": [],
+      "title": "Bowling Calculator: Score Frames, Strikes and Handicap",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bowling-score-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/box-cox-transformation/",
+      "status": 200,
+      "elapsed_ms": 301,
+      "bytes_read": 135778,
+      "issues": [],
+      "title": "Box-Cox Transformation: Formula, Lambda & Examples - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/box-cox-transformation/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/box-pierce-test/",
+      "status": 200,
+      "elapsed_ms": 315,
+      "bytes_read": 175650,
+      "issues": [],
+      "title": "Box Pierce Test: Formula, Worked Example & Interpretation",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/box-pierce-test/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/box-plot-interpretation/",
+      "status": 200,
+      "elapsed_ms": 620,
+      "bytes_read": 134158,
+      "issues": [],
+      "title": "Box Plot Interpretation: How to Read Box Plots with R, Python, SPSS and Excel - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/box-plot-interpretation/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/boyles-law-calculator/",
+      "status": 200,
+      "elapsed_ms": 1840,
+      "bytes_read": 81204,
+      "issues": [],
+      "title": "Boyle's Law Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/boyles-law-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bra-size-calculator/",
+      "status": 200,
+      "elapsed_ms": 2227,
+      "bytes_read": 77333,
+      "issues": [],
+      "title": "Bra Size Calculator | Free Online Tool",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bra-size-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/break-even-units-calculator/",
+      "status": 200,
+      "elapsed_ms": 4654,
+      "bytes_read": 80584,
+      "issues": [],
+      "title": "Break-Even Units Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/break-even-units-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/breast-implant-weight-calculator/",
+      "status": 200,
+      "elapsed_ms": 2431,
+      "bytes_read": 77240,
+      "issues": [],
+      "title": "Breast Implant Weight Calculator: Formula, Units & Results",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/breast-implant-weight-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/breslow-day-test/",
+      "status": 200,
+      "elapsed_ms": 742,
+      "bytes_read": 196402,
+      "issues": [],
+      "title": "Breslow-Day Test: Formula, Interpretation, Python, R, SPSS and Excel Guide - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/breslow-day-test/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/breslow-test/",
+      "status": 200,
+      "elapsed_ms": 296,
+      "bytes_read": 162596,
+      "issues": [],
+      "title": "Breslow Test: Formula, Example & Software Guide",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/breslow-test/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/breusch-godfrey-test/",
+      "status": 200,
+      "elapsed_ms": 672,
+      "bytes_read": 177432,
+      "issues": [],
+      "title": "Breusch Godfrey Test: Formula, Results & Guide",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/breusch-godfrey-test/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/breusch-pagan-test/",
+      "status": 200,
+      "elapsed_ms": 298,
+      "bytes_read": 137491,
+      "issues": [],
+      "title": "Breusch Pagan Test: Assumptions, Interpretation, SPSS, Python, R and Excel Guide - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/breusch-pagan-test/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/brewing-strike-mash-water-calculator/",
+      "status": 200,
+      "elapsed_ms": 1748,
+      "bytes_read": 77664,
+      "issues": [],
+      "title": "Strike Water Calculator: Formula, Steps & Results",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/brewing-strike-mash-water-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/brick-calculator/",
+      "status": 200,
+      "elapsed_ms": 1915,
+      "bytes_read": 83791,
+      "issues": [],
+      "title": "Brick Calculator: Accurate Formula, Inputs and Results",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/brick-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bridge-loan-calculator/",
+      "status": 200,
+      "elapsed_ms": 2145,
+      "bytes_read": 82990,
+      "issues": [],
+      "title": "Bridge Loan Calculator: Payment, Payoff, Fees & Cost",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bridge-loan-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/brine-concentration-calculator/",
+      "status": 200,
+      "elapsed_ms": 2073,
+      "bytes_read": 79054,
+      "issues": [],
+      "title": "Brine Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/brine-concentration-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/brown-forsythe-anova/",
+      "status": 200,
+      "elapsed_ms": 312,
+      "bytes_read": 142227,
+      "issues": [],
+      "title": "Brown Forsythe ANOVA: Formula, Robust ANOVA, Homogeneity Test, SPSS, Python, R and Excel Guide - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/brown-forsythe-anova/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/brown-forsythe-test/",
+      "status": 200,
+      "elapsed_ms": 592,
+      "bytes_read": 95156,
+      "issues": [],
+      "title": "Brown-Forsythe Test: Assumptions, Interpretation, SPSS, Python, R and Excel Guide - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/brown-forsythe-test/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/brunner-munzel-test/",
+      "status": 200,
+      "elapsed_ms": 1013,
+      "bytes_read": 124733,
+      "issues": [],
+      "title": "Brunner Munzel Test: Formula, Interpretation, R, Python, SPSS, SAS and Excel Guide - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/brunner-munzel-test/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/btd6-paragon-degree-calculator/",
+      "status": 200,
+      "elapsed_ms": 1811,
+      "bytes_read": 75201,
+      "issues": [],
+      "title": "Btd6 Paragon Calculator: Formula, Steps & Results",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/btd6-paragon-degree-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/buffer-ph-calculator/",
+      "status": 200,
+      "elapsed_ms": 321,
+      "bytes_read": 80840,
+      "issues": [],
+      "title": "Henderson-Hasselbalch Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/buffer-ph-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/buoyant-force-calculator/",
+      "status": 200,
+      "elapsed_ms": 1787,
+      "bytes_read": 80900,
+      "issues": [],
+      "title": "Buoyant Force Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/buoyant-force-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/business-commercial-loan-calculator/",
+      "status": 200,
+      "elapsed_ms": 1846,
+      "bytes_read": 81665,
+      "issues": [],
+      "title": "Business Loan Calculator with Balloon and DSCR",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/business-commercial-loan-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/business-data-analysis-service/",
+      "status": 200,
+      "elapsed_ms": 298,
+      "bytes_read": 70349,
+      "issues": [],
+      "title": "Business Data Analysis Service - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/business-data-analysis-service/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/business-line-of-credit-calculator/",
+      "status": 200,
+      "elapsed_ms": 1842,
+      "bytes_read": 80700,
+      "issues": [],
+      "title": "Business Line of Credit Monthly Payment Calculator",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/business-line-of-credit-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/bust-waist-hip-calculator/",
+      "status": 200,
+      "elapsed_ms": 1994,
+      "bytes_read": 77284,
+      "issues": [],
+      "title": "Bust-Waist-Hip Calculator with Body Measurement Visual",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/bust-waist-hip-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/cabinet-box-calculator/",
+      "status": 200,
+      "elapsed_ms": 2143,
+      "bytes_read": 87228,
+      "issues": [],
+      "title": "Cabinet Box Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/cabinet-box-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/cabinet-door-calculator/",
+      "status": 200,
+      "elapsed_ms": 2149,
+      "bytes_read": 77109,
+      "issues": [],
+      "title": "Cabinet Door Calculator: Formula, Steps & Results",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/cabinet-door-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/caesar-cipher-brute-force-solver/",
+      "status": 200,
+      "elapsed_ms": 350,
+      "bytes_read": 75774,
+      "issues": [],
+      "title": "Caesar Cipher Brute Force Solver | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/caesar-cipher-brute-force-solver/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/caesar-cipher-calculator/",
+      "status": 200,
+      "elapsed_ms": 730,
+      "bytes_read": 74967,
+      "issues": [],
+      "title": "Caesar Cipher Calculator | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/caesar-cipher-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/caesar-decipher-calculator/",
+      "status": 200,
+      "elapsed_ms": 317,
+      "bytes_read": 75422,
+      "issues": [],
+      "title": "Caesar Decipher Calculator | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/caesar-decipher-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/cagr-annualized-return-calculator/",
+      "status": 200,
+      "elapsed_ms": 2419,
+      "bytes_read": 80279,
+      "issues": [],
+      "title": "Annual Return Calculator: Formula, Steps & Results",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/cagr-annualized-return-calculator/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     }
