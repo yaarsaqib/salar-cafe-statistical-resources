@@ -1,0 +1,1595 @@
+{
+  "date": "2026-10-22",
+  "generated_utc": "2026-10-22T08:36:53.448628+00:00",
+  "website": "https://onlineinternetcafe.com",
+  "catalog_url_count": 3266,
+  "catalog_generated_utc": "2026-10-22T07:39:58+00:00",
+  "catalog_warnings": [],
+  "batch_slot": 7,
+  "batch_count": 28,
+  "checked": 125,
+  "http_200": 125,
+  "flagged": 34,
+  "issue_counts": {
+    "missing_meta_description": 33,
+    "multiple_h1": 1
+  },
+  "wordpress": {
+    "pages": 2525,
+    "posts": 529
+  },
+  "ga4": {
+    "status": "not_configured"
+  },
+  "previous_report_date": "2026-10-21",
+  "pages": [
+    {
+      "url": "https://onlineinternetcafe.com/",
+      "status": 200,
+      "elapsed_ms": 458,
+      "bytes_read": 90145,
+      "issues": [],
+      "title": "Statistical Analysis Online: Free Tools & Guides | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/statistical-calculators/",
+      "status": 200,
+      "elapsed_ms": 343,
+      "bytes_read": 1817982,
+      "issues": [],
+      "title": "Free Online Statistical Calculators & Analysis Studio",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/statistical-calculators/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/web-calculators/",
+      "status": 200,
+      "elapsed_ms": 2728,
+      "bytes_read": 98168,
+      "issues": [],
+      "title": "Web Calculators | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/web-calculators/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-score-calculator/",
+      "status": 200,
+      "elapsed_ms": 519,
+      "bytes_read": 95489,
+      "issues": [],
+      "title": "AP Score Calculator 2027: 40 Subject Guides | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-score-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/differential-equation-solver/",
+      "status": 200,
+      "elapsed_ms": 1167,
+      "bytes_read": 73620,
+      "issues": [],
+      "title": "Differential Equation Solver: ODE, PDE & Derivatives",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/differential-equation-solver/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/cake-pan-conversion-calculator/",
+      "status": 200,
+      "elapsed_ms": 2728,
+      "bytes_read": 81887,
+      "issues": [],
+      "title": "Cake Pan Conversion Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/cake-pan-conversion-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/",
+      "status": 200,
+      "elapsed_ms": 346,
+      "bytes_read": 107825,
+      "issues": [],
+      "title": "Calculadoras para México | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-cientifica/",
+      "status": 200,
+      "elapsed_ms": 644,
+      "bytes_read": 69156,
+      "issues": [],
+      "title": "Calculadora Científica | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-cientifica/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-aceleracion/",
+      "status": 200,
+      "elapsed_ms": 472,
+      "bytes_read": 69923,
+      "issues": [],
+      "title": "Calculadora de Aceleración | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-aceleracion/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-aguinaldo-mexico/",
+      "status": 200,
+      "elapsed_ms": 666,
+      "bytes_read": 70070,
+      "issues": [],
+      "title": "Calculadora de Aguinaldo México 2026 | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-aguinaldo-mexico/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-area/",
+      "status": 200,
+      "elapsed_ms": 668,
+      "bytes_read": 71105,
+      "issues": [],
+      "title": "Calculadora de Área | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-area/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-brecha-anionica/",
+      "status": 200,
+      "elapsed_ms": 650,
+      "bytes_read": 69540,
+      "issues": [],
+      "title": "Calculadora de Brecha Aniónica | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-brecha-anionica/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-calorias-diarias/",
+      "status": 200,
+      "elapsed_ms": 348,
+      "bytes_read": 72573,
+      "issues": [],
+      "title": "Calculadora de Calorías Diarias | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-calorias-diarias/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-derivadas/",
+      "status": 200,
+      "elapsed_ms": 696,
+      "bytes_read": 68472,
+      "issues": [],
+      "title": "Calculadora de Derivadas | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-derivadas/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-descuentos/",
+      "status": 200,
+      "elapsed_ms": 733,
+      "bytes_read": 69396,
+      "issues": [],
+      "title": "Calculadora de Descuentos | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-descuentos/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-desviacion-estandar/",
+      "status": 200,
+      "elapsed_ms": 669,
+      "bytes_read": 69255,
+      "issues": [],
+      "title": "Calculadora de Desviación Estándar | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-desviacion-estandar/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-distancia-entre-dos-puntos/",
+      "status": 200,
+      "elapsed_ms": 614,
+      "bytes_read": 69591,
+      "issues": [],
+      "title": "Calculadora de Distancia entre Dos Puntos | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-distancia-entre-dos-puntos/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-ecuaciones-cuadraticas/",
+      "status": 200,
+      "elapsed_ms": 678,
+      "bytes_read": 69185,
+      "issues": [],
+      "title": "Calculadora de Ecuaciones Cuadráticas | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-ecuaciones-cuadraticas/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-edad/",
+      "status": 200,
+      "elapsed_ms": 349,
+      "bytes_read": 67869,
+      "issues": [],
+      "title": "Calculadora de Edad | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-edad/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-embarazo/",
+      "status": 200,
+      "elapsed_ms": 682,
+      "bytes_read": 69588,
+      "issues": [],
+      "title": "Calculadora de Embarazo | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-embarazo/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-energia-cinetica/",
+      "status": 200,
+      "elapsed_ms": 690,
+      "bytes_read": 69521,
+      "issues": [],
+      "title": "Calculadora de Energía Cinética | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-energia-cinetica/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-fechas/",
+      "status": 200,
+      "elapsed_ms": 672,
+      "bytes_read": 68426,
+      "issues": [],
+      "title": "Calculadora de Fechas | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-fechas/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-finiquito-mexico/",
+      "status": 200,
+      "elapsed_ms": 664,
+      "bytes_read": 74406,
+      "issues": [],
+      "title": "Calculadora de Finiquito México 2026 | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-finiquito-mexico/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-fracciones/",
+      "status": 200,
+      "elapsed_ms": 652,
+      "bytes_read": 70164,
+      "issues": [],
+      "title": "Calculadora de Fracciones | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-fracciones/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-goteo-intravenoso/",
+      "status": 200,
+      "elapsed_ms": 702,
+      "bytes_read": 69689,
+      "issues": [],
+      "title": "Calculadora de Goteo Intravenoso | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-goteo-intravenoso/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-hipoteca/",
+      "status": 200,
+      "elapsed_ms": 770,
+      "bytes_read": 71047,
+      "issues": [],
+      "title": "Calculadora de Hipoteca | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-hipoteca/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-horas-extra-mexico/",
+      "status": 200,
+      "elapsed_ms": 358,
+      "bytes_read": 71442,
+      "issues": [],
+      "title": "Calculadora de Horas Extra México 2026 | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-horas-extra-mexico/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-horas-y-minutos/",
+      "status": 200,
+      "elapsed_ms": 633,
+      "bytes_read": 68779,
+      "issues": [],
+      "title": "Calculadora de Horas y Minutos | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-horas-y-minutos/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-imc/",
+      "status": 200,
+      "elapsed_ms": 338,
+      "bytes_read": 69573,
+      "issues": [],
+      "title": "Calculadora de IMC | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-imc/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-indice-tabaquico/",
+      "status": 200,
+      "elapsed_ms": 630,
+      "bytes_read": 69294,
+      "issues": [],
+      "title": "Calculadora de Índice Tabáquico | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-indice-tabaquico/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-integrales/",
+      "status": 200,
+      "elapsed_ms": 609,
+      "bytes_read": 69086,
+      "issues": [],
+      "title": "Calculadora de Integrales | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-integrales/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-interes-compuesto/",
+      "status": 200,
+      "elapsed_ms": 610,
+      "bytes_read": 70300,
+      "issues": [],
+      "title": "Calculadora de Interés Compuesto | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-interes-compuesto/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-isr-2026-mexico/",
+      "status": 200,
+      "elapsed_ms": 640,
+      "bytes_read": 70408,
+      "issues": [],
+      "title": "Calculadora de ISR 2026 México | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-isr-2026-mexico/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-iva-mexico/",
+      "status": 200,
+      "elapsed_ms": 603,
+      "bytes_read": 69047,
+      "issues": [],
+      "title": "Calculadora de IVA México | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-iva-mexico/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-liquidacion-laboral-mexico/",
+      "status": 200,
+      "elapsed_ms": 626,
+      "bytes_read": 73939,
+      "issues": [],
+      "title": "Calculadora de Liquidación Laboral México 2026 | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-liquidacion-laboral-mexico/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-macronutrientes/",
+      "status": 200,
+      "elapsed_ms": 628,
+      "bytes_read": 70116,
+      "issues": [],
+      "title": "Calculadora de Macronutrientes | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-macronutrientes/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-matrices/",
+      "status": 200,
+      "elapsed_ms": 354,
+      "bytes_read": 69204,
+      "issues": [],
+      "title": "Calculadora de Matrices | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-matrices/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-maximo-comun-divisor/",
+      "status": 200,
+      "elapsed_ms": 345,
+      "bytes_read": 68036,
+      "issues": [],
+      "title": "Calculadora de Máximo Común Divisor | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-maximo-comun-divisor/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-media-mediana-y-moda/",
+      "status": 200,
+      "elapsed_ms": 668,
+      "bytes_read": 68253,
+      "issues": [],
+      "title": "Calculadora de Media, Mediana y Moda | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-media-mediana-y-moda/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-minimo-comun-multiplo/",
+      "status": 200,
+      "elapsed_ms": 660,
+      "bytes_read": 68041,
+      "issues": [],
+      "title": "Calculadora de Mínimo Común Múltiplo | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-minimo-comun-multiplo/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-notacion-cientifica/",
+      "status": 200,
+      "elapsed_ms": 725,
+      "bytes_read": 68905,
+      "issues": [],
+      "title": "Calculadora de Notación Científica | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-notacion-cientifica/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-ovulacion/",
+      "status": 200,
+      "elapsed_ms": 607,
+      "bytes_read": 69593,
+      "issues": [],
+      "title": "Calculadora de Ovulación | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-ovulacion/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-pendiente/",
+      "status": 200,
+      "elapsed_ms": 648,
+      "bytes_read": 69233,
+      "issues": [],
+      "title": "Calculadora de Pendiente | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-pendiente/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-peso-ideal/",
+      "status": 200,
+      "elapsed_ms": 653,
+      "bytes_read": 69675,
+      "issues": [],
+      "title": "Calculadora de Peso Ideal | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-peso-ideal/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-porcentajes/",
+      "status": 200,
+      "elapsed_ms": 648,
+      "bytes_read": 70079,
+      "issues": [],
+      "title": "Calculadora de Porcentajes | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-porcentajes/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-presion-arterial-media/",
+      "status": 200,
+      "elapsed_ms": 696,
+      "bytes_read": 71434,
+      "issues": [],
+      "title": "Calculadora de Presión Arterial Media | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-presion-arterial-media/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-prestamos/",
+      "status": 200,
+      "elapsed_ms": 779,
+      "bytes_read": 69964,
+      "issues": [],
+      "title": "Calculadora de Préstamos | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-prestamos/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-prima-de-antiguedad-mexico/",
+      "status": 200,
+      "elapsed_ms": 688,
+      "bytes_read": 71067,
+      "issues": [],
+      "title": "Calculadora de Prima de Antigüedad México | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-prima-de-antiguedad-mexico/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-prima-vacacional-mexico/",
+      "status": 200,
+      "elapsed_ms": 665,
+      "bytes_read": 69981,
+      "issues": [],
+      "title": "Calculadora de Prima Vacacional México 2026 | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-prima-vacacional-mexico/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-propinas/",
+      "status": 200,
+      "elapsed_ms": 752,
+      "bytes_read": 69666,
+      "issues": [],
+      "title": "Calculadora de Propinas | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-propinas/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-ptu-mexico/",
+      "status": 200,
+      "elapsed_ms": 784,
+      "bytes_read": 72515,
+      "issues": [],
+      "title": "Calculadora de PTU México | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-ptu-mexico/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-regla-de-tres/",
+      "status": 200,
+      "elapsed_ms": 647,
+      "bytes_read": 69108,
+      "issues": [],
+      "title": "Calculadora de Regla de Tres | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-regla-de-tres/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-resistencia-electrica/",
+      "status": 200,
+      "elapsed_ms": 359,
+      "bytes_read": 69601,
+      "issues": [],
+      "title": "Calculadora de Resistencia Eléctrica | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-resistencia-electrica/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-retiro/",
+      "status": 200,
+      "elapsed_ms": 663,
+      "bytes_read": 70510,
+      "issues": [],
+      "title": "Calculadora de Retiro | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-retiro/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-salario-diario-integrado-mexico/",
+      "status": 200,
+      "elapsed_ms": 667,
+      "bytes_read": 71905,
+      "issues": [],
+      "title": "Calculadora de Salario Diario Integrado México 2026 | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-salario-diario-integrado-mexico/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-sueldo-neto-mexico/",
+      "status": 200,
+      "elapsed_ms": 655,
+      "bytes_read": 70793,
+      "issues": [],
+      "title": "Calculadora de Sueldo Neto México 2026 | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-sueldo-neto-mexico/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-tasa-de-filtrado-glomerular/",
+      "status": 200,
+      "elapsed_ms": 615,
+      "bytes_read": 70342,
+      "issues": [],
+      "title": "Calculadora de Tasa de Filtrado Glomerular | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-tasa-de-filtrado-glomerular/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-vacaciones-mexico/",
+      "status": 200,
+      "elapsed_ms": 644,
+      "bytes_read": 70137,
+      "issues": [],
+      "title": "Calculadora de Vacaciones México 2026 | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-vacaciones-mexico/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-velocidad/",
+      "status": 200,
+      "elapsed_ms": 617,
+      "bytes_read": 69096,
+      "issues": [],
+      "title": "Calculadora de Velocidad | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-velocidad/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-volumen/",
+      "status": 200,
+      "elapsed_ms": 641,
+      "bytes_read": 70395,
+      "issues": [],
+      "title": "Calculadora de Volumen | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-de-volumen/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-del-sueno/",
+      "status": 200,
+      "elapsed_ms": 656,
+      "bytes_read": 69370,
+      "issues": [],
+      "title": "Calculadora del Sueño | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-del-sueno/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-homa-ir/",
+      "status": 200,
+      "elapsed_ms": 354,
+      "bytes_read": 68689,
+      "issues": [],
+      "title": "Calculadora HOMA-IR | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-homa-ir/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-resico-mexico/",
+      "status": 200,
+      "elapsed_ms": 863,
+      "bytes_read": 70615,
+      "issues": [],
+      "title": "Calculadora RESICO México 2026 | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-resico-mexico/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-tdee/",
+      "status": 200,
+      "elapsed_ms": 1416,
+      "bytes_read": 69208,
+      "issues": [],
+      "title": "Calculadora TDEE | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calculadoras-mx/calculadora-tdee/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calculator-bacalaureat-2026/",
+      "status": 200,
+      "elapsed_ms": 704,
+      "bytes_read": 102390,
+      "issues": [
+        "multiple_h1"
+      ],
+      "title": "Calculator Bacalaureat 2026 – Calculează media BAC online rapid - Salar CafeCalculator Bacalaureat 2026 – Calculează media BAC online rapid",
+      "h1_count": 2,
+      "canonical": "https://onlineinternetcafe.com/calculator-bacalaureat-2026/",
+      "description_present": true,
+      "robots": "index, follow, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/calories-burned-calculator/",
+      "status": 200,
+      "elapsed_ms": 593,
+      "bytes_read": 81677,
+      "issues": [],
+      "title": "Calories Burned Calculator by Activity, Time and MET",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/calories-burned-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/candle-wax-calculator/",
+      "status": 200,
+      "elapsed_ms": 3302,
+      "bytes_read": 82731,
+      "issues": [],
+      "title": "Candle Wax Calculator: Wax, Fragrance Load & Cost",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/candle-wax-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/canonical-correlation-analysis/",
+      "status": 200,
+      "elapsed_ms": 348,
+      "bytes_read": 135893,
+      "issues": [],
+      "title": "Canonical Correlation Analysis: Formula, Interpretation, SPSS, Python, R and Excel Guide - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/canonical-correlation-analysis/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/cantilever-deflection-calculator/",
+      "status": 200,
+      "elapsed_ms": 359,
+      "bytes_read": 85999,
+      "issues": [],
+      "title": "Cantilever Beam Deflection Calculator",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/cantilever-deflection-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/capacitive-reactance-calculator/",
+      "status": 200,
+      "elapsed_ms": 2551,
+      "bytes_read": 81104,
+      "issues": [],
+      "title": "Capacitive Reactance Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/capacitive-reactance-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/capacitor-energy-calculator/",
+      "status": 200,
+      "elapsed_ms": 348,
+      "bytes_read": 80159,
+      "issues": [],
+      "title": "Capacitor Energy Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/capacitor-energy-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/capital-gains-tax-calculator/",
+      "status": 200,
+      "elapsed_ms": 351,
+      "bytes_read": 81604,
+      "issues": [],
+      "title": "Capital Gains Tax Calculator for 2026",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/capital-gains-tax-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/capm-required-return-calculator/",
+      "status": 200,
+      "elapsed_ms": 346,
+      "bytes_read": 80250,
+      "issues": [],
+      "title": "CAPM Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/capm-required-return-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/carbohydrate-calculator/",
+      "status": 200,
+      "elapsed_ms": 2073,
+      "bytes_read": 77581,
+      "issues": [],
+      "title": "Carbohydrate Calculator by Calories, Fiber and Meals",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/carbohydrate-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/carburetor-cfm-calculator/",
+      "status": 200,
+      "elapsed_ms": 353,
+      "bytes_read": 81304,
+      "issues": [],
+      "title": "Carburetor CFM Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/carburetor-cfm-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/card-probability-calculator/",
+      "status": 200,
+      "elapsed_ms": 336,
+      "bytes_read": 81850,
+      "issues": [],
+      "title": "Card Probability Calculator for Draws Without Replacement",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/card-probability-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/cargo-insurance-cost-calculator/",
+      "status": 200,
+      "elapsed_ms": 358,
+      "bytes_read": 77064,
+      "issues": [],
+      "title": "Cargo Insurance Cost Calculator | U.S. Estimator",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/cargo-insurance-cost-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/carnot-efficiency-calculator/",
+      "status": 200,
+      "elapsed_ms": 337,
+      "bytes_read": 80045,
+      "issues": [],
+      "title": "Carnot Efficiency Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/carnot-efficiency-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/carpet-calculator/",
+      "status": 200,
+      "elapsed_ms": 1982,
+      "bytes_read": 83353,
+      "issues": [],
+      "title": "Carpet Calculator: Accurate Formula, Inputs and Results",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/carpet-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/cash-conversion-cycle-calculator/",
+      "status": 200,
+      "elapsed_ms": 352,
+      "bytes_read": 81353,
+      "issues": [],
+      "title": "Cash Conversion Cycle Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/cash-conversion-cycle-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/cat-age-calculator/",
+      "status": 200,
+      "elapsed_ms": 1865,
+      "bytes_read": 77231,
+      "issues": [],
+      "title": "Cat Age Calculator: Cat Years to Human Years",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/cat-age-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/cat-calorie-calculator/",
+      "status": 200,
+      "elapsed_ms": 359,
+      "bytes_read": 84644,
+      "issues": [],
+      "title": "Cat Calorie Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/cat-calorie-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/cat-genetics-calculator/",
+      "status": 200,
+      "elapsed_ms": 344,
+      "bytes_read": 75435,
+      "issues": [],
+      "title": "Cat Genetics Calculator: Formula & Results",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/cat-genetics-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/categorical-and-quantitative-variables/",
+      "status": 200,
+      "elapsed_ms": 343,
+      "bytes_read": 206525,
+      "issues": [],
+      "title": "Categorical and Quantitative Variables: Types and Examples - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/categorical-and-quantitative-variables/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/academic-support/",
+      "status": 200,
+      "elapsed_ms": 625,
+      "bytes_read": 78090,
+      "issues": [],
+      "title": "Academic Support - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/academic-support/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/anova-family/",
+      "status": 200,
+      "elapsed_ms": 349,
+      "bytes_read": 78787,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "ANOVA Family - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/anova-family/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/ap-statistics-exam/",
+      "status": 200,
+      "elapsed_ms": 347,
+      "bytes_read": 64762,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "AP Statistics Exam - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/ap-statistics-exam/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/ap-statistics/",
+      "status": 200,
+      "elapsed_ms": 616,
+      "bytes_read": 77220,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "AP Statistics - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/ap-statistics/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/basic-descriptive-statistics-guides/",
+      "status": 200,
+      "elapsed_ms": 370,
+      "bytes_read": 81603,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Basic Descriptive Statistics Guides - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/basic-descriptive-statistics-guides/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/blog/",
+      "status": 200,
+      "elapsed_ms": 346,
+      "bytes_read": 69288,
+      "issues": [],
+      "title": "Blog - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/blog/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/box-plot/",
+      "status": 200,
+      "elapsed_ms": 350,
+      "bytes_read": 61787,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Box Plot - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/box-plot/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/chi-square-and-categorical-data-tests/",
+      "status": 200,
+      "elapsed_ms": 350,
+      "bytes_read": 84699,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Chi-Square and Categorical Data Tests - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/chi-square-and-categorical-data-tests/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/clinical-trials-using-r/",
+      "status": 200,
+      "elapsed_ms": 560,
+      "bytes_read": 72220,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "CLINICAL TRIALS USING R - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/clinical-trials-using-r/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/correlation-tests/",
+      "status": 200,
+      "elapsed_ms": 357,
+      "bytes_read": 80693,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Correlation Tests - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/correlation-tests/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/data-design/",
+      "status": 200,
+      "elapsed_ms": 336,
+      "bytes_read": 72594,
+      "issues": [],
+      "title": "Data & Design - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/data-design/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/digital-publishing/",
+      "status": 200,
+      "elapsed_ms": 345,
+      "bytes_read": 72639,
+      "issues": [],
+      "title": "Digital Publishing - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/digital-publishing/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/exam-administration-preparation-and-resources/",
+      "status": 200,
+      "elapsed_ms": 353,
+      "bytes_read": 78095,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Exam Administration, Preparation, and Resources - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/exam-administration-preparation-and-resources/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/legacy-and-enrichment/",
+      "status": 200,
+      "elapsed_ms": 359,
+      "bytes_read": 70762,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Legacy and Enrichment - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/legacy-and-enrichment/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/legacy-enrichment/",
+      "status": 200,
+      "elapsed_ms": 341,
+      "bytes_read": 70724,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Legacy / enrichment - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/legacy-enrichment/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/local-services/",
+      "status": 200,
+      "elapsed_ms": 372,
+      "bytes_read": 72547,
+      "issues": [],
+      "title": "Local Services - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/local-services/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/multivariate-analysis/",
+      "status": 200,
+      "elapsed_ms": 337,
+      "bytes_read": 65286,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Multivariate Analysis - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/multivariate-analysis/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/nonparametric-tests/",
+      "status": 200,
+      "elapsed_ms": 871,
+      "bytes_read": 79263,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Nonparametric Tests - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/nonparametric-tests/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/normality-and-assumption-tests/",
+      "status": 200,
+      "elapsed_ms": 352,
+      "bytes_read": 80278,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Normality and Assumption Tests - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/normality-and-assumption-tests/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/post-hoc-tests/",
+      "status": 200,
+      "elapsed_ms": 881,
+      "bytes_read": 79511,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Post Hoc Tests - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/post-hoc-tests/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/r-programming/",
+      "status": 200,
+      "elapsed_ms": 360,
+      "bytes_read": 72090,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "R Programming - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/r-programming/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/regression-tests-and-models/",
+      "status": 200,
+      "elapsed_ms": 689,
+      "bytes_read": 80272,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Regression Tests and Models - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/regression-tests-and-models/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/reliability-and-agreement-tests/",
+      "status": 200,
+      "elapsed_ms": 353,
+      "bytes_read": 80181,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Reliability and Agreement Tests - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/reliability-and-agreement-tests/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/rstudio/",
+      "status": 200,
+      "elapsed_ms": 339,
+      "bytes_read": 72012,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "RSTUDIO - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/rstudio/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/survey-and-likert-scale-analysis/",
+      "status": 200,
+      "elapsed_ms": 346,
+      "bytes_read": 79234,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Survey and Likert Scale Analysis - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/survey-and-likert-scale-analysis/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/survival-analysis/",
+      "status": 200,
+      "elapsed_ms": 359,
+      "bytes_read": 79239,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Survival Analysis - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/survival-analysis/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/t-tests/",
+      "status": 200,
+      "elapsed_ms": 785,
+      "bytes_read": 78234,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "T Tests - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/t-tests/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/time-series-tests-and-forecasting/",
+      "status": 200,
+      "elapsed_ms": 364,
+      "bytes_read": 79812,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Time Series Tests and Forecasting - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/time-series-tests-and-forecasting/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/unit-1-adjacency-research-design-enrichment/",
+      "status": 200,
+      "elapsed_ms": 347,
+      "bytes_read": 62003,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Unit 1 adjacency / research-design enrichment - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/unit-1-adjacency-research-design-enrichment/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/unit-1-exploring-one-variable-data-and-collecting-data/",
+      "status": 200,
+      "elapsed_ms": 361,
+      "bytes_read": 75801,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Unit 1: Exploring One-Variable Data and Collecting Data - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/unit-1-exploring-one-variable-data-and-collecting-data/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/unit-2-probability-random-variables-and-probability-distributions/",
+      "status": 200,
+      "elapsed_ms": 348,
+      "bytes_read": 78754,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Unit 2: Probability, Random Variables, and Probability Distributions - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/unit-2-probability-random-variables-and-probability-distributions/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/unit-3-inference-for-categorical-data-proportions/",
+      "status": 200,
+      "elapsed_ms": 351,
+      "bytes_read": 76278,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Unit 3: Inference for Categorical Data: Proportions - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/unit-3-inference-for-categorical-data-proportions/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/unit-4-inference-for-quantitative-data-means/",
+      "status": 200,
+      "elapsed_ms": 358,
+      "bytes_read": 68930,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Unit 4: Inference for Quantitative Data: Means - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/unit-4-inference-for-quantitative-data-means/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/unit-5-regression-analysis/",
+      "status": 200,
+      "elapsed_ms": 353,
+      "bytes_read": 64998,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Unit 5: Regression Analysis - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/unit-5-regression-analysis/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/units-3-4-statistical-inference/",
+      "status": 200,
+      "elapsed_ms": 360,
+      "bytes_read": 70258,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Units 3–4: Statistical Inference - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/units-3-4-statistical-inference/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/validity-factor-analysis-and-scale-testing-2/",
+      "status": 200,
+      "elapsed_ms": 414,
+      "bytes_read": 64328,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Validity, Factor Analysis and Scale Testing - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/validity-factor-analysis-and-scale-testing-2/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/validity-factor-analysis-and-scale-testing/",
+      "status": 200,
+      "elapsed_ms": 341,
+      "bytes_read": 80626,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Validity, Factor Analysis and Scale Testing - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/validity-factor-analysis-and-scale-testing/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/category/z-tests/",
+      "status": 200,
+      "elapsed_ms": 343,
+      "bytes_read": 75505,
+      "issues": [
+        "missing_meta_description"
+      ],
+      "title": "Z Tests - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/category/z-tests/",
+      "description_present": false,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/caulk-coverage-calculator/",
+      "status": 200,
+      "elapsed_ms": 350,
+      "bytes_read": 84633,
+      "issues": [],
+      "title": "Caulk Calculator: Formula, Units & Steps",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/caulk-coverage-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/cd-rate-calculator/",
+      "status": 200,
+      "elapsed_ms": 373,
+      "bytes_read": 83643,
+      "issues": [],
+      "title": "CD Rate Calculator: Interest, APY, Maturity and Ladder",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/cd-rate-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/cdaipy/",
+      "status": 200,
+      "elapsed_ms": 368,
+      "bytes_read": 191146,
+      "issues": [],
+      "title": "Categorical Data Analysis in Python: Complete Guide with Code, Charts and Interpretation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/cdaipy/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    }
+  ]
+}
