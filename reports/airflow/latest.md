@@ -1,19 +1,19 @@
-# Salar Cafe daily health report — 2026-10-23
+# Salar Cafe daily health report — 2026-10-24
 
-- Catalog URLs: **3266** (snapshot 2026-10-23T07:37:36+00:00)
-- Checked today: **125** (rotating batch 9/28)
-- HTTP 200: **124**; other/no response: **1**
-- Pages with one or more flags: **1**
+- Catalog URLs: **3266** (snapshot 2026-10-24T07:22:30+00:00)
+- Checked today: **125** (rotating batch 10/28)
+- HTTP 200: **125**; other/no response: **0**
+- Pages with one or more flags: **0**
 - WordPress public pages/posts: **2525 / 529**
 - GA4: **not_configured**
 
 ## Issue counts
 
-- http_404: 1
+No issues detected in sampled pages.
 
 ## Flagged pages (first 40)
 
-- HTTP 404 | https://onlineinternetcafe.com/chemical-reaction-calculator/ | http_404
+No flagged pages in this batch.
 
 ## Coverage and interpretation
 
