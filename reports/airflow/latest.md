@@ -1,19 +1,21 @@
-# Salar Cafe daily health report — 2026-10-24
+# Salar Cafe daily health report — 2026-10-25
 
-- Catalog URLs: **3266** (snapshot 2026-10-24T07:22:30+00:00)
-- Checked today: **125** (rotating batch 10/28)
+- Catalog URLs: **3266** (snapshot 2026-10-25T07:38:40+00:00)
+- Checked today: **125** (rotating batch 11/28)
 - HTTP 200: **125**; other/no response: **0**
-- Pages with one or more flags: **0**
+- Pages with one or more flags: **2**
 - WordPress public pages/posts: **2525 / 529**
 - GA4: **not_configured**
 
 ## Issue counts
 
-No issues detected in sampled pages.
+- canonical_mismatch: 1
+- multiple_h1: 1
 
 ## Flagged pages (first 40)
 
-No flagged pages in this batch.
+- HTTP 200 | https://onlineinternetcafe.com/electronics-formulas/ | multiple_h1
+- HTTP 200 | https://onlineinternetcafe.com/engine-displacement-calculator/ | canonical_mismatch
 
 ## Coverage and interpretation
 
