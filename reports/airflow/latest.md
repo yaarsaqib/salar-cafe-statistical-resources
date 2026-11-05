@@ -1,7 +1,7 @@
-# Salar Cafe daily health report — 2026-11-04
+# Salar Cafe daily health report — 2026-11-05
 
-- Catalog URLs: **3266** (snapshot 2026-11-04T09:23:40+00:00)
-- Checked today: **125** (rotating batch 21/28)
+- Catalog URLs: **3266** (snapshot 2026-11-05T09:34:49+00:00)
+- Checked today: **125** (rotating batch 22/28)
 - HTTP 200: **125**; other/no response: **0**
 - Pages with one or more flags: **2**
 - WordPress public pages/posts: **2525 / 529**
@@ -9,12 +9,12 @@
 
 ## Issue counts
 
-- canonical_mismatch: 2
+- missing_meta_description: 2
 
 ## Flagged pages (first 40)
 
-- HTTP 200 | https://onlineinternetcafe.com/seer-savings-calculator-2/ | canonical_mismatch
-- HTTP 200 | https://onlineinternetcafe.com/sod-roll-calculator-2/ | canonical_mismatch
+- HTTP 200 | https://onlineinternetcafe.com/staff-statement-markaz-06-admin/ | missing_meta_description
+- HTTP 200 | https://onlineinternetcafe.com/staff-statement-markaz-06/ | missing_meta_description
 
 ## Coverage and interpretation
 
