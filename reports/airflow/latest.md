@@ -1,19 +1,19 @@
-# Salar Cafe daily health report — 2026-11-06
+# Salar Cafe daily health report — 2026-11-07
 
-- Catalog URLs: **3266** (snapshot 2026-11-06T09:28:44+00:00)
-- Checked today: **125** (rotating batch 23/28)
+- Catalog URLs: **3266** (snapshot 2026-11-07T08:52:23+00:00)
+- Checked today: **125** (rotating batch 24/28)
 - HTTP 200: **125**; other/no response: **0**
-- Pages with one or more flags: **1**
+- Pages with one or more flags: **0**
 - WordPress public pages/posts: **2525 / 529**
 - GA4: **not_configured**
 
 ## Issue counts
 
-- missing_meta_description: 1
+No issues detected in sampled pages.
 
 ## Flagged pages (first 40)
 
-- HTTP 200 | https://onlineinternetcafe.com/statistical-calculator-accuracy-benchmark/ | missing_meta_description
+No flagged pages in this batch.
 
 ## Coverage and interpretation
 
