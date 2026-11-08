@@ -1,7 +1,7 @@
-# Salar Cafe daily health report — 2026-11-07
+# Salar Cafe daily health report — 2026-11-08
 
-- Catalog URLs: **3266** (snapshot 2026-11-07T08:52:23+00:00)
-- Checked today: **125** (rotating batch 24/28)
+- Catalog URLs: **3266** (snapshot 2026-11-08T09:05:03+00:00)
+- Checked today: **125** (rotating batch 25/28)
 - HTTP 200: **125**; other/no response: **0**
 - Pages with one or more flags: **0**
 - WordPress public pages/posts: **2525 / 529**
