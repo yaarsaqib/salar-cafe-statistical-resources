@@ -1,19 +1,20 @@
-# Salar Cafe daily health report — 2026-11-12
+# Salar Cafe daily health report — 2026-11-13
 
-- Catalog URLs: **3266** (snapshot 2026-11-12T09:54:30+00:00)
-- Checked today: **125** (rotating batch 1/28)
+- Catalog URLs: **3266** (snapshot 2026-11-13T09:38:42+00:00)
+- Checked today: **125** (rotating batch 2/28)
 - HTTP 200: **125**; other/no response: **0**
-- Pages with one or more flags: **0**
+- Pages with one or more flags: **2**
 - WordPress public pages/posts: **2525 / 529**
 - GA4: **not_configured**
 
 ## Issue counts
 
-No issues detected in sampled pages.
+- multiple_h1: 2
 
 ## Flagged pages (first 40)
 
-No flagged pages in this batch.
+- HTTP 200 | https://onlineinternetcafe.com/ap-physics-1/score-calculator/ | multiple_h1
+- HTTP 200 | https://onlineinternetcafe.com/ap-physics-2/score-calculator/ | multiple_h1
 
 ## Coverage and interpretation
 
