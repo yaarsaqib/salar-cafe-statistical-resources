@@ -1,17 +1,18 @@
 {
-  "date": "2026-11-14",
-  "generated_utc": "2026-11-14T10:26:45.551030+00:00",
+  "date": "2026-11-15",
+  "generated_utc": "2026-11-15T10:54:33.725941+00:00",
   "website": "https://onlineinternetcafe.com",
   "catalog_url_count": 3266,
-  "catalog_generated_utc": "2026-11-14T09:02:41+00:00",
+  "catalog_generated_utc": "2026-11-15T09:32:12+00:00",
   "catalog_warnings": [],
-  "batch_slot": 2,
+  "batch_slot": 3,
   "batch_count": 28,
   "checked": 125,
   "http_200": 125,
-  "flagged": 107,
+  "flagged": 14,
   "issue_counts": {
-    "missing_h1": 107
+    "missing_h1": 10,
+    "multiple_h1": 4
   },
   "wordpress": {
     "pages": 2525,
@@ -20,12 +21,12 @@
   "ga4": {
     "status": "not_configured"
   },
-  "previous_report_date": "2026-11-13",
+  "previous_report_date": "2026-11-14",
   "pages": [
     {
       "url": "https://onlineinternetcafe.com/",
       "status": 200,
-      "elapsed_ms": 232,
+      "elapsed_ms": 668,
       "bytes_read": 113320,
       "issues": [],
       "title": "Statistical Analysis Online: Free Tools & Guides | Salar Cafe",
@@ -37,7 +38,7 @@
     {
       "url": "https://onlineinternetcafe.com/statistical-calculators/",
       "status": 200,
-      "elapsed_ms": 1274,
+      "elapsed_ms": 543,
       "bytes_read": 1944897,
       "issues": [],
       "title": "Free Online Statistical Calculators & Analysis Studio",
@@ -49,7 +50,7 @@
     {
       "url": "https://onlineinternetcafe.com/web-calculators/",
       "status": 200,
-      "elapsed_ms": 319,
+      "elapsed_ms": 1588,
       "bytes_read": 109252,
       "issues": [],
       "title": "Web Calculators | Salar Cafe",
@@ -61,7 +62,7 @@
     {
       "url": "https://onlineinternetcafe.com/ap-score-calculator/",
       "status": 200,
-      "elapsed_ms": 313,
+      "elapsed_ms": 1199,
       "bytes_read": 106576,
       "issues": [],
       "title": "AP Score Calculator 2027: 40 Subject Guides | Salar Cafe",
@@ -73,7 +74,7 @@
     {
       "url": "https://onlineinternetcafe.com/differential-equation-solver/",
       "status": 200,
-      "elapsed_ms": 724,
+      "elapsed_ms": 541,
       "bytes_read": 84706,
       "issues": [],
       "title": "Differential Equation Solver: ODE, PDE & Derivatives",
@@ -83,1658 +84,1472 @@
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap-physics-2/units/",
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/translational-kinetic-energy/",
       "status": 200,
-      "elapsed_ms": 1033,
-      "bytes_read": 100304,
-      "issues": [],
-      "title": "AP Physics 2 Units 2027: All 7 Units & 46 Topics",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-2/units/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/",
-      "status": 200,
-      "elapsed_ms": 1017,
-      "bytes_read": 92284,
-      "issues": [],
-      "title": "AP Physics 2 Unit 14: Waves, Sound, and Physical Optics",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/boundary-behavior-polarization/",
-      "status": 200,
-      "elapsed_ms": 1003,
-      "bytes_read": 95273,
-      "issues": [],
-      "title": "AP Physics 2 14.3: Wave Boundaries & Polarization",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/boundary-behavior-polarization/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/diffraction/",
-      "status": 200,
-      "elapsed_ms": 822,
-      "bytes_read": 94031,
-      "issues": [],
-      "title": "AP Physics 2 14.7: Diffraction",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/diffraction/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/doppler-effect/",
-      "status": 200,
-      "elapsed_ms": 782,
-      "bytes_read": 94351,
-      "issues": [],
-      "title": "AP Physics 2 14.5: The Doppler Effect",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/doppler-effect/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/double-slit-diffraction-gratings/",
-      "status": 200,
-      "elapsed_ms": 871,
-      "bytes_read": 94840,
-      "issues": [],
-      "title": "AP Physics 2 14.8: Double-Slit Interference & Gratings",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/double-slit-diffraction-gratings/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/electromagnetic-waves/",
-      "status": 200,
-      "elapsed_ms": 803,
-      "bytes_read": 94781,
-      "issues": [],
-      "title": "AP Physics 2 14.4: Electromagnetic Waves",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/electromagnetic-waves/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/periodic-waves/",
-      "status": 200,
-      "elapsed_ms": 973,
-      "bytes_read": 93748,
-      "issues": [],
-      "title": "AP Physics 2 14.2: Periodic Waves",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/periodic-waves/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/thin-film-interference/",
-      "status": 200,
-      "elapsed_ms": 825,
-      "bytes_read": 95792,
-      "issues": [],
-      "title": "AP Physics 2 14.9: Thin-Film Interference",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/thin-film-interference/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/wave-interference-standing-waves/",
-      "status": 200,
-      "elapsed_ms": 874,
-      "bytes_read": 95226,
-      "issues": [],
-      "title": "AP Physics 2 14.6: Interference & Standing Waves",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/wave-interference-standing-waves/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/wave-pulses-waves/",
-      "status": 200,
-      "elapsed_ms": 1107,
-      "bytes_read": 95522,
-      "issues": [],
-      "title": "AP Physics 2 14.1: Properties of Wave Pulses and Waves",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-2/waves-sound-physical-optics/wave-pulses-waves/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c-electricity-magnetism-score-calculator/",
-      "status": 200,
-      "elapsed_ms": 1025,
-      "bytes_read": 99348,
-      "issues": [],
-      "title": "AP Physics C: Electricity and Magnetism Score Calculator 2027 | Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c-electricity-magnetism-score-calculator/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c-mechanics-score-calculator/",
-      "status": 200,
-      "elapsed_ms": 879,
-      "bytes_read": 98909,
-      "issues": [],
-      "title": "AP Physics C: Mechanics Score Calculator 2027 | Salar Cafe",
-      "h1_count": 1,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c-mechanics-score-calculator/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/",
-      "status": 200,
-      "elapsed_ms": 308,
-      "bytes_read": 117103,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C 2027: Mechanics & E&M Guide",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/",
-      "status": 200,
-      "elapsed_ms": 292,
-      "bytes_read": 105239,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C: Electricity & Magnetism 2027 Study Guide",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/conductors-capacitors/",
-      "status": 200,
-      "elapsed_ms": 1761,
-      "bytes_read": 95476,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 10.1: Electrostatics with Conductors",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/conductors-capacitors/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/conductors-capacitors/capacitors/",
-      "status": 200,
-      "elapsed_ms": 1657,
-      "bytes_read": 110577,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 10.3: Capacitors",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/conductors-capacitors/capacitors/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/conductors-capacitors/dielectrics/",
-      "status": 200,
-      "elapsed_ms": 1818,
-      "bytes_read": 112236,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 10.4: Dielectrics",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/conductors-capacitors/dielectrics/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/conductors-capacitors/redistribution-charge-between-conductors/",
-      "status": 200,
-      "elapsed_ms": 1730,
-      "bytes_read": 110363,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 10.2: Charge Redistribution",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/conductors-capacitors/redistribution-charge-between-conductors/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/",
-      "status": 200,
-      "elapsed_ms": 1784,
-      "bytes_read": 113567,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M Unit 8: Charges, Fields & Gauss’s Law 2027",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/conservation-charge-charging/",
-      "status": 200,
-      "elapsed_ms": 1649,
-      "bytes_read": 104596,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 8.2: Conservation of Charge & Charging",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/conservation-charge-charging/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/electric-charge-force/",
-      "status": 200,
-      "elapsed_ms": 1693,
-      "bytes_read": 105487,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 8.1: Electric Charge and Electric Force",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/electric-charge-force/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/electric-fields-charge-distributions/",
-      "status": 200,
-      "elapsed_ms": 1609,
-      "bytes_read": 105220,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 8.4: Electric Fields of Charge Distributions",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/electric-fields-charge-distributions/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/electric-fields/",
-      "status": 200,
-      "elapsed_ms": 1699,
-      "bytes_read": 105693,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 8.3: Electric Fields",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/electric-fields/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/electric-flux/",
-      "status": 200,
-      "elapsed_ms": 1842,
-      "bytes_read": 103311,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 8.5: Electric Flux",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/electric-flux/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/gauss-law/",
-      "status": 200,
-      "elapsed_ms": 1775,
-      "bytes_read": 105078,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 8.6: Gauss's Law",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-charges-fields-gauss-law/gauss-law/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/",
-      "status": 200,
-      "elapsed_ms": 1588,
-      "bytes_read": 95760,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 11.2: Simple Circuits",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/compound-direct-current-circuits/",
-      "status": 200,
-      "elapsed_ms": 1886,
-      "bytes_read": 116185,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 11.5: Compound Direct Current Circuits",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/compound-direct-current-circuits/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/electric-current/",
-      "status": 200,
-      "elapsed_ms": 1765,
-      "bytes_read": 110914,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 11.1: Electric Current",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/electric-current/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/electric-power/",
-      "status": 200,
-      "elapsed_ms": 1971,
-      "bytes_read": 110900,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 11.4: Electric Power",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/electric-power/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/kirchhoffs-junction-rule/",
-      "status": 200,
-      "elapsed_ms": 1776,
-      "bytes_read": 113571,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 11.7: Kirchhoff’s Junction Rule",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/kirchhoffs-junction-rule/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/kirchhoffs-loop-rule/",
-      "status": 200,
-      "elapsed_ms": 2284,
-      "bytes_read": 115759,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 11.6: Kirchhoff’s Loop Rule",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/kirchhoffs-loop-rule/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/resistance-resistivity-ohms-law/",
-      "status": 200,
-      "elapsed_ms": 2593,
-      "bytes_read": 113924,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 11.3: Resistance, Resistivity, and Ohm’s Law",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/resistance-resistivity-ohms-law/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/resistor-capacitor-circuits/",
-      "status": 200,
-      "elapsed_ms": 311,
-      "bytes_read": 119806,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 11.8: Resistor-Capacitor (RC) Circuits",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-circuits/resistor-capacitor-circuits/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-potential/",
-      "status": 200,
-      "elapsed_ms": 1988,
-      "bytes_read": 95336,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 9.2: Electric Potential",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-potential/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-potential/conservation-electric-energy/",
-      "status": 200,
-      "elapsed_ms": 1845,
-      "bytes_read": 110786,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 9.3: Conservation of Electric Energy",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-potential/conservation-electric-energy/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-potential/electric-potential-energy/",
-      "status": 200,
-      "elapsed_ms": 1843,
-      "bytes_read": 110001,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 9.1: Electric Potential Energy",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electric-potential/electric-potential-energy/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/",
-      "status": 200,
-      "elapsed_ms": 1787,
-      "bytes_read": 100569,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 13.1: Magnetic Flux",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/faradays-law-electromagnetic-induction/",
-      "status": 200,
-      "elapsed_ms": 305,
-      "bytes_read": 119802,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 13.2: Electromagnetic Induction",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/faradays-law-electromagnetic-induction/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/induced-currents-magnetic-forces/",
-      "status": 200,
-      "elapsed_ms": 319,
-      "bytes_read": 121362,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 13.3: Induced Currents and Magnetic Forces",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/induced-currents-magnetic-forces/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/inductance/",
-      "status": 200,
-      "elapsed_ms": 2037,
-      "bytes_read": 115641,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 13.4: Inductance",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/inductance/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/lc-circuits/",
-      "status": 200,
-      "elapsed_ms": 1771,
-      "bytes_read": 119780,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 13.6: LC Circuits",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/lc-circuits/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/lr-circuits/",
-      "status": 200,
-      "elapsed_ms": 1709,
-      "bytes_read": 116059,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 13.5: LR Circuits",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/electromagnetic-induction/lr-circuits/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/exam-date/",
-      "status": 200,
-      "elapsed_ms": 1904,
-      "bytes_read": 92407,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M Exam Date 2027: May 5",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/exam-date/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/exam-format/",
-      "status": 200,
-      "elapsed_ms": 1955,
-      "bytes_read": 97042,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M Exam Format 2027",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/exam-format/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/formula-sheet/",
-      "status": 200,
-      "elapsed_ms": 306,
-      "bytes_read": 161712,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M Formula Sheet 2027",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/formula-sheet/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/frq-practice/",
-      "status": 200,
-      "elapsed_ms": 1759,
-      "bytes_read": 83449,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M FRQ Practice 2027 | 124 Questions",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/frq-practice/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/magnetic-fields-electromagnetism/",
-      "status": 200,
-      "elapsed_ms": 1689,
-      "bytes_read": 101072,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 12.1: Magnetic Fields",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/magnetic-fields-electromagnetism/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/magnetic-fields-electromagnetism/amperes-law/",
-      "status": 200,
-      "elapsed_ms": 1843,
-      "bytes_read": 121588,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 12.4: Ampère’s Law",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/magnetic-fields-electromagnetism/amperes-law/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/magnetic-fields-electromagnetism/magnetic-fields-current-carrying-wires-biot-savart-law/",
-      "status": 200,
-      "elapsed_ms": 1683,
-      "bytes_read": 119965,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 12.3: Current-Generated Magnetic Fields",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/magnetic-fields-electromagnetism/magnetic-fields-current-carrying-wires-biot-savart-law/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/magnetic-fields-electromagnetism/magnetism-moving-charges/",
-      "status": 200,
-      "elapsed_ms": 296,
-      "bytes_read": 120232,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M 12.2: Magnetism and Moving Charges",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/magnetic-fields-electromagnetism/magnetism-moving-charges/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/mcq-practice/",
-      "status": 200,
-      "elapsed_ms": 1655,
-      "bytes_read": 83104,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M MCQ Practice 2027 | 1,302 Questions",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/mcq-practice/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/model-exams/",
-      "status": 200,
-      "elapsed_ms": 1684,
-      "bytes_read": 81241,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M Model Exams 2027 | 5 Full Tests",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/model-exams/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-10-conductors-capacitors/",
-      "status": 200,
-      "elapsed_ms": 1530,
-      "bytes_read": 96849,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M Unit 10: Conductors & Capacitors 2027",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-10-conductors-capacitors/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-11-electric-circuits/",
-      "status": 200,
-      "elapsed_ms": 1672,
-      "bytes_read": 100442,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M Unit 11: Electric Circuits 2027",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-11-electric-circuits/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-12-magnetic-fields-electromagnetism/",
-      "status": 200,
-      "elapsed_ms": 1627,
-      "bytes_read": 96703,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M Unit 12: Magnetic Fields & Electromagnetism 2027",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-12-magnetic-fields-electromagnetism/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-13-electromagnetic-induction/",
-      "status": 200,
-      "elapsed_ms": 308,
-      "bytes_read": 98986,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M Unit 13: Electromagnetic Induction 2027",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-13-electromagnetic-induction/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-9-electric-potential/",
-      "status": 200,
-      "elapsed_ms": 1675,
-      "bytes_read": 95558,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M Unit 9: Electric Potential 2027",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/unit-9-electric-potential/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/units/",
-      "status": 200,
-      "elapsed_ms": 1732,
-      "bytes_read": 103321,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C E&M Units 2027: All 6 Units",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/electricity-magnetism/units/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/exam-date/",
-      "status": 200,
-      "elapsed_ms": 1707,
-      "bytes_read": 92743,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Exam Dates 2027: Mechanics & E&M",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/exam-date/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/exam-format/",
-      "status": 200,
-      "elapsed_ms": 1560,
-      "bytes_read": 95153,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Exam Format 2027: Both Exams",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/exam-format/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/formula-sheet/",
-      "status": 200,
-      "elapsed_ms": 309,
-      "bytes_read": 231735,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Formula & Equation Sheet 2027",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/formula-sheet/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/frq-self-grader/",
-      "status": 200,
-      "elapsed_ms": 312,
-      "bytes_read": 82164,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C FRQ Self-Grader 2027 | Rubric Practice",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/frq-self-grader/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/frq/",
-      "status": 200,
-      "elapsed_ms": 1625,
-      "bytes_read": 104214,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C FRQ Guide 2027: All 4 Question Types",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/frq/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/is-it-hard/",
-      "status": 200,
-      "elapsed_ms": 1800,
-      "bytes_read": 96249,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "Is AP Physics C Hard? Mechanics vs E&M 2027",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/is-it-hard/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/labs/",
-      "status": 200,
-      "elapsed_ms": 1854,
-      "bytes_read": 258405,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Labs & Investigations 2027: Mechanics + E&M",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/labs/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/",
-      "status": 200,
-      "elapsed_ms": 1809,
-      "bytes_read": 101487,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C: Mechanics 2027 Study Guide",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/",
-      "status": 200,
-      "elapsed_ms": 3607,
-      "bytes_read": 94541,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 6.1: Rotational Kinetic Energy",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/angular-momentum-angular-impulse/",
-      "status": 200,
-      "elapsed_ms": 2429,
-      "bytes_read": 111375,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 6.3: Angular Momentum and Angular Impulse",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/angular-momentum-angular-impulse/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/conservation-angular-momentum/",
-      "status": 200,
-      "elapsed_ms": 2169,
-      "bytes_read": 110623,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 6.4: Conservation of Angular Momentum",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/conservation-angular-momentum/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/motion-orbiting-satellites/",
-      "status": 200,
-      "elapsed_ms": 1921,
-      "bytes_read": 111925,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 6.6: Motion of Orbiting Satellites",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/motion-orbiting-satellites/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/rolling/",
-      "status": 200,
-      "elapsed_ms": 2006,
-      "bytes_read": 111762,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 6.5: Rolling",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/rolling/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/torque-work/",
-      "status": 200,
-      "elapsed_ms": 1925,
-      "bytes_read": 110160,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 6.2: Torque and Work",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/energy-momentum-rotating-systems/torque-work/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/exam-date/",
-      "status": 200,
-      "elapsed_ms": 1617,
-      "bytes_read": 92102,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics Exam Date 2027: May 3",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/exam-date/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/exam-format/",
-      "status": 200,
-      "elapsed_ms": 315,
-      "bytes_read": 95830,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics Exam Format 2027",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/exam-format/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/",
-      "status": 200,
-      "elapsed_ms": 1764,
-      "bytes_read": 112506,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics Unit 2: Force & Dynamics 2027",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/circular-motion/",
-      "status": 200,
-      "elapsed_ms": 1693,
-      "bytes_read": 106449,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 2.10: Circular Motion",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/circular-motion/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/forces-free-body-diagrams/",
-      "status": 200,
-      "elapsed_ms": 1730,
-      "bytes_read": 103895,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 2.2: Forces and Free-Body Diagrams",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/forces-free-body-diagrams/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/gravitational-force/",
-      "status": 200,
-      "elapsed_ms": 318,
-      "bytes_read": 105652,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 2.6: Gravitational Force",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/gravitational-force/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/kinetic-static-friction/",
-      "status": 200,
-      "elapsed_ms": 1988,
-      "bytes_read": 104057,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 2.7: Kinetic and Static Friction",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/kinetic-static-friction/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/newtons-first-law/",
-      "status": 200,
-      "elapsed_ms": 1783,
-      "bytes_read": 98995,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 2.4: Newton's First Law",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/newtons-first-law/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/newtons-second-law/",
-      "status": 200,
-      "elapsed_ms": 1625,
-      "bytes_read": 104095,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 2.5: Newton's Second Law",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/newtons-second-law/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/newtons-third-law/",
-      "status": 200,
-      "elapsed_ms": 314,
-      "bytes_read": 103301,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 2.3: Newton's Third Law",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/newtons-third-law/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/resistive-forces/",
-      "status": 200,
-      "elapsed_ms": 305,
-      "bytes_read": 104230,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 2.9: Resistive Forces",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/resistive-forces/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/spring-forces/",
-      "status": 200,
-      "elapsed_ms": 1856,
-      "bytes_read": 102970,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 2.8: Spring Forces",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/spring-forces/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/systems-center-of-mass/",
-      "status": 200,
-      "elapsed_ms": 1775,
-      "bytes_read": 104792,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 2.1: Systems and Center of Mass",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/force-translational-dynamics/systems-center-of-mass/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/formula-sheet/",
-      "status": 200,
-      "elapsed_ms": 1827,
-      "bytes_read": 164148,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics Formula Sheet 2027",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/formula-sheet/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/frq-practice/",
-      "status": 200,
-      "elapsed_ms": 1613,
-      "bytes_read": 83169,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics FRQ Practice 2027 | 164 Questions",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/frq-practice/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/",
-      "status": 200,
-      "elapsed_ms": 1864,
-      "bytes_read": 108655,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics Unit 1: Kinematics 2027",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/displacement-velocity-acceleration/",
-      "status": 200,
-      "elapsed_ms": 1663,
-      "bytes_read": 108099,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 1.2: Displacement, Velocity & Acceleration",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/displacement-velocity-acceleration/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/motion-two-three-dimensions/",
-      "status": 200,
-      "elapsed_ms": 1736,
-      "bytes_read": 99765,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 1.5: Motion in Two or Three Dimensions",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/motion-two-three-dimensions/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/reference-frames-relative-motion/",
-      "status": 200,
-      "elapsed_ms": 1867,
-      "bytes_read": 99957,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 1.4: Reference Frames and Relative Motion",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/reference-frames-relative-motion/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/representing-motion/",
-      "status": 200,
-      "elapsed_ms": 1745,
-      "bytes_read": 103090,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 1.3: Representing Motion",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/representing-motion/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/scalars-vectors/",
-      "status": 200,
-      "elapsed_ms": 1760,
-      "bytes_read": 108885,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 1.1: Scalars and Vectors",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/kinematics/scalars-vectors/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/linear-momentum/",
-      "status": 200,
-      "elapsed_ms": 1819,
-      "bytes_read": 93121,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 4.1: Linear Momentum",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/linear-momentum/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/linear-momentum/change-momentum-impulse/",
-      "status": 200,
-      "elapsed_ms": 1771,
-      "bytes_read": 107847,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 4.2: Change in Momentum and Impulse",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/linear-momentum/change-momentum-impulse/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/linear-momentum/conservation-linear-momentum/",
-      "status": 200,
-      "elapsed_ms": 2105,
-      "bytes_read": 109996,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 4.3: Conservation of Linear Momentum",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/linear-momentum/conservation-linear-momentum/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/linear-momentum/elastic-inelastic-collisions/",
-      "status": 200,
-      "elapsed_ms": 2491,
-      "bytes_read": 109646,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 4.4: Elastic and Inelastic Collisions",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/linear-momentum/elastic-inelastic-collisions/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/mcq-practice/",
-      "status": 200,
-      "elapsed_ms": 3498,
-      "bytes_read": 82815,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics MCQ Practice 2027 | 1,722 Questions",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/mcq-practice/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/model-exams/",
-      "status": 200,
-      "elapsed_ms": 313,
-      "bytes_read": 82419,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics Model Exams 2027 | 5 Full Tests",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/model-exams/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/",
-      "status": 200,
-      "elapsed_ms": 3296,
-      "bytes_read": 93265,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 7.1: Defining Simple Harmonic Motion",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/energy-simple-harmonic-oscillators/",
-      "status": 200,
-      "elapsed_ms": 311,
-      "bytes_read": 110113,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 7.4: Energy of Simple Harmonic Oscillators",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/energy-simple-harmonic-oscillators/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/frequency-period-shm/",
-      "status": 200,
-      "elapsed_ms": 309,
-      "bytes_read": 109626,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 7.2: Frequency and Period of SHM",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/frequency-period-shm/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/representing-analyzing-shm/",
-      "status": 200,
-      "elapsed_ms": 303,
-      "bytes_read": 110844,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 7.3: Representing and Analyzing SHM",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/representing-analyzing-shm/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/simple-physical-pendulums/",
-      "status": 200,
-      "elapsed_ms": 2168,
-      "bytes_read": 111804,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 7.5: Simple and Physical Pendulums",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/oscillations/simple-physical-pendulums/",
-      "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
-    },
-    {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/",
-      "status": 200,
-      "elapsed_ms": 2247,
-      "bytes_read": 93082,
+      "elapsed_ms": 2069,
+      "bytes_read": 105801,
       "issues": [
         "missing_h1"
       ],
-      "title": "AP Physics C Mechanics 5.1: Rotational Kinematics",
+      "title": "AP Physics C Mechanics 3.1: Translational Kinetic Energy",
       "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/",
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/translational-kinetic-energy/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/connecting-linear-rotational-motion/",
+      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/work/",
       "status": 200,
-      "elapsed_ms": 2795,
-      "bytes_read": 108432,
+      "elapsed_ms": 1961,
+      "bytes_read": 107300,
       "issues": [
         "missing_h1"
       ],
-      "title": "AP Physics C Mechanics 5.2: Linear & Rotational Motion",
+      "title": "AP Physics C Mechanics 3.2: Work",
       "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/connecting-linear-rotational-motion/",
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/work/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/newtons-second-law-rotational-form/",
+      "url": "https://onlineinternetcafe.com/ap-physics-c/practice-test/",
       "status": 200,
-      "elapsed_ms": 2139,
-      "bytes_read": 111091,
+      "elapsed_ms": 2057,
+      "bytes_read": 85678,
       "issues": [
         "missing_h1"
       ],
-      "title": "AP Physics C Mechanics 5.6: Rotational Newton’s Second Law",
+      "title": "AP Physics C Practice Test 2027: Mechanics or E&M",
       "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/newtons-second-law-rotational-form/",
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/practice-test/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/rotational-equilibrium-newtons-first-law/",
+      "url": "https://onlineinternetcafe.com/ap-physics-c/prerequisites/",
       "status": 200,
       "elapsed_ms": 1918,
-      "bytes_read": 109705,
+      "bytes_read": 97449,
       "issues": [
         "missing_h1"
       ],
-      "title": "AP Physics C Mechanics 5.5: Rotational Equilibrium",
+      "title": "AP Physics C Prerequisites 2027: Calculus, Mechanics & Readiness",
       "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/rotational-equilibrium-newtons-first-law/",
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/prerequisites/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/rotational-inertia/",
+      "url": "https://onlineinternetcafe.com/ap-physics-c/review/",
       "status": 200,
-      "elapsed_ms": 1927,
-      "bytes_read": 108943,
+      "elapsed_ms": 1928,
+      "bytes_read": 81813,
       "issues": [
         "missing_h1"
       ],
-      "title": "AP Physics C Mechanics 5.4: Rotational Inertia",
+      "title": "AP Physics C Review 2027 | Adaptive Mastery Dashboard",
       "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/rotational-inertia/",
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/review/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/torque/",
+      "url": "https://onlineinternetcafe.com/ap-physics-c/score-calculator/",
       "status": 200,
-      "elapsed_ms": 2249,
-      "bytes_read": 108655,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 5.3: Torque",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/torque-rotational-dynamics/torque/",
+      "elapsed_ms": 1821,
+      "bytes_read": 95109,
+      "issues": [],
+      "title": "AP Physics C Score Calculator 2027: Mechanics or E&M",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/score-calculator/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/unit-4-linear-momentum/",
+      "url": "https://onlineinternetcafe.com/ap-physics-c/study-plan/",
       "status": 200,
-      "elapsed_ms": 304,
-      "bytes_read": 95378,
+      "elapsed_ms": 1969,
+      "bytes_read": 82369,
       "issues": [
         "missing_h1"
       ],
-      "title": "AP Physics C Mechanics Unit 4: Linear Momentum 2027",
+      "title": "AP Physics C Study Plan 2027 | Adaptive Mechanics & E&M",
       "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/unit-4-linear-momentum/",
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/study-plan/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/unit-5-torque-rotational-dynamics/",
+      "url": "https://onlineinternetcafe.com/ap-physics-c/study-plan/30-day/",
       "status": 200,
-      "elapsed_ms": 2419,
-      "bytes_read": 97773,
+      "elapsed_ms": 1995,
+      "bytes_read": 81603,
       "issues": [
         "missing_h1"
       ],
-      "title": "AP Physics C Mechanics Unit 5: Torque & Rotational Dynamics 2027",
+      "title": "AP Physics C 30-Day Study Plan 2027",
       "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/unit-5-torque-rotational-dynamics/",
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/study-plan/30-day/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/unit-6-rotating-systems/",
+      "url": "https://onlineinternetcafe.com/ap-physics-c/study-plan/last-minute-review/",
       "status": 200,
-      "elapsed_ms": 2280,
-      "bytes_read": 97253,
+      "elapsed_ms": 1783,
+      "bytes_read": 81827,
       "issues": [
         "missing_h1"
       ],
-      "title": "AP Physics C Mechanics Unit 6: Rotating Systems 2027",
+      "title": "AP Physics C Last-Minute Review 2027",
       "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/unit-6-rotating-systems/",
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/study-plan/last-minute-review/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/unit-7-oscillations/",
+      "url": "https://onlineinternetcafe.com/ap-physics-c/study-plan/one-week-review/",
       "status": 200,
-      "elapsed_ms": 2097,
-      "bytes_read": 95204,
+      "elapsed_ms": 1858,
+      "bytes_read": 81243,
       "issues": [
         "missing_h1"
       ],
-      "title": "AP Physics C Mechanics Unit 7: Oscillations 2027",
+      "title": "AP Physics C One-Week Review 2027",
       "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/unit-7-oscillations/",
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/study-plan/one-week-review/",
       "description_present": true,
       "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/units/",
+      "url": "https://onlineinternetcafe.com/ap-physics-c/units/",
+      "status": 200,
+      "elapsed_ms": 2835,
+      "bytes_read": 99088,
+      "issues": [
+        "missing_h1"
+      ],
+      "title": "AP Physics C Units 2027: Mechanics + E&M",
+      "h1_count": 0,
+      "canonical": "https://onlineinternetcafe.com/ap-physics-c/units/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-precalculus-score-calculator/",
+      "status": 200,
+      "elapsed_ms": 2251,
+      "bytes_read": 99356,
+      "issues": [],
+      "title": "AP Precalculus Score Calculator 2027 | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-precalculus-score-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-psychology-score-calculator/",
+      "status": 200,
+      "elapsed_ms": 2643,
+      "bytes_read": 98624,
+      "issues": [],
+      "title": "AP Psychology Score Calculator 2027 | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-psychology-score-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-research-score-calculator/",
+      "status": 200,
+      "elapsed_ms": 3845,
+      "bytes_read": 99321,
+      "issues": [],
+      "title": "AP Research Portfolio Scoring 2027 | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-research-score-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-seminar-score-calculator/",
+      "status": 200,
+      "elapsed_ms": 2045,
+      "bytes_read": 102137,
+      "issues": [],
+      "title": "AP Seminar Portfolio Scoring 2027 | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-seminar-score-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-spanish-language-score-calculator/",
+      "status": 200,
+      "elapsed_ms": 1321,
+      "bytes_read": 104908,
+      "issues": [],
+      "title": "AP Spanish Language and Culture Score Calculator 2027 | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-spanish-language-score-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-spanish-literature-score-calculator/",
+      "status": 200,
+      "elapsed_ms": 1188,
+      "bytes_read": 101944,
+      "issues": [],
+      "title": "AP Spanish Literature and Culture Score Calculator 2027 | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-spanish-literature-score-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-statistics-book/",
+      "status": 200,
+      "elapsed_ms": 531,
+      "bytes_read": 116395,
+      "issues": [],
+      "title": "AP Statistics Book 2027: Free 5-Unit Study Guide & Practice",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-statistics-book/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-statistics-course-and-exam-description/",
+      "status": 200,
+      "elapsed_ms": 550,
+      "bytes_read": 115180,
+      "issues": [],
+      "title": "AP Statistics CED 2026–27: 55 Topics & 2027 Exam",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-statistics-course-and-exam-description/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-statistics-exam-2025/",
+      "status": 200,
+      "elapsed_ms": 1114,
+      "bytes_read": 110130,
+      "issues": [],
+      "title": "AP Statistics Exam 2025 vs 2027: What Changed",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-statistics-exam-2025/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-statistics-exam-calculator/",
+      "status": 200,
+      "elapsed_ms": 536,
+      "bytes_read": 132816,
+      "issues": [],
+      "title": "AP Statistics Calculator 2027: 20 Methods, Desmos & TI-84",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-statistics-exam-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-statistics-exam-date/",
+      "status": 200,
+      "elapsed_ms": 1595,
+      "bytes_read": 125396,
+      "issues": [],
+      "title": "AP Statistics Exam Date 2027: May 11, Time & Late Testing",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-statistics-exam-date/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-statistics-exam-format/",
+      "status": 200,
+      "elapsed_ms": 542,
+      "bytes_read": 114191,
+      "issues": [],
+      "title": "AP Statistics Exam Format 2027: 42 MCQs, 4 FRQs & Bluebook",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-statistics-exam-format/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-statistics-exam-practice-test/",
+      "status": 200,
+      "elapsed_ms": 2077,
+      "bytes_read": 155105,
+      "issues": [],
+      "title": "AP Statistics Practice Test 2027: 42 MCQs + 4 FRQs",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-statistics-exam-practice-test/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-statistics-exam-review/",
+      "status": 200,
+      "elapsed_ms": 1482,
+      "bytes_read": 111118,
+      "issues": [],
+      "title": "AP Statistics Exam Review 2027: Complete 5-Unit Review",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-statistics-exam-review/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-statistics-exam-score-calculator/",
+      "status": 200,
+      "elapsed_ms": 622,
+      "bytes_read": 124621,
+      "issues": [],
+      "title": "AP Statistics Score Calculator 2027: 42 MCQs + 4 FRQs",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-statistics-exam-score-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-statistics-exam/",
+      "status": 200,
+      "elapsed_ms": 531,
+      "bytes_read": 223984,
+      "issues": [],
+      "title": "What Is the AP Statistics Exam? 2027 Dates, Registration, Format, Syllabus, and Scores - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-statistics-exam/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-statistics-final-exam-review/",
+      "status": 200,
+      "elapsed_ms": 1071,
+      "bytes_read": 111963,
+      "issues": [],
+      "title": "AP Statistics Final Exam Review 2027: Semester & Midterm",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-statistics-final-exam-review/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-statistics-formula-sheet/",
+      "status": 200,
+      "elapsed_ms": 529,
+      "bytes_read": 2449383,
+      "issues": [],
+      "title": "AP Statistics Formula Sheet 2027: Formulas and Tools - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-statistics-formula-sheet/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-statistics-frq-practice/",
+      "status": 200,
+      "elapsed_ms": 1507,
+      "bytes_read": 342999,
+      "issues": [],
+      "title": "AP Statistics FRQ Practice 2027: 12 Sets, 48 FRQs",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-statistics-frq-practice/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-statistics-multiple-choice-practice/",
+      "status": 200,
+      "elapsed_ms": 1020,
+      "bytes_read": 109813,
+      "issues": [],
+      "title": "AP Statistics MCQ Practice 2027: 42-Question Sets + Answers",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-statistics-multiple-choice-practice/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-statistics-online-resources/",
+      "status": 200,
+      "elapsed_ms": 1031,
+      "bytes_read": 108087,
+      "issues": [],
+      "title": "AP Statistics Online Resources 2027: Free Study Tools",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-statistics-online-resources/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-statistics-past-exams/",
+      "status": 200,
+      "elapsed_ms": 1037,
+      "bytes_read": 109659,
+      "issues": [],
+      "title": "AP Statistics Past Exams: 2027 Crosswalk to Released FRQs",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-statistics-past-exams/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-statistics-practice-questions-by-topic/",
+      "status": 200,
+      "elapsed_ms": 1112,
+      "bytes_read": 107646,
+      "issues": [],
+      "title": "AP Statistics Practice by Topic 2027: All 55 CED Topics",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-statistics-practice-questions-by-topic/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-statistics-score-calculator/",
+      "status": 200,
+      "elapsed_ms": 1007,
+      "bytes_read": 98144,
+      "issues": [],
+      "title": "AP Statistics Score Calculator 2027 | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-statistics-score-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-statistics-teacher-review-activities/",
+      "status": 200,
+      "elapsed_ms": 939,
+      "bytes_read": 112475,
+      "issues": [],
+      "title": "AP Statistics Teacher Review 2027: 12 Classroom Activities",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-statistics-teacher-review-activities/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-statistics-test-day-rules/",
+      "status": 200,
+      "elapsed_ms": 533,
+      "bytes_read": 108942,
+      "issues": [],
+      "title": "AP Statistics Test-Day Rules 2027: Bluebook & Calculator",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-statistics-test-day-rules/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-us-government-score-calculator/",
+      "status": 200,
+      "elapsed_ms": 1449,
+      "bytes_read": 106324,
+      "issues": [],
+      "title": "AP U.S. Government and Politics Score Calculator 2027 | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-us-government-score-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-us-history-score-calculator/",
+      "status": 200,
+      "elapsed_ms": 1053,
+      "bytes_read": 102828,
+      "issues": [],
+      "title": "AP United States History Score Calculator 2027 | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-us-history-score-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap-world-history-score-calculator/",
+      "status": 200,
+      "elapsed_ms": 1037,
+      "bytes_read": 102579,
+      "issues": [],
+      "title": "AP World History: Modern Score Calculator 2027 | Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap-world-history-score-calculator/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/",
+      "status": 200,
+      "elapsed_ms": 937,
+      "bytes_read": 79273,
+      "issues": [],
+      "title": "AP Courses - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/",
+      "description_present": true,
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/",
+      "status": 200,
+      "elapsed_ms": 1818,
+      "bytes_read": 82128,
+      "issues": [],
+      "title": "AP Biology 2027: Complete Study Guide & Practice - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/calculator-rules/",
+      "status": 200,
+      "elapsed_ms": 1775,
+      "bytes_read": 77576,
+      "issues": [
+        "multiple_h1"
+      ],
+      "title": "AP Biology Calculator & Technology Rules 2027 - Salar Cafe",
+      "h1_count": 2,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/calculator-rules/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/exam-date/",
+      "status": 200,
+      "elapsed_ms": 1762,
+      "bytes_read": 76244,
+      "issues": [],
+      "title": "AP Biology Exam Date 2027 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/exam-date/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/exam-format/",
+      "status": 200,
+      "elapsed_ms": 2093,
+      "bytes_read": 78510,
+      "issues": [],
+      "title": "AP Biology Exam Format 2027 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/exam-format/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/exam-length/",
+      "status": 200,
+      "elapsed_ms": 1992,
+      "bytes_read": 76249,
+      "issues": [],
+      "title": "How Long Is the AP Biology Exam in 2027? - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/exam-length/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/",
+      "status": 200,
+      "elapsed_ms": 1982,
+      "bytes_read": 80810,
+      "issues": [],
+      "title": "AP Biology Interactive Labs & Visual Explorations - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/bacterial-transformation-gene-expression-investigation/",
+      "status": 200,
+      "elapsed_ms": 1983,
+      "bytes_read": 127309,
+      "issues": [],
+      "title": "AP Biology Bacterial Transformation & Gene Expression Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/bacterial-transformation-gene-expression-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/cell-communication-signal-transduction-investigation/",
+      "status": 200,
+      "elapsed_ms": 1914,
+      "bytes_read": 126218,
+      "issues": [],
+      "title": "AP Biology Cell Communication & Signal Transduction Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/cell-communication-signal-transduction-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/cell-cycle-mitosis-microscopy-investigation/",
+      "status": 200,
+      "elapsed_ms": 1994,
+      "bytes_read": 127057,
+      "issues": [],
+      "title": "AP Biology Cell Cycle & Mitosis Microscopy Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/cell-cycle-mitosis-microscopy-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/cell-size-surface-area-diffusion-investigation/",
+      "status": 200,
+      "elapsed_ms": 2081,
+      "bytes_read": 126008,
+      "issues": [],
+      "title": "AP Biology Cell Size, Surface Area-to-Volume & Diffusion Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/cell-size-surface-area-diffusion-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/cellular-energetics-membrane-transport-systems-investigation/",
+      "status": 200,
+      "elapsed_ms": 1845,
+      "bytes_read": 129120,
+      "issues": [],
+      "title": "AP Biology Cellular Energetics & Membrane Transport Systems Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/cellular-energetics-membrane-transport-systems-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/cellular-respiration-respirometry-evidence-investigation/",
+      "status": 200,
+      "elapsed_ms": 1855,
+      "bytes_read": 127389,
+      "issues": [],
+      "title": "AP Biology Cellular Respiration, Respirometry & Evidence Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/cellular-respiration-respirometry-evidence-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/chi-square-quantitative-investigation/",
+      "status": 200,
+      "elapsed_ms": 1752,
+      "bytes_read": 126194,
+      "issues": [],
+      "title": "AP Biology Chi-Square & Quantitative Investigation Lab - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/chi-square-quantitative-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/community-interactions-biodiversity-disturbance-investigation/",
+      "status": 200,
+      "elapsed_ms": 1656,
+      "bytes_read": 128929,
+      "issues": [],
+      "title": "AP Biology Community Interactions & Biodiversity Disturbance Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/community-interactions-biodiversity-disturbance-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/dna-mutation-repair-gel-evidence-investigation/",
+      "status": 200,
+      "elapsed_ms": 2511,
+      "bytes_read": 125856,
+      "issues": [],
+      "title": "AP Biology DNA Mutation, Repair & Gel Evidence Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/dna-mutation-repair-gel-evidence-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/dna-replication-mutation-cell-cycle-control-investigation/",
+      "status": 200,
+      "elapsed_ms": 2161,
+      "bytes_read": 128654,
+      "issues": [],
+      "title": "AP Biology DNA Replication, Mutation & Cell-Cycle Control Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/dna-replication-mutation-cell-cycle-control-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/ecological-change-population-genetics-investigation/",
+      "status": 200,
+      "elapsed_ms": 1993,
+      "bytes_read": 128867,
+      "issues": [],
+      "title": "AP Biology Ecological Change & Population Genetics Evidence Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/ecological-change-population-genetics-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/ecology-field-data-investigation/",
+      "status": 200,
+      "elapsed_ms": 1725,
+      "bytes_read": 125501,
+      "issues": [],
+      "title": "AP Biology Ecology Field Data Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/ecology-field-data-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/ecosystem-energy-biogeochemical-cycling-investigation/",
+      "status": 200,
+      "elapsed_ms": 1909,
+      "bytes_read": 128590,
+      "issues": [],
+      "title": "AP Biology Ecosystem Energy & Biogeochemical Cycling Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/ecosystem-energy-biogeochemical-cycling-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/enzyme-activity-cellular-energetics-investigation/",
+      "status": 200,
+      "elapsed_ms": 1931,
+      "bytes_read": 125926,
+      "issues": [],
+      "title": "AP Biology Enzyme Activity & Cellular Energetics Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/enzyme-activity-cellular-energetics-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/enzyme-kinetics-regulation-experimental-inference-investigation/",
+      "status": 200,
+      "elapsed_ms": 2011,
+      "bytes_read": 126756,
+      "issues": [],
+      "title": "AP Biology Enzyme Kinetics, Regulation & Experimental Inference Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/enzyme-kinetics-regulation-experimental-inference-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/enzyme-regulation-cellular-energy-investigation/",
+      "status": 200,
+      "elapsed_ms": 1757,
+      "bytes_read": 128076,
+      "issues": [],
+      "title": "AP Biology Enzyme Regulation & Cellular Energy Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/enzyme-regulation-cellular-energy-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/evolution-selection-phylogeny-investigation/",
+      "status": 200,
+      "elapsed_ms": 1832,
+      "bytes_read": 126764,
+      "issues": [],
+      "title": "AP Biology Evolution, Selection & Phylogeny Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/evolution-selection-phylogeny-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/experimental-design-data-analysis/",
+      "status": 200,
+      "elapsed_ms": 1726,
+      "bytes_read": 125790,
+      "issues": [],
+      "title": "AP Biology Experimental Design & Data Analysis Lab - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/experimental-design-data-analysis/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/experimental-design-data-inference-synthesis/",
+      "status": 200,
+      "elapsed_ms": 1787,
+      "bytes_read": 127485,
+      "issues": [],
+      "title": "AP Biology Experimental Design & Data Inference Synthesis Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/experimental-design-data-inference-synthesis/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/feedback-signaling-homeostasis-investigation/",
+      "status": 200,
+      "elapsed_ms": 1881,
+      "bytes_read": 127643,
+      "issues": [],
+      "title": "AP Biology Feedback, Signaling & Homeostasis Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/feedback-signaling-homeostasis-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/gene-expression-biotechnology-evidence-investigation/",
+      "status": 200,
+      "elapsed_ms": 1872,
+      "bytes_read": 129191,
+      "issues": [],
+      "title": "AP Biology Gene Expression & Biotechnology Evidence Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/gene-expression-biotechnology-evidence-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/gene-expression-regulation-investigation/",
+      "status": 200,
+      "elapsed_ms": 2256,
+      "bytes_read": 125974,
+      "issues": [],
+      "title": "AP Biology Gene Expression & Regulation Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/gene-expression-regulation-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/gene-regulation-biotechnology-quantitative-evidence-investigation/",
+      "status": 200,
+      "elapsed_ms": 1913,
+      "bytes_read": 126962,
+      "issues": [],
+      "title": "AP Biology Gene Regulation, Biotechnology & Quantitative Evidence Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/gene-regulation-biotechnology-quantitative-evidence-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/inheritance-meiosis-variation-investigation/",
+      "status": 200,
+      "elapsed_ms": 1834,
+      "bytes_read": 126293,
+      "issues": [],
+      "title": "AP Biology Inheritance, Meiosis & Variation Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/inheritance-meiosis-variation-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/macromolecule-structure-function-evidence-investigation/",
+      "status": 200,
+      "elapsed_ms": 1775,
+      "bytes_read": 129334,
+      "issues": [],
+      "title": "AP Biology Macromolecule Structure–Function & Evidence Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/macromolecule-structure-function-evidence-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/meiosis-linkage-chi-square-inference-investigation/",
+      "status": 200,
+      "elapsed_ms": 1862,
+      "bytes_read": 125909,
+      "issues": [],
+      "title": "AP Biology Meiosis, Linkage & Chi-Square Inference Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/meiosis-linkage-chi-square-inference-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/mendelian-genetics-pedigree-investigation/",
+      "status": 200,
+      "elapsed_ms": 1827,
+      "bytes_read": 125870,
+      "issues": [],
+      "title": "AP Biology Mendelian Genetics & Pedigree Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/mendelian-genetics-pedigree-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/mutation-gene-regulation-evolution-evidence-investigation/",
+      "status": 200,
+      "elapsed_ms": 1893,
+      "bytes_read": 129542,
+      "issues": [],
+      "title": "AP Biology Mutation, Gene Regulation & Evolution Evidence Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/mutation-gene-regulation-evolution-evidence-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/natural-selection-population-change-investigation/",
+      "status": 200,
+      "elapsed_ms": 1981,
+      "bytes_read": 127244,
+      "issues": [],
+      "title": "AP Biology Natural Selection & Population Change Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/natural-selection-population-change-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/osmosis-membrane-transport-investigation/",
+      "status": 200,
+      "elapsed_ms": 2104,
+      "bytes_read": 124859,
+      "issues": [],
+      "title": "AP Biology Osmosis & Membrane Transport Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/osmosis-membrane-transport-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/photosynthesis-cellular-respiration-investigation/",
+      "status": 200,
+      "elapsed_ms": 1928,
+      "bytes_read": 125725,
+      "issues": [],
+      "title": "AP Biology Photosynthesis & Cellular Respiration Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/photosynthesis-cellular-respiration-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/phylogeny-cladogram-character-evidence-investigation/",
+      "status": 200,
+      "elapsed_ms": 1867,
+      "bytes_read": 126476,
+      "issues": [],
+      "title": "AP Biology Phylogeny, Cladograms & Character Evidence Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/phylogeny-cladogram-character-evidence-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/population-ecology-energy-flow-investigation/",
+      "status": 200,
+      "elapsed_ms": 1793,
+      "bytes_read": 127823,
+      "issues": [],
+      "title": "AP Biology Population Ecology & Energy Flow Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/population-ecology-energy-flow-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/population-genetics-hardy-weinberg-investigation/",
+      "status": 200,
+      "elapsed_ms": 2024,
+      "bytes_read": 126202,
+      "issues": [],
+      "title": "AP Biology Population Genetics & Hardy–Weinberg Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/population-genetics-hardy-weinberg-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/population-growth-carrying-capacity-investigation/",
+      "status": 200,
+      "elapsed_ms": 2684,
+      "bytes_read": 126953,
+      "issues": [],
+      "title": "AP Biology Population Growth, Carrying Capacity & Density Dependence Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/population-growth-carrying-capacity-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/population-sampling-mark-recapture-inference-investigation/",
+      "status": 200,
+      "elapsed_ms": 1984,
+      "bytes_read": 127836,
+      "issues": [],
+      "title": "AP Biology Population Sampling, Mark–Recapture & Inference Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/population-sampling-mark-recapture-inference-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/protein-structure-ph-denaturation-investigation/",
+      "status": 200,
+      "elapsed_ms": 2068,
+      "bytes_read": 126126,
+      "issues": [],
+      "title": "AP Biology Protein Structure, pH & Denaturation Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/protein-structure-ph-denaturation-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/signal-transduction-feedback-experimental-inference-investigation/",
+      "status": 200,
+      "elapsed_ms": 1762,
+      "bytes_read": 127860,
+      "issues": [],
+      "title": "AP Biology Signal Transduction, Feedback & Experimental Inference Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/signal-transduction-feedback-experimental-inference-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/transpiration-water-potential-investigation/",
+      "status": 200,
+      "elapsed_ms": 1923,
+      "bytes_read": 126770,
+      "issues": [],
+      "title": "AP Biology Transpiration & Water Potential Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/transpiration-water-potential-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/water-potential-transport-homeostasis-investigation/",
+      "status": 200,
+      "elapsed_ms": 2052,
+      "bytes_read": 127926,
+      "issues": [],
+      "title": "AP Biology Water Potential, Transport & Homeostasis Investigation - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/interactive-labs/water-potential-transport-homeostasis-investigation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/practice/",
+      "status": 200,
+      "elapsed_ms": 1706,
+      "bytes_read": 124651,
+      "issues": [],
+      "title": "AP Biology Practice 2027: MCQ & FRQ System - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/practice/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/reference-guide/",
+      "status": 200,
+      "elapsed_ms": 1941,
+      "bytes_read": 80264,
+      "issues": [],
+      "title": "AP Biology Reference Guide 2027 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/reference-guide/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/units/",
+      "status": 200,
+      "elapsed_ms": 2014,
+      "bytes_read": 80982,
+      "issues": [],
+      "title": "AP Biology Units 2027: Complete Course Map - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/units/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-1-chemistry-of-life/",
+      "status": 200,
+      "elapsed_ms": 1801,
+      "bytes_read": 82183,
+      "issues": [],
+      "title": "AP Biology Unit 1: Chemistry of Life — Complete Lesson & Practice - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-1-chemistry-of-life/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-2-cells/",
+      "status": 200,
+      "elapsed_ms": 1798,
+      "bytes_read": 80271,
+      "issues": [],
+      "title": "AP Biology Unit 2: Cells — Complete Lesson & Practice - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-2-cells/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-3-cellular-energetics/",
+      "status": 200,
+      "elapsed_ms": 1945,
+      "bytes_read": 80691,
+      "issues": [],
+      "title": "AP Biology Unit 3: Cellular Energetics - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-3-cellular-energetics/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-4-cell-communication-cell-cycle/",
+      "status": 200,
+      "elapsed_ms": 1835,
+      "bytes_read": 128645,
+      "issues": [],
+      "title": "AP Biology Unit 4: Cell Communication and Cell Cycle — Complete Lesson & Practice - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-4-cell-communication-cell-cycle/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-5-heredity/",
+      "status": 200,
+      "elapsed_ms": 1778,
+      "bytes_read": 127195,
+      "issues": [],
+      "title": "AP Biology Unit 5: Heredity — Complete Lesson & Practice - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-5-heredity/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-6-gene-expression-regulation/",
+      "status": 200,
+      "elapsed_ms": 1787,
+      "bytes_read": 127376,
+      "issues": [],
+      "title": "AP Biology Unit 6: Gene Expression and Regulation — Complete Lesson & Practice - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-6-gene-expression-regulation/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-7-natural-selection/",
+      "status": 200,
+      "elapsed_ms": 1843,
+      "bytes_read": 126918,
+      "issues": [],
+      "title": "AP Biology Unit 7: Natural Selection — Complete Lesson & Practice - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-7-natural-selection/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-8-ecology/",
+      "status": 200,
+      "elapsed_ms": 1809,
+      "bytes_read": 126794,
+      "issues": [],
+      "title": "AP Biology Unit 8: Ecology — Complete Lesson & Practice - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-biology/units/unit-8-ecology/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/",
+      "status": 200,
+      "elapsed_ms": 1833,
+      "bytes_read": 81671,
+      "issues": [],
+      "title": "AP Calculus AB + BC 2027: Complete Study Guide & Practice - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/calculator-rules/",
+      "status": 200,
+      "elapsed_ms": 1880,
+      "bytes_read": 77622,
+      "issues": [
+        "multiple_h1"
+      ],
+      "title": "AP Calculus AB + BC Calculator & Technology Rules 2027 - Salar Cafe",
+      "h1_count": 2,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/calculator-rules/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/exam-date/",
+      "status": 200,
+      "elapsed_ms": 1722,
+      "bytes_read": 76476,
+      "issues": [],
+      "title": "AP Calculus AB + BC Exam Date 2027 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/exam-date/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/exam-format/",
+      "status": 200,
+      "elapsed_ms": 1906,
+      "bytes_read": 78835,
+      "issues": [],
+      "title": "AP Calculus AB + BC Exam Format 2027 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/exam-format/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/exam-length/",
+      "status": 200,
+      "elapsed_ms": 1757,
+      "bytes_read": 76481,
+      "issues": [],
+      "title": "How Long Is the AP Calculus AB + BC Exam in 2027? - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/exam-length/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/interactive-labs/",
+      "status": 200,
+      "elapsed_ms": 1916,
+      "bytes_read": 79892,
+      "issues": [
+        "multiple_h1"
+      ],
+      "title": "AP Calculus AB + BC Full Graphing & Analysis Calculator - Salar Cafe",
+      "h1_count": 2,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/interactive-labs/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/",
+      "status": 200,
+      "elapsed_ms": 1839,
+      "bytes_read": 127894,
+      "issues": [],
+      "title": "AP Calculus AB + BC Practice 2027: MCQ & FRQ System - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/accumulation-differential-equations-synthesis-set-3/",
+      "status": 200,
+      "elapsed_ms": 1939,
+      "bytes_read": 127546,
+      "issues": [],
+      "title": "AP Calculus AB + BC Accumulation & Differential-Equation Synthesis Set 3 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/accumulation-differential-equations-synthesis-set-3/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/applications-of-integration-synthesis-set-1/",
+      "status": 200,
+      "elapsed_ms": 2023,
+      "bytes_read": 127233,
+      "issues": [],
+      "title": "AP Calculus AB + BC Applications of Integration Synthesis Set 1 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/applications-of-integration-synthesis-set-1/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/approximation-error-theorem-conditions-synthesis-set-7/",
+      "status": 200,
+      "elapsed_ms": 2393,
+      "bytes_read": 129969,
+      "issues": [],
+      "title": "AP Calculus AB + BC Approximation, Error & Theorem Conditions Synthesis Set 7 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/approximation-error-theorem-conditions-synthesis-set-7/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/area-volume-average-value-synthesis-set-18/",
+      "status": 200,
+      "elapsed_ms": 1997,
+      "bytes_read": 126405,
+      "issues": [],
+      "title": "AP Calculus AB + BC Area, Volume & Average Value Synthesis Set 18 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/area-volume-average-value-synthesis-set-18/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/bc-convergence-tests-absolute-conditional-synthesis-set-20/",
+      "status": 200,
+      "elapsed_ms": 1913,
+      "bytes_read": 127209,
+      "issues": [],
+      "title": "AP Calculus BC Convergence Tests, Absolute & Conditional Convergence Synthesis Set 20 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/bc-convergence-tests-absolute-conditional-synthesis-set-20/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/bc-parametric-polar-vector-synthesis-set-1/",
+      "status": 200,
+      "elapsed_ms": 1951,
+      "bytes_read": 126499,
+      "issues": [],
+      "title": "AP Calculus BC Parametric, Polar & Vector Synthesis Set 1 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/bc-parametric-polar-vector-synthesis-set-1/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/bc-parametric-polar-vector-synthesis-set-2/",
+      "status": 200,
+      "elapsed_ms": 2007,
+      "bytes_read": 127686,
+      "issues": [],
+      "title": "AP Calculus BC Parametric, Polar & Vector Synthesis Set 2 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/bc-parametric-polar-vector-synthesis-set-2/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/bc-polar-area-parametric-speed-motion-synthesis-set-19/",
+      "status": 200,
+      "elapsed_ms": 1798,
+      "bytes_read": 126899,
+      "issues": [],
+      "title": "AP Calculus BC Polar Area, Parametric Speed & Motion Synthesis Set 19 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/bc-polar-area-parametric-speed-motion-synthesis-set-19/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/bc-sequences-series-synthesis-set-1/",
       "status": 200,
       "elapsed_ms": 1974,
-      "bytes_read": 103856,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics Units 2027: All 7 Units",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/units/",
+      "bytes_read": 127012,
+      "issues": [],
+      "title": "AP Calculus BC Sequences & Series Synthesis Set 1 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/bc-sequences-series-synthesis-set-1/",
       "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+      "robots": "index,follow,max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/bc-series-convergence-approximation-synthesis-set-2/",
       "status": 200,
-      "elapsed_ms": 1971,
-      "bytes_read": 110031,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics Unit 3: Work, Energy & Power 2027",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/",
+      "elapsed_ms": 1953,
+      "bytes_read": 129093,
+      "issues": [],
+      "title": "AP Calculus BC Series Convergence & Approximation Synthesis Set 2 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/bc-series-convergence-approximation-synthesis-set-2/",
       "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+      "robots": "index,follow,max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/conservation-energy/",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/bc-taylor-error-series-modeling-synthesis-set-3/",
       "status": 200,
-      "elapsed_ms": 1673,
-      "bytes_read": 112726,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 3.4: Conservation of Energy",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/conservation-energy/",
+      "elapsed_ms": 1832,
+      "bytes_read": 128992,
+      "issues": [],
+      "title": "AP Calculus BC Taylor Polynomial Error & Series Modeling Synthesis Set 3 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/bc-taylor-error-series-modeling-synthesis-set-3/",
       "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+      "robots": "index,follow,max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/potential-energy/",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/calculator-no-calculator-decision-practice-set-1/",
       "status": 200,
-      "elapsed_ms": 1602,
-      "bytes_read": 111914,
+      "elapsed_ms": 1915,
+      "bytes_read": 129530,
       "issues": [
-        "missing_h1"
+        "multiple_h1"
       ],
-      "title": "AP Physics C Mechanics 3.3: Potential Energy",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/potential-energy/",
+      "title": "AP Calculus AB + BC Calculator / No-Calculator Decision Practice Set 1 - Salar Cafe",
+      "h1_count": 2,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/calculator-no-calculator-decision-practice-set-1/",
       "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+      "robots": "index,follow,max-image-preview:large"
     },
     {
-      "url": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/power/",
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/definite-integrals-riemann-sums-ftc-synthesis-set-16/",
       "status": 200,
-      "elapsed_ms": 1763,
-      "bytes_read": 108629,
-      "issues": [
-        "missing_h1"
-      ],
-      "title": "AP Physics C Mechanics 3.5: Power",
-      "h1_count": 0,
-      "canonical": "https://onlineinternetcafe.com/ap-physics-c/mechanics/work-energy-power/power/",
+      "elapsed_ms": 1772,
+      "bytes_read": 126661,
+      "issues": [],
+      "title": "AP Calculus AB + BC Definite Integrals, Riemann Sums & FTC Synthesis Set 16 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/definite-integrals-riemann-sums-ftc-synthesis-set-16/",
       "description_present": true,
-      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/derivative-accumulation-justification-synthesis-set-9/",
+      "status": 200,
+      "elapsed_ms": 1814,
+      "bytes_read": 130054,
+      "issues": [],
+      "title": "AP Calculus AB + BC Derivative, Accumulation & Justification Synthesis Set 9 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/derivative-accumulation-justification-synthesis-set-9/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
+    },
+    {
+      "url": "https://onlineinternetcafe.com/ap/ap-calculus/practice/derivative-integral-connections-synthesis-set-1/",
+      "status": 200,
+      "elapsed_ms": 1858,
+      "bytes_read": 129225,
+      "issues": [],
+      "title": "AP Calculus AB + BC Derivative–Integral Connections Synthesis Set 1 - Salar Cafe",
+      "h1_count": 1,
+      "canonical": "https://onlineinternetcafe.com/ap/ap-calculus/practice/derivative-integral-connections-synthesis-set-1/",
+      "description_present": true,
+      "robots": "index,follow,max-image-preview:large"
     }
   ]
 }
