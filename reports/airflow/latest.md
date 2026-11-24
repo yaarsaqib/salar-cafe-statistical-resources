@@ -1,7 +1,7 @@
-# Salar Cafe daily health report — 2026-11-23
+# Salar Cafe daily health report — 2026-11-24
 
-- Catalog URLs: **3266** (snapshot 2026-11-23T10:52:18+00:00)
-- Checked today: **125** (rotating batch 12/28)
+- Catalog URLs: **3266** (snapshot 2026-11-24T12:35:04+00:00)
+- Checked today: **125** (rotating batch 13/28)
 - HTTP 200: **125**; other/no response: **0**
 - Pages with one or more flags: **1**
 - WordPress public pages/posts: **2525 / 529**
@@ -13,7 +13,7 @@
 
 ## Flagged pages (first 40)
 
-- HTTP 200 | https://onlineinternetcafe.com/friedman-test/ | missing_h1
+- HTTP 200 | https://onlineinternetcafe.com/jonckheere-terpstra-test/ | missing_h1
 
 ## Coverage and interpretation
 
