@@ -1,19 +1,19 @@
-# Salar Cafe daily health report — 2026-11-24
+# Salar Cafe daily health report — 2026-11-25
 
-- Catalog URLs: **3266** (snapshot 2026-11-24T12:35:04+00:00)
-- Checked today: **125** (rotating batch 13/28)
+- Catalog URLs: **3266** (snapshot 2026-11-25T11:24:11+00:00)
+- Checked today: **125** (rotating batch 14/28)
 - HTTP 200: **125**; other/no response: **0**
-- Pages with one or more flags: **1**
+- Pages with one or more flags: **0**
 - WordPress public pages/posts: **2525 / 529**
 - GA4: **not_configured**
 
 ## Issue counts
 
-- missing_h1: 1
+No issues detected in sampled pages.
 
 ## Flagged pages (first 40)
 
-- HTTP 200 | https://onlineinternetcafe.com/jonckheere-terpstra-test/ | missing_h1
+No flagged pages in this batch.
 
 ## Coverage and interpretation
 
